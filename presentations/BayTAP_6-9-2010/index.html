@@ -39,14 +39,15 @@
   <section>
     <ul>
     <li>Get the weather forecast for Sunnyvale</li>
-    <li><a href="view-source:http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20location%3D94089">http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20location%3D94089</a></li>
+    <li>A web service → <a href="view-source:http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20location%3D94089">http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20location%3D94089</a>
+</li>
     <li><a href="http://developer.yahoo.com/yql/console/?q=select%20*%20from%20weather.forecast%20where%20location%3D94089">select * from weather.forecast where location=94089</a></li>
     </ul>
   </section>
 </div>
 <div class="slide">
   <header>
-    <h3>Code to make the request</h3>
+    <h3>Code to make a request</h3>
   </header>
   <section>
     <pre class="sh_javascript">var query = 'SELECT * FROM weather.forecast WHERE location=94089';
@@ -77,7 +78,7 @@ function callback(response) {
 </div>
 <div class="slide">
   <header>
-    <h3>Jon's weather app</h3>
+    <h3>What do I do with the data?</h3>
   </header>
   <section>
     <a href="http://pulse.yahoo.com/y/apps/Oob7ZC78/" style="height: 500px; display: block; overflow: hidden;">

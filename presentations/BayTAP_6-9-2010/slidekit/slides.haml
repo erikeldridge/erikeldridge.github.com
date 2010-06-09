@@ -21,12 +21,12 @@
   %section
     :markdown
       * Get the weather forecast for Sunnyvale
-      * [http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20location%3D94089](view-source:http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20location%3D94089)
+      * A web service → [http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20location%3D94089](view-source:http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20location%3D94089)
       * [select * from weather.forecast where location=94089](http://developer.yahoo.com/yql/console/?q=select%20*%20from%20weather.forecast%20where%20location%3D94089)
 
 .slide
   %header
-    %h3= "Code to make the request"
+    %h3= "Code to make a request"
   %section
     %pre.sh_javascript
       :preserve
@@ -54,7 +54,7 @@
             
 .slide
   %header
-    %h3= "Jon's weather app"
+    %h3= "What do I do with the data?"
   %section
     %a{:href=>'http://pulse.yahoo.com/y/apps/Oob7ZC78/', :style=>'height: 500px; display: block; overflow: hidden;'}
       %img{:src=>'http://img.skitch.com/20100608-j1drmgwch3r81d42ub81nsdqw2.jpg'}
