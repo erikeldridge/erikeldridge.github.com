@@ -1,0 +1,159 @@
+/* BEGIN: slide control css */
+body {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+div.slides {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    -webkit-transition: -webkit-transform 1s ease-in-out;
+    -moz-transition: -moz-transform 1s ease-in-out;
+    -o-transition: -o-transform 1s ease-in-out;
+}
+
+.slide {
+    display: none;
+    position: absolute;
+    overflow: hidden;
+    width: 900px;
+    height: 700px;
+    left: 50%;
+    top: 50%;
+    margin-top: -350px;
+    -webkit-transition: margin 0.25s ease-in-out;
+    -moz-transition: margin 0.25s ease-in-out;
+    -o-transition: margin 0.25s ease-in-out;
+}
+.slide.far-past {
+    display: block;
+    margin-left: -2400px;
+}
+
+.slide.past {
+    display: block;
+    margin-left: -1400px;
+}
+
+.slide.current {
+    display: block;
+    margin-left: -450px;
+}
+
+.slide.future {
+    display: block;
+    margin-left: 500px;
+}
+
+.slide.far-future {
+    display: block;
+    margin-left: 1500px;
+}
+
+/* BEGIN: appearance css */
+/* note: override this in a custom css file added in build.rb */
+body {
+    font: 20pt "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+    background: #778;    
+}
+
+.slide {
+    background: -webkit-gradient(linear, left bottom, left top, from(#A8C6CF), to(#fff));
+    background: -moz-linear-gradient(bottom, #bbd, #fff);
+    background-color: #eee;
+}
+.slide:nth-child(even) {
+    border-top-left-radius: 20px;
+    -moz-border-radius-topleft: 20px;
+    -webkit-border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    -moz-border-radius-bottomright: 20px;
+    -webkit-border-bottom-right-radius: 20px;
+}
+.slide:nth-child(odd) {
+    border-top-right-radius: 20px;
+    -moz-border-radius-topright: 20px;
+    -webkit-border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    -moz-border-radius-bottomleft: 20px;
+    -webkit-border-bottom-left-radius: 20px;
+}
+
+header {
+    padding: 0 1em;
+}
+
+h1, h2, h3 {
+    text-shadow: rgba(0, 0, 0, 0.2) 0 5px 10px;
+    padding: 0;
+    margin: 1em 0;
+}
+h1 {
+    font-size: 300%;
+    text-align: center;
+}
+h2 {
+    font-size: 200%;
+    text-align: center;
+}
+h3 {
+    font-size: 150%;
+}
+
+section {
+    color: #3f3f3f;
+    padding: 0 1em 1em 1em;
+    margin: 0;
+}
+
+ul, ol {
+    line-height: 130%;
+}
+ul>li {
+  padding-bottom: 1em;
+}
+
+ol>li {
+/*  list-style:decimal;*/
+}
+
+pre {
+/*    margin: 0;*/
+/*    text-align: left;*/
+    font-size: 85%;
+    word-wrap: break-word;
+    font-family: Monaco, Courier;
+    padding: 1ex;
+    background: rgba(255, 0, 0, 0.05);
+    border-radius: 8px;
+    border: 1px solid rgba(255, 0, 0, 0.2);
+    overflow-y:auto;
+}
+
+/* convenience classes for multi-col sections */
+.two-column {
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+}
+.three-column {
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+}
+
+/* convenience class for centering a section */
+.center {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    height: 700px;
+    width: 900px;
+}
+/* END: default display */
+
+/*
+.summary li::before, .bullets li::before {
+  content: '· ';
+}
+*/

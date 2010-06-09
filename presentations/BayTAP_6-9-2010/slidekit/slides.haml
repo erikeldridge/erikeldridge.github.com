@@ -1,0 +1,69 @@
+.slide.intro
+  %header
+    %h1= "Web services"
+    %h2= "Where does data come from?"
+    %h3{:style=>'text-align: center'}= 'BayTap 6-9-2010'
+    %h3{:style=>'text-align: center'}= 'Erik Eldridge'
+        
+.slide
+  %header
+    %h3= "Overview"
+  %section
+    :markdown  
+      * Weather data example
+      * Resources
+      
+      Find this presentation on github
+            
+.slide
+  %header
+    %h3= "Example: Weather data"
+  %section
+    :markdown
+      * Get the weather forecast for Sunnyvale
+      * [http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20location%3D94089](view-source:http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20location%3D94089)
+      * [select * from weather.forecast where location=94089](http://developer.yahoo.com/yql/console/?q=select%20*%20from%20weather.forecast%20where%20location%3D94089)
+
+.slide
+  %header
+    %h3= "Code to make the request"
+  %section
+    %pre.sh_javascript
+      :preserve
+        var query = 'SELECT * FROM weather.forecast WHERE location=94089';
+        var url = "http://query.yahooapis.com/v1/public/yql?" 	
+          + "q=" + encodeURIComponent( query )
+          + "&amp;callback=callback";
+
+        var Y = new YUI();
+        
+        Y.use('node', function(Y){
+          Y.Get.script(url);
+        });
+        
+        function callback(response) {
+          Y.log( response.query.results );
+        }
+
+.slide
+  %header
+    %h3= "Making the request"
+  %section
+    %button= 'Make request'
+    %pre{:class=>'sh_javascript', :id=>'response', :style=>'height: 450px;'}
+            
+.slide
+  %header
+    %h3= "Jon's weather app"
+  %section
+    %a{:href=>'http://pulse.yahoo.com/y/apps/Oob7ZC78/', :style=>'height: 500px; display: block; overflow: hidden;'}
+      %img{:src=>'http://img.skitch.com/20100608-j1drmgwch3r81d42ub81nsdqw2.jpg'}
+
+.slide
+  %header
+    %h3= "Some other data sources"
+  %section
+    :markdown      
+      * [Twitter API](http://apiwiki.twitter.com/Twitter-API-Documentation), [(example)](http://search.twitter.com/search.json?q=bp)
+      * [Facebook Open Graph](http://developers.facebook.com/docs/api), [(example)]( https://graph.facebook.com/19292868552?access_token=2227470867|2.GvJEN0431F_1FrbNO06sjg__.3600.1276048800-668324387|dO1Ysgnfu_BQxc99WinFJqT4oZE.)
+      * [Flickr API](http://www.flickr.com/services/api/), [(example)](view-source:http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20flickr.photos.search%20where%20safe_search%3D%22true%22%20and%20text%3D%22san%20francisco%22)
