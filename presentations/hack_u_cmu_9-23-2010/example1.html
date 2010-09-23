@@ -1,0 +1,26 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <script type="text/javascript" src="http://yui.yahooapis.com/3.2.0pr2/build/simpleyui/simpleyui-min.js"></script>
+    <script type="text/javascript" src="jsondump.js"></script>
+</head>
+<body>
+
+<h1>Example 1: "show tables"</h1>
+
+http://y.ahoo.it/IZMDRFCq<br/>
+
+<pre id="results"></pre>
+
+<script>
+Y.use('yql', function (Y) {
+    Y.YQL('show tables', function (response) {
+        Y.one('#results').set('innerHTML', jsondump(response) );
+    });
+});
+</script>
+
+
+</body>
+</html>
