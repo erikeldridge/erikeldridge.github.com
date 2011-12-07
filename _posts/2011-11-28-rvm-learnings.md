@@ -1,7 +1,12 @@
+---
+layout: default
+title: RVM learnings
+---
+
 # RVM learnings
 
 ## Gemsets
 
-As a general rule, create a gemset per repo, and specify this gemset in an .rvmrc filei, i.e., `rvm gemset use gemset_name` in the repo.
+Create a gemset per repo, and specify this gemset in an .rvmrc filei, i.e., `rvm gemset use gemset_name` in the repo.
 
-
+[Bundler](http://gembundler.com/) makes it super easy to populate a gemset.
