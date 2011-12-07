@@ -1,1 +1,5 @@
+# syntax highlighting
 pygments: true
+
+# https://github.com/blog/832-rolling-out-the-redcarpet
+markdown: redcarpet
