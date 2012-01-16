@@ -1,4 +1,10 @@
-## Setting up with clojure
+---
+layout: default
+---
+
+## SICP notes
+
+### Setting up with clojure
 
 Install via brew: `brew install clojure`
 
@@ -14,7 +20,7 @@ The command interpreter is a little rough, so set up a basic script like this
 
 Run the script: `clj -i script.clj`
 
-## 1.1
+### 1.1
 
 _read-eval-print loop_, a.k.a. _REPL_, describes the basic cycle in which the Lisp interpreter operates: "It reads an expression from the terminal, evaluates the expression, and prints the result"
 
@@ -30,6 +36,6 @@ _cond_ returns undefined if all the predicates in its clauses return false.
 
 _else_ "is a special symbol that can be used in place of the [predicate] in the final clause of a cond".
 
-## References
+### References
 
 * [SICP full text](http://mitpress.mit.edu/sicp/full-text/book/book.html)

@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Nocturnal Rails task via Rake
 ---
 
-# Nocturnal Rails task via Rake
+## Nocturnal Rails task via Rake
 
-## Introduction
+### Introduction
 
 <a href="http://www.flickr.com/photos/foxtree1/4508495523/">
 ![Water Rat, by Tim Schofield](http://farm5.staticflickr.com/4064/4508495523_26886640f2_m.jpg "Water Rat, by Tim Schofield")
@@ -20,7 +19,7 @@ Rake comes to mind as a convenient manager for this task, so here's my approach:
 1. email the summary
 1. run this task via cron
 
-## Defining a rake task & fetching data
+### Defining a rake task & fetching data
 
 I chose to define my task in a file called _lib/tasks/cron.rake_. (My app's _Rakefile_ includes all _.rake_ files under _lib/tasks/_ via _vendor/rails/railties/lib/tasks/rails.rb_.
 
@@ -54,7 +53,7 @@ end
 
 *Note:* by depending on the _environment_ task, i.e. `task :process_events => :environment do` we can access our rails environment.
 
-## Emailing the data
+### Emailing the data
 
 I want to mail this info out, so I need to create an ActionMailer class and view:
 
@@ -108,13 +107,13 @@ task :process_events => :environment do
 end
 {% endhighlight %}
 
-## Scheduling this task via cron
+### Scheduling this task via cron
 
 The project changed before this step became necessary, but here is the approach I would use to run this task every night:
 
 `00 0 * * * cd /rails_app && /usr/bin/rake RAILS_ENV=production process_events`
 
-## Resources
+### Resources
 
 * [Rails 2.3.8 API docs](http://railsapi.com/doc/rails-v2.3.8/)
 * [Jason Seifer's Rake tutorial](http://jasonseifer.com/2010/04/06/rake-tutorial), esp. the _Rails_ and _Scheduling Rake Tasks_ sections.

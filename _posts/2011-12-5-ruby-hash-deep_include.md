@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Another Hash.deep_include? function for Ruby
 ---
 
 # Another Hash.deep_include? function for Ruby
