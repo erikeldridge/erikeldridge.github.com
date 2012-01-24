@@ -2,33 +2,37 @@
 layout: default
 ---
 
-# Another Hash.deep_include? function for Ruby
+## Another Hash.deep_include? function for Ruby
 
 I recently wanted to check if a hash was a sub-hash of another. A colleague was writing a test for a piece of code that used a library function to make a network request. In general, this library function would send a given data object, and users of this function would augment this data with additional attributes.
 
 For example:
 
-    ...
-    def test_specific_network_request
-      assert_network_request_includes {
-        :key1 => "val1",
-        :key2 => {
-          :key3 => "val2"
-        }
-      }
-    end
-    ...
+{% highlight ruby %}
+#...
+def test_specific_network_request
+  assert_network_request_includes {
+    :key1 => "val1",
+    :key2 => {
+      :key3 => "val2"
+    }
+  }
+end
+#...
+{% endhighlight %}
 
 This assertion should return false if the request does not contain
 
-    {
-      :key1 => "val1",
-      ...
-      :key2 => {
-        ...
-        :key3 => "val2"
-      }
-    }
+{% highlight ruby %}
+{
+  :key1 => "val1",
+  #...
+  :key2 => {
+    #...
+    :key3 => "val2"
+  }
+}
+{% endhighlight %}
 
 But it should return true if the request contains this hash in addition to other elements. A simple deep comparison would not work.
 
@@ -80,6 +84,6 @@ class BasicTest < Test::Unit::TestCase
 end
 {% endhighlight %}
 
-## Learnings
+### Learnings
 
 Ruby's [_all?_](http://www.ruby-doc.org/core-1.9.3/Enumerable.html#method-i-all-3F) method is really nice. It iterates over all the elements of a collection and, as @iamnirav put it, "_and_s them together".
