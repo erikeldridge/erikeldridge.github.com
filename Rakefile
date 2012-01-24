@@ -5,7 +5,7 @@ task :default do
 end
 
 desc "Delete _site files"
-task :clear do
+task :clean do
   sh "rm -rf _site"
 end
 
