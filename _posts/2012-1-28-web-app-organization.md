@@ -1,9 +1,8 @@
 ---
 layout: default
-category: learnings
 ---
 
-## Learnings from Twitter's 2012 hackweek
+## Web app organization
 
 ### Client vs. server
 
@@ -34,16 +33,3 @@ JavaScript apps seem to work best when kept light. Managing dependencies, intera
 Managing presentation-specific logic in the client is intuitive. For example, if we need to truncate a string to fit a certain client, it's better to send a single string of max length to all clients, and let each client make appropriate changes.
 
 If development is split into client- and server-side teams, this also helps them work independently.
-
-### Get help
-
-When working on a new problem, to avoid overlooking a solution that would be obvious to someone with more experience, it's beneficial to balance concentration with consultation.
-
-Before complaining about a new code base, make sure to perform due diligence to avoid sounding like a newb. We're all smart and have the best intentions, if something is difficult to work with, it's probably that way for a reason.
-
-If possible, publish an early version of a project and solicit feedback. Staging servers work well for this. Stage the project once it's somewhat functional and send around an email. Other teams might have unexpected solutions.
-
-### Over-communicate
-
-This ties into the idea of consultation. When working with a team, it's helpful to regularly sync with the other members so they know how to use the piece I'm building, the status of my progress, and that we're all pulling weight.
-
