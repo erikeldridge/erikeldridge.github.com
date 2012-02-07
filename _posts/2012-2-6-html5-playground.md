@@ -12,8 +12,8 @@ From [the detection section of Dive into HTML5](http://diveintohtml5.info/detect
 <div id="html5-detection-output">
   <script>
 
-  function test(tests, description){
-    function results(){
+  function test(tests){
+    function list(){
       var list = document.createElement('ol'),
           li,
           text;
@@ -31,7 +31,8 @@ From [the detection section of Dive into HTML5](http://diveintohtml5.info/detect
     }
     return {
       andAppendResultsTo: function(selector){
-        document.getElementById(selector).appendChild(results());
+        var root = document.getElementById(selector);
+        root.appendChild(list());
       }
     }
   }
@@ -59,15 +60,19 @@ From [the detection section of Dive into HTML5](http://diveintohtml5.info/detect
   <script>
 
   test({
-    'localStorage': (function(){
-                      try {
-                        return 'localStorage' in window && window['localStorage'] !== null;
-                      } catch(e){
-                        return false;
-                      }
-                    })(),
-    'app cache': !!window.applicationCache,
-    'web workers': !!window.Worker
+    'localStorage'      : (function(){
+                          try {
+                            return 'localStorage' in window && window['localStorage'] !== null;
+                          } catch(e){
+                            return false;
+                          }
+                        })(),
+    'app cache'         : !!window.applicationCache,
+    'web workers'       : !!window.Worker,
+    'input placeholders': (function() {
+                            var i = document.createElement('input');
+                            return 'placeholder' in i;
+                          })()
   }).andAppendResultsTo('raw-detection-output');
 
   </script>
@@ -82,13 +87,14 @@ From [the detection section of Dive into HTML5](http://diveintohtml5.info/detect
   using('/js/modernizr-2.0.6.js', function() {
 
     test({
-      'geolocation' : Modernizr.geolocation,
-      'video'       : Modernizr.video,
-      'h264 video'  : Modernizr.video.h264,
-      'color input' : Modernizr.inputtypes.color,
-      'localStorage': Modernizr.localstorage,
-      'web workers' : Modernizr.webworkers,
-      'app cache'   : Modernizr.applicationcache
+      'geolocation'       : Modernizr.geolocation,
+      'video'             : Modernizr.video,
+      'h264 video'        : Modernizr.video.h264,
+      'color input'       : Modernizr.inputtypes.color,
+      'localStorage'      : Modernizr.localstorage,
+      'web workers'       : Modernizr.webworkers,
+      'app cache'         : Modernizr.applicationcache,
+      'input placeholder' : Modernizr.input.placeholder
     }).andAppendResultsTo('modernizr-detection-output');
 
   });
