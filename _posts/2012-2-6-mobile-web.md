@@ -2,7 +2,25 @@
 layout: default
 ---
 
-## Mobile web development resources
+## Mobile web development
+
+### Performance
+
+#### HTML5 DB
+
+From [Suggestions for better performance](http://googlecode.blogspot.com/2009/06/gmail-for-mobile-html5-series.html):
+
+* version schemas and incrementally upgrade minor versions, rather than completely reinitialize the DB for each upgrade, to avoid expensive table creation/deletion costs.
+* reduce and/or defer queries
+* replace multiple, sequential update queries with triggers
+
+#### App cache
+
+* Cache the login page, and perform authentication asyncronously rather than trying to launch an app and bouncing the user to log in if unauthenticated.
+* List as few URLs as possible in the manifest to avoid expensive refreshes when the manifest version changes
+*
+
+### Resources
 
 * [Dive into HTML5](http://diveintohtml5.info/)
 * [Webkit's blog](http://www.webkit.org/blog), esp:
