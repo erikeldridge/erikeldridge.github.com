@@ -61,12 +61,12 @@ From [the detection section of Dive into HTML5](http://diveintohtml5.info/detect
 
   test({
     'localStorage'      : (function(){
-                          try {
-                            return 'localStorage' in window && window['localStorage'] !== null;
-                          } catch(e){
-                            return false;
-                          }
-                        })(),
+                            try {
+                              return 'localStorage' in window && window['localStorage'] !== null;
+                            } catch(e){
+                              return false;
+                            }
+                          })(),
     'app cache'         : !!window.applicationCache,
     'web workers'       : !!window.Worker,
     'input placeholders': (function() {
