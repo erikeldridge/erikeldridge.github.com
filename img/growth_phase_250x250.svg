@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1200"
-   height="1200"
+   width="250"
+   height="250"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="growth_phase_8.pdf">
+   sodipodi:docname="growth_phase_250x250.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.31701954"
-     inkscape:cx="600"
-     inkscape:cy="600"
+     inkscape:zoom="1.814431"
+     inkscape:cx="130.90676"
+     inkscape:cy="104.09453"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -36,20 +36,21 @@
      inkscape:window-height="756"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:snap-global="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="false"
+     units="px">
     <sodipodi:guide
        orientation="0,1"
-       position="-356.44491,1476.2497"
+       position="-831.44491,1001.2497"
        id="guide4074" />
     <sodipodi:guide
        orientation="1,0"
-       position="0,1110.3417"
+       position="-475,635.34171"
        id="guide3846" />
   </sodipodi:namedview>
   <metadata
@@ -68,74 +69,74 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="bg"
-     transform="translate(400,400)"
+     transform="translate(-75,-74.999996)"
      sodipodi:insensitive="true" />
   <g
      inkscape:label="rings"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(232.42844,306.93493)"
+     transform="translate(-242.57156,-168.0651)"
      sodipodi:insensitive="true" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Text"
      style="display:inline"
-     transform="translate(232.42844,306.93493)"
+     transform="translate(-242.57156,-168.0651)"
      sodipodi:insensitive="true" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="creative commons"
-     transform="translate(400,692.06153)"
+     transform="translate(-75,217.0615)"
      style="display:inline">
     <rect
        style="fill:#dc2521;fill-opacity:1;stroke:none"
        id="rect3043"
-       width="1200"
-       height="1200"
-       x="-400"
-       y="-692.06152" />
+       width="250"
+       height="250"
+       x="75"
+       y="-217.06152" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-       d="m 369.51262,-268.96763 0,318.05904 c 371.3631,2.05449 314.62296,-217.14699 319.63809,-318.05919 l -319.63809,0 z"
+       d="m 235.31513,-128.91696 0,66.262298 c 77.36731,0.428018 65.54645,-45.238958 66.59127,-66.262328 l -66.59127,0 z"
        id="path3043"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#dc252f;stroke-width:6.02922249;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
-       d="m 366.17539,-271.61564 0,210.66399 c 163.95285,2.37732 186.65316,-80.70063 183.81456,-210.66399 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#dc252f;stroke-width:1.25608802;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
+       d="m 234.61987,-129.46863 0,43.88833 c 34.15685,0.495275 38.88608,-16.81263 38.2947,-43.88833 z"
        id="path4004"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#dc252f;stroke-width:6.12095118;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
-       d="m 366.40873,-271.64918 0,103.02717 c 70.5483,0.0945 62.86512,-28.61838 65.22279,-103.02717 l -65.22279,0 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#dc252f;stroke-width:1.27519822;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
+       d="m 234.66849,-129.47562 0,21.464 c 14.69756,0.0197 13.0969,-5.96217 13.58808,-21.464 l -13.58808,0 z"
        id="rect3997"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:135px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Helvetica;-inkscape-font-specification:Helvetica"
-       x="360.3942"
-       y="-169.50912"
+       style="font-size:28.125px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+       x="233.41545"
+       y="-108.19644"
        id="text3894"
        sodipodi:linespacing="80.000001%"><tspan
          sodipodi:role="line"
          id="tspan4010"
-         x="360.3942"
-         y="-169.50912">THE</tspan><tspan
+         x="233.41545"
+         y="-108.19644">THE</tspan><tspan
          sodipodi:role="line"
          id="tspan4012"
-         x="360.3942"
-         y="-61.509125">GROWTH</tspan><tspan
+         x="233.41545"
+         y="-85.696442">GROWTH</tspan><tspan
          sodipodi:role="line"
          id="tspan4014"
-         x="360.3942"
-         y="46.490879">PHASE</tspan></text>
+         x="233.41545"
+         y="-63.196442">PHASE</tspan></text>
     <g
        id="g4097"
-       transform="matrix(3,0,0,3,-410,178.12306)">
+       transform="matrix(0.625,0,0,0.625,78.916667,-35.773069)">
       <g
          id="text4030"
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
