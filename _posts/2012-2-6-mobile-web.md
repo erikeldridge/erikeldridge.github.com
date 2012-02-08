@@ -18,7 +18,6 @@ From [Suggestions for better performance](http://googlecode.blogspot.com/2009/06
 
 * Cache the login page, and perform authentication asyncronously rather than trying to launch an app and bouncing the user to log in if unauthenticated.
 * List as few URLs as possible in the manifest to avoid expensive refreshes when the manifest version changes
-*
 
 ### Resources
 
