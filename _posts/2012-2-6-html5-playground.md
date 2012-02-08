@@ -8,7 +8,7 @@ layout: default
 
 From [the detection section of Dive into HTML5](http://diveintohtml5.info/detect.html), there are 4 approaches to feature detection.
 
-<!-- wrap script in div to avoid mardown parser -->
+<!-- hack: wrap script in div to avoid markdown parser -->
 <div id="html5-detection-output">
   <script>
 
