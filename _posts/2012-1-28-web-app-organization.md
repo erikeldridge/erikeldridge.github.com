@@ -4,6 +4,12 @@ layout: default
 
 ## Web app organization
 
+### Separation of concerns
+
+Strive for a clean separation of things that "change from things that don't change", in the words of @tnegrin. This facilitates app maintenance, and makes the code more fun to work with.
+
+Splitting the FE from the BE via Thrift works well.
+
 ### Client vs. server
 
 Here are a few general factors I consider when trying to decide what code goes in the client and what goes in the server.
