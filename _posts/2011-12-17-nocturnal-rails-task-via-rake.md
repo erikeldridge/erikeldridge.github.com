@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 ## Nocturnal Rails task via Rake

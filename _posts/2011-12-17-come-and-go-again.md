@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 ## Come and go and come around again

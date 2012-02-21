@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 ## Another Hash.deep_include? function for Ruby

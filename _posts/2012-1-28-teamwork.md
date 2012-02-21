@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 ## Working with a team
