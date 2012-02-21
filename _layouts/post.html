@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{{content}}
+
+<h3>Thoughts? Suggestions?</h3>
+
+Please reach out on Twitter and let me know
+
+<div id="tweet-box"></div>
+
+<script src="http://platform.twitter.com/anywhere.js?id=Dv3XmDp1Xa3xsov71UL78w&v=1" type="text/javascript"></script>
+<script type="text/javascript">
+
+  twttr.anywhere(function (T) {
+    T("#tweet-box").tweetBox({
+      label: false,
+      defaultContent: '@erikeldridge'
+    });
+  });
+
+</script>
