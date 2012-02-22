@@ -2,7 +2,7 @@
 layout: post
 ---
 
-## CSS tools
+## CSS
 
 ### Reference
 
@@ -23,3 +23,4 @@ layout: post
 * CSS hacks: http://mathiasbynens.be/notes/safe-css-hacks#safe-css-hacks
 * Use css _box-sizing_ to constrain padding inside parent element: http://css-tricks.com/box-sizing/
 * Prefer no border on first element of list over last element, as first-child is css2, but last-child is css3
+* [Sass](http://sass-lang.com/) for variable and mixin support. Recommend using complimentary [Haml](http://haml-lang.com/) for markup.
