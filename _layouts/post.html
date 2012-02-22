@@ -2,23 +2,28 @@
 layout: default
 ---
 
-{{content}}
+<!-- Skeleton markup for nested layout -->
+<div class="sixteen columns post">
 
-<h3>Thoughts? Suggestions?</h3>
+  {{content}}
 
-Please reach out on <a href="http://twitter.com/erikeldridge">Twitter</a> and let me know.
+  <h3>Thoughts? Suggestions?</h3>
 
-<div id="tweet-box"></div>
+  Please reach out on <a href="http://twitter.com/erikeldridge">Twitter</a> and let me know.
 
-<script src="http://platform.twitter.com/anywhere.js?id=Dv3XmDp1Xa3xsov71UL78w&v=1" type="text/javascript"></script>
-<script type="text/javascript">
+  <div id="tweet-box"></div>
 
-  twttr.anywhere(function (T) {
-    var options
-    T("#tweet-box").tweetBox({
-      label: false,
-      defaultContent: '@erikeldridge'
+  <script src="http://platform.twitter.com/anywhere.js?id=Dv3XmDp1Xa3xsov71UL78w&v=1" type="text/javascript"></script>
+  <script type="text/javascript">
+
+    twttr.anywhere(function (T) {
+      var options
+      T("#tweet-box").tweetBox({
+        label: false,
+        defaultContent: '@erikeldridge'
+      });
     });
-  });
 
-</script>
+  </script>
+
+</div>
