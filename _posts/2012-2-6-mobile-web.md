@@ -2,7 +2,7 @@
 layout: post
 ---
 
-## Mobile web development
+## Mobile web
 
 ### Performance
 
@@ -19,6 +19,10 @@ From [Suggestions for better performance](http://googlecode.blogspot.com/2009/06
 * Cache the login page, and perform authentication asyncronously rather than trying to launch an app and bouncing the user to log in if unauthenticated.
 * List as few URLs as possible in the manifest to avoid expensive refreshes when the manifest version changes
 * Including a version number in a comment in the manifest. Increment the version to force a cache refresh
+
+### Development environment
+
+* Use [webkit nightly builds](http://nightly.webkit.org/) to take advantage of the latest dev tools
 
 ### Resources
 
