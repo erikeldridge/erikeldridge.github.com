@@ -2,7 +2,7 @@
 layout: post
 ---
 
-## SICP notes
+## SICP + Clojure
 
 ### Setting up with clojure
 
