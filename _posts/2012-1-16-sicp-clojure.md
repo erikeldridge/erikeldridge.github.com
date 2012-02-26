@@ -71,3 +71,11 @@ user=> (*
 * [Clojure cheat sheet](http://clojure.org/cheatsheet)
 * [Mark Volkmann's getting started tutorial](http://java.ociweb.com/mark/clojure/article.html)
 * [SICP book](http://mitpress.mit.edu/sicp/)
+
+### Closing pic
+
+![Bluejay + peanut](https://lh4.googleusercontent.com/-2obx5vi-L1U/T0rDCjpuuWI/AAAAAAAAATA/K-z_zA_NeY8/s704/IMG_5219.jpg)
+
+Bluejay + peanut
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" rel="dct:type">work</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
