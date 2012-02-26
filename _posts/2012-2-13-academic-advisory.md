@@ -10,7 +10,7 @@ I develop web applications using open-source tools, so my recommendations are in
 
 ### Motivation
 
-Above all else, I recommend helping students discover and explore their interests, so they can then compete effectively for jobs aligned with those interests. Hopefully, each student will find a career in which she or he loves going to work, and derives real, personal value from her or his contribution.
+Above all else, I recommend helping students discover and explore their interests, so they can then compete effectively for jobs aligned with those interests. Hopefully, each student will find a career in which she loves going to work, and derives real, personal value from her contribution.
 
 To perform well in an interview and in the workplace, we have to demonstrate passion for the role. A dispassionate applicant may possess exceptional technical skill and be passed over for someone with less experience, but a strong sense for the product and a motivation to learn.
 
@@ -26,7 +26,7 @@ LinkedIn, Twitter, Facebook, and Github provide online tools for interacting onl
 
 I recommend students create a [LinkedIn](http://www.linkedin.com/) profile and populate it fully. Recruiters pay LinkedIn for access to profiles. By maintaining a profile, students are proactively providing recruiters with the most up-to-date professional description of themselves.
 
-LinkedIn is convenient for keeping in touch with colleagues, and contacting them descretely regarding employment opportunities. I recommend students connect with professors and the students they would be willing to work with and recommend for hiring.
+LinkedIn is also convenient for keeping in touch with colleagues, and contacting them descretely regarding employment opportunities. I recommend students connect with professors, and the students they would be willing to work with.
 
 #### Twitter, Facebook, and Github
 
@@ -71,6 +71,10 @@ Costs:
 #### BarCamp
 
 A BarCamp is a self-organizing conference, a.k.a., an [unconference](http://en.wikipedia.org/wiki/Unconference). Everyone is welcome, and anyone can propose a talk. A great assignment would be to attend a local BarCamp, present a brief talk on an area of interest, and report on the experience.
+
+![barcamp pic 6, by Tech Yizu](http://farm8.staticflickr.com/7148/6781376377_0cf38a1999.jpg)
+
+[barcamp pic 6, by Tech Yizu](http://www.flickr.com/photos/techyizu/6781376377/) _("Signing up to give a talk at Barcamp! Anyone can give a talk at Barcamp")_
 
 [The official BarCamp site](http://barcamp.org/) maintains a list of upcoming BarCamps, and links to helpful resources for running a BarCamp.
 
@@ -141,19 +145,9 @@ Participation goals:
 
 ### Tools
 
-#### Github
-
-I recommend all students create a [Github](https://github.com/) account for a few reasons:
-
-* Github is a great product and it's free
-* Github recognizes the social aspects of software development and provides tools for working collaboratively and discovering like-minded developers
-* Having code online provides recruiting teams with a way to assess a student's skill level, especially if the student is geographically remote
-
-**Note:** please encourage students to be vigilent about maintaining the code that is viewable online. We want a recruiter's first impression to be a good one.
-
 #### Java
 
-I recommend students have awareness of a variety of compiled languages, but develop proficiency in one. Based on my experience, I would recommend Java. A student should be able to say "I am proficient writing, reading, testing, and debugging in Java".
+I recommend students have awareness of a variety of compiled languages, but develop proficiency in one. Based on my experience, I would recommend Java. A student should be able to say "I am proficient in writing, reading, testing, and debugging in Java".
 
 #### Python
 
@@ -161,7 +155,7 @@ As with compiled languages, I recommend students have exposure to several, but d
 
 #### Reading, testing, debugging, committing
 
-Interns and new grads generally have very little experience reading other people's code, testing, debugging, or working with a source control tool. This is quickly picked up on the job, but a student with some experience can compete effectively for a given role. The goal is to make it easy for an interviewer to imagine working with the student. The closer a student is to being a productive member of the team, the better.
+Interns and new grads generally have very little experience reading other people's code, testing, debugging, or working with a source control tool. This is quickly picked up on the job, but a student with some experience has a competitive advantage for a given role. The goal is to make it easy for an interviewer to imagine working with the student. The closer a student is to being a productive member of the team, the better.
 
 For reviewing code, I recommend [reviewboard](http://www.reviewboard.org/). Github also provides [review tools](https://github.com/features/projects/codereview), though I don't have experience with them.
 
@@ -174,3 +168,13 @@ For source control, I recommend [git](http://git-scm.com/) for a few reasons:
 * git is a free, modern tool, with many nice features, which has been embraced by the developer community
 * git is used by many companies and [open-source projects](https://github.com/popular/watched) for source control
 * proficiency with git will make interactions with [Github](https://github.com/), which I also recommend, much more straightforward
+
+#### Github
+
+I recommend all students create a [Github](https://github.com/) account for a few reasons:
+
+* Github is a great product and it's free
+* Github recognizes the social aspects of software development and provides tools for working collaboratively and discovering like-minded developers
+* Having code online provides recruiting teams with a way to assess a student's skill level, especially if the student is geographically remote
+
+**Note:** please encourage students to be vigilent about maintaining the code that is viewable online. We want a recruiter's first impression to be a good one.
