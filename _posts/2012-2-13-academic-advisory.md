@@ -10,17 +10,23 @@ I develop web applications using open-source tools, so my recommendations skew t
 
 This post describes several activities students can participate in to develop practical developer skills, meet like-minded people in the developer community, and meet employees from local companies. If there are an abundance of these activities nearby, schools can encourage students to participate. If not, schools can host these events themselves and support students by building a developer community around the school.
 
+### Motivation
+
+Above all else, I recommend we help students discover and explore their interests, so they can then compete effectively for jobs aligned with those interests. To perform well in an interview and in the workplace, we have to demonstrate passion for the role. Hopefully, each student will find a career in which she or he loves going to work, and derives real, personal value from her or his contribution.
+
+I recommend asking students regularly to describe what they would like to learn about, and include the resulting feedback in an academic advisory setting. For example, suppose 70% of students studying mobile development would prefer to focus on the Android platform over iOS. If it's all the same to the academic advisory panel, we could increase the relevancy of the curiculum by accomodating and supporting this interest.
+
 ### Tools
 
 #### Github
 
-I recommend all students create a github account for a few reasons:
+I recommend all students create a [Github](https://github.com/) account for a few reasons:
 
 * Github is a great product and it's free
 * Github recognizes the social aspects of software development and provides tools for working collaboratively and discovering like-minded developers
 * Having code online provides recruiting teams with a way to assess a student's skill level
 
-*Note:* encourage students to be vigilent about maintaining the code that is viewable online. We want a recruiter's first impression to be a good one.
+**Note:** please encourage students to be vigilent about maintaining the code that is viewable online. We want a recruiter's first impression to be a good one.
 
 #### Java
 
@@ -30,15 +36,21 @@ I recommend students have awareness of a variety of compiled languages, but deve
 
 As with compiled languages, I recommend students have exposure to several, but develop proficiency in Python. Python is a widely used tool for a variety of applications from system scripting to web app development, and its terse, self-descriptive syntax makes it convenient for interview whiteboarding. It is close enough conceptually and syntactically to Ruby, PHP, and JavaScript that a student can compete effectively for roles using any of these.
 
-#### Reading, testing, debugging
+#### Reading, testing, debugging, committing
 
-Interns and new grads generally have very little experience reading other people's code, testing, or debugging. This is quickly picked up on the job, but a student with some experience can provide a competitive application for a given role. The goal is to make it easy for an interviewer to imagine working with the student. The closer a student is to being a productive member of the team, the better.
+Interns and new grads generally have very little experience reading other people's code, testing, debugging, or working with a source control tool. This is quickly picked up on the job, but a student with some experience can compete effectively for a given role. The goal is to make it easy for an interviewer to imagine working with the student. The closer a student is to being a productive member of the team, the better.
 
 For reviewing code, I recommend [reviewboard](http://www.reviewboard.org/). Github also provides [review tools](https://github.com/features/projects/codereview), though I don't have experience with them.
 
 For testing, I recommend a basic unit test framework such as Java's [JUnit](http://www.junit.org/) and Python's [PyUnit](http://docs.python.org/library/unittest.html).
 
 For debugging, I recommend [jdb](http://docs.oracle.com/javase/1.3/docs/tooldocs/solaris/jdb.html) or [gdb](http://gcc.gnu.org/java/gdb.html) on the command-line or via an IDE.
+
+For source control, I recommend [git](http://git-scm.com/) for a few reasons:
+
+* git is a free, modern tool, with many nice features, which has been embraced by the developer community
+* git is used by many companies and [open-source projects](https://github.com/popular/watched) for source control
+* proficiency with git will make interactions with [Github](https://github.com/), which I also recommend, much more straightforward
 
 ### Activities
 
