@@ -4,38 +4,70 @@ layout: post
 
 ## SICP + Clojure
 
-### Setting up with clojure
+### Setting up clojure
 
-Install via brew: `brew install clojure`
+1. Install via brew: `brew install clojure`
+1. Launch REPL: `clj`
 
-The command interpreter is a little rough, so set up a basic script like this
+### Exercise 1.1
 
-{% highlight lisp %}
-(..
-  System out (
-    println 'hi'
+{% highlight clojure %}
+$ clj
+Clojure 1.2.0
+user=> 10
+10
+user=> (+ 5 3 4)
+12
+user=> (- 9 1)
+8
+user=> (/ 6 2)
+3
+user=> (+ (* 2 4) (- 4 6))
+6
+user=> (def a 3)
+#'user/a
+user=> a
+3
+user=> (def b (+ a 1))
+#'user/b
+user=> b
+4
+user=> (+ a b (* a b))
+19
+user=> (= a b)
+false
+user=> (if
+  (and
+    (> b a)
+    (< b (* a b))
   )
+  b
+  a
 )
+4
+user=> (cond
+    (= a 4) 6
+    (= b 4) (+ 6 7 a)
+    true 25
+)
+16
+user=> (+ 2
+    (if (> b a) b a)
+)
+6
+user=> (*
+    (cond
+        (> a b) a
+        (< a b) b
+        true -1
+    )
+    (+ a 1)
+)
+16
 {% endhighlight %}
-
-Run the script: `clj -i script.clj`
-
-### 1.1
-
-_read-eval-print loop_, a.k.a. _REPL_, describes the basic cycle in which the Lisp interpreter operates: "It reads an expression from the terminal, evaluates the expression, and prints the result"
-
-_tree accumulation_ refers to a way of viewing combination evaluation as "we can imagine that the values of the operands percolate upward, starting from the terminal nodes and then combining at higher and higher levels".
-
-_special forms_ refer to exceptions to the general evaluation rule, e.g., `def`.
-
-The _substitution model_ for procedure application describes evaluation in terms of replacing compound operators and operands with their primitive components.
-
-A _clause_ is a pair of expressions. "The first expression in each pair is a _predicate_ -- that is, an expression whose value is interpreted as either true or false." The second expression is called a _consequent expression_, and it's evaluated if the predicate is true.
-
-_cond_ returns undefined if all the predicates in its clauses return false.
-
-_else_ "is a special symbol that can be used in place of the [predicate] in the final clause of a cond".
 
 ### References
 
-* [SICP full text](http://mitpress.mit.edu/sicp/full-text/book/book.html)
+* [Clojure cheat sheet](http://clojure.org/cheatsheet)
+* [Mark Volkmann's getting started tutorial](http://java.ociweb.com/mark/clojure/article.html)
+* [SICP book](http://mitpress.mit.edu/sicp/)
