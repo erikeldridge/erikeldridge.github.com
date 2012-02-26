@@ -6,15 +6,39 @@ layout: post
 
 This post is written for a faculty audience, and targets CS programs.
 
-I develop web applications using open-source tools, so my recommendations skew toward that industry and tool set.
-
-This post describes several activities students can participate in to develop practical developer skills, meet like-minded people in the developer community, and meet employees from local companies. If there are an abundance of these activities nearby, schools can encourage students to participate. If not, schools can host these events themselves and support students by building a developer community around the school.
+I develop web applications using open-source tools, so my recommendations are informed by that industry and tool set.
 
 ### Motivation
 
-Above all else, I recommend we help students discover and explore their interests, so they can then compete effectively for jobs aligned with those interests. To perform well in an interview and in the workplace, we have to demonstrate passion for the role. Hopefully, each student will find a career in which she or he loves going to work, and derives real, personal value from her or his contribution.
+Above all else, I recommend helping students discover and explore their interests, so they can then compete effectively for jobs aligned with those interests. Hopefully, each student will find a career in which she or he loves going to work, and derives real, personal value from her or his contribution.
+
+To perform well in an interview and in the workplace, we have to demonstrate passion for the role. A dispassionate applicant may possess exceptional technical skill and be passed over for someone with less experience, but a strong sense for the product and a motivation to learn.
 
 I recommend asking students regularly to describe what they would like to learn about, and include the resulting feedback in an academic advisory setting. For example, suppose 70% of students studying mobile development would prefer to focus on the Android platform over iOS. If it's all the same to the academic advisory panel, we could increase the relevancy of the curiculum by accomodating and supporting this interest.
+
+### Community
+
+By fostering interaction with a diversity of people and ideas, a school can help a student refine her career goals. By including employers in this interaction, a school can expose students directly, and under the best of circumstances, with employment opportunities.
+
+I list several activities below in which students can participate to develop practical developer skills, meet like-minded people in the developer community, and meet employees from local companies. If there are an abundance of these activities nearby, schools can encourage students to participate. If not, schools can host these events themselves and support students by building a developer community around the school.
+
+#### LinkedIn
+
+I recommend students create a [LinkedIn](http://www.linkedin.com/) profile and populate it fully. Recruiters pay LinkedIn for access to profiles. By maintaining a profile, students are proactively providing recruiters with the most up-to-date professional description of themselves.
+
+LinkedIn is convenient for keeping in touch with colleagues, and contacting them descretely regarding employment opportunities. I recommend students connect with professors and the students they would be willing to work with and recommend for hiring.
+
+#### Twitter and Facebook
+
+I recommend students use these services to listen to the thoughts of people in industry, and reduce the perceived distance between the worlds of academia and industry. This is especially relevant if the student is literally far away from the geographic area in which he would like to work.
+
+For example, suppose a student would love to build mobile applications for Twitter. I would recommend he:
+
+1. search for "twitter java open source"
+1. Twitter maintains several projects via Github
+1. Find all the people listed under "Organization Members" and follow them in Github and on Twitter
+
+By listening in on a group of people like this, the student will have a much better sense for the Twitter engineering community, and whether or not it's focused on his areas of interest.
 
 ### Tools
 
@@ -24,7 +48,7 @@ I recommend all students create a [Github](https://github.com/) account for a fe
 
 * Github is a great product and it's free
 * Github recognizes the social aspects of software development and provides tools for working collaboratively and discovering like-minded developers
-* Having code online provides recruiting teams with a way to assess a student's skill level
+* Having code online provides recruiting teams with a way to assess a student's skill level, especially if the student is geographically remote
 
 **Note:** please encourage students to be vigilent about maintaining the code that is viewable online. We want a recruiter's first impression to be a good one.
 
@@ -146,7 +170,7 @@ The [ACM International Collegiate programming contest](http://en.wikipedia.org/w
 
 I don't have experience in eithor of the above as a competitor, but I have interviewed people with experience, and they generally perform very well.
 
-#### Participation goals
+Participation goals:
 
 * broad exposure to classic and contemporary CS problems
 * experience solving problems under pressure, which can be helpful preparation for the interview process
