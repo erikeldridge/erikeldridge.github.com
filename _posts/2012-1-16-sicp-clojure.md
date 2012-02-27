@@ -66,6 +66,15 @@ user=> (*
 16
 {% endhighlight %}
 
+### Exercise 1.2
+
+{% highlight clojure %}
+(/
+  (+ 5 4 (- 2 (- 3 (+ 6 (/ 4 5) ) ) ) )
+  (* 3 (- 6 2) (- 2 7) )
+)
+{% endhighlight %}
+
 ### References
 
 * [Clojure cheat sheet](http://clojure.org/cheatsheet)
