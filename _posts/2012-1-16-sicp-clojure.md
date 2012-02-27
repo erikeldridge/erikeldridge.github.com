@@ -75,10 +75,23 @@ user=> (*
 )
 {% endhighlight %}
 
+### Exercise 1.3
+
+{% highlight clojure %}
+(defn sq [a] (* a a))
+(defn sum-of-lg-squares [a b c]
+    (+
+        (sq (max a b) )
+        (sq (max b c) )
+    )
+)
+{% endhighlight %}
+
 ### References
 
 * [Clojure cheat sheet](http://clojure.org/cheatsheet)
 * [Mark Volkmann's getting started tutorial](http://java.ociweb.com/mark/clojure/article.html)
+* [ClojureDocs](http://clojuredocs.org/)
 * [SICP book](http://mitpress.mit.edu/sicp/)
 
 ### Closing pic
