@@ -4,6 +4,12 @@ layout: post
 
 ## Mobile web
 
+### Feature detection
+
+Use [Divining Rod](https://github.com/mdp/divining_rod) for feature detection in Ruby.
+
+Use [Modernizr](http://www.modernizr.com/) for feature detection in JS.
+
 ### Performance
 
 #### HTML5 DB
