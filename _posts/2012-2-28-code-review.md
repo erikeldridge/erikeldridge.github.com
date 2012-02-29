@@ -19,7 +19,7 @@ The common case seems to be developing feature branches directly off master.
 1. commit (note: the commit message will be the gerrit change title): `git ci -am "swank feature"`
 1. push to gerrit: `git push gerrit HEAD:refs/for/master`
 
-###### Review
+##### Review
 
 1. make changes according to review feedback in _feature_ branch
 1. merge changes into review branch: `git merge --no-commit feature`
