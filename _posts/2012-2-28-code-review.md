@@ -30,6 +30,8 @@ The common case seems to be developing feature branches directly off master.
 
 This is a little trickier because we need to base our branch on the other branch in review, so gerrit knows it's a dependency.
 
+##### Development
+
 1. branch off dependency: `git checkout dependency && git checkout -b feature`
 1. implement feature
 1. create review branch off master: `git checkout dependency && git co -b feature_review`
@@ -43,3 +45,6 @@ This is a little trickier because we need to base our branch on the other branch
 
 With any luck, your new change in gerrit will have the dependency listed
 
+##### Review
+
+The review process is the same as for the common case, unless the dependency changes, in which case we need to rebase w/ the new refs.
