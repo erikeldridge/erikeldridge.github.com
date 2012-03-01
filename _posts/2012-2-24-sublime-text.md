@@ -4,6 +4,8 @@ layout: post
 
 ## Sublime text
 
+Install [Sublime Text 2](http://www.sublimetext.com/2).
+
 ### Package Control
 
 The first thing to do after installing sublime text is install [package control](http://wbond.net/sublime_packages/package_control).
@@ -20,3 +22,8 @@ Sublime Text's command line tool is handy for opening a directory in the editor 
 
 * Open current dir: `subl .`
 * Open gem directory in sublime text: `subl \`bundle show decider\``
+
+### Misc
+
+* http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/
+* https://github.com/markdotto/sublime-snippets
