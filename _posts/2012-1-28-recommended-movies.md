@@ -23,5 +23,6 @@ layout: post
 * [Rivers and Tides](http://www.imdb.com/title/tt0307385/)
 * [The Botany of Desire](http://www.pbs.org/thebotanyofdesire/)
 * [The Thin Blue Line](http://www.imdb.com/title/tt0096257/)
+* [Vicky Cristina Barcelona](http://www.imdb.com/title/tt0497465/)
 * [The White Diamond](http://www.imdb.com/title/tt0435776/)
 * [The Wild Parrots of Telegraph Hill](http://www.imdb.com/title/tt0424565/)
