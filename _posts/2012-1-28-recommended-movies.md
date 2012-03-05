@@ -4,6 +4,7 @@ layout: post
 
 ## Recommended movies
 
+* [Annie Hall](http://www.imdb.com/title/tt0075686/)
 * [Bill Cunningham New York](http://www.imdb.com/title/tt1621444/)
 * [Bridget Jone's Diary](http://www.imdb.com/title/tt0243155/)
 * [Encounters at the End of the World](http://www.imdb.com/title/tt1093824/)
