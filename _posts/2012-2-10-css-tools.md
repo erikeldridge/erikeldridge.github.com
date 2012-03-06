@@ -4,12 +4,19 @@ layout: post
 
 ## CSS
 
+### Minification
+
+[refresh-sf](http://refresh-sf.com/yui) hosts an installation of YUI Compressor. Thanks, refresh-sf!
+
+### Linting
+
+[csslint.net](http://csslint.net/) hots an online installation of csslint. Thanks, [@slicknet](http://twitter.com/slicknet/) and [@stubbornella](http://twitter.com/stubbornella)!
+
 ### Reference
 
 * Instacss docs: http://instacss.com/
 * Skeleton "A Beautiful Boilerplate for Responsive, Mobile-Friendly Development": http://getskeleton.com/
 * Twitter Bootstrap: http://twitter.github.com/bootstrap
-* CSS lint: https://github.com/stubbornella/csslint
 * Sprite generator: http://spritegen.website-performance.org/
 * Glue is a simple command line tool to generate CSS sprites https://github.com/jorgebastida/glue
 * CSS Tricks in general: http://css-tricks.com/
