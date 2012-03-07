@@ -43,3 +43,9 @@ If development is split into client- and server-side teams, this also helps them
 ### Versioning
 
 * Use [Semantic Versioning](http://semver.org/)
+
+### Shipping
+
+One of the primary advantages of web apps over other means of deployment is the low deploy cost. For example, a web app can change multiple times a day, but washing machine firmware cannot. Anything that increases deployment cost, e.g., review process, resource constraints, product coordination, etc., should be considered carefully before adding. Credit @mattknox for clarifying this.
+
+
