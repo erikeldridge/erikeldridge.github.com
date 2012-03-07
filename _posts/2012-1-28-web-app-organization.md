@@ -39,3 +39,7 @@ JavaScript apps seem to work best when kept light. Managing dependencies, intera
 Managing presentation-specific logic in the client is intuitive. For example, if we need to truncate a string to fit a certain client, it's better to send a single string of max length to all clients, and let each client make appropriate changes.
 
 If development is split into client- and server-side teams, this also helps them work independently.
+
+### Versioning
+
+* Use [Semantic Versioning](http://semver.org/)
