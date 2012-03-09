@@ -4,7 +4,7 @@ layout: post
 
 ## Academic advisory
 
-This post is written for a faculty audience, and targets CS programs.
+This post is written for a faculty audience. It targets CS programs, which may be geographically distant from an established tech community.
 
 I develop web applications using open-source tools, so my recommendations are informed by that industry and tool set.
 
@@ -12,15 +12,15 @@ I develop web applications using open-source tools, so my recommendations are in
 
 Above all else, I recommend helping students discover and explore their interests, so they can then compete effectively for jobs aligned with those interests. Hopefully, each student will find a career in which she loves going to work, and derives real, personal value from her contribution.
 
-To perform well in an interview and in the workplace, we have to demonstrate passion for the role. A dispassionate applicant may possess exceptional technical skill and be passed over for someone with less experience, but a strong sense for the product and a motivation to learn.
+To perform well in an interview and in the workplace, we all have to demonstrate passion for the role. A dispassionate applicant may possess exceptional technical skill, and yet be passed over for someone with less experience, but a strong sense for the product and a motivation to learn.
 
-I recommend asking students regularly to describe what they would like to learn about, and include the resulting feedback in an academic advisory setting. For example, suppose 70% of students studying mobile development would prefer to focus on the Android platform over iOS. If it's all the same to the academic advisory panel, we could increase the relevancy of the curiculum by accomodating and supporting this interest.
+I recommend asking students regularly to describe what they would like to learn about, and include the resulting feedback in an academic advisory setting.
 
 ### Community
 
 By fostering interaction with a diversity of people and ideas, a school can help a student refine her career goals. By including employers in this interaction, a school can expose students directly, and under the best of circumstances, with employment opportunities.
 
-LinkedIn, Twitter, Facebook, and Github provide online tools for interacting online with other developers. There are also several activities in which students can participate to learn practical skills, meet like-minded people in the developer community, and meet employees from local companies. If there are an abundance of these activities nearby, schools can encourage students to participate. If not, schools can host these events themselves and support students by building a developer community around the school.
+LinkedIn, Twitter, Facebook, and Github provide tools for interacting online with other developers. There are also several activities in which students can participate to learn practical skills, and meet like-minded people in the developer community and employees from local companies. If there are an abundance of these activities nearby, schools can encourage students to participate. If not, schools can host these events themselves and support students by building a developer community around the school.
 
 #### LinkedIn
 
@@ -28,13 +28,15 @@ I recommend students create a [LinkedIn](http://www.linkedin.com/) profile and p
 
 LinkedIn is also convenient for keeping in touch with colleagues, and contacting them descretely regarding employment opportunities. I recommend students connect with professors, and the students they would be willing to work with.
 
+An alternative is to simply maintain a list of the people a student would want to work with again. The downside is that recruiters would not have access to the student's profile.
+
 #### Twitter, Facebook, and Github
 
-I recommend students use these services to listen to the thoughts of people in industry, and reduce the perceived distance between the worlds of academia and industry. This is especially relevant if the student is literally far away from the geographic area in which he would like to work.
+I recommend students use these services to listen to the thoughts of working developers, and reduce the perceived distance between the worlds of academia and industry. This is especially relevant if the student is geographically far away from the area in which he would like to work.
 
-For example, suppose a student would love to build mobile applications for Twitter. I would recommend he:
+For example, suppose a student would love to work on high-performance, backend services at Twitter. I would recommend he:
 
-1. search for "twitter java open source"
+1. search for "twitter open source"
 1. Twitter maintains several projects via Github
 1. find all the people listed under "Organization Members" on Twitter's Github page
 1. follow all of them on Github and Twitter
@@ -140,10 +142,9 @@ Costs:
 
 #### Programming competitions
 
-
 The [ACM International Collegiate programming contest](http://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest) and the [International Olympiad in Informatics](http://en.wikipedia.org/wiki/International_Olympiad_in_Informatics) are two international programming competitions.
 
-I don't have experience in eithor of the above as a competitor, but I have interviewed people with experience, and they generally perform very well.
+I don't have experience in either as a competitor, but I have interviewed people with experience, and they generally perform very well.
 
 Participation goals:
 
@@ -159,17 +160,17 @@ I recommend students have awareness of a variety of compiled languages, but deve
 
 #### Python
 
-As with compiled languages, I recommend students have exposure to several, but develop proficiency in Python. Python is a widely used tool for a variety of applications from system scripting to web app development, and its terse, self-descriptive syntax makes it convenient for interview whiteboarding. It is close enough conceptually and syntactically to Ruby, PHP, and JavaScript that a student can compete effectively for roles using any of these.
+As with compiled languages, I recommend students have exposure to several scripting languages, but develop proficiency in Python. Python is a widely used tool for a variety of applications from system scripting to web app development, and its terse, self-descriptive syntax makes it convenient for interview whiteboarding. It is close enough conceptually and syntactically to Ruby, PHP, and JavaScript that a student can compete effectively for roles using any of these.
 
 #### Reading, testing, debugging, committing
 
-Interns and new grads generally have very little experience reading other people's code, testing, debugging, or working with a source control tool. This is quickly picked up on the job, but a student with some experience has a competitive advantage for a given role. The goal is to make it easy for an interviewer to imagine working with the student. The closer a student is to being a productive member of the team, the better.
+Interns and new grads generally have very little experience reading other people's code, testing, debugging, or working with a source control tool. This is quickly picked up on the job, but a student with some experience has a competitive advantage, and these tools are often already used in an academic setting, albeit perhaps not in a structured way. The goal is to make it easy for an interviewer to imagine working with the student. The closer a student is to being a productive member of the team, the better.
 
-For reviewing code, I recommend [reviewboard](http://www.reviewboard.org/). Github also provides [review tools](https://github.com/features/projects/codereview), though I don't have experience with them.
+For reviewing code, I recommend [reviewboard](http://www.reviewboard.org/) or [gerrit](http://code.google.com/p/gerrit/). Github also provides [review tools](https://github.com/features/projects/codereview), though I don't have experience with them.
 
 For testing, I recommend a basic unit test framework such as Java's [JUnit](http://www.junit.org/) and Python's [PyUnit](http://docs.python.org/library/unittest.html).
 
-For debugging, I recommend [jdb](http://docs.oracle.com/javase/1.3/docs/tooldocs/solaris/jdb.html) or [gdb](http://gcc.gnu.org/java/gdb.html) on the command-line or via an IDE.
+For debugging, I recommend [jdb](http://docs.oracle.com/javase/1.3/docs/tooldocs/solaris/jdb.html) or [gdb](http://gcc.gnu.org/java/gdb.html), on the command-line or via an IDE.
 
 For source control, I recommend [git](http://git-scm.com/) for a few reasons:
 
@@ -179,7 +180,7 @@ For source control, I recommend [git](http://git-scm.com/) for a few reasons:
 
 #### Github
 
-I recommend all students create a [Github](https://github.com/) account for a few reasons:
+I recommend all CS students create a [Github](https://github.com/) account for a few reasons:
 
 * Github is a great product and it's free
 * Github recognizes the social aspects of software development and provides tools for working collaboratively and discovering like-minded developers
