@@ -119,6 +119,14 @@ As in a school for martial arts, CoderDojo defines a set of [belts](http://coder
 
 CoderDojo started in Ireland, but has since spread around the world. The website maintains a list of locations. If there isn't one in your area, consider [starting a dojo](http://coderdojo.com/help-us/i-want-to-start-a-coderdojo-right-now/) for students and/or the community.
 
+Additional information:
+
+* GitHub's description of [its first CoderDojo session](https://github.com/blog/1062-our-first-github-coderdojo-session)
+* [CoderDojo at Dublin's Science Gallery - Silicon Republic](http://www.siliconrepublic.com/video/v/849-siliconrepublic-coms-john/)
+* [Coder Dojo - Drogheda TV](http://www.youtube.com/watch?v=TSb8bUrJ8_w)
+* [The people's republic of coders - Irish Times](http://www.irishtimes.com/newspaper/features/2012/0220/1224312045774.html)
+* [Cork Coder Dojo Lecture on CSS](http://www.youtube.com/watch?v=fGy9BO1kY5A)
+
 Participation goals:
 
  * define and develop a standard set of skills
