@@ -4,9 +4,11 @@ layout: post
 
 ## Software development
 
-### Flow
+### Starting new projects
 
 For each feature, create a wiki, throttle key, and shortcut url. For each change, create a tracking ticket and review.
+
+Develop FE & BE changes concurrently, as opposed to waiting for BE before starting FE. It's frustrating, but running FE code helps flush out BE bugs, clarify APIs, etc.
 
 ### Pair programming
 
@@ -39,13 +41,15 @@ Maintain run book for all services. This enables anyone to quickly and safely st
 
 Start with manual tests. Maintain manual test script in feature wiki.
 
-Build automated tests around complex code and regressions.
+Build automated tests around complex and high-value code and repeated regressions. Require
+
+I have yet to see an example of BDD that justifies the extra syntax and abstraction (`value1.should be_equal value2` vs `value1 == value2`).
 
 ### Debugging
 
 A debugger enables rational development and debugging, as opposed to trial-and-error print statements.
 
-Ruby has a great debugger _ruby-debug_.
+Ruby has a great debugger _ruby-debug_. See the [Ruby tools](http://erikeldridge.github.com/2012/02/16/ruby.html) post for a convenient usage reference.
 
 ### Experimentation
 
@@ -59,7 +63,7 @@ Use [Jenkins](http://jenkins-ci.org/) for CI. Jenkins is a fork of [Hudson](http
 
 ### Cost estimation
 
-Sandbag estimates for new projects.
+Use generous estimates for new projects.
 
 ### Separation of concerns
 
@@ -70,3 +74,7 @@ Splitting the FE from the BE via Thrift works well.
 ### Versioning
 
 [Semantic Versioning](http://semver.org/) defines a standard approach to versioning.
+
+### Dynamic programming
+
+Be careful with dynamically generated functionality. It can be difficult to learn and debug, which slows the pace of development.
