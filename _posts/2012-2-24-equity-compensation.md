@@ -4,30 +4,24 @@ layout: post
 
 ## Equity compensation
 
-### Options
+### Questions
 
-Questions:
-
-1. Are there any critical dates to be aware of?
-1. How much, and what kind, of gain or loss do I need to report on your tax return?
-1. What kind of options do I have?
-1. How many options have vested?
-1. What is the vesting schedule?
-1. When and how can I exercise my options?
-1. What is the exercise price?
-1. Can I pay the exercise price using the stock I own?
-1. When will the option terminate?
-1. Can I exercise after employment terminates?
-1. What happens if I die before I exercise my options?
-
-### Shares
-
-Questions:
-
+* Are there any critical dates to be aware of?
+* How much, and what kind, of gain or loss do I need to report on your tax return?
+* What kind of options do I have?
+* How many options have vested?
+* What is the vesting schedule?
+* When and how can I exercise my options?
+* What is the exercise price?
+* Can I pay the exercise price using the stock I own?
+* When will the option terminate?
+* Can I exercise after employment terminates?
+* What happens if I die before I exercise my options?
 * How many shares do I own?
 * How long have I held my shares?
 * When can I sell them?
 * How do I _identify_ the shares I want to sell?
+* Are there any _lockup_ periods I should be aware of?
 
 ### Fairmark
 
