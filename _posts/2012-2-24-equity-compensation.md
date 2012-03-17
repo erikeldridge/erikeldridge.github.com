@@ -4,10 +4,10 @@ layout: post
 
 ## Equity compensation
 
-### Questions
+### Options
 
-1. How many shares do I own?
-1. When can I sell them?
+Questions:
+
 1. Are there any critical dates to be aware of?
 1. How much, and what kind, of gain or loss do I need to report on your tax return?
 1. What kind of options do I have?
@@ -19,6 +19,15 @@ layout: post
 1. When will the option terminate?
 1. Can I exercise after employment terminates?
 1. What happens if I die before I exercise my options?
+
+### Shares
+
+Questions:
+
+* How many shares do I own?
+* How long have I held my shares?
+* When can I sell them?
+* How do I _identify_ the shares I want to sell?
 
 ### Fairmark
 
