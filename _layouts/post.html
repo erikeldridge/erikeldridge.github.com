@@ -4,7 +4,12 @@ layout: default
 
 <!-- Bootstrap markup for nested layout -->
 <div class="row">
-  <div class="span2 toc"></div>
+  <div class="span2 toc">
+
+    <!-- Prevent column from collapsing before toc is injected -->
+    &nbsp;
+
+  </div>
   <div class="span10 post">
 
     {{content}}
@@ -27,7 +32,23 @@ layout: default
     <script type="text/javascript" src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js'></script>
     <script type="text/javascript">
     $(document).ready(function(){
-      $('#markdown-toc').detach().appendTo('.toc');
+      $toc = $('#markdown-toc');
+      $('.toc').prepend($toc.detach());
+
+      // Toc has position:fixed via stylesheet
+      $toc.css('top',$toc.position().top);
+
+      var $links = $toc.find('a');
+      $links.each(function(i){
+        var $header = $( this.getAttribute('href') );
+
+        if($links.length == i + 1) return;
+        var $nextHeader = $( $links.get(i + 1).getAttribute('href') );
+
+        var height = ($nextHeader.position().top - $header.position().top)/2;
+        $toc.find('a[href=#'+$header.attr('id')+']').height(height+'px');
+      });
+
     });
     </script>
 
