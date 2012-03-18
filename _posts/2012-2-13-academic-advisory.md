@@ -3,6 +3,9 @@ layout: post
 title: thoughts on academic advisory
 ---
 
+* toc
+{:toc}
+
 ## Introduction
 
 This post is written for a faculty audience. It targets CS programs, which may be geographically distant from an established tech community.

@@ -3,6 +3,9 @@ layout: post
 title: notes on running Rails tasks via Rake
 ---
 
+* toc
+{:toc}
+
 ## Introduction
 
 I've got a rails (2.3.8) app that works with user data. I want to count certain user actions and generate a summary, but this operation is time consuming, and only it makes sense to do it offline and then send a summary somewhere. I would like to reuse my rails code to do this.

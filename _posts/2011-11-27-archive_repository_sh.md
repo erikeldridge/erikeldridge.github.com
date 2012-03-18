@@ -3,6 +3,9 @@ layout: post
 title: archive_repository.sh script
 ---
 
+* toc
+{:toc}
+
 ## Goals
 
 1. "Archive" a repository into another repository

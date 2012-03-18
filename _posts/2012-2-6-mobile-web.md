@@ -3,6 +3,9 @@ layout: post
 title: mobile web application development toolkit
 ---
 
+* toc
+{:toc}
+
 ## Feature detection
 
 Use [Divining Rod](https://github.com/mdp/divining_rod) for feature detection in Ruby.

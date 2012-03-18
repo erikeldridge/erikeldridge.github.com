@@ -3,6 +3,9 @@ layout: post
 title: thoughts on web app organization
 ---
 
+* toc
+{:toc}
+
 ## Client vs. server
 
 Here are a few general factors I consider when trying to decide what code goes in the client and what goes in the server.

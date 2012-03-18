@@ -3,6 +3,9 @@ layout: post
 title: code review toolkit
 ---
 
+* toc
+{:toc}
+
 ## Gerrit
 
 ### Common case

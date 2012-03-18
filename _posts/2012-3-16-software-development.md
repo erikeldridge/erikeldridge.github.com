@@ -3,6 +3,9 @@ layout: post
 title: software development toolkit
 ---
 
+* toc
+{:toc}
+
 ## Starting new projects
 
 For each feature, create a wiki, throttle key, and shortcut url. For each change, create a tracking ticket and review.

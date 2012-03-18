@@ -3,6 +3,9 @@ layout: post
 title: JavaScript toolkit
 ---
 
+* toc
+{:toc}
+
 ## Inheritance patterns
 
 * prototypal/classical/pseudo-classical/hacked-classical/functional
