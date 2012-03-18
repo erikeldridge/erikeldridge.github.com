@@ -1,10 +1,9 @@
 ---
 layout: post
+title: HTML5 playground
 ---
 
-## HTML5 playground
-
-### Approaches to feature detection
+## Approaches to feature detection
 
 From [the detection section of Dive into HTML5](http://diveintohtml5.info/detect.html), there are 4 approaches to feature detection.
 
@@ -54,7 +53,7 @@ From [the detection section of Dive into HTML5](http://diveintohtml5.info/detect
   </script>
 </div>
 
-### Raw detection
+## Raw detection
 
 <div id="raw-detection-output">
   <script>
@@ -78,7 +77,7 @@ From [the detection section of Dive into HTML5](http://diveintohtml5.info/detect
   </script>
 </div>
 
-### Modernizr detection
+## Modernizr detection
 
 <div id="modernizr-detection-output">
   <script src="/js/loadrunner-058e6b6.js"></script>

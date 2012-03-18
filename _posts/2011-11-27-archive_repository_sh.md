@@ -1,16 +1,15 @@
 ---
 layout: post
+title: archive_repository.sh script
 ---
 
-## archive_repository.sh
-
-### Goals
+## Goals
 
 1. "Archive" a repository into another repository
 2. Retain the source repo's history
 3. Avoid clobbering resources in either the source or the archive repositories
 
-### Terminology
+## Terminology
 
 * *archive*: to merge one repo into another, containing all new files in a given directory
 * *source repo*: the repository to archive
@@ -18,7 +17,7 @@ layout: post
 * *archive directory*: a directory created in the _source repo_ into which all files are moved. This directory is then merged into the _archive repo_
 * *archive branch*: a branch in the source repo used to contain changes and facilitate merging of resources into the _archive repo_
 
-### Overview
+## Overview
 
 The archive script accepts a github repo url and will:
 
@@ -33,12 +32,12 @@ The archive script accepts a github repo url and will:
 1. Delete the remote repo definition
 1. Delete the _archive branch_ in the _source repo_
 
-### Usage
+## Usage
 
 1. `$ bash archive_repository.sh {repo url}`
 1. `$ git push origin master`
 
-### Code
+## Code
 
 From the [archive Github repo](https://github.com/erikeldridge/archive/), Sha 050d3a93a82c265ea4688081a27b512cf7b75ea5
 

@@ -1,8 +1,7 @@
 ---
 layout: post
+title: book recommendations
 ---
-
-## Recommended books
 
 * [The Botany of Desire](http://en.wikipedia.org/wiki/The_Botany_of_Desire)
 * [The Checklist Manifesto](http://gawande.com/the-checklist-manifesto)

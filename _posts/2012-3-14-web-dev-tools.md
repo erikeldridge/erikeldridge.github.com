@@ -1,7 +1,8 @@
 ---
 layout: post
+title: web application development toolkit
 ---
 
-## Web dev tools
+## Misc
 
 * [Edit This Cookie](https://chrome.google.com/webstore/detail/fngmhnnpilhplaeedifhccceomclgfbg) Chrome plugin

@@ -1,8 +1,7 @@
 ---
 layout: post
+title: movie recommendations
 ---
-
-## Recommended movies
 
 * [Annie Hall](http://www.imdb.com/title/tt0075686/)
 * [Bill Cunningham New York](http://www.imdb.com/title/tt1621444/)

@@ -1,10 +1,9 @@
 ---
 layout: post
+title: performance toolkit
 ---
 
-## Performance
-
-### Tools
+## Tools
 
 * Mac OS X trafic shaping http://www.macgeekery.com/hacks/software/traffic_shaping_in_mac_os_x
 * Web Page Test (recommended by SPDY developer) http://www.webpagetest.org/
@@ -12,7 +11,7 @@ layout: post
 * JavaScript performance playground: http://jsperf.com/
 * YSlow
 
-### YSlow for command line
+## YSlow for command line
 
 1. Install yslow via npm as described on the YDN site: [http://developer.yahoo.com/yslow/commandline/](http://developer.yahoo.com/yslow/commandline/)
 1. Load page to evaluate in a browser supporting .har export, e.g., chrome

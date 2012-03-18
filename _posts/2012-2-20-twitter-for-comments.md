@@ -1,29 +1,28 @@
 ---
 layout: post
+title: thoughts on using Twitter for blog comments
 ---
 
-## Using Twitter for blog comments
-
-### Preamble
+## Preamble
 
 I want a way for readers to provide feedback and ask questions. I think Twitter might provide an elegant, though imperfect, solution. I'm experimenting with it via a tweet box at the bottom of each blog post.
 
-### Plus
+## Plus
 
 * Twitter is simple
 * Twitter is responsible for filtering spam
 * I use Twitter all the time, so it's direct (for me)
 
-### Neutral
+## Neutral
 
 * Comments persist on Twitter instead of on the blog
 * Comments are limited in size
 
-### Minus
+## Minus
 
 * Anyone wanting to comment must use Twitter
 
-### Discussion
+## Discussion
 
 I really like the simplicity of using a single platform for communication. I use Twitter actively, so it comes to mind as the single platform to use.
 

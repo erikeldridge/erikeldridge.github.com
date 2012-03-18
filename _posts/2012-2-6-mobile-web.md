@@ -1,18 +1,17 @@
 ---
 layout: post
+title: mobile web application development toolkit
 ---
 
-## Mobile web
-
-### Feature detection
+## Feature detection
 
 Use [Divining Rod](https://github.com/mdp/divining_rod) for feature detection in Ruby.
 
 Use [Modernizr](http://www.modernizr.com/) for feature detection in JS.
 
-### Performance
+## Performance
 
-#### HTML5 DB
+## HTML5 DB
 
 From [Suggestions for better performance](http://googlecode.blogspot.com/2009/06/gmail-for-mobile-html5-series.html):
 
@@ -20,17 +19,17 @@ From [Suggestions for better performance](http://googlecode.blogspot.com/2009/06
 * reduce and/or defer queries
 * replace multiple, sequential update queries with triggers
 
-#### App cache
+## App cache
 
 * Cache the login page, and perform authentication asyncronously rather than trying to launch an app and bouncing the user to log in if unauthenticated.
 * List as few URLs as possible in the manifest to avoid expensive refreshes when the manifest version changes
 * Including a version number in a comment in the manifest. Increment the version to force a cache refresh
 
-### Development environment
+## Development environment
 
 * Use [webkit nightly builds](http://nightly.webkit.org/) to take advantage of the latest dev tools
 
-### Resources
+## Resources
 
 * [Dive into HTML5](http://diveintohtml5.info/)
 * [Webkit's blog](http://www.webkit.org/blog), esp:

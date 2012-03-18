@@ -1,8 +1,7 @@
 ---
 layout: post
+title: deep_comparison function for Ruby hashes
 ---
-
-## Another Hash.deep_include? function for Ruby
 
 I recently wanted to check if a hash was a sub-hash of another. A colleague was writing a test for a piece of code that used a library function to make a network request. In general, this library function would send a given data object, and users of this function would augment this data with additional attributes.
 
@@ -84,6 +83,6 @@ class BasicTest < Test::Unit::TestCase
 end
 {% endhighlight %}
 
-### Learnings
+## Learnings
 
 Ruby's [_all?_](http://www.ruby-doc.org/core-1.9.3/Enumerable.html#method-i-all-3F) method is really nice. It iterates over all the elements of a collection and, as @iamnirav put it, "_and_s them together".

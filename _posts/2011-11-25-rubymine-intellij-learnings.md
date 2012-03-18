@@ -1,8 +1,9 @@
 ---
 layout: post
+title: RubyMine/Intellij toolkit
 ---
 
-## RubyMine/Intellij Learnings
+##  Learnings
 
 * The [Vim key bindings](http://plugins.intellij.net/plugin/?ruby&id=164) allow me to use a common syntax for IDE and command-line editing.
 * The [Mac OS X 10.5+ keymap](http://www.jetbrains.com/idea/documentation/index.jsp) defines a set of intuitive keybindings

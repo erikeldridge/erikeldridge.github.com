@@ -1,15 +1,14 @@
 ---
 layout: post
+title: SICP + Clojure project
 ---
 
-## SICP + Clojure
-
-### Setting up clojure
+## Setting up clojure
 
 1. Install via brew: `brew install clojure`
 1. Launch REPL: `clj`
 
-### Exercise 1.1
+## Exercise 1.1
 
 {% highlight clojure %}
 $ clj
@@ -66,7 +65,7 @@ user=> (*
 16
 {% endhighlight %}
 
-### Exercise 1.2
+## Exercise 1.2
 
 {% highlight clojure %}
 (/
@@ -75,7 +74,7 @@ user=> (*
 )
 {% endhighlight %}
 
-### Exercise 1.3
+## Exercise 1.3
 
 {% highlight clojure %}
 (defn sq [a] (* a a))
@@ -87,14 +86,14 @@ user=> (*
 )
 {% endhighlight %}
 
-### References
+## References
 
 * [Clojure cheat sheet](http://clojure.org/cheatsheet)
 * [Mark Volkmann's getting started tutorial](http://java.ociweb.com/mark/clojure/article.html)
 * [ClojureDocs](http://clojuredocs.org/)
 * [SICP book](http://mitpress.mit.edu/sicp/)
 
-### Closing pic
+## Closing pic
 
 ![Bluejay + peanut](https://lh4.googleusercontent.com/-2obx5vi-L1U/T0rDCjpuuWI/AAAAAAAAATA/K-z_zA_NeY8/s704/IMG_5219.jpg)
 
