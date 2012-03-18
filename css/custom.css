@@ -4,6 +4,7 @@ h1 {
 .toc ul {
   list-style: none;
   position: fixed;
+  margin: 0;
 }
 .toc a {
   display: block;
