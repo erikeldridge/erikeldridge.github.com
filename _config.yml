@@ -1,5 +1,10 @@
+# ref https://github.com/mojombo/jekyll/wiki/configuration
+
 # syntax highlighting
 pygments: true
 
-# https://github.com/blog/832-rolling-out-the-redcarpet
+# http://kramdown.rubyforge.org/converter/html.html
 markdown: kramdown
+
+kramdown:
+  toc_levels: 1..2
