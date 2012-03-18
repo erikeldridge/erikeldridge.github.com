@@ -22,15 +22,16 @@ layout: default
         defaultContent: '@erikeldridge '
       });
     });
+    </script>
 
-    __twttrlr(function(using){
-      using('https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js', function(){
-        var $list = $('<ul>');
-        $('h3').each(function(){
-          $list.append('<li>'+$(this).text()+'</li>');
-        });
-        $('.toc').append($list);
-      })
+    <script type="text/javascript" src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js'></script>
+    <script type="text/javascript">
+    $(document).ready(function(){
+      var $list = $('<ul>');
+      $('h2').each(function(){
+        $list.append('<li>'+$(this).text()+'</li>');
+      });
+      $('.toc').append($list);
     });
     </script>
 
