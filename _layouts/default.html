@@ -7,8 +7,8 @@
 
   <!-- Basic Page Needs
   ================================================== -->
-  <meta charset="utf-8">
   <title>{{ page.title }}</title>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
   <meta name="description" content="Erik Eldridge's blog">
   <meta name="author" content="Erik Eldridge">
   <!--[if lt IE 9]>
@@ -25,18 +25,21 @@
   <!-- Baseline -->
   <link rel="stylesheet" href="/css/min.css">
 
-  <!-- Analytics -->
+  <!-- Google analytics -->
   <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-29396549-1']);
     _gaq.push(['_trackPageview']);
-
     (function() {
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
   </script>
+
+  <!-- Load at top for auth callback perf (https://dev.twitter.com/docs/anywhere/welcome#best-practices) -->
+  <script src="http://platform.twitter.com/anywhere.js?id=Dv3XmDp1Xa3xsov71UL78w&v=1" type="text/javascript"></script>
+
   </head>
   <body>
     <div class="container">
