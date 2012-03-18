@@ -158,15 +158,15 @@ Participation goals:
 
 ## Tools
 
-## Java
+### Java
 
 I recommend students have awareness of a variety of compiled languages, but develop proficiency in one. Based on my experience, I would recommend Java. A student should be able to say "I am proficient in writing, reading, testing, and debugging in Java".
 
-## Python
+### Python
 
 As with compiled languages, I recommend students have exposure to several scripting languages, but develop proficiency in Python. Python is a widely used tool for a variety of applications from system scripting to web app development, and its terse, self-descriptive syntax makes it convenient for interview whiteboarding. It is close enough conceptually and syntactically to Ruby, PHP, and JavaScript that a student can compete effectively for roles using any of these.
 
-## Reading, testing, debugging, committing
+### Reading, testing, debugging, committing
 
 Interns and new grads generally have very little experience reading other people's code, testing, debugging, or working with a source control tool. This is quickly picked up on the job, but a student with some experience has a competitive advantage, and these tools are often already used in an academic setting, albeit perhaps not in a structured way. The goal is to make it easy for an interviewer to imagine working with the student. The closer a student is to being a productive member of the team, the better.
 
@@ -182,7 +182,7 @@ For source control, I recommend [git](http://git-scm.com/) for a few reasons:
 * git is used by many companies and [open-source projects](https://github.com/popular/watched) for source control
 * proficiency with git will make interactions with [Github](https://github.com/), which I also recommend, much more straightforward
 
-## Github
+### Github
 
 I recommend all CS students create a [Github](https://github.com/) account for a few reasons:
 
