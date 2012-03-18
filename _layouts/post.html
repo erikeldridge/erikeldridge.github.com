@@ -38,15 +38,21 @@ layout: default
       // Toc has position:fixed via stylesheet
       $toc.css('top',$toc.position().top);
 
+      // Adjust toc item heights based on content heights
       var $links = $toc.find('a');
+      var docHeight = $(document).height();
       $links.each(function(i){
-        var $header = $( this.getAttribute('href') );
+        var $currentLink = $(this);
+        var $currentHeader = $( $currentLink.attr('href') );
+        var nextLink = $links.get(i + 1);
+        if(!nextLink) return;
+        var $nextHeader = $( nextLink.getAttribute('href') );
 
-        if($links.length == i + 1) return;
-        var $nextHeader = $( $links.get(i + 1).getAttribute('href') );
+        // 300 is arbitrary max height for toc
+        var height = ($nextHeader.position().top - $currentHeader.position().top) / docHeight * 300;
 
-        var height = ($nextHeader.position().top - $header.position().top)/2;
-        $toc.find('a[href=#'+$header.attr('id')+']').height(height+'px');
+        if(height < $currentLink.height()) return;
+        $currentLink.height(height+'px');
       });
 
     });
