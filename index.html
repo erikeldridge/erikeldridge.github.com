@@ -1,22 +1,16 @@
 ---
 layout: default
 title: blog
-reference: https://github.com/BlackBulletIV/blackbulletiv.github.com/blob/master/_includes/post-listing.html
+#  https://github.com/BlackBulletIV/blackbulletiv.github.com/blob/master/_includes/post-listing.html
 ---
 
 <!-- Bootstrap markup for nested layout -->
 <div class="row">
   <div class="span12 post">
-
-    <ul>
-      {% for post in site.posts %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-          <div class="date">{{ post.date | date_to_string }}</div>
-          <div class="excerpt">{{ post.content | strip_html | truncatewords: 75 }}</div>
-        </li>
-      {% endfor %}
-    </ul>
-
+    {% for post in site.posts %}
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <div class="date">{{ post.date | date_to_string }}</div>
+      <div class="excerpt">{{ post.content | strip_html | truncatewords: 75 }}</div>
+    {% endfor %}
   </div>
 </div>
