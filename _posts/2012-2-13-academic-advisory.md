@@ -26,7 +26,7 @@ By fostering interaction with a diversity of people and ideas, a school can help
 
 LinkedIn, Twitter, Facebook, and Github provide tools for interacting online with other developers. There are also several activities in which students can participate to learn practical skills, and meet like-minded people in the developer community and employees from local companies. If there are an abundance of these activities nearby, schools can encourage students to participate. If not, schools can host these events themselves and support students by building a developer community around the school.
 
-## LinkedIn
+### LinkedIn
 
 I recommend students create a [LinkedIn](http://www.linkedin.com/) profile and populate it fully. Recruiters pay LinkedIn for access to profiles. By maintaining a profile, students are proactively providing recruiters with the most up-to-date professional description of themselves.
 
@@ -34,7 +34,7 @@ LinkedIn is also convenient for keeping in touch with colleagues, and contacting
 
 An alternative is to simply maintain a list of the people a student would want to work with again. The downside is that recruiters would not have access to the student's profile.
 
-## Twitter, Facebook, and Github
+### Twitter, Facebook, and Github
 
 I recommend students use these services to listen to the thoughts of working developers, and reduce the perceived distance between the worlds of academia and industry. This is especially relevant if the student is geographically far away from the area in which he would like to work.
 
@@ -47,7 +47,7 @@ For example, suppose a student would love to work on high-performance, backend s
 
 By listening in on a group of people like this, the student will have a much better sense for the Twitter engineering community, and whether or not it's focused on his areas of interest.
 
-## Hack days
+### Hack days
 
 A [hack day](http://en.wikipedia.org/wiki/Hack_Day) is a day devoted to creating and launching something that, for whatever reason, isn't on the roadmap, i.e., if you had a day to build anything, what would it be?  Some hack days have a contest at the end. Yahoo! runs hack days around the world that often span a weekend. Twitter just ran an internal hack event that lasted a week.
 
@@ -74,7 +74,7 @@ Costs:
 * hosts provide space and usually food
 * admission is usually free
 
-## BarCamp
+### BarCamp
 
 A BarCamp is a self-organizing conference, a.k.a., an [unconference](http://en.wikipedia.org/wiki/Unconference). Everyone is welcome, and anyone can propose a talk. A great assignment would be to attend a local BarCamp, present a brief talk on an area of interest, and report on the experience.
 
@@ -97,7 +97,7 @@ Costs:
 * admission is usually cheap
 * hosts provide space, at a minimum
 
-## Tech talks
+### Tech talks
 
 Tech talks are a great way for students to learn about interesting and novel technologies, meet representatives from the company or school hosting the talk, and meet other like-minded developers from the local community. I recommend all universities encourage students to attend talks, and/or experiment with hosting talks.
 
@@ -113,7 +113,7 @@ Participation goals:
 * meet developers in a community
 * meet employees at host companies
 
-## CoderDojo
+### CoderDojo
 
 From [the CoderDojo website's about page](http://coderdojo.com/about-us/)
 
@@ -144,7 +144,7 @@ Costs:
 * hosts provide space and teachers
 * participants may need a laptop
 
-## Programming competitions
+### Programming competitions
 
 The [ACM International Collegiate programming contest](http://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest) and the [International Olympiad in Informatics](http://en.wikipedia.org/wiki/International_Olympiad_in_Informatics) are two international programming competitions.
 
