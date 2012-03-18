@@ -187,3 +187,9 @@ I recommend all CS students create a [Github](https://github.com/) account for a
 * Having code online provides recruiting teams with a way to assess a student's skill level, especially if the student is geographically remote
 
 **Note:** please encourage students to be vigilent about maintaining the code that is viewable online. We want a recruiter's first impression to be a good one.
+
+### Conclusion
+
+I like closing technical posts with something soothing and non-cerebral. This is a woodcut print by Elizabeth Colborne called _In The Rain Forests of Washington_.
+
+![Elizabeth Colborne's "In The Rain Forests of Washington"](http://p.twimg.com/AoQIZIjCQAAm0wl.jpg)
