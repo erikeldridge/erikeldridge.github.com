@@ -4,7 +4,8 @@ layout: default
 
 <!-- Bootstrap markup for nested layout -->
 <div class="row">
-  <div class="span12 post">
+  <div class="span1 toc"></div>
+  <div class="span11 post">
 
     {{content}}
 
@@ -14,18 +15,23 @@ layout: default
 
     <div id="tweet-box"></div>
 
-    <script src="http://platform.twitter.com/anywhere.js?id=Dv3XmDp1Xa3xsov71UL78w&v=1" type="text/javascript"></script>
     <script type="text/javascript">
-
-      twttr.anywhere(function (T) {
-        var options
-        T("#tweet-box").tweetBox({
-          label: false,
-          defaultContent: '@erikeldridge '
-        });
+    twttr.anywhere(function (T) {
+      T("#tweet-box").tweetBox({
+        label: false,
+        defaultContent: '@erikeldridge '
       });
+    });
 
-
+    __twttrlr(function(using){
+      using('https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js', function(){
+        var $list = $('<ul>');
+        $('h3').each(function(){
+          $list.append('<li>'+$(this).text()+'</li>');
+        });
+        $('.toc').append($list);
+      })
+    });
     </script>
 
   </div>
