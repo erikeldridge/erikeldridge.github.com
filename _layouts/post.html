@@ -33,14 +33,26 @@ layout: default
     <script type="text/javascript">
     $(document).ready(function(){
       $toc = $('#markdown-toc');
-      $('.toc').prepend($toc.detach());
+      $toc.addClass('nav nav-pills nav-stacked');
 
-      // Toc has position:fixed via stylesheet
-      $toc.css('top',$toc.position().top);
+      if(location.hash){
+        $toc.find('a[href='+location.hash+']').parent().addClass('active');
+      }else{
+        $toc.find('li:first').addClass('active');
+      }
+
+      // Move to generated toc dom into left column & show it
+      $('.toc').prepend($toc.detach().css('display', 'block'));
 
       // Adjust toc item heights based on content heights
       var $links = $toc.find('a');
+      var $items = $toc.find('li');
       var docHeight = $(document).height();
+
+      // scroll suppport
+      // var offsets = [];
+      // var targets = [];
+
       $links.each(function(i){
         var $currentLink = $(this);
         var $currentHeader = $( $currentLink.attr('href') );
@@ -48,12 +60,31 @@ layout: default
         if(!nextLink) return;
         var $nextHeader = $( nextLink.getAttribute('href') );
 
-        // 300 is arbitrary max height for toc
-        var height = ($nextHeader.position().top - $currentHeader.position().top) / docHeight * 300;
+        // scroll support
+        // targets.push( $currentLink.attr('href') );
+        // offsets.push( $currentHeader.position().top );
 
+        var height = ($nextHeader.position().top - $currentHeader.position().top) / docHeight * 300;
         if(height < $currentLink.height()) return;
         $currentLink.height(height+'px');
       });
+
+      $toc.delegate('li', 'click', function(){
+        $items.removeClass('active');
+        $(this).addClass('active');
+      });
+
+      // scroll support
+      // $(document).delegate('body', 'click,scroll', function(){
+      //   var scrollTop = $(this).scrollTop();
+      //   for(var i = targets.length - 1; i--;){
+      //     if(scrollTop > offsets[i]){
+      //       $toc.find('.active').removeClass('active');
+      //       $toc.find('a[href='+targets[i]+']').parent().addClass('active');
+      //       return;
+      //     }
+      //   }
+      // });
 
     });
     </script>
