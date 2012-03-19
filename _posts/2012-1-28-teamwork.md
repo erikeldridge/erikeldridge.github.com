@@ -3,6 +3,9 @@ layout: post
 title: teamwork toolkit
 ---
 
+* toc
+{:toc}
+
 Here are a few things that seem to make teamwork flow smoothly.
 
 ## Get help

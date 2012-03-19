@@ -3,7 +3,10 @@ layout: post
 title: HTML5 playground
 ---
 
-## Approaches to feature detection
+* toc
+{:toc}
+
+## Feature detection
 
 From [the detection section of Dive into HTML5](http://diveintohtml5.info/detect.html), there are 4 approaches to feature detection.
 

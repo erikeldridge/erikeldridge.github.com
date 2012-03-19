@@ -3,6 +3,9 @@ layout: post
 title: deep_comparison function for Ruby hashes
 ---
 
+* toc
+{:toc}
+
 I recently wanted to check if a hash was a sub-hash of another. A colleague was writing a test for a piece of code that used a library function to make a network request. In general, this library function would send a given data object, and users of this function would augment this data with additional attributes.
 
 For example:

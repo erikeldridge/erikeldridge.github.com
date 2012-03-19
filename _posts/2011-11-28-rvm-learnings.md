@@ -3,6 +3,9 @@ layout: post
 title: RVM toolkit
 ---
 
+* toc
+{:toc}
+
 ## Environments
 
 Run `rvm list` to see which environments are available.

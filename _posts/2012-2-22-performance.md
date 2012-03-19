@@ -3,6 +3,9 @@ layout: post
 title: performance toolkit
 ---
 
+* toc
+{:toc}
+
 ## Tools
 
 * Mac OS X trafic shaping http://www.macgeekery.com/hacks/software/traffic_shaping_in_mac_os_x
@@ -11,7 +14,7 @@ title: performance toolkit
 * JavaScript performance playground: http://jsperf.com/
 * YSlow
 
-## YSlow for command line
+## YSlow command line
 
 1. Install yslow via npm as described on the YDN site: [http://developer.yahoo.com/yslow/commandline/](http://developer.yahoo.com/yslow/commandline/)
 1. Load page to evaluate in a browser supporting .har export, e.g., chrome

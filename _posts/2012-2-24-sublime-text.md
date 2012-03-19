@@ -3,6 +3,9 @@ layout: post
 title: Sublime Text toolkit
 ---
 
+* toc
+{:toc}
+
 Install [Sublime Text 2](http://www.sublimetext.com/2).
 
 ## Package Control

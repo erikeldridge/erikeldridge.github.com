@@ -17,7 +17,7 @@ Rake comes to mind as a convenient manager for this task, so here's my approach:
 1. email the summary
 1. run this task via cron
 
-## Defining a rake task & fetching data
+## Defining task
 
 I chose to define my task in a file called _lib/tasks/cron.rake_. (My app's _Rakefile_ includes all _.rake_ files under _lib/tasks/_ via _vendor/rails/railties/lib/tasks/rails.rb_.
 
@@ -51,7 +51,7 @@ end
 
 *Note:* by depending on the _environment_ task, i.e. `task :process_events => :environment do` we can access our rails environment.
 
-## Emailing the data
+## Emailing data
 
 I want to mail this info out, so I need to create an ActionMailer class and view:
 
@@ -105,7 +105,7 @@ task :process_events => :environment do
 end
 {% endhighlight %}
 
-## Scheduling this task via cron
+## Scheduling task
 
 The project changed before this step became necessary, but here is the approach I would use to run this task every night:
 

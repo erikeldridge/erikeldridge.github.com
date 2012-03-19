@@ -3,6 +3,9 @@ layout: post
 title: The Growth Phase image
 ---
 
+* toc
+{:toc}
+
 <embed src="http://erikeldridge.github.com/img/growth_phase_250x250.svg" type="image/svg+xml" width="250" height="250"></embed>
 
 <p>

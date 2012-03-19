@@ -3,6 +3,9 @@ layout: post
 title: equity compensation toolkit
 ---
 
+* toc
+{:toc}
+
 ## Questions
 
 * Are there any critical dates to be aware of?

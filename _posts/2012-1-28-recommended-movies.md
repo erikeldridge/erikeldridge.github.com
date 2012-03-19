@@ -3,6 +3,9 @@ layout: post
 title: movie recommendations
 ---
 
+* toc
+{:toc}
+
 * [Annie Hall](http://www.imdb.com/title/tt0075686/)
 * [Bill Cunningham New York](http://www.imdb.com/title/tt1621444/)
 * [Bridget Jone's Diary](http://www.imdb.com/title/tt0243155/)

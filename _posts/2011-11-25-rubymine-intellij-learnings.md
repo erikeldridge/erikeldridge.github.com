@@ -3,6 +3,9 @@ layout: post
 title: RubyMine/Intellij toolkit
 ---
 
+* toc
+{:toc}
+
 ##  Learnings
 
 * The [Vim key bindings](http://plugins.intellij.net/plugin/?ruby&id=164) allow me to use a common syntax for IDE and command-line editing.

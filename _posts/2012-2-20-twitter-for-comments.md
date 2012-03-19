@@ -3,6 +3,9 @@ layout: post
 title: thoughts on using Twitter for blog comments
 ---
 
+* toc
+{:toc}
+
 ## Preamble
 
 I want a way for readers to provide feedback and ask questions. I think Twitter might provide an elegant, though imperfect, solution. I'm experimenting with it via a tweet box at the bottom of each blog post.
