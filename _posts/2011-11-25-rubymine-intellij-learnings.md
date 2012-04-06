@@ -1,5 +1,6 @@
 ---
 layout: default
+title: rubymine-intellij-learnings
 ---
 
-This content is being maintained on [http://erikeldridge.com/blog/rubymine](http://erikeldridge.com/blog/rubymine).
+This content is being maintained on [http://erikeldridge.com/blog/rubymine-intellij-learnings](http://erikeldridge.com/blog/rubymine-intellij-learnings).

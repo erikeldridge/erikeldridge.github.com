@@ -1,5 +1,6 @@
 ---
 layout: default
+title: the-growth-phase
 ---
 
-This content is being maintained on [http://erikeldridge.com/blog/the](http://erikeldridge.com/blog/the).
+This content is being maintained on [http://erikeldridge.com/blog/the-growth-phase](http://erikeldridge.com/blog/the-growth-phase).

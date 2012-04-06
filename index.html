@@ -7,10 +7,9 @@ title: blog
 <!-- Bootstrap markup for nested layout -->
 <div class="row">
   <div class="span12 post">
+    This content is now being maintained on <a href="http://erikeldridge.com/blog/">http://erikeldridge.com/blog/</a>
     {% for post in site.posts %}
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <div class="date">{{ post.date | date_to_string }}</div>
-      <div class="excerpt">{{ post.content | strip_html | truncatewords: 75 }}</div>
+      <h2><a href="http://erikeldridge.com/blog/{{ post.title }}">{{ post.title }}</a></h2>
     {% endfor %}
   </div>
 </div>
