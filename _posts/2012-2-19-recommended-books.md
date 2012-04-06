@@ -1,11 +1,5 @@
 ---
-layout: post
-title: book recommendations
+layout: default
 ---
 
-* toc
-{:toc}
-
-* [The Botany of Desire](http://en.wikipedia.org/wiki/The_Botany_of_Desire)
-* [The Checklist Manifesto](http://gawande.com/the-checklist-manifesto)
-* [Javascript:The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
+This content is being maintained on [http://erikeldridge.com/blog/recommended](http://erikeldridge.com/blog/recommended).

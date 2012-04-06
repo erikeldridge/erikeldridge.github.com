@@ -1,11 +1,5 @@
 ---
-layout: post
-title: web application development toolkit
+layout: default
 ---
 
-* toc
-{:toc}
-
-## Misc
-
-* [Edit This Cookie](https://chrome.google.com/webstore/detail/fngmhnnpilhplaeedifhccceomclgfbg) Chrome plugin
+This content is being maintained on [http://erikeldridge.com/blog/web](http://erikeldridge.com/blog/web).

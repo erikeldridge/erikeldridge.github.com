@@ -1,6 +1,5 @@
 ---
-layout: post
-title: thoughts on ephemerality and Twitter
+layout: default
 ---
 
-One thing I like about Twitter's culture is its appreciation of ephemerality. Phenomena come and go, and come around again. There's less need to hold onto something if we can easily find it again and re-share it.
+This content is being maintained on [http://erikeldridge.com/blog/come](http://erikeldridge.com/blog/come).
