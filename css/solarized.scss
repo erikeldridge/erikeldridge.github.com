@@ -39,6 +39,10 @@ html * {
     color-profile: sRGB;
     rendering-intent: auto;
 }
+.profile-img {
+  margin: 20px 0;
+  border: 1px solid $base00;
+}
 #footer {
   background-color: $base2;
 }
