@@ -50,5 +50,10 @@ html * {
   color-profile: sRGB;
   rendering-intent: auto; }
 
+.profile-img {
+  margin: 20px 0;
+  border: 1px solid #657b83;
+}
+
 #footer {
   background-color: #eee8d5; }
