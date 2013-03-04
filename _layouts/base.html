@@ -39,7 +39,8 @@
       </div>
       <script type="text/javascript">
         var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-29396549-1']);
+        _gaq.push(['_setAccount',
+          document.location.hostname === 'erikeldridge.com' ? 'UA-11965110-1' : 'UA-29396549-1']);
         _gaq.push(['_trackPageview']);
         (function() {
           var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
