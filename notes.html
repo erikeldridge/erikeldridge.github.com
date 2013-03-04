@@ -1,0 +1,19 @@
+---
+layout: base
+---
+
+<div class="row">
+  <div class="span12">
+    {% for post in site.posts %}
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    {% endfor %}
+  </div>
+</div>
+<div class="row">
+  <div class="span12">
+    <a href="/">Home</a> -
+    <a href="http://twitter.com/erikeldridge">Twitter</a> -
+    <a href="http://twitter.com/github">Github</a> -
+    <a href="/notes.html">Notes</a>
+  </div>
+</div>
