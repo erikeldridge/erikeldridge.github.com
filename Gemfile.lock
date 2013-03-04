@@ -20,6 +20,7 @@ GEM
       syntax (>= 1.0.0)
     posix-spawn (0.3.6)
     redcarpet (1.17.2)
+    sass (3.2.6)
     syntax (1.0.0)
 
 PLATFORMS
@@ -29,3 +30,4 @@ DEPENDENCIES
   jekyll
   liquid (= 2.2.2)
   redcarpet (= 1.17.2)
+  sass
