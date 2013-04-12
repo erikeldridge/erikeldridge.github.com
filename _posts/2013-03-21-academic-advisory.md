@@ -1,7 +1,12 @@
-title: academic advisory
-tags: academic advisory
+---
 layout: note
-updated: 2-13-2012
+---
+
+## Contents
+{:.no_toc}
+
+* toc
+{:toc}
 
 
 ## Introduction
