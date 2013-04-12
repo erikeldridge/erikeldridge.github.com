@@ -217,7 +217,7 @@ I recommend all CS students create a [Github](https://github.com/) account for a
 
 ## Pre-college
 
-See [recent article on Vietnamese education|http://neil.fraser.name/news/2013/03/16/] wrt Google's hiring criteria:
+See recent [article on Vietnamese education wrt Google's hiring criteria](http://neil.fraser.name/news/2013/03/16/):
 
 > There is no question that half of the students in that grade 11 class could pass the Google interview process.
 
