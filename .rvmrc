@@ -1,1 +1,1 @@
-rvm ruby-1.9.3-p327@erikeldridge.github.com --create
+rvm use ruby-1.9.3-p327@erikeldridge.github.com --create
