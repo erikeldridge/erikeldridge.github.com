@@ -3,9 +3,11 @@ title: TwOAuth with Twython
 layout: note
 ---
 
-[Twython](https://github.com/ryanmcgrath/twython) makes signed requests to the Twitter API easy.
+A quick, command-line sanity check can help when debugging calls to Twitter's API.
 
-The OAuth token generation tool on [dev.twitter.com](http://dev.twitter.com) make it even easier.
+[Twython](https://github.com/ryanmcgrath/twython) makes signed requests to the API easy.
+
+The OAuth token generation tool on [dev.twitter.com](http://dev.twitter.com) make things even easier.
 
 #### First, create Twitter app
 
@@ -27,7 +29,7 @@ The OAuth token generation tool on [dev.twitter.com](http://dev.twitter.com) mak
 #### $$$
 
 1. Fetch anything described in twython's [api_table](https://github.com/ryanmcgrath/twython/blob/master/twython/endpoints.py)
-1. Fetch anything unsupported via [twython's _request_ method](https://github.com/ryanmcgrath/twython/blob/master/twython/twython.py#L209)
+1. Fetch anything unsupported, e.g., API v1, via [twython's _request_ method](https://github.com/ryanmcgrath/twython/blob/master/twython/twython.py#L209)
 1. See the Python's [json documentation](http://docs.python.org/2/library/json.html) for parse and pretty print instructions
 
 
