@@ -220,8 +220,3 @@ I recommend all CS students create a [Github](https://github.com/) account for a
 See recent [article on Vietnamese education wrt Google's hiring criteria](http://neil.fraser.name/news/2013/03/16/):
 
 > There is no question that half of the students in that grade 11 class could pass the Google interview process.
-
-
-#### Conclusion
-
-<a href="http://www.flickr.com/photos/powi/899915960/" title="Helenium autumnale  ~ Solbrud by Per Ola Wiberg ~ Powi, on Flickr"><img src="http://farm2.staticflickr.com/1363/899915960_53b9743499.jpg" width="500" height="370" alt="Helenium autumnale  ~ Solbrud"></a>
