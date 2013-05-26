@@ -1,12 +1,10 @@
-title: management
+---
 tags: management
+layout: note
 updated: 4-10-2012
+---
 
-
-# Management
-
-
-## Asynchronous communication
+#### Asynchronous communication
 
 Use group IM (Campfire, HipChat, etc) where possible.
 
@@ -15,19 +13,13 @@ Use task tracking tool for project state management. Invest in usable UI and aut
 Use wiki for documentation. Actively prune. Invest in tools to indicate content freshness.
 
 
-## Quiet
+#### Quiet
 
 Establish weekly no-meeting days, and quarterly no-meeting weeks.
 
 Place high cost on personal interaction. Prefer async comms.
 
 
-## Hiring
+#### Hiring
 
 Run batch interview days to minimize context switching for interviewers, and increase relative grading ability.
-
-
-
-
-
-
