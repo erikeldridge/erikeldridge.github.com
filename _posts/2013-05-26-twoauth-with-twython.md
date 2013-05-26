@@ -1,6 +1,7 @@
 ---
 title: TwOAuth with Twython
 layout: note
+description: Instructions for sanity-checking calls to Twitter's API using Twython
 ---
 
 A quick, command-line sanity check can help when debugging calls to Twitter's API.
