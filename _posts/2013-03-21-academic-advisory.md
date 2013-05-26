@@ -2,21 +2,21 @@
 layout: note
 ---
 
-## Contents
+#### Contents
 {:.no_toc}
 
 * toc
 {:toc}
 
 
-## Introduction
+#### Introduction
 
 This post is written for a faculty audience. It targets CS programs, which may be geographically distant from an established tech community.
 
 I primarily develop applications using open-source tools, so my recommendations are informed by that industry and tool set.
 
 
-## Motivation
+#### Motivation
 
 Above all else, I recommend helping students discover and explore their interests, so they can then compete effectively for jobs aligned with those interests. Hopefully, each student will find a career in which she loves going to work, and derives real, personal value from her contribution.
 
@@ -25,14 +25,14 @@ To perform well in an interview and in the workplace, we all have to demonstrate
 I recommend asking students regularly to describe what they would like to learn about, and include the resulting feedback in an academic advisory setting.
 
 
-## Community
+#### Community
 
 By fostering interaction with a diversity of people and ideas, a school can help a student refine her career goals. By including employers in this interaction, a school can expose students directly, and under the best of circumstances, with employment opportunities.
 
 LinkedIn, Twitter, Facebook, and Github provide tools for interacting online with other developers. There are also several activities in which students can participate to learn practical skills, and meet like-minded people in the developer community and employees from local companies. If there are an abundance of these activities nearby, schools can encourage students to participate. If not, schools can host these events themselves and support students by building a developer community around the school.
 
 
-### LinkedIn
+##### LinkedIn
 
 I recommend students create a [LinkedIn](http://www.linkedin.com/) profile and populate it fully. Recruiters pay LinkedIn for access to profiles. By maintaining a profile, students are proactively providing recruiters with the most up-to-date professional description of themselves.
 
@@ -41,7 +41,7 @@ LinkedIn is also convenient for keeping in touch with colleagues, and contacting
 An alternative is to simply maintain a list of the people a student would want to work with again. The downside is that recruiters would not have access to the student's profile.
 
 
-### Twitter, Facebook, and Github
+##### Twitter, Facebook, and Github
 
 I recommend students use these services to listen to the thoughts of working developers, and reduce the perceived distance between the worlds of academia and industry. This is especially relevant if the student is geographically far away from the area in which he would like to work.
 
@@ -55,7 +55,7 @@ For example, suppose a student would love to work on high-performance, backend s
 By listening in on a group of people like this, the student will have a much better sense for the Twitter engineering community, and whether or not it's focused on his areas of interest.
 
 
-### Hack days
+##### Hack days
 
 A [hack day](http://en.wikipedia.org/wiki/Hack_Day) is a day devoted to creating and launching something that, for whatever reason, isn't on the roadmap, i.e., if you had a day to build anything, what would it be? (The answer to this question is also an incredibly important signal regarding career choice.) Some hack days have a contest at the end. Yahoo! runs hack days around the world that often span a weekend. Twitter runs a quartlery hack event that lasts a week.
 
@@ -83,7 +83,7 @@ Costs:
 * admission is usually free
 
 
-### BarCamp
+##### BarCamp
 
 A BarCamp is a self-organizing conference, a.k.a., an [unconference](http://en.wikipedia.org/wiki/Unconference). Everyone is welcome, and anyone can propose a talk. A great assignment would be to attend a local BarCamp, present a brief talk on an area of interest, and report on the experience.
 
@@ -106,7 +106,7 @@ Costs:
 * hosts provide space, at a minimum
 
 
-### Tech talks
+##### Tech talks
 
 Tech talks are a great way for students to learn about interesting and novel technologies, meet representatives from the company or school hosting the talk, and meet other like-minded developers from the local community. I recommend all universities encourage students to attend talks, and/or experiment with hosting talks.
 
@@ -127,7 +127,7 @@ Costs:
 * meetups are usually free
 
 
-### CoderDojo
+##### CoderDojo
 
 From [the CoderDojo website's about page](http://coderdojo.com/about-us/)
 
@@ -159,7 +159,7 @@ Costs:
 * participants may need a laptop
 
 
-### Programming competitions
+##### Programming competitions
 
 The [ACM International Collegiate programming contest](http://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest) and the [International Olympiad in Informatics](http://en.wikipedia.org/wiki/International_Olympiad_in_Informatics) are two international programming competitions.
 
@@ -172,20 +172,20 @@ Participation goals:
 * experience working with a team, and integrating with a larger developer community
 
 
-## Tools
+#### Tools
 
 
-### Java
+##### Java
 
 I recommend students have awareness of a variety of compiled languages, but develop proficiency in one. Based on my experience, I would recommend Java. A student should be able to say "I am proficient in writing, reading, testing, and debugging in Java".
 
 
-### Python
+##### Python
 
 As with compiled languages, I recommend students have exposure to several interpretted languages, but develop proficiency in Python. Python is a widely used tool for a variety of applications from system scripting to web app development, and its terse, self-descriptive syntax makes it convenient for interview whiteboarding. It is close enough conceptually and syntactically to Ruby, PHP, and JavaScript that a student can compete effectively for roles using any of these.
 
 
-### Reading, testing, debugging, committing
+##### Reading, testing, debugging, committing
 
 Interns and new grads generally have very little experience reading other people's code, testing, debugging, or working with a source control tool. This is quickly picked up on the job, but a student with some experience has a competitive advantage, and these tools are often already used in an academic setting, albeit perhaps not in a structured way. The goal is to make it easy for an interviewer to imagine working with the student. The closer a student is to being a productive member of the team, the better.
 
@@ -204,7 +204,7 @@ For source control, I recommend [git](http://git-scm.com/) for a few reasons:
 * proficiency with git will make interactions with [Github](https://github.com/), which I also recommend, much more straightforward
 
 
-### Github
+##### Github
 
 I recommend all CS students create a [Github](https://github.com/) account for a few reasons:
 
@@ -215,13 +215,13 @@ I recommend all CS students create a [Github](https://github.com/) account for a
 **Note:** please encourage students to be vigilent about maintaining the code that is viewable online. We want a recruiter's first impression to be a good one.
 
 
-## Pre-college
+#### Pre-college
 
 See recent [article on Vietnamese education wrt Google's hiring criteria](http://neil.fraser.name/news/2013/03/16/):
 
 > There is no question that half of the students in that grade 11 class could pass the Google interview process.
 
 
-## Conclusion
+#### Conclusion
 
 <a href="http://www.flickr.com/photos/powi/899915960/" title="Helenium autumnale  ~ Solbrud by Per Ola Wiberg ~ Powi, on Flickr"><img src="http://farm2.staticflickr.com/1363/899915960_53b9743499.jpg" width="500" height="370" alt="Helenium autumnale  ~ Solbrud"></a>
