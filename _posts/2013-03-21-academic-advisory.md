@@ -22,6 +22,8 @@ Above all else, I recommend helping students discover and explore their interest
 
 To perform well in an interview and in the workplace, we all have to demonstrate passion for the role. A dispassionate applicant may possess exceptional technical skill, and yet be passed over for someone with less experience, but a strong sense for the product and a motivation to learn.
 
+[David Byttow](https://medium.com/@guitardave24) elucidates this well in his posts [ABC: Always Be Coding](https://medium.com/tech-talk/d5f8051afce2) and [Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/8f381aa6bd5e). Note that he doesn't have a degree.
+
 I recommend asking students regularly to describe what they would like to learn about, and include the resulting feedback in an academic advisory setting.
 
 
@@ -54,6 +56,7 @@ For example, suppose a student would love to work on high-performance, backend s
 
 By listening in on a group of people like this, the student will have a much better sense for the Twitter engineering community, and whether or not it's focused on his areas of interest.
 
+The NPR program [Help for Job Searching with Social Media](http://www.npr.org/blogs/thisisnpr/2013/01/07/168608321/help-for-job-searching-with-social-media) ([summarized on storify](http://storify.com/ThisIsLars/nprtwitterchat-recap)) described this well.
 
 ##### Hack days
 
@@ -220,3 +223,4 @@ I recommend all CS students create a [Github](https://github.com/) account for a
 See recent [article on Vietnamese education wrt Google's hiring criteria](http://neil.fraser.name/news/2013/03/16/):
 
 > There is no question that half of the students in that grade 11 class could pass the Google interview process.
+
