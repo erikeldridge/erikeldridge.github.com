@@ -16,16 +16,16 @@ This post is written for a faculty audience. It targets CS programs, which may b
 I primarily develop applications using open-source tools, so my recommendations are informed by that industry and tool set.
 
 
-#### Motivation
+#### Passion
 
 Above all else, I recommend helping students discover and explore their interests, so they can then compete effectively for jobs aligned with those interests. Hopefully, each student will find a career in which she loves going to work, and derives real, personal value from her contribution.
 
 To perform well in an interview and in the workplace, we all have to demonstrate passion for the role. A dispassionate applicant may possess exceptional technical skill, and yet be passed over for someone with less experience, but a strong sense for the product and a motivation to learn.
 
-[David Byttow](https://medium.com/@guitardave24) elucidates this well in his posts [ABC: Always Be Coding](https://medium.com/tech-talk/d5f8051afce2) and [Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/8f381aa6bd5e). Note that he doesn't have a degree.
+[David Byttow](https://medium.com/@guitardave24) elucidates this well in his posts [ABC: Always Be Coding](https://medium.com/tech-talk/d5f8051afce2) and [Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/8f381aa6bd5e). As an aside, his second post argues you don't need a degree to compete effectively.
+School is not strictly necessary, but does provide a structure for learning. Just as employment by a company is not necessary for livelihood, but does provide structure for compensation.
 
-I recommend asking students regularly to describe what they would like to learn about, and include the resulting feedback in an academic advisory setting.
-
+An academic program shouldn't produce robots; creativity and initiative are incredibly important. I recommend asking students regularly to describe what they would like to learn about and why, and including the resulting feedback in an academic advisory setting.
 
 #### Community
 
