@@ -54,9 +54,10 @@ For example, suppose a student would love to work on high-performance, backend s
 1. find all the people listed under "Organization Members" on Twitter's Github page
 1. follow all of them on Github and Twitter
 
-By listening in on a group of people like this, the student will have a much better sense for the Twitter engineering community, and whether or not it's focused on his areas of interest.
+By listening in on a group of people like this, the student will have a much better sense for the Twitter engineering community, and whether or not it's focused on his areas of interest. The NPR program [Help for Job Searching with Social Media](http://www.npr.org/blogs/thisisnpr/2013/01/07/168608321/help-for-job-searching-with-social-media) ([summarized on storify](http://storify.com/ThisIsLars/nprtwitterchat-recap)) describes this well.
 
-The NPR program [Help for Job Searching with Social Media](http://www.npr.org/blogs/thisisnpr/2013/01/07/168608321/help-for-job-searching-with-social-media) ([summarized on storify](http://storify.com/ThisIsLars/nprtwitterchat-recap)) described this well.
+<blockquote class="twitter-tweet"><p>A1. You find a job on Twitter by following companies &amp; people in your industry who share relevant &amp; interesting info. <a href="https://twitter.com/search/%23nprtwitterchat">#nprtwitterchat</a></p>&mdash; Laurie Ruettimann (@lruettimann) <a href="https://twitter.com/lruettimann/status/297102415600177152">January 31, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ##### Hack days
 
