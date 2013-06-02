@@ -23,9 +23,9 @@ Above all else, I recommend helping students discover and explore their interest
 To perform well in an interview and in the workplace, we all have to demonstrate passion for the role. A dispassionate applicant may possess exceptional technical skill, and yet be passed over for someone with less experience, but a strong sense for the product and a motivation to learn.
 
 [David Byttow](https://medium.com/@guitardave24) elucidates this well in his posts [ABC: Always Be Coding](https://medium.com/tech-talk/d5f8051afce2) and [Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/8f381aa6bd5e). As an aside, his second post argues you don't need a degree to compete effectively.
-School is not strictly necessary, but does provide a structure for learning. Just as employment by a company is not necessary for livelihood, but does provide structure for compensation.
+I believe school is not strictly necessary, but does provide a structure for learning, just as employment by a company is not necessary for livelihood, but does provide structure for compensation.
 
-An academic program shouldn't produce robots; creativity and initiative are incredibly important. I recommend asking students regularly to describe what they would like to learn about and why, and including the resulting feedback in an academic advisory setting.
+An academic program should encourage creativity and self-direction. Two softare development tasks are rarely the same, and it's often up to the developer to make an educated guess about which aproach to take. I recommend asking students regularly to describe what they would like to learn about and why, and including the resulting feedback in an academic advisory setting.
 
 #### Community
 
