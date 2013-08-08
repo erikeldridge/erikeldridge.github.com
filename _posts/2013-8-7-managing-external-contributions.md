@@ -1,14 +1,21 @@
 ---
-layout: note
+layout: base
 updated: 8-6-2013
 ---
 
 
-#### Managing external contributions
+# Managing external contributions
+
+* toc
+{:toc}
+
+
+## Introduction
 
 Conceptually, management can be broken down to enabling self-determination and providing community.
 
 Goals:
+
 * Consistency
 * Scale
 * Professional development
@@ -16,19 +23,19 @@ Goals:
 * Safety
 
 
-##### Self-determination
+## Self-determination
 
 To commit to making a reasonable change in a project and not being able to contribute is frustrating and complicates planning. The core team should define a clear path for contributors.
 
 This path should cover accessing, setting up, modifying, building, commiting, and releasing changes.
 
 
-###### Getting started
+### Getting started
 
 To get started, we need information, so create discoverable documentation, host training, define starter projects new contributors can pick up, and provide a forum for asking questions efficiently.
 
 
-####### Discoverable documentation
+#### Discoverable documentation
 
 Folks new to a given code base should be able to find the on-ramp independently.
 
@@ -45,7 +52,7 @@ Requirements:
 * Consistency across teams
 
 
-####### Classes
+#### Classes
 
 Run periodic, structured classes for training new contributors.
 
@@ -66,7 +73,7 @@ Requirements:
 * Access to starter project list
 
 
-####### Starter projects
+#### Starter projects
 
 Maintain a list of easy changes appropriate for new contributors.
 
@@ -87,7 +94,7 @@ Requirements:
 * Low complexity
 
 
-####### Getting help
+#### Getting help
 
 At some point, new contributors will need help. Provide an efficient way to get it
 
@@ -107,7 +114,7 @@ Requirements:
 * Budget time for providing help
 
 
-####### Learning more
+#### Learning more
 
 Example:
 
@@ -121,7 +128,7 @@ Goals:
 * Talent acquisition
 
 
-###### Building
+### Building
 
 Anything required for building the project should be straightforward. Anything unintuitive will slow those asking and answering questions.
 
@@ -140,7 +147,7 @@ Requirements:
 * Time budgeted to improve build systems
 
 
-####### Stable env
+#### Stable env
 
 Consider external contributors when scheduling large, breaking changes
 
@@ -149,7 +156,7 @@ Example:
 * Avoid merging changes that break the env just before a deadline affecting contributors.
 
 
-####### Supported editor
+#### Supported editor
 
 If particular editor exists for the type of code in a project, and a significant number of people use it, support it.
 
@@ -159,12 +166,12 @@ Examples:
 * Creating a set up script for editor configuration
 
 
-###### Committing
+### Committing
 
 Anything required for committing code should be straightforward. Anything arbitrary will slow the review process
 
 
-####### Rational
+#### Rational
 
 The rules should be rational. Avoid superstition. Learning the rules should improve a developer's skill set
 
@@ -179,7 +186,7 @@ Examples:
 * Documenting the rationale behind non-obvious rules
 
 
-######## Consistent
+#### Consistent
 
 The rules applying to the core team should be as transparent as those applying to external contributors. All contributing teams should be following the same rule set.
 
@@ -189,7 +196,7 @@ Goals:
 * Fewer questions about, and requests to bend, the rules
 
 
-######## Programmatic enforcement
+#### Programmatic enforcement
 
 Ideally, we could programmaticlaly enforce everything we care about. Baring that, we should prog enforce as much as possible
 
@@ -211,7 +218,7 @@ Examples:
 * Defining a build tool, like gradle or ant, to run all the programmatic checks; using this same tool in CI
 
 
-######## SME
+#### SME
 
 Define a subject matter expert (SME) for each core component of the project, and publish the list of SMEs. There should be no mystery about who to talk to regarding significant components in a project.
 
@@ -231,12 +238,12 @@ Requirements:
 * Willingness to specialize in a core component
 
 
-###### Releasing
+### Releasing
 
 Contributors should be able to easily find and comprehend the release process and schedule.
 
 
-######## Clear process
+#### Clear process
 
 Simply state the intended process.
 
@@ -246,7 +253,7 @@ Goals:
 * Self-serve
 
 
-######## Automate
+#### Automate
 
 As much as possible automate the release process.
 
@@ -259,7 +266,7 @@ Goals:
 * Reduced stress on human gate-keepers
 
 
-######## Platform-appropriate
+#### Platform-appropriate
 
 Take advantage of all the features available for releasing on a given platform
 
@@ -273,7 +280,7 @@ Goals:
 * Rational release process
 
 
-##### Community
+## Community
 
 The community supports the individual and is larger than the individual. Belonging to a community feels good. As contributors join the community, they should be encouraged and required to share the cost of production.
 
@@ -285,7 +292,7 @@ Goals:
 * A decrease in the work load for members of the community
 
 
-###### Shared cost
+### Shared cost
 
 Production requires effort in the form of code reviews, bug triage, incident response, and developer support. As contributors join the community, they should be able and encouraged to help in this effort.
 
@@ -296,7 +303,7 @@ Goals:
 * Increased production capacity
 
 
-####### Code reviews
+#### Code reviews
 
 If manual code reviews are a component of production, enable contributors to participate.
 
@@ -320,12 +327,12 @@ Note these all involve sharing the cost of production and building trust. Many c
 Provide feedback to those working toward approval status to enable efficient progress.
 
 
-####### Bug triage
+#### Bug triage
 
 As bug are reported, one or more people must triage them. As the community grows, more people become eligible to help.
 
 
-####### On call
+#### On call
 
 Increasing contributors and contributions rapidly is risky. To offset this risk, enable contributors to participate in the on call rotation.
 
@@ -335,7 +342,7 @@ Examples:
 * Providing a diagnostic checklist
 
 
-###### Providing help
+#### Providing help
 
 New contributors can help other with the basics of getting started.
 
