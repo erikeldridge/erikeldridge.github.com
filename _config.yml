@@ -2,3 +2,5 @@
 permalink: /notes/:title.html
 pygments: true
 markdown: kramdown
+kramdown:
+  toc_levels: 2..5
