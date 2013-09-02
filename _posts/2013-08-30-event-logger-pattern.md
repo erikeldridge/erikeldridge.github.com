@@ -7,7 +7,7 @@ layout: base
 The event logger pattern has five parts:
 
 1. An event format convention
-1. An app that logs events
+1. An event generator that logs events
 1. A server that streams the event log
 1. A listener that fetches and parses the event stream
 1. A callback that operates on the events
@@ -24,42 +24,51 @@ Generally, events will be associated with a session, so it would make sense to i
 Elaborate event formats may require more structure to facilitate storage and processing.
 
 
-## App
+## Generator
 
 We need something to generate the events. For example, if we have an HTTP server handling client requests, it can be the generator:
 
-    http = require 'http'
-    winston = require 'winston'
+    import os
+    import logging
+    from flask import Flask
 
-    winston.add(winston.transports.File, { filename: 'event.log' });
+    app = Flask(__name__)
 
-    server = http.createServer (req, res) ->
+    @app.route('/')
+    def home():
+        logging.basicConfig(filename='event.log', level=logging.INFO)
 
-      # Log event
-      winston.info 'impression'
+        # Log event
+        logging.info('impression')
 
-      res.end ':)\n'
-    server.listen 8000
+        return ':)'
+
+    if __name__ == "__main__":
+        app.run()
 
 
 ## Server
 
 We need something to make the event log available to listeners. The code below "tails" the contents of the event log as an HTTP stream:
 
-    http = require "http"
-    Tail = require("tail").Tail;
+    import os
+    import subprocess
+    from flask import Flask, Response
 
-    tail = new Tail "event.log"
+    app = Flask(__name__)
 
-    server = http.createServer (req, res) ->
-      res.writeHead 200, {"Content-Type": "application/json"}
+    @app.route('/')
+    def events():
 
-      # Stream event log
-      tail.on "line", (data) ->
-        res.write data
+        # Stream event log
+        f = subprocess.Popen(['tail','-F','event.log'], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        def tail():
+            while True:
+                yield f.stdout.readline()
+        return Response(tail(), mimetype='text/plain')
 
-      res.end '\n'
-    server.listen 8001
+    if __name__ == "__main__":
+        app.run('127.0.0.1', 5001)
 
 
 ## Listener
@@ -68,19 +77,18 @@ We can use anything capable of ingesting an HTTP stream to listen.
 
 For example:
 
-    http = require "http"
+    import requests
+    import re
 
-    req = http.request {port:8001, headers:{"Connection: keep-alive"}}, (res) ->
-      res.setEncoding('utf8');
-      res.on "data", (chunk) ->
+    r = requests.get('http://127.0.0.1:5001', stream=True)
 
-        # Listen for "impression" events
-        if chunk.match /impression/
+    for line in r.iter_lines():
 
-          # Callback
-          console.log chunk
+        # Listen for impression events
+        if re.search('impression', line):
 
-    req.end()
+            # Callback
+            print line
 
 
 ## Callback
