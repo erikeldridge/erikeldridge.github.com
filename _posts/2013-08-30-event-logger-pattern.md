@@ -19,7 +19,7 @@ The examples below use an intermediate log file to decouple the event generator 
 
 An event format convention uniquely defines an event. The example code presented here only has a single event "impression", so it's easy to uniquely define.
 
-Generally, events will be associated with a session, so it would make sense to include a session id, but we could still use a simple string format: "<session id>:<event name>".
+Generally, events will be associated with a session, so it would make sense to include a session id, but we could still use a simple string format: "&lt;session id&gt;:&lt;event name&gt;".
 
 Elaborate event formats may require more structure to facilitate storage and processing.
 
