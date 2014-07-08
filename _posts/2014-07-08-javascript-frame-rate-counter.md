@@ -4,6 +4,8 @@ layout: base
 
 # JavaScript frame rate counter
 
+* toc
+{:toc}
 
 ## Goal
 
