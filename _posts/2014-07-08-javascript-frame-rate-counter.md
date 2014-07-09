@@ -43,6 +43,8 @@ Display frame rate on a javascript app (React app running in Cordova on Android)
 
 I grabbed this from [https://github.com/mrdoob/stats.js](https://github.com/mrdoob/stats.js)
 
+My only modification was to add `module.exports = Stats;` as the last line in the file so I could have FPSCounter import it via `require()`.
+
 
 ## vendor/FPSCounter.js
 
