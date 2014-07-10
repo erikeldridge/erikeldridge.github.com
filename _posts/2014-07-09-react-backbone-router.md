@@ -155,3 +155,7 @@ module.exports = React.createClass({
 	}
 });
 {% endhighlight %}
+
+## References
+
+* [React + Backbone Router](https://medium.com/react-tutorials/react-backbone-router-c00be0cf1592)
