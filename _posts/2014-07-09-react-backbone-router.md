@@ -43,7 +43,7 @@ Use Backbone's router in React. Provide a way to pass arbitrary props to individ
 
 Delivers the app to the browser. Included here for completeness.
 
-{% highlight html linenos tabsize 2 %}
+{% highlight html tabsize 2 %}
 <!DOCTYPE html>
 <html>
 	...
@@ -57,7 +57,7 @@ Delivers the app to the browser. Included here for completeness.
 
 Instantiates the app
 
-{% highlight js linenos tabsize 2 %}
+{% highlight js tabsize 2 %}
 /** @jsx React.DOM */
 
 var React = require('react');
@@ -74,7 +74,7 @@ React.renderComponent(
 
 Bridges the Backbone router and React DOM mgmt.
 
-{% highlight js linenos tabsize 2 %}
+{% highlight js tabsize 2 %}
 /** @jsx React.DOM */
 
 var Backbone = require('backbone');
@@ -120,7 +120,7 @@ module.exports = React.createClass({
 
 Demonstrates static content
 
-{% highlight js linenos tabsize 2 %}
+{% highlight js tabsize 2 %}
 /** @jsx React.DOM */
 
 var React = require('react');
@@ -140,7 +140,7 @@ module.exports = React.createClass({
 
 Demonstrates usage of a prop set by the Router component
 
-{% highlight js linenos tabsize 2 %}
+{% highlight js tabsize 2 %}
 /** @jsx React.DOM */
 
 var React = require('react');
