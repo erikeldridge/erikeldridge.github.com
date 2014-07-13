@@ -9,7 +9,7 @@ layout: base
 
 ## Goal
 
-Implement an [android-style drawer nav](https://developer.android.com/design/patterns/navigation-drawer.html) and toggle visibility via a button in a header
+Implement basic mechanics for an [android-style drawer nav](https://developer.android.com/design/patterns/navigation-drawer.html) and toggle visibility via a button in a header
 
 
 ## Env
