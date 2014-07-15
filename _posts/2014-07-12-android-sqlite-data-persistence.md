@@ -3,7 +3,7 @@ layout: base
 tags: android
 ---
 
-# Android SQLite data peristence
+# Android SQLite data persistence
 
 * toc
 {:toc}
