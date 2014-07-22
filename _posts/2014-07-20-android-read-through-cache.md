@@ -189,7 +189,7 @@ public class Collection extends Observable {
 
 ## DBHelper.java
 
-Databas management class.
+Database management class.
 
 {% highlight java tabsize 2 %}
 package com.example.app;
