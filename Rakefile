@@ -10,16 +10,17 @@ task :clean do
 end
 
 desc "New post from paths"
-task :new do
+task :new, [:base] do |task, args|
   require "erb"
   # process args
-  dirs = ARGV[1..-1]
+  base = args.base
+  dirs = args.extras
   # build contents
   contents = {}
   for dir in dirs do
     contents[dir] = {}
-    Dir["#{dir}/*"].each do |path|
-      contents[dir][path] = File.readlines(path).join
+    Dir["#{base}/#{dir}/*"].each do |path|
+      contents[dir][path] = File.readlines(path).join if File.file?(path)
     end
   end
   # generate output
@@ -33,12 +34,14 @@ layout: base
 
 ## Project structure
 
+{% highlight text tabsize 2 %}
 <% contents.each_key do |dir| -%>
-  <%= dir %>
+  <%= dir %>/
   <% contents[dir].each_key do |path| -%>
-    <%= File.basename(path) %>
-  <% end %>
-<% end %>
+    - <%= File.basename(path) %>
+  <% end -%>
+<% end -%>
+{% endhighlight %}
 
 <% contents.each_key do |dir| -%>
   <% contents[dir].each do |path, content| %>
