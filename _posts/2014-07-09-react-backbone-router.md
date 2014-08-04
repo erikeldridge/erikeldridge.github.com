@@ -15,9 +15,8 @@ Use Backbone's router in React. Provide a way to pass arbitrary props to individ
 
 ## Env
 
-* Backbone 1.1.2
-* Browserify 4.2.0
 * JSX compilation via grunt
+* See package.json below for full dependency list
 
 
 ## Approach
@@ -37,7 +36,7 @@ Use Backbone's router in React. Provide a way to pass arbitrary props to individ
           Page2.js
           Router.js
         init.js
-
+  package.json
 
 ## src/index.html
 
@@ -78,9 +77,12 @@ Bridges the Backbone router and React DOM mgmt.
 /** @jsx React.DOM */
 
 var Backbone = require('backbone');
+var $ = require('jquery');
 var Home = require('./Home');
 var React = require('react');
 var User = require('./User');
+
+Backbone.$ = $;
 
 module.exports = React.createClass({
   componentWillMount : function() {
@@ -155,6 +157,44 @@ module.exports = React.createClass({
 	}
 });
 {% endhighlight %}
+
+
+## package.json
+
+Included to clarify the versions of the various tools used
+
+{% highlight js tabsize 2 %}
+{
+  "name": "app",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "backbone": "^1.1.2",
+    "envify": "^1.2.1",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^2.1.3",
+    "grunt-contrib-concat": "^0.4.0",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-uglify": "^0.5.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "jquery": "^2.1.1",
+    "react": "^0.10.0",
+    "reactify": "^0.13.1",
+    "time-grunt": "^0.3.2",
+    "underscore": "^1.6.0",
+    "webpack-dev-server": "^1.4.6"
+  }
+}
+{% endhighlight %}
+
 
 ## References
 
