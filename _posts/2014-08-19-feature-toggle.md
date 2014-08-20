@@ -69,6 +69,8 @@ Filter features according to the toggle fields and inputs. The feature is unavai
 
 List all available features in a client's config, keyed on the unique id.
 
+The selection algorithm can be sophisticated if there are large numbers of features, and/or low latency, state persistence, relative weighting, etc., requirements, but if there are just a few fields and features, and a generous ttl, it can also be as simple as filtering by client, and then iterating over the rule sets, or even pre-computing availability.
+
 
 ## Developer usage
 
@@ -88,6 +90,10 @@ Enable campaign targeting to be applied transparently and log usage that would h
 ## Consistency
 
 Cache state for a period of time to ensure the user has a consistent product experience.
+
+Use a single system to ensure consistent feature availability across clients.
+
+Using a single system also reduces cognitive load on developers and campaign managers.
 
 
 ## Applications
