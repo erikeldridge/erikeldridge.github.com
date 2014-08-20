@@ -70,9 +70,19 @@ Filter features according to the toggle fields and inputs. The feature is unavai
 List all available features in a client's config, keyed on the unique id.
 
 
-## Usage
+## Developer usage
 
 Client developers wrap features in a check function that takes the unique id as a param
+
+
+## Business usage
+
+Provide a dashboard non-engineering can use to define campaigns
+
+
+## Testing
+
+Enable campaign targeting to be applied transparently and log usage that would have been affected to sanity-check rules
 
 
 ## Consistency
