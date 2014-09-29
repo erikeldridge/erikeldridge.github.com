@@ -1,6 +1,6 @@
 # ref https://github.com/mojombo/jekyll/wiki/configuration
 permalink: /notes/:title.html
-pygments: true
+highlighter: pygments
 markdown: kramdown
 kramdown:
   toc_levels: 2..5
