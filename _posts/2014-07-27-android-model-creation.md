@@ -1,6 +1,6 @@
 ---
 layout: note
-tags: sandbox android
+tags: playground android
 ---
 
 
