@@ -1,6 +1,6 @@
 ---
 layout: base
-tags: android
+tags: playground android
 ---
 
 # Android read through cache

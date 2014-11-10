@@ -1,5 +1,6 @@
 ---
 layout: base
+tags: playground javascript reactjs
 ---
 
 # React drawer nav

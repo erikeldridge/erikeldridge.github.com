@@ -1,5 +1,6 @@
 ---
 layout: base
+tags: tools javascript reactjs
 ---
 
 # Backbone router + React

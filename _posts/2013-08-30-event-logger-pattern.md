@@ -1,5 +1,6 @@
 ---
 layout: base
+tags: systems
 ---
 
 # Event logger pattern

@@ -1,6 +1,6 @@
 ---
 layout: base
-tags: android, eventbus
+tags: playground android eventbus
 ---
 
 # Android event bus
