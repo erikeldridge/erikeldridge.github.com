@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: note
 tags: playground android eventbus
 ---
 

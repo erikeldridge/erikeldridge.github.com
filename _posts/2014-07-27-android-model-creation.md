@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: note
 tags: sandbox android
 ---
 

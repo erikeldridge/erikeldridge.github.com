@@ -1,6 +1,6 @@
 ---
 title: TwOAuth with Twython
-layout: base
+layout: note
 description: Instructions for sanity-checking calls to Twitter's API using Twython
 tags: tools python
 ---

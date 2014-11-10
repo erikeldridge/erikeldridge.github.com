@@ -1,6 +1,6 @@
 ---
 tags: android
-layout: base
+layout: note
 updated: 8-7-2013
 ---
 

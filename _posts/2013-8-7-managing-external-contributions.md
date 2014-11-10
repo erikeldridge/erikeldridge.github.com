@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: note
 updated: 8-6-2013
 tags: organization
 ---
