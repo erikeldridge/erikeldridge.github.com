@@ -3,7 +3,6 @@ layout: note
 tags: playground android
 ---
 
-# Android models and collections
 
 * toc
 {:toc}

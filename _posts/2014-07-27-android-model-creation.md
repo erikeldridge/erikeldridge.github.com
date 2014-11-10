@@ -4,8 +4,6 @@ tags: sandbox android
 ---
 
 
-# Creating new model instances
-
 * toc
 {:toc}
 

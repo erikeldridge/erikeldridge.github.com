@@ -3,7 +3,6 @@ layout: note
 tags: playground android eventbus
 ---
 
-# Android event bus
 
 * toc
 {:toc}

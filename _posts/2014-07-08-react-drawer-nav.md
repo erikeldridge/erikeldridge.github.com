@@ -3,7 +3,6 @@ layout: note
 tags: playground javascript reactjs
 ---
 
-# React drawer nav
 
 * toc
 {:toc}

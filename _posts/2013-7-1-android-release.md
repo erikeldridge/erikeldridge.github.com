@@ -5,8 +5,6 @@ updated: 8-7-2013
 ---
 
 
-# Android release
-
 * toc
 {:toc}
 

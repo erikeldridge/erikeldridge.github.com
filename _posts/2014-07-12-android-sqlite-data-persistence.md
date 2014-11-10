@@ -3,7 +3,6 @@ layout: note
 tags: playground android
 ---
 
-# Android SQLite data persistence
 
 * toc
 {:toc}

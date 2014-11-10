@@ -4,8 +4,6 @@ tags: academic
 ---
 
 
-# Academic advisory
-
 * toc
 {:toc}
 

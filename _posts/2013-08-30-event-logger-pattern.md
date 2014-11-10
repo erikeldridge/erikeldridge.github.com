@@ -3,7 +3,6 @@ layout: note
 tags: systems
 ---
 
-# Event logger pattern
 
 The event logger pattern has five parts:
 

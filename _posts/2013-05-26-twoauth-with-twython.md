@@ -6,8 +6,6 @@ tags: tools python
 ---
 
 
-# TwOAuth with Twython
-
 A quick, command-line sanity check can help when debugging calls to Twitter's API.
 
 [Twython](https://github.com/ryanmcgrath/twython) makes signed requests to the API easy.

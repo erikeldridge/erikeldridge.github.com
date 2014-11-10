@@ -5,8 +5,6 @@ tags: organization
 ---
 
 
-# Managing external contributions
-
 * toc
 {:toc}
 

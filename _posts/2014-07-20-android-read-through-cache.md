@@ -3,7 +3,6 @@ layout: note
 tags: playground android
 ---
 
-# Android read through cache
 
 * toc
 {:toc}

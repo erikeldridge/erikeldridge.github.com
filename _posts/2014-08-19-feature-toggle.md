@@ -4,8 +4,6 @@ tags: systems
 ---
 
 
-# Feature toggles
-
 * toc
 {:toc}
 

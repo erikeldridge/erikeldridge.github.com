@@ -3,7 +3,6 @@ layout: note
 tags: tools javascript
 ---
 
-# JavaScript frame rate counter
 
 * toc
 {:toc}

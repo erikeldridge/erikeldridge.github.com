@@ -3,7 +3,6 @@ layout: note
 tags: tools javascript reactjs
 ---
 
-# Backbone router + React
 
 * toc
 {:toc}

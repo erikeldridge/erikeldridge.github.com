@@ -5,8 +5,6 @@ tags: organization
 ---
 
 
-# Management
-
 * toc
 {:toc}
 

@@ -4,8 +4,6 @@ tags: systems
 ---
 
 
-# User identifiers
-
 * toc
 {:toc}
 
