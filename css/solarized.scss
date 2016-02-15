@@ -1,6 +1,10 @@
 ---
 ---
 
+/*
+"a sass (scss) snippet that inverts solarized based on the class of the html tag"
+http://ethanschoonover.com/solarized
+*/
 $base03:    #002b36;
 $base02:    #073642;
 $base01:    #586e75;
@@ -42,7 +46,4 @@ html * {
 .profile-img {
   margin: 20px 0;
   border: 1px solid $base00;
-}
-#footer {
-  background-color: $base2;
 }
