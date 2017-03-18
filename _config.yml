@@ -1,5 +1,14 @@
-# ref https://github.com/mojombo/jekyll/wiki/configuration
-permalink: /notes/:title.html
+---
+title: Erikeldridge.Github.Com
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: "/notes/:title.html"
 highlighter: pygments
 markdown: kramdown
 kramdown:
