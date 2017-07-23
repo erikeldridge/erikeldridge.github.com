@@ -1,0 +1,34 @@
+/*
+ * Content
+ */
+body {
+  background-color: #fcfcfc;
+}
+
+/*
+ * Footer
+ * Ref: https://github.com/twbs/bootstrap/blob/master/docs/examples/sticky-footer/sticky-footer.css
+ */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 80px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 30px;
+}
+ul.footer {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.footer li {
+  display: inline;
+}
