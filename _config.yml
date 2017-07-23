@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-plugins:
+gems:
   - jekyll-seo-tag
 permalink: "/notes/:title.html"
 highlighter: pygments
