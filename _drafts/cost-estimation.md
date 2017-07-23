@@ -1,3 +1,8 @@
+---
+title: Cost Estimation
+date: 2017-07-23 23:53:55.592000000 Z
+---
+
 # Problem
 
 As an engineer, you need to estimate the cost of a task you have little experience performing
