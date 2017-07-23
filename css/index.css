@@ -5,10 +5,7 @@ body {
   background-color: #fcfcfc;
 }
 .tags:before {
-  content: '['
-}
-.tags:after {
-  content: ']'
+  content: 'Tags: '
 }
 ul.tags {
   list-style-type: none;
