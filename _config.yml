@@ -1,5 +1,5 @@
 ---
-title: Erikeldridge.Github.Com
+title: erikeldridge.com
 timezone: UTC
 collections:
   posts:
@@ -8,6 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
+plugins:
+  - jekyll-seo-tag
 permalink: "/notes/:title.html"
 highlighter: pygments
 markdown: kramdown
