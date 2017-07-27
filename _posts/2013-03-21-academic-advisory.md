@@ -17,25 +17,29 @@ This post is written for a faculty audience. It targets CS programs, which may b
 
 I primarily develop applications using open-source tools, so my recommendations are informed by that industry and tool set.
 
-## Passion
+In my experience non-technical considerations receive inadequate attention, but they often impact performance, so I emphasize them here.
 
-Above all else, I recommend helping students discover and explore their interests, so they can then compete effectively for jobs aligned with those interests. Hopefully, each student will find a career in which she loves going to work, and derives real, personal value from her contribution.
+## Self-motivation
 
-To perform well in an interview and in the workplace, we all have to demonstrate passion for the role. A dispassionate applicant may possess exceptional technical skill, and yet be passed over for someone with less experience, but a strong sense for the product and a motivation to learn.
+To perform well in an interview and the workplace, a student must demonstrate an interest in the role, even if it's just a connection with a personal interest.
 
-[David Byttow](https://medium.com/@davidbyttow) elucidates this well in his posts [ABC: Always Be Coding](https://medium.com/tech-talk/d5f8051afce2) and [Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/8f381aa6bd5e). As an aside, his second post argues you don't need a degree to compete effectively. I believe school, while not strictly necessary, provides a structure for learning, just as employment by a company is not necessary for livelihood, but does provide structure for compensation.
+[David Byttow](https://medium.com/@davidbyttow) elucidates this well in his posts [ABC: Always Be Coding](https://medium.com/tech-talk/d5f8051afce2) and [Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/8f381aa6bd5e). As an aside, his second post argues you don't need a degree to compete effectively. I believe school, while not strictly necessary, provides a structure for learning and a solid foundation.
+
+I recommend helping students discover and explore their interests, so they can then compete effectively for jobs aligned with those interests. Ideally, each student will find a career in which she enjoys going to work, and derives real, personal value from her contribution.
 
 An academic program should encourage creativity and self-direction. Two software development tasks are rarely the same, and it's often up to the developer to make an educated guess about which aproach to take. I recommend asking students regularly to describe what they would like to learn about and why, and including the resulting feedback in an academic advisory setting.
 
-## Customer
+## Customer-focus
 
-Next, I recommend instilling a common sense principle: focus on providing value to a customer. A student can [be his own customer](http://paulgraham.com/startupideas.html) initially, and staying close to the feedback cycle is personally fulfilling and makes business sense. This recommendation may seem obvious, but the highest-performing teams I've been a part of have been explicit about this goal, and I've seen other teams lose sight of it day-to-day.
+I recommend instilling a common sense principle: focus on providing value to a customer. A student can [be his own customer](http://paulgraham.com/startupideas.html) initially. In an academic setting, the instructor can serve as the customer; assignments are the deliverables. Solving a problem for someone is personally fulfilling and makes business sense. This recommendation may seem obvious, but the highest-performing teams I've been a part of have been explicit about this goal, and I've seen other teams lose sight of it day-to-day.
 
 ## Community
 
+We're social creatures and software development is often a collaborative effort.
+
 By fostering interaction with a diversity of people and ideas, a school can help a student refine her career goals. By including employers in this interaction, a school can expose students directly, and under the best of circumstances, to employment opportunities.
 
-LinkedIn, Twitter, Facebook, and Github provide tools for interacting online with other developers. There are also activities like hack days and meetups students can participate in to learn practical skills and meet like-minded people in the developer community. If there are an abundance nearby, schools can encourage students to participate. If not, schools can host these events themselves and support students by building a developer community around the school.
+LinkedIn, Twitter, Facebook, and Github provide tools for interacting online with other developers without requiring everyone work at the same company. There are also activities like hackdays, unconferences, and meetups students can participate in to learn practical skills and meet like-minded people in the developer community. All of these are usually free. If these activities exist nearby, encourage students to participate. If not, schools can host these events themselves and support students by building a developer community around the school. Often a meetup just needs a room and some pizza. A school's ACM chapter can help organize to distribute the work.
 
 ### LinkedIn
 
@@ -43,7 +47,7 @@ I recommend students create a [LinkedIn](http://www.linkedin.com/) profile and p
 
 LinkedIn is also convenient for keeping in touch with colleagues, and contacting them descretely regarding employment opportunities. I recommend students connect on LinkedIn with professors, and the students they would be willing to work with.
 
-An alternative is to simply maintain a list of the people a student would want to work with again. The downside is that recruiters would not have access to this.
+An alternative is to simply maintain a list of the people a student would want to work with again.
 
 ### Twitter, Facebook, and Github
 
@@ -66,11 +70,11 @@ By listening in on a group of people like this, the student will have a much bet
 
 A [hack day](http://en.wikipedia.org/wiki/Hack_Day) is a day devoted to creating and launching something that, for whatever reason, isn't on the roadmap, i.e., if you had a day to build anything, what would it be? (The answer to this question is also an incredibly important signal regarding career choice.) Some hack days have a contest at the end. Yahoo! runs hack days around the world that often span a weekend. Twitter runs a quartlery hack event that lasts a week.
 
-Given the limited timeframe, producing a functional proof of concept is valued over rigor. Developers often work through the night. Social order starts to flex. Hack events are a lot of fun.
+Given the limited timeframe, producing a functional proof of concept is valued over rigor. Developers often work through the night. Hack events are a lot of fun.
 
 Variations on the hack day idea include [Random Hacks of Kindness](http://www.rhok.org/), which provides a way for developers to contribute to disaster relief efforts, and [CityCamp Hackathons](http://citycamp.govfresh.com/) focused on improving public services.
 
-Hack days are very common within tech companies as a way to foster innovation, identify problem areas, and meet external developers. For example, [Twitter Hack Week](http://engineering.twitter.com/2010/10/hack-week.html), [Facebook Games Hack Day](http://www.eventbrite.com/event/2414110670), and [Yahoo!'s Open Hack India](http://developer.yahoo.com/blogs/ydn/posts/2011/08/open-hack-india-they-hacked-we-won-them-over/).
+Hack days are very common within tech companies as a way to foster innovation, expand skill sets, and meet new people. For example, [Twitter Hack Week](https://www.youtube.com/watch?v=2oxDsIkwQA8), [Facebook hackathons](https://www.facebook.com/pg/hackathon/events/), and [Netflix hack day](https://medium.com/netflix-techblog/netflix-hack-day-winter-2017-73590a2fe513).
 
 <div>
   <blockquote class="twitter-tweet"><p>From @<a href="https://twitter.com/hackweek">hackweek</a> to <a href="https://twitter.com/search/%2523battledecks">#battledecks</a> to drinks w/ friends, today was one of the best days of my life. Thx, @<a href="https://twitter.com/twitter">twitter</a>. /cc @<a href="https://twitter.com/JoinTheFlock">JoinTheFlock</a></p>&mdash; erik eldridge (@erikeldridge) <a href="https://twitter.com/erikeldridge/status/163154687393136640" data-datetime="2012-01-28T07:01:23+00:00">January 28, 2012</a></blockquote>
@@ -190,7 +194,7 @@ As with compiled languages, I recommend students have exposure to several interp
 
 Interns and new grads generally have very little experience reading other people's code, testing, debugging, or working with a source control tool. This is quickly picked up on the job, but a student with some experience has a competitive advantage, and these tools are often already used in an academic setting, albeit perhaps not in a structured way. The goal is to make it easy for an interviewer to imagine working with the student. The closer a student is to being a productive member of the team, the better.
 
-Github provides [review tools](https://github.com/features/projects/codereview), which are free and easy to use. For perspective, students can compare features with comparable tools like [reviewboard](http://www.reviewboard.org/) and [gerrit](http://code.google.com/p/gerrit/). 
+Github provides [review tools](https://github.com/features/projects/codereview), which are free and easy to use. For perspective, students can compare features with comparable tools like [reviewboard](http://www.reviewboard.org/) and [gerrit](http://code.google.com/p/gerrit/).
 
 If possible, incorporate code review into project evaluation. For example, students can submit projects via reviewboard; projects must have a "ship it" from a teaching assistant before the professor will grade it; assistants can iterate with students via the review. Consider defining "review teams" composed of 2-3 students who can review each other.
 
