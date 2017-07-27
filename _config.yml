@@ -1,4 +1,5 @@
 ---
+exclude: ['new.sh']
 title: erikeldridge.com
 timezone: UTC
 collections:
