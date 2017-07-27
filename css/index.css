@@ -1,8 +1,9 @@
 /*
  * Content
  */
-body {
-  background-color: #fcfcfc;
+.solarized {
+  background-color: #fdf6e3;
+  color: #161a00; /* green w 5% lightness */
 }
 .readability {
   font-family: serif;
