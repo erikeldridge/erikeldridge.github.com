@@ -5,14 +5,6 @@ tags: academic
 ---
 
 
-# {{page.title}}
-
-<ul class="tags">
-{% for tag in page.tags %}
-  <li><a href="/tags#{{tag}}">{{tag}}</a></li>
-{% endfor %}
-</ul>
-
 This post is written for a faculty audience. It targets CS programs, which may be geographically distant from an established tech community.
 
 I primarily develop applications using open-source tools, so my recommendations are informed by that industry and tool set.
