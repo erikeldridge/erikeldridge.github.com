@@ -4,6 +4,11 @@
 body {
   background-color: #fcfcfc;
 }
+.readability {
+  font-family: serif;
+  font-size: 18px;
+  line-height: 1.5;
+}
 .tags:before {
   content: 'Tags: '
 }
