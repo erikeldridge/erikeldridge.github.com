@@ -1,9 +1,7 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<?xml version="1.0"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
 <ShortName>erikeldridge</ShortName>
-<Description>
-  Erik Eldridge's notes
-</Description>
-<InputEncoding>UTF-8</InputEncoding>
-<Url type="application/x-suggestions+json" method="GET" template="https://www.google.com/search?sourceid=chrome&amp;ie=UTF-8&amp;q=site:erikeldridge.com+%s" />
+<Description>Erik Eldridge's notes</Description>
+<Url type="text/html" method="get" template="https://www.google.com/search?sourceid=chrome&amp;ie=UTF-8&amp;q=site:erikeldridge.com+%s" />
 </OpenSearchDescription>
 
