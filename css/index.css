@@ -39,6 +39,17 @@ img {
 	height: auto;
 	max-width: 100%;
 }
+.hidden {
+  display: none;
+}
+ul input {
+  background-color: inherit;
+  border: 1px solid #ccc;
+  font-size: inherit;
+  margin: 0 0 .5ex -20px;
+  padding: .5ex 0 .5ex 20px;
+  width: 100%;
+}
 .footer {
   position: absolute;
   bottom: 0;
