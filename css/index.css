@@ -45,6 +45,7 @@ img {
 ul input {
   background-color: inherit;
   border: 1px solid #ccc;
+  font-family: inherit;
   font-size: inherit;
   margin: 0 0 .5ex -20px;
   padding: .5ex 0 .5ex 20px;
