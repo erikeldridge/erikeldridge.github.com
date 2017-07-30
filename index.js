@@ -3,10 +3,10 @@
   var items = doc.getElementsByTagName('li')
   function filter(e){
     for (var i = 0; i < items.length; i++) {
-      var pattern = new RegExp(e.target.value)
+      var pattern = new RegExp(e.target.value, 'i')
       var item = items[i]
       var tagsMatch = pattern.test(item.dataset.tags)
-      var titleMatch = pattern.test(item.innerText.toLowerCase())
+      var titleMatch = pattern.test(item.innerText)
       if (tagsMatch || titleMatch) {
         show(item)
       } else {
