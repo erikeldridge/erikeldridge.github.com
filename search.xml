@@ -4,6 +4,6 @@
   Erik Eldridge's notes
 </Description>
 <InputEncoding>UTF-8</InputEncoding>
-  <Url type="application/x-suggestions+json" method="GET" template="{google:baseURL}search?q=%s" />
+  <Url type="application/x-suggestions+json" method="GET" template="https://cse.google.com/cse_v2/ads?q=%s" />
 </OpenSearchDescription>
 
