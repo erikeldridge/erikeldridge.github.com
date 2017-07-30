@@ -4,6 +4,6 @@
   Erik Eldridge's notes
 </Description>
 <InputEncoding>UTF-8</InputEncoding>
-<Url type="application/x-suggestions+json" method="GET" template="https://www.google.com/search?sourceid=chrome&ie=UTF-8&q=site:erikeldridge.com+%s" />
+<Url type="application/x-suggestions+json" method="GET" template="https://www.google.com/search?sourceid=chrome&amp;ie=UTF-8&amp;q=site:erikeldridge.com+%s" />
 </OpenSearchDescription>
 
