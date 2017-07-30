@@ -1,9 +1,9 @@
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-<ShortName>Erik's notes</ShortName>
+<ShortName>erikeldridge.com</ShortName>
 <Description>
   Erik Eldridge's notes
 </Description>
 <InputEncoding>UTF-8</InputEncoding>
-  <Url type="application/x-suggestions+json" method="GET" template="https://cse.google.com/cse_v2/ads?q=%s" />
+<Url type="application/x-suggestions+json" method="GET" template="https://www.google.com/search?sourceid=chrome&ie=UTF-8&q=site:erikeldridge.com+%s" />
 </OpenSearchDescription>
 
