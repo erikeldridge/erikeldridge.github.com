@@ -4,6 +4,6 @@
   Erik Eldridge's notes
 </Description>
 <InputEncoding>UTF-8</InputEncoding>
-  <Url type="application/x-suggestions+json" method="GET" template="http://suggestqueries.google.com/complete/search?output=firefox&amp;q={searchTerms}" />
+  <Url type="application/x-suggestions+json" method="GET" template="{google:baseURL}search?q=%s" />
 </OpenSearchDescription>
 
