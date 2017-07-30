@@ -1,0 +1,9 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<ShortName>Erik's notes</ShortName>
+<Description>
+  Erik Eldridge's notes
+</Description>
+<InputEncoding>UTF-8</InputEncoding>
+  <Url type="application/x-suggestions+json" method="GET" template="http://suggestqueries.google.com/complete/search?output=firefox&amp;q={searchTerms}" />
+</OpenSearchDescription>
+
