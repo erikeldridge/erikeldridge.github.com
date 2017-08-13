@@ -17,7 +17,7 @@ In my experience, event logging from a client can be tricky to maintain. A coupl
 
 ## Solution
 
-In this context, I've developed deep appreciation for the simple pubsub pattern, and the notion of an "event bus" through which published events flow to subscribers.
+In this context, I've developed deep appreciation for the simple pubsub pattern, and the notion of an "event bus" through which published events flow to subscribers. Although busses and logs (and indices) frequently appear together, the bus seems most primitive.
 
 This pattern is nothing new, but here's a simplistic implementation I find easy to reason about:
 
