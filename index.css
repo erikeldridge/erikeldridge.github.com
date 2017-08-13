@@ -10,6 +10,12 @@
   font-size: 18px;
   line-height: 1.5;
 }
+pre {
+  background-color: white;
+  font-size: 12px;
+  line-height: normal;
+  padding: 1em;
+}
 .tags:before {
   content: 'Tags: '
 }
