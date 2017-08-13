@@ -1,12 +1,15 @@
 ---
-title: Praise for the humble bus
+title: Praise for the humble bus 🚌
 layout: post
 tags: bus pubsub pattern
 ---
 
+
 ## Context
 
-I'm a fan of the unidirectional event flow first brought to my attention by React. Prakhar mentioned this is also called the yo-yo pattern. Yo-yo JS provides a simple implemention.
+This is a stream-of-consciousness gush for a pattern I like. I start by stating some things I like followed by a pattern that produces these things and then attempt to state the problem being solved (in case other folks like me appreciate a problem statement).
+
+I'm a fan of the unidirectional event flow first brought to my attention by React/Redux. [Prakhar](https://github.com/prakhar1989) mentioned this is also called the yo-yo pattern. (Events bubble up, views render down). [yo-yo.js](https://github.com/maxogden/yo-yo) provides a delightfully simple implemention. [choo](https://github.com/choojs/choo) completes yo-yo pattern by building on yo-yo.js and injecting an event bus into the view renderer.
 
 Slightly related, I'm also enamored by the notion of an append-only log, reverently described by Jay Kreps and Martin Kleppmann in [The Log](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) and [Turning the database inside-out with Apache Samza](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/), respectively. Kleppmann provides additional, wonderful context in [Data Intensive Applications](http://dataintensive.net/).
 
@@ -60,6 +63,7 @@ function stdoutSubscriber(event){
 bus.on('event', stdoutSubscriber)
 bus.emit('event', 'like')
 ```
+
 
 ## Problem
 
