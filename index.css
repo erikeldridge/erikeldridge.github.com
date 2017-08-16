@@ -16,18 +16,10 @@ pre {
   line-height: normal;
   padding: 1em;
 }
-.tags:before {
-  content: 'Tags: '
+.meta {
+  font-style: italic;
+  font-size: 90%;
 }
-ul.tags {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-.tags li {
-  display: inline;
-}
-
 /*
  * Footer
  * Ref: https://github.com/twbs/bootstrap/blob/master/docs/examples/sticky-footer/sticky-footer.css

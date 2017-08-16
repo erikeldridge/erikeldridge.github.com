@@ -5,9 +5,7 @@
     for (var i = 0; i < items.length; i++) {
       var pattern = new RegExp(e.target.value, 'i')
       var item = items[i]
-      var tagsMatch = pattern.test(item.dataset.tags)
-      var titleMatch = pattern.test(item.innerText)
-      if (tagsMatch || titleMatch) {
+      if (pattern.test(item.innerText)) {
         show(item)
       } else {
         hide(item)
