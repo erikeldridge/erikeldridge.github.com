@@ -6,6 +6,8 @@ title: The weird world of observable keys 🔑👀
 ---
 
 
+The get that keeps on getting.
+
 ## Solution
 
 Given a [bus]({% post_url 2017-08-13-praise-for-the-humble-bus %}):
