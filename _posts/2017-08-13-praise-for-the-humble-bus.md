@@ -1,7 +1,7 @@
 ---
 title: Praise for the humble bus 🚌
 layout: post
-tags: bus pubsub pattern
+tags: bus pubsub pattern toolkit
 ---
 
 
@@ -29,25 +29,28 @@ protocol Subscriber {
 }
 class StdoutSubscriber : Subscriber {
   func onEvent(event: Event) {
-    print("event=\(event)")
+    print(event)
   }
 }
 class Bus {
   var subscribers: [String:Subscriber] = [:]
-  func sub(_ name: String, _ subscriber: Subscriber){
-    self.subscribers[name] = subscriber
+  func sub(_ subscriber: Subscriber){
+    self.subscribers[key(subscriber)] = subscriber
   }
-  func unsub(name: String){
-    self.subscribers[name] = nil
+  func unsub(subscriber: Subscriber){
+    self.subscribers[key(subscriber)] = nil
   }
   func pub(_ event: Event){
     for subscriber in subscribers.values {
       subscriber.onEvent(event: event)
     }
   }
+  func key(_ subscriber: Subscriber) -> String {
+    return String(describing: type(of: subscriber))
+  }
 }
 let bus = Bus()
-bus.sub("stdout", StdoutSubscriber())
+bus.sub(StdoutSubscriber())
 // ... on "like" button tap
 bus.pub(LikeEvent())
 ```
