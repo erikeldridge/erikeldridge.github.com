@@ -20,7 +20,7 @@ struct Value : Event {
 }
 protocol Store {
   func get(_ key: String)
-  func set(_ key: String, _ val: String)
+  func set(_ key: String, _ val: Any?)
 }
 class LocalStore : Store {
   let db: UserDefaults
@@ -33,7 +33,7 @@ class LocalStore : Store {
     let val = db.object(forKey: key)
     bus.pub(Value(key: key, val: val))
   }
-  func set(_ key: String, _ val: String){
+  func set(_ key: String, _ val: Any?){
     db.set(val, forKey: key)
     bus.pub(Value(key: key, val: val))
   }
