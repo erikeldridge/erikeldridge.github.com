@@ -45,6 +45,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-seo-tag
+  rouge
   sass
 
 BUNDLED WITH

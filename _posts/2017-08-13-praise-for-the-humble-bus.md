@@ -21,7 +21,7 @@ In this context, I've developed deep appreciation for the simple pubsub pattern,
 
 This pattern is nothing new, but here's a simplistic implementation I find easy to reason about:
 
-```Swift
+{% highlight swift linenos %}
 protocol Event {}
 struct LikeEvent : Event {}
 protocol Subscriber {
@@ -53,11 +53,11 @@ let bus = Bus()
 bus.sub(StdoutSubscriber())
 // ... on "like" button tap
 bus.pub(LikeEvent())
-```
+{% endhighlight %}
 
 [Events](https://nodejs.org/api/events.html) are first-class in Node, so an easy equivalent to the above would be:
 
-```JavaScript
+{% highlight js linenos %}
 var EventEmitter = require('events')
 var bus = new EventEmitter()
 function stdoutSubscriber(event){
@@ -65,7 +65,7 @@ function stdoutSubscriber(event){
 }
 bus.on('event', stdoutSubscriber)
 bus.emit('event', 'like')
-```
+{% endhighlight %}
 
 
 ## Problem

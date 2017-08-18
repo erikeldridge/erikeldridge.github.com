@@ -12,7 +12,6 @@ collections:
 gems:
 - jekyll-seo-tag
 permalink: "/notes/:title.html"
-highlighter: pygments
 markdown: kramdown
 kramdown:
   toc_levels: 2..5

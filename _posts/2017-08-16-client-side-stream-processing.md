@@ -10,7 +10,7 @@ tags: pattern toolkit reducer stream processing
 
 Given a [bus]({% post_url 2017-08-13-praise-for-the-humble-bus %}) and [store]({% post_url 2017-08-15-the-weird-world-of-observable-keys %}):
 
-```Swift
+{% highlight swift linenos %}
 struct Post {
   let id: String
   var text: String
@@ -62,7 +62,7 @@ class Reducer : Subscriber {
     }
   }
 }
-```
+{% endhighlight %}
 
 ## Context
 

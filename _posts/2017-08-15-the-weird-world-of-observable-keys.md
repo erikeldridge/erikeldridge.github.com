@@ -12,7 +12,7 @@ The get that keeps on getting.
 
 Given a [bus]({% post_url 2017-08-13-praise-for-the-humble-bus %}):
 
-```Swift
+{% highlight swift linenos %}
 import Foundation
 struct Value : Event {
   let key: String
@@ -43,7 +43,7 @@ bus.sub(StdoutSubscriber())
 let local = LocalStore(db: UserDefaults.standard, bus: bus)
 local.set("foo", "bar")
 local.get("foo")
-```
+{% endhighlight %}
 
 A couple features I like:
 
