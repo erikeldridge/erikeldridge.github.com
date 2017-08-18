@@ -10,10 +10,6 @@
   font-size: 18px;
   line-height: 1.5;
 }
-pre {
-  font-size: 12px;
-  line-height: normal;
-}
 .meta {
   font-style: italic;
   font-size: 90%;
@@ -22,9 +18,13 @@ pre {
 /*
  * Syntax
  */
+.highlight table {
+  font-size: 12px;
+  line-height: inherit;
+}
 .lineno {
   color: #ccc;
-  padding-right: 1ex;
+  margin-right: 20px;
 }
 
 /* Credit https://gist.github.com/nicolashery/5765395 */
