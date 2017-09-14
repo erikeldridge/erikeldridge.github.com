@@ -9,11 +9,11 @@ tags: toolkit mtnhut
 
 I want to reduce conditional assignment when setting nested keys in an object, which is handy for data manipulation, eg prior to view rendering.
 
-I only need support for string keys and simple objects. Some tools interpret numeric path segments as array indices, which breaks when inserting arbitrary values, eg ids.
+I only need support for string keys and simple objects. Some tools interpret numeric path segments as array indices, which breaks when inserting arbitrary values, eg `set(store, 'users.5.name', 'Kwan') // store.users.length --> 6`.
 
 ## Solution
 
-{% highlight js %}
+{% highlight js linenos %}
 function rget(obj, paths){
   const [head, ...tail] = paths
   if (typeof obj[head] == 'object' && tail.length) {
@@ -41,7 +41,7 @@ function set(obj, path, val){
 
 ## Example
 
-{% highlight js %}
+{% highlight js linenos %}
 const posts = {1: {tags: {sports: true, news: true}}, 2: {tags: {news: true}}}
 const byTag = {}
 Object.entries(posts).forEach(([id, post]) => {
