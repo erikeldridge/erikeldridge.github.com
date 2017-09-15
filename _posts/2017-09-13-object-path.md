@@ -7,11 +7,32 @@ tags: toolkit mtnhut
 
 ## Problem
 
-I want to reduce conditional assignment when setting nested keys in an object, which is handy for data manipulation, eg prior to view rendering.
+I want to reduce conditional assignment when setting nested keys in an object, which is handy for data manipulation, eg prior to view rendering, and consistent with [Firebase Realtime Database's use of paths](https://firebase.google.com/docs/reference/js/firebase.database.Database#ref).
 
-I only need support for string keys and simple objects. Some tools interpret numeric path segments as array indices, which breaks when inserting arbitrary values, eg `set(store, 'users.5.name', 'Kwan') // store.users.length --> 6`.
+## Example
+
+{% highlight js linenos %}
+const posts = {1: {tags: {sports: true, news: true}}, 2: {tags: {news: true}}}
+const byTag = {}
+Object.entries(posts).forEach(([id, post]) => {
+  Object.keys(post.tags).forEach(tag => {
+    set(byTag, `${tag}/${id}`, true)
+  })
+})
+// byTag --> { sports: { '1': true }, news: { '1': true, '2': true } }
+{% endhighlight %}
 
 ## Solution
+
+Use [object-path](https://github.com/mariocasciaro/object-path) or lodash's [set](https://www.npmjs.com/package/lodash.set) and [get](https://www.npmjs.com/package/lodash.get).
+
+## Alternative 
+
+The tools mentioned above interpret numeric path segments as array indices, which may cause unexpected results when inserting arbitrary values, eg
+
+        set(store, 'users.5.name', 'Kwan') // store.users.length --> 6
+
+If this is an issue, consider:
 
 {% highlight js linenos %}
 function rget(obj, paths){
@@ -39,15 +60,3 @@ function set(obj, path, val){
 }
 {% endhighlight %}
 
-## Example
-
-{% highlight js linenos %}
-const posts = {1: {tags: {sports: true, news: true}}, 2: {tags: {news: true}}}
-const byTag = {}
-Object.entries(posts).forEach(([id, post]) => {
-  Object.keys(post.tags).forEach(tag => {
-    set(byTag, `${tag}/${id}`, true)
-  })
-})
-// byTag --> { sports: { '1': true }, news: { '1': true, '2': true } }
-{% endhighlight %}
