@@ -65,6 +65,14 @@ Prepare for the experience of having your code read by others by pushing code to
 
 Incremental development and the ability to revert changes is fundamental. Git and github are a great default choice. Use source control individually to ensure your project is always in a working state, and to simplify coordination on team projects.
 
+### Incremental development
+
+Philisophically: progress > perfection.
+
+Pragmatically, this refers to reducing risk by keeping changes small and maintaining a working product you can "ship" at any time. [Agile development](https://en.wikipedia.org/wiki/Agile_software_development) defines this formally, but I see this pattern applied broadly: in test-taking when solving easy problems first; in interviews by describing a solution verbally, then in psuedo-code, then with correct syntax, then with optimizations; in the workplace explicitly when scoping a change to commit to source control; in career planning by defining a goal and then building skills and choosing opportunities to advance toward that goal; etc.
+
+In general, it's easier to estimate the cost of a small change than a large change, so breaking up large changes into small changes is helpful. I've found a one week "cadence" works well for making progress and minimizing coordination effort.
+
 ### One thing well
 
 The ["one thing well"](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well) phrasing comes from Unix philosophy, but I think it works for career planning too. Pick something interesting to you and bias towards it, eg I want to develop mobile apps. Use this to guide your career, eg the classes you pick, questions you ask, interview questions you practice, code you push to github, tldr on your resume, meetups you attend, projects you volunteer for etc. This is what's described as having "passion" for a topic, or "goals" :) You can always tune this focal point, eg I want to develop mobile apps --> I want to develop apps on Android.
