@@ -55,7 +55,7 @@ An interviewer's day-to-day work is usually private to a company and/or difficul
 
 I've found interview prep can also motivate academic requirements, ie "When will I ever use this? In an interview." Students are actively steeped in CS basics; the books mentioned above just summarize and provide interview-specific context.
 
-Two consistently high-performing groups of people I've interviewed are Waterloo interns and folks with competitive programming, eg [International Olympiad in Informatics](https://en.wikipedia.org/wiki/International_Olympiad_in_Informatics), experience. The former has a ton of experience [interviewing](https://uwaterloo.ca/co-operative-education/get-hired/interview-process/interview-process-and-procedures). The latter has experience with algorithmic thinking as a team under pressure.
+Two consistently high-performing groups of people I've interviewed are Waterloo interns and folks with competitive programming, eg [International Olympiad in Informatics](https://en.wikipedia.org/wiki/International_Olympiad_in_Informatics), experience. The former has a ton of experience [interviewing](https://uwaterloo.ca/co-operative-education/get-hired/interview-process/interview-process-and-procedures). The latter has experience using algorithmic thinking and a standard language to solve problems as a team under pressure.
 
 Interviewing is similar to pair programming in that two are involved, but one person is "driving". The interviewer may look to you for motivation, eg "Is this applicant self-motivated?", be inexperienced and/or slammed with work, so prepare to humbly take a lead role in identifying the problem, implementing the solution and asserting correctness.
 
