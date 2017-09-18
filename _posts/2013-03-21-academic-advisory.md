@@ -49,7 +49,7 @@ Help opportunities find you by populating a linkedin profile, which recruiters m
 
 ### Interviewing
 
-The interview process attempts to approximate the experience of working together. For better or worse, basic algorithms are a default topic. Prepare by reviewing a book like Algorithms for Interviews and practice solving problems on a whiteboard with other people, eg your campus' ACM chapter. The goal is not to memorize solutions, but to gain experience breaking down problems, solving them collaboratively and producing a solution that's understandable by other people.
+The interview process attempts to approximate the experience of working together. For better or worse, basic algorithms are a default topic. Prepare by reviewing a book like Algorithms for Interviews, Cracking the Coding Interview, etc. Practice solving problems on a whiteboard with other people, eg your campus' ACM chapter. The goal is not to memorize solutions, but to gain experience breaking down problems, solving them collaboratively and producing a solution that's understandable by other people.
 
 Two consistently high-performing groups of people I've interviewed are Waterloo interns and folks with competitive programming experience. The former have lots of experience [interviewing](https://uwaterloo.ca/co-operative-education/get-hired/interview-process/interview-process-and-procedures), and the latter have lots of experience in an interview-like setting. I think the commonality is practice often and in groups.
 
