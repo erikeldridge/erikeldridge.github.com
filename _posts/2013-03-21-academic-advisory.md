@@ -23,25 +23,9 @@ Accelerate cultural normalization by hosting a showcase at the end of the summer
 
 Enable industry to describe needs in a scalable way by hosting an annual panel and inviting industry to attend.
 
-### Sharpening the saw
-
-Unscheduled time is a common occurance. For example, as a project nears release, it may make sense to reduce the number of people involved; in the absence of another priority, people will have free time. (The time spent looking for a job might be described as an extreme example.)
-
-Productive uses of this time include: moving into a support role for those still involved, testing and documenting the product, supporting customers on stackoverflow and github, training in new skills to "sharpen the saw", hackweek, stretching entrepreneurial muscles, switching from [the "productive zone" to the "learning zone"](https://m.subbu.org/accept-tentative-decline-f12185b31259#a012), etc.
-
-This ties into "ownership" too; rather than wait for someone to tell you what to do next, you can use the time to advance toward your goals.
-
 ### Community
 
 Nurture the tech community near campus by hosting events like hack days, unconferences, and meetups.
-
-### Customer focus
-
-In my experience, this is a great focal point, eg when prioritizing features. A student can [be her own customer](http://paulgraham.com/startupideas.html) initially.
-
-### Discovery
-
-Help opportunities find you by populating a linkedin profile, which recruiters mine for leads, and hosting code on github, which interviewers can use to start establishing rapport. Follow [Write/Speak/Code's](http://www.writespeakcode.com/) example by publishing professional ideas, eg via a github blog, and seeking feedback from trusted peers, eg friends in your CS classes. (Credit [@megha](https://twitter.com/megha) for attending and sharing with our team.)
 
 ### One thing well
 
@@ -50,6 +34,18 @@ The ["one thing well"](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thin
 Actually being able to do this thing full time for work is also a matter of luck, but you'll be best prepared when opportunity comes along, eg in an interview: "How would you build an app on Android?"
 
 "T-shaped" focus refers to doing one thing well, but being aware of related skills, eg I build clients, but I know how enough about server development to prototype clients efficiently, or, in terms of curriculum, we teach everything but language-specific classes in Java so students gain expertise in this language as a side-effect.
+
+### Sharpening the saw
+
+Unscheduled time is a common occurance. For example, as a project nears release, it may make sense to reduce the number of people involved; in the absence of another priority, people will have free time. (The time spent looking for a job might be described as an extreme example.)
+
+Productive uses of this time include: moving into a support role for those still involved, testing and documenting the product, supporting customers on stackoverflow and github, training in new skills to "sharpen the saw", hackweek, stretching entrepreneurial muscles, switching from [the "productive zone" to the "learning zone"](https://m.subbu.org/accept-tentative-decline-f12185b31259#a012), etc.
+
+This ties into "ownership" too; rather than wait for someone to tell you what to do next, you can use the time to advance toward your goals.
+
+### Discovery
+
+Help opportunities find you by populating a linkedin profile, which recruiters mine for leads, and hosting code on github, which interviewers can use to start establishing rapport. Follow [Write/Speak/Code's](http://www.writespeakcode.com/) example by publishing professional ideas, eg via a github blog, and seeking feedback from trusted peers, eg friends in your CS classes. (Credit [@megha](https://twitter.com/megha) for attending and sharing with our team.)
 
 ### Interviewing
 
@@ -68,6 +64,10 @@ Interviews are also intended to give applicants a chance to see if the team seem
 ### Ownership
 
 To perform well in an interview and the workplace, we must demonstrate an interest in the role, even if it’s just a connection with a personal interest. [ABC: Always Be Coding](https://medium.com/tech-talk/d5f8051afce2) and [The ten principles for growth as an engineer](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b) describe this well.
+
+### Customer focus
+
+In my experience, this is a great focal point, eg when prioritizing features. A student can [be her own customer](http://paulgraham.com/startupideas.html) initially.
 
 ### Code review
 
