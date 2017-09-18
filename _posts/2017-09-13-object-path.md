@@ -7,24 +7,16 @@ tags: toolkit mtnhut
 
 ## Problem
 
-I want to reduce conditional assignment when setting nested keys in an object, which is handy for data manipulation, eg prior to view rendering, and consistent with [Firebase Realtime Database's use of paths](https://firebase.google.com/docs/reference/js/firebase.database.Database#ref).
+I want to reduce conditional assignment when setting nested keys in an object, ideally:
 
-## Example
+        {a:{b:{c:value} = set(a/b/c, value)
 
-{% highlight js linenos %}
-const posts = {1: {tags: {sports: true, news: true}}, 2: {tags: {news: true}}}
-const byTag = {}
-Object.entries(posts).forEach(([id, post]) => {
-  Object.keys(post.tags).forEach(tag => {
-    set(byTag, `${tag}/${id}`, true)
-  })
-})
-// byTag --> { sports: { '1': true }, news: { '1': true, '2': true } }
-{% endhighlight %}
+This is handy for data manipulation, eg prior to view rendering, and consistent with [Firebase Realtime Database's use of paths](https://firebase.google.com/docs/reference/js/firebase.database.Database#ref).
+
 
 ## Solution
 
-Use [object-path](https://github.com/mariocasciaro/object-path) or lodash's [set](https://www.npmjs.com/package/lodash.set) and [get](https://www.npmjs.com/package/lodash.get).
+Use [object-path](https://github.com/mariocasciaro/object-path) or lodash's [set](https://www.npmjs.com/package/lodash.set)/[get](https://www.npmjs.com/package/lodash.get).
 
 ## Alternative 
 
@@ -60,3 +52,15 @@ function set(obj, path, val){
 }
 {% endhighlight %}
 
+## Example
+
+{% highlight js linenos %}
+const posts = {1: {tags: {sports: true, news: true}}, 2: {tags: {news: true}}}
+const byTag = {}
+Object.entries(posts).forEach(([id, post]) => {
+  Object.keys(post.tags).forEach(tag => {
+    set(byTag, `${tag}/${id}`, true)
+  })
+})
+// byTag --> { sports: { '1': true }, news: { '1': true, '2': true } }
+{% endhighlight %}
