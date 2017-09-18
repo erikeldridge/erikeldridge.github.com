@@ -7,15 +7,13 @@ tags: academic advisory
 
 ## Problem
 
-Students distant from an established tech center are at a disadvantage when competing for tech jobs.
-
-A standard curriculum maximizes scalability for school administrators and recruiters, but minimizes ability to respond to industry changes.
+How can students in a standard CS program prepare for the job market, and how can faculty help them prepare, in a way that's efficient for all involved (students, faculty, recruiters)?
 
 ## Solution
 
 ### Soft-skills
 
-Software development has a large collaborative component. Soft-skills like interview practice, resume review, and shared learning are extremely important, but not formally covered by a standard CS curriculum. A regular meeting devoted to this enables students to develop these skills and helps scale administrators' time by allowing indeustry representatives to drop in with minimum coordination. [CSUMB's ABCs](https://csumb.edu/scd/academic-support-services) is a great example.
+Software development has a large collaborative component. Soft-skills like interviewing, resume tuning, mentoring, reviewing code, etc, are extremely important, but not formally covered by a standard CS curriculum. A regular meeting devoted to this enables students to develop these skills and helps scale administrators' time by allowing indeustry representatives to drop in with minimum coordination. [CSUMB's ABCs](https://csumb.edu/scd/academic-support-services) is a great example.
 
 ### Internship symposium
 
@@ -25,9 +23,13 @@ Accelerate cultural normalization by hosting a showcase at the end of the summer
 
 Enable industry to describe needs in a scalable way by hosting an annual panel and inviting industry to attend.
 
-### Downtime
+### Sharpening the saw
 
-Normalize the experience of "downtime", eg as a project nears release, it may make sense to reduce the number of people involved; in the absence of another priority, people will have free time. (The time spent looking for a job might be described as an extreme example.) Productive uses of this time include: moving into a support role for those still involved, testing and documenting the product, supporting customers on stackoverflow and github, training in new skills to "sharpen the saw", hackweek, etc.
+Unscheduled time is a common occurance. For example, as a project nears release, it may make sense to reduce the number of people involved; in the absence of another priority, people will have free time. (The time spent looking for a job might be described as an extreme example.)
+
+Productive uses of this time include: moving into a support role for those still involved, testing and documenting the product, supporting customers on stackoverflow and github, training in new skills to "sharpen the saw", hackweek, stretching entrepreneurial muscles, switching from [the "productive zone" to the "learning zone"](https://m.subbu.org/accept-tentative-decline-f12185b31259), etc.
+
+This ties into "ownership" too; rather than wait for someone to tell you what to do next, you can use the time to advance toward your goals.
 
 ### Community
 
