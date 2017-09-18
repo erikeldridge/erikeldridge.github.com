@@ -13,8 +13,7 @@ How can students in a standard CS program prepare for the job market, and how ca
 
 ### Soft-skills
 
-Software development has a large collaborative component. Soft-skills like interviewing, resume tuning, mentoring, reviewing code, etc, are extremely important, but not formally covered by a standard CS curriculum. A regular meeting devoted to this enables students to develop these skills and helps scale administrators' time by allowing indeustry representatives to drop in with minimum coordination. [CSUMB's ABCs](https://csumb.edu/scd/academic-support-services) is a great example.
-
+Software development has a large collaborative component. Soft-skills like interviewing, resume tuning, mentoring, reviewing code, etc are extremely important, but not formally covered by a standard CS curriculum. A regular meeting devoted to this enables students to develop these skills and helps scale administrators' time by allowing industry representatives to drop in with minimum coordination. [CSUMB's ABCs](https://csumb.edu/scd/academic-support-services) is a great example.
 ### Internship symposium
 
 Accelerate cultural normalization by hosting a showcase at the end of the summer intern season in which interns can share their experiences with other students. [CSUMB's 2017 CS internship symposium](https://twitter.com/erikeldridge/status/901681673066053632) was a great example: each intern presents a very brief overview to the whole group in a "firehose" format, an industry representative presents a keynote and then the group breaks into a poster session.
@@ -27,7 +26,7 @@ Enable industry to describe needs in a scalable way by hosting an annual panel a
 
 Unscheduled time is a common occurance. For example, as a project nears release, it may make sense to reduce the number of people involved; in the absence of another priority, people will have free time. (The time spent looking for a job might be described as an extreme example.)
 
-Productive uses of this time include: moving into a support role for those still involved, testing and documenting the product, supporting customers on stackoverflow and github, training in new skills to "sharpen the saw", hackweek, stretching entrepreneurial muscles, switching from [the "productive zone" to the "learning zone"](https://m.subbu.org/accept-tentative-decline-f12185b31259), etc.
+Productive uses of this time include: moving into a support role for those still involved, testing and documenting the product, supporting customers on stackoverflow and github, training in new skills to "sharpen the saw", hackweek, stretching entrepreneurial muscles, switching from [the "productive zone" to the "learning zone"](https://m.subbu.org/accept-tentative-decline-f12185b31259#a012), etc.
 
 This ties into "ownership" too; rather than wait for someone to tell you what to do next, you can use the time to advance toward your goals.
 
@@ -45,15 +44,21 @@ In my experience, this is a great focal point, eg when prioritizing features. A 
 
 ### Discovery
 
-Help opportunities find you by populating a linkedin profile, which recruiters mine for leads, and hosting code on github, which interviewers can use to start establishing rapport. Follow [Write/Speak/Code's](http://www.writespeakcode.com/) example by publishing professional ideas, eg via a github blog, and seeking feedback from trusted peers, eg friends in your CS classes.
+Help opportunities find you by populating a linkedin profile, which recruiters mine for leads, and hosting code on github, which interviewers can use to start establishing rapport. Follow [Write/Speak/Code's](http://www.writespeakcode.com/) example by publishing professional ideas, eg via a github blog, and seeking feedback from trusted peers, eg friends in your CS classes. (Credit [@megha](https://twitter.com/megha) for attending and sharing with our team.)
 
-### Boilerplate
+### Interviewing
 
-The interview process attempts to approximate the experience of working together. For better or worse, basic algorithms are a default topic. Prepare by reviewing a book like Algorithms for Interviews and practice solving the problems on a whiteboard with other people, eg your campus' ACM chapter. This exercise also provides context for boilerplate academic content, ie "Q: When will I ever use this? A: In an interview"
+The interview process attempts to approximate the experience of working together. For better or worse, basic algorithms are a default topic. Prepare by reviewing a book like Algorithms for Interviews and practice solving problems on a whiteboard with other people, eg your campus' ACM chapter. The goal is not to memorize solutions, but to gain experience breaking down problems, solving them collaboratively and producing a solution that's understandable by other people.
+
+Two consistently high-performing groups of people I've interviewed are Waterloo interns and folks with competitive programming experience. The former have lots of experience [interviewing](https://uwaterloo.ca/co-operative-education/get-hired/interview-process/interview-process-and-procedures), and the latter have lots of experience in an interview-like setting. I think the commonality is practice often and in groups.
+
+Interviewing is similar to pair programming in that two are involved, but one person is "driving". The process also seems like a bootstrap for referrals; ideally, the interviewer can say afterwards: "I've worked with this person and recommend her for my team."
+
+I've found interview prep also provides context for academic content, ie "When will I ever use this? In an interview."
 
 ### Code review
 
-Prepare for the experience of having your code read by others by pushing code to github and seeking feedback from classmates. Use a styleguide ([example](https://google.github.io/styleguide/jsguide.html)) to get ideas about what to review for (and, ideally, what can be automated ([example](https://github.com/google/eslint-config-google)).
+Prepare for the experience of having your code read by others by pushing code to github and seeking feedback from classmates. Use a styleguide ([example](https://google.github.io/styleguide/jsguide.html)) to get ideas about what to review for, and, ideally, what can be automated ([example](https://github.com/google/eslint-config-google)).
 
 ### Source control
 
