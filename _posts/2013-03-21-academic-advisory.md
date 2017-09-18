@@ -35,10 +35,6 @@ This ties into "ownership" too; rather than wait for someone to tell you what to
 
 Nurture the tech community near campus by hosting events like hack days, unconferences, and meetups.
 
-### Ownership
-
-To perform well in an interview and the workplace, we must demonstrate an interest in the role, even if it’s just a connection with a personal interest. [ABC: Always Be Coding](https://medium.com/tech-talk/d5f8051afce2) and [The ten principles for growth as an engineer](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b) describe this well.
-
 ### Customer focus
 
 In my experience, this is a great focal point, eg when prioritizing features. A student can [be her own customer](http://paulgraham.com/startupideas.html) initially.
@@ -46,6 +42,14 @@ In my experience, this is a great focal point, eg when prioritizing features. A 
 ### Discovery
 
 Help opportunities find you by populating a linkedin profile, which recruiters mine for leads, and hosting code on github, which interviewers can use to start establishing rapport. Follow [Write/Speak/Code's](http://www.writespeakcode.com/) example by publishing professional ideas, eg via a github blog, and seeking feedback from trusted peers, eg friends in your CS classes. (Credit [@megha](https://twitter.com/megha) for attending and sharing with our team.)
+
+### One thing well
+
+The ["one thing well"](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well) phrasing comes from Unix philosophy, but I think it works for career planning too. Pick something interesting to you and bias towards it, eg I want to develop mobile apps. Use this to guide your career, eg the classes you pick, questions you ask, interview questions you practice, code you push to github, tldr on your resume, meetups you attend, projects you volunteer for etc. This is what's described as having "passion" for a topic, or "goals" :) You can always tune this focal point, eg I want to develop mobile apps --> I want to develop apps on Android.
+
+Actually being able to do this thing full time for work is also a matter of luck, but you'll be best prepared when opportunity comes along, eg in an interview: "How would you build an app on Android?"
+
+"T-shaped" focus refers to doing one thing well, but being aware of related skills, eg I build clients, but I know how enough about server development to prototype clients efficiently, or, in terms of curriculum, we teach everything but language-specific classes in Java so students gain expertise in this language as a side-effect.
 
 ### Interviewing
 
@@ -56,6 +60,10 @@ Two consistently high-performing groups of people I've interviewed are Waterloo 
 Interviewing is similar to pair programming in that two are involved, but one person is "driving". The process also seems like a bootstrap for referrals; ideally, the interviewer can say afterwards: "I've worked with this person and recommend her for my team."
 
 I've found interview prep also provides context for academic content, ie "When will I ever use this? In an interview."
+
+### Ownership
+
+To perform well in an interview and the workplace, we must demonstrate an interest in the role, even if it’s just a connection with a personal interest. [ABC: Always Be Coding](https://medium.com/tech-talk/d5f8051afce2) and [The ten principles for growth as an engineer](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b) describe this well.
 
 ### Code review
 
@@ -72,14 +80,6 @@ Philisophically: progress > perfection.
 Pragmatically, this refers to reducing risk by keeping changes small and maintaining a working product you can "ship" at any time. [Agile development](https://en.wikipedia.org/wiki/Agile_software_development) defines this formally, but I see this pattern applied broadly: in test-taking when solving easy problems first; in interviews by describing a solution verbally, then in psuedo-code, then with correct syntax, then with optimizations; in the workplace explicitly when scoping a change to commit to source control; in career planning by defining a goal and then building skills and choosing opportunities to advance toward that goal; etc.
 
 In general, it's easier to estimate the cost of a small change than a large change, so breaking up large changes into small changes is helpful. I've found a one week "cadence" works well for making progress and minimizing coordination effort.
-
-### One thing well
-
-The ["one thing well"](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well) phrasing comes from Unix philosophy, but I think it works for career planning too. Pick something interesting to you and bias towards it, eg I want to develop mobile apps. Use this to guide your career, eg the classes you pick, questions you ask, interview questions you practice, code you push to github, tldr on your resume, meetups you attend, projects you volunteer for etc. This is what's described as having "passion" for a topic, or "goals" :) You can always tune this focal point, eg I want to develop mobile apps --> I want to develop apps on Android.
-
-Actually being able to do this thing full time for work is also a matter of luck, but you'll be best prepared when opportunity comes along, eg in an interview: "How would you build an app on Android?"
-
-"T-shaped" focus refers to doing one thing well, but being aware of related skills, eg I build clients, but I know how enough about server development to prototype clients efficiently, or, in terms of curriculum, we teach everything but language-specific classes in Java so students gain expertise in this language as a side-effect.
 
 ### Pre-college
 
