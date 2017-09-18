@@ -14,6 +14,7 @@ How can students in a standard CS program prepare for the job market, and how ca
 ### Soft-skills
 
 Software development has a large collaborative component. Soft-skills like interviewing, resume tuning, mentoring, reviewing code, etc are extremely important, but not formally covered by a standard CS curriculum. A regular meeting devoted to this enables students to develop these skills and helps scale administrators' time by allowing industry representatives to drop in with minimum coordination. [CSUMB's ABCs](https://csumb.edu/scd/academic-support-services) is a great example.
+
 ### Internship symposium
 
 Accelerate cultural normalization by hosting a showcase at the end of the summer intern season in which interns can share their experiences with other students. [CSUMB's 2017 CS internship symposium](https://twitter.com/erikeldridge/status/901681673066053632) was a great example: each intern presents a very brief overview to the whole group in a "firehose" format, an industry representative presents a keynote and then the group breaks into a poster session.
@@ -58,7 +59,7 @@ I've found interview prep also provides context for academic content, ie "When w
 
 ### Code review
 
-Prepare for the experience of having your code read by others by pushing code to github and seeking feedback from classmates. Use a styleguide ([example](https://google.github.io/styleguide/jsguide.html)) to get ideas about what to review for, and, ideally, what can be automated ([example](https://github.com/google/eslint-config-google)).
+Prepare for the experience of having your code read by others by pushing code to github and seeking feedback from classmates. Use a styleguide ([example](https://google.github.io/styleguide/jsguide.html)) to get ideas about what to review for, and, ideally, what can be [automated](https://medium.com/@mikeal/modern-modules-d99b6867b8f1#6d53) ([example](https://github.com/google/eslint-config-google)).
 
 ### Source control
 
@@ -66,7 +67,7 @@ Incremental development and the ability to revert changes is fundamental. Git an
 
 ### One thing well
 
-Pick something interesting and bias towards it, eg I want to develop mobile apps. Use this to guide your career, eg the classes you pick, questions you ask, interview questions you practice, code you push to github, tldr on your resume, meetups you attend, projects you volunteer for etc. This is what's described as having "passion" for a topic, or "goals" :) You can always tune this focal point, eg I want to develop mobile apps --> I want to develop apps on Android.
+The ["one thing well"](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well) phrasing comes from Unix philosophy, but I think it works for career planning too. Pick something interesting to you and bias towards it, eg I want to develop mobile apps. Use this to guide your career, eg the classes you pick, questions you ask, interview questions you practice, code you push to github, tldr on your resume, meetups you attend, projects you volunteer for etc. This is what's described as having "passion" for a topic, or "goals" :) You can always tune this focal point, eg I want to develop mobile apps --> I want to develop apps on Android.
 
 Actually being able to do this thing full time for work is also a matter of luck, but you'll be best prepared when opportunity comes along, eg in an interview: "How would you build an app on Android?"
 
