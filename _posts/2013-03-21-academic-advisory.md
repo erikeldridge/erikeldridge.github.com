@@ -81,9 +81,13 @@ Pragmatically, this refers to reducing risk by keeping changes small and maintai
 
 In general, it's easier to estimate the cost of a small change than a large change, so breaking up large changes into small changes is helpful. I've found a one week "cadence" works well for making progress and minimizing coordination effort.
 
+### Maker & manager schedules
+
+[Paul Graham's "Maker's schedule, manager's schedule"](http://www.paulgraham.com/makersschedule.html) essay persuasively argues wricting code and meeting with people require fundamentally different forms of attention. Both are important, mutually incompatible. [Subbu Allamaraju's essay "Accept \| Tentative ✓ \| Decline"](https://m.subbu.org/accept-tentative-decline-f12185b31259) also addresses this topic. Carve out "no-meeting" blocks on your calendar for focus work.
+
 ### Reduce chaos
 
-I first heard this phrase in the context of advancing a tech ladder ([example ladder](https://github.com/urbanairship/techladder/blob/master/eng.md)), eg senior engineers use simple solutions to reduce complexity, but I think it's broadly applicable: identifying a personal career goal to buffer against corporate goal fluctuation; saving an emergency fund to buffer against employment fluctuation; diversifying investments to avoid single points of failure; etc. 
+I first heard this phrase in the context of advancing a tech ladder ([example ladder](https://github.com/urbanairship/techladder/blob/master/eng.md)), eg senior engineers reduce chaos from a system, but I think it's broadly applicable for career (and life) planning: identifying a personal career goal to buffer against corporate goal fluctuation; saving an emergency fund to buffer against employment fluctuation; diversifying investments to avoid single points of failure; etc. 
 
 ### Pre-college
 
