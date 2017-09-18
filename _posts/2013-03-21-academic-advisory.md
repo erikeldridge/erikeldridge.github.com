@@ -81,6 +81,10 @@ Pragmatically, this refers to reducing risk by keeping changes small and maintai
 
 In general, it's easier to estimate the cost of a small change than a large change, so breaking up large changes into small changes is helpful. I've found a one week "cadence" works well for making progress and minimizing coordination effort.
 
+### Reduce chaos
+
+I first heard this phrase in the context of advancing a tech ladder ([example ladder](https://github.com/urbanairship/techladder/blob/master/eng.md)), eg senior engineers use simple solutions to reduce complexity, but I think it's broadly applicable: identifying a personal career goal to buffer against corporate goal fluctuation; saving an emergency fund to buffer against employment fluctuation; diversifying investments to avoid single points of failure; etc. 
+
 ### Pre-college
 
 From [article on Vietnamese education](http://neil.fraser.name/news/2013/03/16/) wrt Google’s hiring criteria: "There is no question that half of the students in that grade 11 class could pass the Google interview process."
