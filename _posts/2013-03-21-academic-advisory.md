@@ -53,7 +53,7 @@ Actually being able to do this thing full time for work is also a matter of luck
 
 ### Interviewing
 
-The interview process attempts to approximate the experience of working together. For better or worse, basic algorithms are a default topic. Prepare by reviewing a book like Algorithms for Interviews, Cracking the Coding Interview, etc and practice solving problems on a whiteboard and/or shared editor, eg [collabedit](http://collabedit.com/), with other people, eg your campus' ACM chapter. The goal is not to memorize solutions, but to gain experience breaking down problems, solving them collaboratively and producing a solution that's understandable by other people.
+The interview process attempts to approximate the experience of working together. For better or worse, basic algorithms are a default topic. Prepare by reviewing a book like Algorithms for Interviews, Cracking the Coding Interview, etc and practice solving problems on a whiteboard with other people, eg your campus' ACM chapter. The goal is not to memorize solutions, but to gain experience breaking down problems, solving them collaboratively and producing a solution that's understandable by other people.
 
 Two consistently high-performing groups of people I've interviewed are Waterloo interns and folks with competitive programming, eg [International Olympiad in Informatics](https://en.wikipedia.org/wiki/International_Olympiad_in_Informatics), experience. The former have lots of experience [interviewing](https://uwaterloo.ca/co-operative-education/get-hired/interview-process/interview-process-and-procedures), and the latter have lots of experience in an interview-like setting. I think the commonality is practice often and in groups.
 
@@ -63,7 +63,7 @@ I've found interview prep also provides context for academic content, ie "When w
 
 Typically, a hiring team will schedule an initial phone interview using a shared text editor like [collabedit](http://collabedit.com/), and then invite the applicant onsite for a day of in person interviews with ~5 engineers and managers.
 
-Interviews are also intended to give applicants a chance to see if the team seems like a good fit, so prepare questions, eg What is your development process like? Do you use any externally-available tools I can learn about before I join? Are there any tools/patterns you use you think everyone should know about? 
+Interviews are also intended to give applicants a chance to see if the team seems like a good fit, so prepare questions, eg "What is your development process like?", "Do you use any externally-available tools I can learn about before I join?", "Are there any tools/patterns you use you think everyone should know about?" 
 
 ### Ownership
 
