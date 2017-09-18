@@ -49,17 +49,21 @@ Help opportunities find you by populating a linkedin profile, which recruiters m
 
 ### Interviewing
 
-The interview process attempts to approximate the experience of working together. For better or worse, basic algorithms are a default topic. Prepare by reviewing a book like Algorithms for Interviews, Cracking the Coding Interview, etc and practice solving problems on a whiteboard with other people, eg your campus' ACM chapter. The goal is not to memorize solutions, but to gain experience breaking down problems, solving them collaboratively and producing a solution that's understandable by other people.
+The interview process attempts to approximate the experience of working together such that the interviewer can recommend the interviewee for a job after a brief conversation.
 
-Two consistently high-performing groups of people I've interviewed are Waterloo interns and folks with competitive programming, eg [International Olympiad in Informatics](https://en.wikipedia.org/wiki/International_Olympiad_in_Informatics), experience. The former have lots of experience [interviewing](https://uwaterloo.ca/co-operative-education/get-hired/interview-process/interview-process-and-procedures), and the latter have lots of experience in an interview-like setting. I think the commonality is practice often and in groups.
+An interviewer's day-to-day work is usually private to a company and/or difficult to abstract for an interview, so CS basics may be the only thing in common between the interviewer and interviewee. Prepare by reviewing a book like Algorithms for Interviews, Cracking the Coding Interview, etc and practice solving problems on a whiteboard with other people, eg your campus' ACM chapter. The goal is not to memorize solutions, but to gain experience breaking down problems, solving them collaboratively and producing a solution that's understandable by other people.
 
-Interviewing is similar to pair programming in that two are involved, but one person is "driving". The process also seems like a bootstrap for referrals; ideally, the interviewer can say afterwards: "I've worked with this person and recommend her for my team."
+I've found interview prep can also motivate academic requirements, ie "When will I ever use this? In an interview." Students are actively steeped in CS basics; the books mentioned above just summarize and provide interview-specific context.
 
-I've found interview prep also provides context for academic content, ie "When will I ever use this? In an interview." Students are actively steeped in algorithm basics; the books mentioned above just summarize and provide interview-specific context. 
+Two consistently high-performing groups of people I've interviewed are Waterloo interns and folks with competitive programming, eg [International Olympiad in Informatics](https://en.wikipedia.org/wiki/International_Olympiad_in_Informatics), experience. The former has a ton of experience [interviewing](https://uwaterloo.ca/co-operative-education/get-hired/interview-process/interview-process-and-procedures). The latter has experience with algorithmic thinking as a team under pressure.
 
-Typically, a hiring team will schedule an initial phone interview using a shared text editor like [collabedit](http://collabedit.com/), and then invite the applicant onsite for a day of in person interviews with ~5 engineers and managers.
+Interviewing is similar to pair programming in that two are involved, but one person is "driving". The interviewer may look to you for motivation, eg "Is this applicant self-motivated?", be inexperienced and/or slammed with work, so prepare to humbly take a lead role in identifying the problem, implementing the solution and asserting correctness.
 
-Interviews are also intended to give applicants a chance to see if the team seems like a good fit, so prepare questions, eg "What is your development process like?", "Do you use any externally-available tools I can learn about before I join?", "Are there any tools/patterns you use you think everyone should know about?" 
+Typically, a hiring team will schedule an initial phone interview using a shared text editor like [collabedit](http://collabedit.com/), and then invite the applicant onsite for a day of in-person interviews with ~5 engineers and managers. At this point, practice is less important than responsiveness to coordination emails and getting sufficient food and sleep to think clearly under pressure, especially since we often interview with multiple companies in unfamiliar places simultaneously.
+
+Interviews are also intended to give applicants a chance to see if the team seems like a good fit, so prepare questions, eg "What is your development process like?", "Do you use any externally-available tools I can learn about before I join?", "Are there any tools/patterns you use you think everyone should know about?"
+
+Some companies are better than others regarding follow-up after an interview. Reach out to the recruiter you've been working with if you haven't heard back after a day or so, and especially if one company extends an offer, but you'd prefer to work at another you haven't heard back from.
 
 ### Ownership
 
@@ -91,7 +95,7 @@ In general, it's easier to estimate the cost of a small change than a large chan
 
 ### Reduce chaos
 
-I first heard this phrase in the context of advancing a tech ladder ([example ladder](https://github.com/urbanairship/techladder/blob/master/eng.md)), eg senior engineers reduce chaos from a system, but I think it's broadly applicable for career (and life) planning: identifying a personal career goal to buffer against corporate goal fluctuation; saving an emergency fund to buffer against employment fluctuation; diversifying investments to avoid single points of failure; etc. 
+I first heard this phrase in the context of advancing a tech ladder ([example ladder](https://github.com/urbanairship/techladder/blob/master/eng.md)), eg senior engineers reduce chaos from a system, but I think it's broadly applicable for career (and life) planning: identifying a personal career goal to buffer against corporate goal fluctuation; saving an emergency fund to buffer against employment fluctuation; diversifying investments to avoid single points of failure; etc.
 
 ### Pre-college
 
