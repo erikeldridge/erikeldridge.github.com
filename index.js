@@ -2,8 +2,8 @@
   var input = doc.getElementById('filter')
   var items = doc.getElementsByTagName('li')
   function filter(e){
+    var pattern = new RegExp(e.target.value, 'i')
     for (var i = 0; i < items.length; i++) {
-      var pattern = new RegExp(e.target.value, 'i')
       var item = items[i]
       if (pattern.test(item.innerText)) {
         show(item)
