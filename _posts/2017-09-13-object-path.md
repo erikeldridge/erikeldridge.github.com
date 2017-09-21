@@ -16,7 +16,7 @@ This is handy for data manipulation, eg prior to view rendering, and consistent 
 
 ## Solution
 
-Use [object-path](https://github.com/mariocasciaro/object-path) or lodash's [set](https://www.npmjs.com/package/lodash.set)/[get](https://www.npmjs.com/package/lodash.get).
+Use [object-path](https://www.npmjs.com/package/object-path) or lodash's [set](https://www.npmjs.com/package/lodash.set)/[get](https://www.npmjs.com/package/lodash.get).
 
 ## Alternative 
 
