@@ -27,28 +27,22 @@ The tools mentioned above interpret numeric path segments as array indices, whic
 If this is an issue, consider:
 
 {% highlight js linenos %}
-function rget(obj, paths){
-  const [head, ...tail] = paths
-  if (typeof obj[head] == 'object' && tail.length) {
-    return rget(obj[head], tail)
-  } else {
-    return obj[head]
-  }
-}
-function rset(obj, paths, val){
-  const [head, ...tail] = paths
-  if (tail.length) {
-    obj[head] = typeof obj[head] == 'object' ? obj[head] : {}
-    return rset(obj[head], tail, val)
-  } else {
-    obj[head] = val
-  }
+function set(obj, path, val){
+  path.split('/').reduce((parent, key, i, keys) => {
+    if (typeof parent[key] != 'object') {
+      if (i === keys.length - 1) {
+        parent[key] = val
+      } else {
+        parent[key] = {}
+      }
+    }
+    return parent[key]
+  }, obj)
 }
 function get(obj, path){
-  return rget(obj, path.split('/'))
-}
-function set(obj, path, val){
-  return rset(obj, path.split('/'), val)
+  return path.split('/').reduce((parent, key) => {
+    return typeof parent === 'object' ? parent[key] : undefined
+  }, obj)
 }
 {% endhighlight %}
 
