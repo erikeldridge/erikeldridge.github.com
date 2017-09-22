@@ -7,7 +7,9 @@ tags: branch growth microsoft laughly league box criteo meetup
 
 ## Meta
 
-Here are my notes from the [Mobile Growth meetup on 9/21/17](https://www.meetup.com/Bay-Area-Mobile-Growth-Hackers/events/242833756/i/gh_new_rsvp_tl). Branch has been running these for a couple years. The two I've attended have been well-organized and -attended. This one was at Microsoft's office in the Twitter building.
+Branch runs a nice mobile growth meetup I've attended a couple times. The [one last night](https://www.meetup.com/Bay-Area-Mobile-Growth-Hackers/events/242833756/i/gh_new_rsvp_tl) was in the Microsoft office (formerly Yammer) in the Twitter building.
+
+Credit to [Prakhar](https://github.com/prakhar1989) for asking questions about these notes that led to more clarifying detail.
 
 ## Notes
 
@@ -37,10 +39,12 @@ Here are my notes from the [Mobile Growth meetup on 9/21/17](https://www.meetup.
 
 ### Reengagement & overlooked metric?
 
-- App quality
+- App quality [^qualitymetric] 
 - Minimize registration requirements. How much info can you capture later? Reducing one field can have a big impact. Prioritize input hints and assistance before paid marketing
 - Try requesting push earlier; not first, but not last, eg so you can push "We didn't mean $3.99. We meant $2.99"
 - Ask for easy things first, which will help people feel invested and more likely to grant hard things later
+
+[^qualitymetric]: There wasn't a specific metric mentioned. The general idea was: invest in app quality before driving traffic to app, ie if an app's unusable, no amount of growth tuning will retain users.
 
 ### Metrics to obsess over?
 
@@ -76,7 +80,9 @@ Here are my notes from the [Mobile Growth meetup on 9/21/17](https://www.meetup.
 ### How to AB test frequently?
 
 - This was regarding Laughly's two-week experiment cycle
-- Only test one thing at a time. Literally, only one variation in the app every two weeks (to reduce noise). <-- my top takeaway. Presumably this also reduces engineering complexity and improves UX consistency
+- Only test one thing at a time. Literally, only one variation in the app every two weeks (to reduce noise) [^testonething]
+
+[^testonething]: This was my top takeaway. Presumably this also reduces engineering complexity and improves UX consistency. The pitch was purely about logical correctness in experiment construction, but the person who asked the question mentioned their experiments take months to run, which would seem to indicate a significance (or quality) concern. I also appreciated the conceptual simplicity. I suppose a follow-on requirement is to have a smaller eng org, so folks don't feel blocked by limited release opportunities. In my experience, we tried to scale eng by running multiple experiments simultaneously, but the tech required to support this was complex, to the point where I'm now looking back and wondering if we should have just done less :)
 
 ### Top recommendation?
 
@@ -85,3 +91,4 @@ Here are my notes from the [Mobile Growth meetup on 9/21/17](https://www.meetup.
 - Test new marketing channels
 - Acquisition & retention are the same
 
+## Footnotes
