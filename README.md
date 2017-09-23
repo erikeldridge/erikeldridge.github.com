@@ -8,32 +8,32 @@
 
 1. Create pre-commit hook to maintain last-modified date:
 
-```ruby
-#!/usr/bin/env ruby
+    ```ruby
+    #!/usr/bin/env ruby
 
-require 'yaml'
+    require 'yaml'
 
-# https://github.com/jekyll/jekyll/blob/1ac9c21956ed7e31be6fd8f0083f6414b6220684/lib/jekyll/document.rb#L10
-YAML_FRONT_MATTER_REGEXP = /\A(---\s*\n.*?\n?)^((---|\.\.\.)\s*$\n?)/m
+    # https://github.com/jekyll/jekyll/blob/1ac9c21956ed7e31be6fd8f0083f6414b6220684/lib/jekyll/document.rb#L10
+    YAML_FRONT_MATTER_REGEXP = /\A(---\s*\n.*?\n?)^((---|\.\.\.)\s*$\n?)/m
 
-`git diff --cached --name-only`.split.each do |path|
-  if File.read(path) =~ YAML_FRONT_MATTER_REGEXP
+    `git diff --cached --name-only`.split.each do |path|
+      if File.read(path) =~ YAML_FRONT_MATTER_REGEXP
 
-    # https://stackoverflow.com/a/36950919/1971682
-    head, body = YAML.load($1), Regexp.last_match.post_match
+        # https://stackoverflow.com/a/36950919/1971682
+        head, body = YAML.load($1), Regexp.last_match.post_match
 
-    head['date'] = Time.now
+        head['date'] = Time.now
 
-    output = <<-END
-#{YAML.dump head}
----
+        output = <<-END
+    #{YAML.dump head}
+    ---
 
 
-#{body}
-END
+    #{body}
+    END
 
-    File.write(path, output)
-  end
-end
-```
+        File.write(path, output)
+      end
+    end
+    ```
 
