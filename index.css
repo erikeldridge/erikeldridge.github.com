@@ -3,7 +3,7 @@
  */
 .solarized {
   background-color: #fdf6e3;
-  color: #073642;
+  color: #586e75;
 }
 .readability {
   font-family: serif;
@@ -11,8 +11,12 @@
   line-height: 1.5;
 }
 .meta {
-  font-style: italic;
+  color: #93a1a1;
   font-size: 90%;
+}
+a.meta {
+  margin-left: .5ex;
+  text-decoration: none;
 }
 
 /*
