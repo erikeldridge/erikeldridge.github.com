@@ -1,7 +1,9 @@
 ---
 title: Adventures in academic advisory
+date: 2017-09-22 17:30:24.995502000 -07:00
 layout: post
 tags: academic advisory
+
 ---
 
 
@@ -100,4 +102,5 @@ I first heard this phrase in the context of advancing a tech ladder ([example la
 ### Pre-college
 
 From [article on Vietnamese education](http://neil.fraser.name/news/2013/03/16/) wrt Google’s hiring criteria: "There is no question that half of the students in that grade 11 class could pass the Google interview process."
+
 

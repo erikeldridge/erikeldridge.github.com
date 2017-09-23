@@ -1,5 +1,5 @@
 ---
-exclude: ['new.rb']
+exclude: ['new.rb', 'README.md']
 title: erikeldridge.com
 timezone: UTC
 collections:
