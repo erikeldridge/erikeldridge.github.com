@@ -8,7 +8,7 @@
 
 1. Create pre-commit hook to maintain last-modified date:
 
-{% highlight ruby linenos %}
+```ruby
 #!/usr/bin/env ruby
 
 require 'yaml'
@@ -35,5 +35,5 @@ END
     File.write(path, output)
   end
 end
-{% endhighlight %}
+```
 
