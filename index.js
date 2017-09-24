@@ -1,23 +1,16 @@
-(function(doc){
-  var input = doc.getElementById('filter')
-  var items = doc.getElementsByTagName('li')
-  function filter(e){
+(function($){
+  var $input = $('#filter')
+  var $items = $('li')
+  $input.keyup(function(e){
     var pattern = new RegExp(e.target.value, 'i')
-    for (var i = 0; i < items.length; i++) {
-      var item = items[i]
-      if (pattern.test(item.innerText)) {
-        show(item)
+    $items.each(function(){
+      var $item = $(this)
+      if (pattern.test($item.text())) {
+        $item.show()
       } else {
-        hide(item)
+        $item.hide()
       }
-    }
-  }
-  function show(item) {
-    item.classList.remove('hidden')
-  }
-  function hide(item) {
-    item.classList.add('hidden')
-  }
-  input.addEventListener('keyup', filter)
-  input.classList.remove('hidden')
-})(document)
+    })
+  })
+  $input.show()
+})(jQuery)
