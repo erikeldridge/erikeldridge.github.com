@@ -2,6 +2,8 @@
 title: Object path
 layout: post
 tags: toolkit mtnhut
+date: 2017-09-24 15:55:20.722500000 -07:00
+
 ---
 
 
@@ -9,7 +11,9 @@ tags: toolkit mtnhut
 
 I want to reduce conditional assignment when setting nested keys in an object, ideally:
 
-        {a:{b:{c:value} = set(a/b/c, value)
+```text
+    {a:{b:{c:value}}} = set(a/b/c, value)
+```
 
 This is handy for data manipulation, eg prior to view rendering, and consistent with [Firebase Realtime Database's use of paths](https://firebase.google.com/docs/reference/js/firebase.database.Database#ref).
 
@@ -58,3 +62,4 @@ Object.entries(posts).forEach(([id, post]) => {
 })
 // byTag --> { sports: { '1': true }, news: { '1': true, '2': true } }
 {% endhighlight %}
+
