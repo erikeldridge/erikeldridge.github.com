@@ -1,6 +1,9 @@
 (function($){
 $('h2,h3').filter('[id]').each(function(){
-  var id = $(this).attr('id')
-  $(this).append('<a class="meta" href="#'+id+'">#</a>')
+  var $header = $(this)
+  var id = $header.attr('id')
+  $header
+    .addClass('anchored')
+    .append('<a class="meta" href="#'+id+'">#</a>')
 })
 })(jQuery)

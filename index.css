@@ -14,9 +14,13 @@
   color: #93a1a1;
   font-size: 90%;
 }
-a.meta {
+.anchored a {
+  display: none;
   margin-left: .5ex;
   text-decoration: none;
+}
+.anchored:hover a {
+  display: inline;
 }
 
 /*
