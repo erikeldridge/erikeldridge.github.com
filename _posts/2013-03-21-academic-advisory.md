@@ -1,6 +1,6 @@
 ---
 title: Adventures in academic advisory
-date: 2017-09-25 16:23:32.304156000 -07:00
+date: 2017-09-25 16:41:39.583444000 -07:00
 layout: post
 tags: academic advisory
 
@@ -9,11 +9,11 @@ tags: academic advisory
 
 ## Problem
 
-How can students in a standard CS program prepare for the job market, and how can faculty help them prepare, in a way that's efficient for all involved (students, faculty, recruiters)?
+How can students in a standard CS program prepare for the job market, and how can faculty help them prepare, in a way that's efficient for all involved (students, faculty, industry)?
 
 ## Solution
 
-Tldr: Schools and companies should **standardize** approaches (to scale and avoid corporate bias) and provide **material support**, eg scholarships, resources and jobs (to avoid institutional bias in traditional hiring). Students should focus on **academic performance** (implicit interview prep) with a **career goal** (aka "passion") and **collaboration** (we don't work alone) in mind.
+Tldr: Faculty and industry should **standardize** approaches (to scale and avoid corporate bias) and provide **material support**, eg scholarships, resources and jobs (to avoid institutional bias in traditional hiring). Students should focus on **academic performance** (implicit interview prep) with a **career goal** (aka "passion") and **collaboration** (we don't work alone) in mind.
 
 ### Soft-skills
 
@@ -26,6 +26,10 @@ Accelerate cultural normalization by hosting a showcase at the end of the summer
 ### Academic advisory panel
 
 Enable industry to describe needs in a scalable way by hosting an annual panel and inviting industry to attend.
+
+### Campus advocacy
+
+Industry can scale university hiring by empowering employees to identify and advocate for campuses and team up with other advocates. Help these teams by providing academic content (for teaching classes) and material support to relay to students, eg scholarships, technical resources, on-campus interviews, etc.
 
 ### Community
 
@@ -104,6 +108,8 @@ I first heard this phrase in the context of advancing a tech ladder ([example la
 ### Pre-college
 
 From [article on Vietnamese education](http://neil.fraser.name/news/2013/03/16/) wrt Google’s hiring criteria: "There is no question that half of the students in that grade 11 class could pass the Google interview process."
+
+
 
 
 
