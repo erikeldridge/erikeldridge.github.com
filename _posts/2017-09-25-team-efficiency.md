@@ -2,7 +2,7 @@
 title: Team efficiency
 layout: post
 tags: org team management
-date: 2017-09-25 15:48:07.994520000 -07:00
+date: 2017-09-25 15:56:54.553000000 -07:00
 
 ---
 
@@ -13,11 +13,13 @@ What enables a team to work efficiently?
 
 ## Solution
 
+Tldr: we should be able to do our work more efficiently in the office than out of it.
+
 ### Product ownership
 
 Product management collects, aggregates and channels customer feedback to engineering.
 
-Product prioritizes feature work and works with engineering to delegate ownership, which enables engineering to allocate resources efficiently.
+Product prioritizes feature work and coordinates with engineering to delegate ownership, which enables engineering to allocate resources efficiently.
 
 ### Systems-level thinking
 
@@ -50,5 +52,7 @@ Provide folks doing focused work with uninterrupted time, eg "no-meeting Thursda
 ### Infra product
 
 Treat internal infrastructure as a product, complete with office hours, support rotations, documentation, SLAs, etc, to enable efficient application development on that infra.
+
+
 
 
