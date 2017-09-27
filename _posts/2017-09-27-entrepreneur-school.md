@@ -2,7 +2,7 @@
 title: Entrepreneur school
 layout: post
 tags: career org customer
-date: 2017-09-27 11:13:19.370373000 -07:00
+date: 2017-09-27 16:11:28.664333000 -07:00
 
 ---
 
@@ -21,7 +21,7 @@ This seems to be the overarching principle. We're in business if we're deliverin
 
 A customer can be myself when hacking, a teacher in the classroom, a product manager in a team, or the more traditional definition of someone paying for a service.
 
-This opens a couple questions: what do customer's want? how to get customers? [Perera] provides good tips.
+This opens a couple questions: what do customer's want? how to get customers? [Perera] provides good tips, and Product Hunt is developing tooling around this called [Ship](https://www.producthunt.com/ship).
 
 ## Minimize cost & diversify
 
@@ -38,4 +38,5 @@ In terms of professional development, [Write/Speak/Code](http://www.writespeakco
 I wonder if this is an aspect of the traditional editor role in literature.
 
 [Perera]: https://dev.to/laktek/what-i-learned-building-pagerestfrom-an-idea-to-paying-customers-in-7-days-d9a "What I learned building Page.REST — from idea to paying customers in 7 days"
+
 
