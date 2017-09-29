@@ -2,10 +2,31 @@
 title: Batch interviewing
 layout: post
 tags: batch manager schedule recruiting diversity
-date: 2017-09-29 14:49:50.719746000 -07:00
+date: 2017-09-29 15:59:05.659899000 -07:00
 
 ---
 
+
+## Problem
+
+Interviewing can be expensive for a number of reasons.
+
+For interviewees:
+
+- Traditional hiring pipelines are at risk of institutional bias, which decreases efficiency when sourcing candidates from diverse backgrounds.
+- Accumulating experience interviewing, a key factor for success, is hard when each company has a different process.
+
+For interviewers:
+
+- Focus work is fundamentally different than interpersonal work and requires blocks of uninterrupted time. [Graham] and [Davies] mention multi-hour blocks, which is consistent with my experience. For this reason, scheduling interviews at arbitrary times is extra costly for developers.
+- Because interviewing requires standard problems, it differs from day to day work, so we need to warm up in advance.
+
+For recruiters:
+
+- Scheduling several people at arbitary times is also costly (unless interviews have top priority, in which case this cost is pushed onto the interviewer).
+- Motivating everyone on an interview panel to submit feedback quickly is hard, which delays hiring decisions.
+
+(Thx, [Megha](twitter.com/megha), for feedback regarding problem/solution presentation!)
 
 ## Solution
 
@@ -15,25 +36,13 @@ Perform a quick evaluation after each interview, eg 45 minutes of interview, 10 
 
 Huddle at the end of the day, ask each interviewer to vote, stack rank candidates, and make hiring decisions.
 
-Enable students to efficiently gain experience, and administrators and recruiters to efficiently schedule, by adding interview blocks to a standard process. 
+## Benefits
 
-Eliminate a source of institutional bias in the hiring pipeline by interviewing candidates in unconventional settings on site.
+Enable interviewees to efficiently gain experience, and administrators and recruiters to efficiently schedule, by adding interview blocks to a standard process.
+
+Eliminate a source of institutional bias in the hiring pipeline by moving interviews to the candidate.
 
 Amortize warm-up cost and increase evaluation accuracy by asking the same question repeatedly.
-
-## Problem
-
-Focus work is fundamentally different than interpersonal work and requires blocks of uninterrupted time. [Graham] and [Davies] mention multi-hour blocks, which is consistent with my experience. For this reason, scheduling interviews at arbitrary times is extra costly for developers.
-
-Because interviewing requires standard problems, it differs from day to day work, so we need to warm up in advance.
-
-Scheduling several people at arbitary times is also costly for recruiters (unless interviews have top priority, in which case this cost is pushed onto the interviewer.
-
-Motivating everyone on an interview panel to submit feedback quickly is hard, which delays hiring decisions.
-
-Traditional hiring pipelines are at risk of institutional bias, which decreases efficiency when sourcing candidates from diverse backgrounds.
-
-Accumulating experience interviewing, a key factor for success, is hard when each company has a different process.
 
 ## Discussion
 
@@ -58,4 +67,5 @@ One of the primary concerns I've heard expressed is the cost of finding a time t
 
 [Davies]: http://www.samuelthomasdavies.com/book-summaries/business/deep-work/
 [Graham]: http://www.paulgraham.com/makersschedule.html
+
 
