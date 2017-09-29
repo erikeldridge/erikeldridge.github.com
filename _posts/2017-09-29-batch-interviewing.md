@@ -2,7 +2,7 @@
 title: Batch interviewing
 layout: post
 tags: batch manager schedule recruiting diversity
-date: 2017-09-29 13:57:56.484908000 -07:00
+date: 2017-09-29 14:45:08.243114000 -07:00
 
 ---
 
@@ -15,9 +15,11 @@ Perform a quick evaluation after each interview, eg 45 minutes of interview, 10 
 
 Huddle at the end of the day, ask each interviewer to vote, stack rank candidates, and make hiring decisions.
 
-Batch interviewing, aka on-campus interviewing, is common at some schools, notably [Waterloo](https://uwaterloo.ca/co-operative-education/get-hired/interview-process/interview-cycles), which in my experience consistently produces high-performing candidates. (Students also gain an uncommon amount of practical experience through their co-op program.)
-
 Enable students to efficiently gain experience, and administrators and recruiters to efficiently schedule, by adding interview blocks to a standard process. 
+
+Eliminate a source of institutional bias in the hiring pipeline by interviewing candidates in unconventional settings on site.
+
+Amortize warm-up cost and increase evaluation accuracy by asking the same question repeatedly.
 
 ## Problem
 
@@ -33,6 +35,19 @@ Traditional hiring pipelines are at risk of institutional bias, which decreases 
 
 Accumulating experience interviewing, a key factor for success, is hard when each company has a different process.
 
+## Discussion
+
+Batch interviewing, aka on-campus interviewing, is common at some schools, notably [Waterloo](https://uwaterloo.ca/co-operative-education/get-hired/interview-process/interview-cycles), which in my experience consistently produces high-performing candidates. (Students also gain an uncommon amount of practical experience through their co-op program.)
+
+Uber runs a day of batch interviews at CSUMB in the spring for summer internships.
+
+My experience with batch interviewsing came from a two-day interview batch in Japan.
+
+All these examples involve travel, which may have an impact on the value, ie would batch interviews provide the same cost/benefit when used at a business' location?
+
+One of the primary concerns I've heard expressed is the cost of finding a time that works for candidates, ie traditional scheduling seems optimized for meeting candidates when they're ready. I'm curious to experiment with publishing a interview block, eg we hire on Fridays, to test this.
+
 [Davies]: http://www.samuelthomasdavies.com/book-summaries/business/deep-work/
 [Graham]: http://www.paulgraham.com/makersschedule.html
+
 
