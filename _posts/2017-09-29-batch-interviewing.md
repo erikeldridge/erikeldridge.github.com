@@ -47,8 +47,15 @@ All these examples involve travel, which may have an impact on the value, ie wou
 
 One of the primary concerns I've heard expressed is the cost of finding a time that works for candidates, ie traditional scheduling seems optimized for meeting candidates when they're ready. I'm curious to experiment with publishing a interview block, eg we hire on Fridays, to test this.
 
+[Ashwin Raghav](https://twitter.com/ashwinraghav) shared his experience (thx!):
+
+- I have participated (as an interviewer and as an interviewee) in batch interviews in India. Very common practice in engineering schools.
+- I did not go to an elite school, which meant that everyone wanted to participate in any company's recruitment drive.
+- This was often tiring for the interviewers because of the sheer number of interviews and for the interviewees because giving them accurate time slots to take interviews was not easy - meaning they waited for their turn.
+- A lot of the candidates are friends among themselves. They share their interview experience once they exit the interview. This forced us to keep changing questions as interviewers to keep up the difficulty level.
+- I always remember these being very intense emotional experiences compared to industry hire interviews because of the scale of participation. It helped if interviewers were "nice" / "not assholes"
+- Always helps to have a college alumni in the team. I would have never known about sharing interview questions if I did not go back to interview as an alumni.
+
 [Davies]: http://www.samuelthomasdavies.com/book-summaries/business/deep-work/
 [Graham]: http://www.paulgraham.com/makersschedule.html
-
-
 
