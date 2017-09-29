@@ -2,7 +2,7 @@
 title: Batch interviewing
 layout: post
 tags: batch manager schedule recruiting diversity
-date: 2017-09-29 14:45:08.243114000 -07:00
+date: 2017-09-29 14:49:50.719746000 -07:00
 
 ---
 
@@ -23,7 +23,7 @@ Amortize warm-up cost and increase evaluation accuracy by asking the same questi
 
 ## Problem
 
-Focus work is fundamentally different than interpersonal work and requires blocks of uninterrupted time. [Graham] and [Davies] mention ~4 hr blocks, which is consistent with my experience. For this reason, scheduling interviews at arbitrary times is extra costly for developers.
+Focus work is fundamentally different than interpersonal work and requires blocks of uninterrupted time. [Graham] and [Davies] mention multi-hour blocks, which is consistent with my experience. For this reason, scheduling interviews at arbitrary times is extra costly for developers.
 
 Because interviewing requires standard problems, it differs from day to day work, so we need to warm up in advance.
 
@@ -49,5 +49,6 @@ One of the primary concerns I've heard expressed is the cost of finding a time t
 
 [Davies]: http://www.samuelthomasdavies.com/book-summaries/business/deep-work/
 [Graham]: http://www.paulgraham.com/makersschedule.html
+
 
 
