@@ -2,7 +2,7 @@
 title: Object path
 layout: post
 tags: toolkit mtnhut
-date: 2017-09-24 15:55:20.722500000 -07:00
+date: 2017-10-02 18:01:53.894536000 -07:00
 
 ---
 
@@ -15,16 +15,14 @@ I want to reduce conditional assignment when setting nested keys in an object, i
     {a:{b:{c:value}}} = set(a/b/c, value)
 ```
 
-This is handy for data manipulation, eg prior to view rendering, and consistent with [Firebase Realtime Database's use of paths](https://firebase.google.com/docs/reference/js/firebase.database.Database#ref).
+This is handy for data manipulation and abstracting path-based tools like [LevelDB](https://github.com/Level/levelup) and [Firebase Realtime Database](https://firebase.google.com/docs/reference/js/firebase.database.Database#ref).
 
 
 ## Solution
 
 Use [object-path](https://www.npmjs.com/package/object-path) or lodash's [set](https://www.npmjs.com/package/lodash.set)/[get](https://www.npmjs.com/package/lodash.get).
 
-## Alternative 
-
-The tools mentioned above interpret numeric path segments as array indices, which may cause unexpected results when inserting arbitrary values, eg
+Note: the tools mentioned above interpret numeric path segments as array indices, which may cause unexpected results when inserting arbitrary values, eg
 
         set(store, 'users.5.name', 'Kwan') // store.users.length --> 6
 
@@ -50,7 +48,9 @@ function get(obj, path){
 }
 {% endhighlight %}
 
-## Example
+## Examples
+
+Inverting an object:
 
 {% highlight js linenos %}
 const posts = {1: {tags: {sports: true, news: true}}, 2: {tags: {news: true}}}
@@ -61,5 +61,31 @@ Object.entries(posts).forEach(([id, post]) => {
   })
 })
 // byTag --> { sports: { '1': true }, news: { '1': true, '2': true } }
+{% endhighlight %}
+
+Creating and querying a prefix tree:
+{% highlight js linenos %}
+const flatten = require('flat')
+
+// populate tree
+const emojis = {
+  '🙂': 'smile',
+  '😀': 'grinning',
+  '😁': 'grin'
+}
+const tree = {}
+Object.entries(emojis).forEach(([emoji, name]) => {
+  let path = name.split('').join('/') + '/' + emoji
+  set(tree, path, true)
+})
+
+// lookup prefix
+const prefix = 'g'
+const path = prefix.split('').join('/')
+const subtree = get(tree, path) || {}
+const matches = Object.entries(flatten(subtree)).map(([key, val]) => {
+  return key.slice(-2)
+})
+console.log(matches) // --> ["😀", "😁"]
 {% endhighlight %}
 
