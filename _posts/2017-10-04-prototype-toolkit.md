@@ -2,7 +2,7 @@
 title: Prototype toolkit
 layout: post
 tags: toolkit web app prototyping
-date: 2017-10-09 17:31:46.478527000 -07:00
+date: 2017-10-09 18:05:42.678633000 -07:00
 
 ---
 
@@ -29,17 +29,10 @@ NPM boilerplate:
 
 {% highlight js linenos %}
 {
-  "name": "web",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "start": "rollup -c -w",
     "serve": "serve"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "babel-plugin-external-helpers": "^6.22.0",
     "babel-plugin-transform-custom-element-classes": "^0.1.0",
