@@ -2,7 +2,7 @@
 title: Prototype toolkit
 layout: post
 tags: toolkit web app prototyping
-date: 2017-10-09 18:05:42.678633000 -07:00
+date: 2017-10-10 19:37:04.822814000 -07:00
 
 ---
 
@@ -15,9 +15,9 @@ Unless an app requires native features, start with Web as it presents the lowest
 
 ## Build
 
-Use [rollup](https://rollupjs.org).
- 
-It's a nice balance between browserify's simplicity and webpack's configurability.
+[Rollup](https://rollupjs.org) provides a nice balance between browserify's simplicity and webpack's configurability, and built-in [tree-shaking](https://github.com/rollup/rollup#tree-shaking). [^treeshaking]
+
+[^treeshaking]: My simple testing based on `du -h` indicated a 20% size reduction.
 
 ## Language
 
