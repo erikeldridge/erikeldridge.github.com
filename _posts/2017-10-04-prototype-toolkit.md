@@ -2,7 +2,7 @@
 title: Prototype toolkit
 layout: post
 tags: toolkit web app prototyping
-date: 2017-10-10 19:37:04.822814000 -07:00
+date: 2017-10-13 12:58:27.602433000 -07:00
 
 ---
 
@@ -11,65 +11,38 @@ A collection of tools for rapid prototyping.
 
 ## Web
 
-Unless an app requires native features, start with Web as it presents the lowest barrier to entry and we can use common tools in the client and server.
+Use Web, unless native features are required. Web presents the lowest barrier to entry in terms of development (across client and server), and deployment.
 
 ## Build
 
-[Rollup](https://rollupjs.org) provides a nice balance between browserify's simplicity and webpack's configurability, and built-in [tree-shaking](https://github.com/rollup/rollup#tree-shaking). [^treeshaking]
+Use [watchify](https://github.com/browserify/watchify). It's simple and stable.
 
-[^treeshaking]: My simple testing based on `du -h` indicated a 20% size reduction.
-
-## Language
-
-Use ES6 (for concision and to simplify client and server dev) with Babel (for portability). [^types]
-
-[^types]: Type safety is helpful for non-trivial code bases, but the goal in prototyping is to get customer feedback for the lowest cost; we can refactor to something type-safe once we've found product-market fit.
+Watch [Rollup](https://rollupjs.org). Its dependency on ES6 syntax simplifies things, and its API is a balance of browserify's simplicity and webpack's configurability. Additionally, it uses a [proactive form of dead code elimination](https://github.com/rollup/rollup#tree-shaking), which may be more efficient.
 
 NPM boilerplate:
 
 {% highlight js linenos %}
 {
   "scripts": {
-    "start": "rollup -c -w",
+    "start": "watchify main.js -o demo/bundle.js -v",
     "serve": "serve"
   },
   "devDependencies": {
-    "babel-plugin-external-helpers": "^6.22.0",
-    "babel-plugin-transform-custom-element-classes": "^0.1.0",
-    "babel-preset-es2015": "^6.24.1",
-    "rollup": "^0.50.0",
-    "rollup-plugin-babel": "^3.0.2",
-    "rollup-plugin-node-resolve": "^3.0.0",
-    "serve": "^6.2.0"
-  },
-  "dependencies": {
-    "diffhtml": "^1.0.0-beta.9"
-  }
+    "serve": "^6.2.0",
+    "watchify": "^3.9.0"
+  ...
 }
 {% endhighlight %}
 
-Babelrc boilerplate for [rollup](https://github.com/rollup/rollup-plugin-babel#configuring-babel) and [custom elements](https://stackoverflow.com/a/41415441/1971682):
+## Language
 
-{% highlight js linenos %}
-{
-  "presets": [
-    [
-      "es2015",
-      {
-        "modules": false
-      }
-    ]
-  ],
-  "plugins": [
-    "external-helpers",
-    "babel-plugin-transform-custom-element-classes"
-  ]
-}
-{% endhighlight %}
+Use ES6 (for concision and to simplify client and server dev) [^es6]
+
+[^es6]: Type safety is helpful for non-trivial code bases, but the goal in prototyping is to get customer feedback for the lowest cost; we can refactor to something type-safe once we've found product-market fit.
 
 ## HTML diffing
 
-[Dodson] enthusiastically recommends [diffhtml](https://github.com/tbranyen/diffhtml) and it's worked well for me.
+Use [diffhtml](https://github.com/tbranyen/diffhtml). [Dodson] enthusiastically recommends it and it's worked well for me.
 
 ## Custom elements
 
@@ -83,8 +56,7 @@ Example widget:
 import {html, innerHTML} from 'diffhtml'
 
 class Widget extends HTMLElement {
-  emojis: { [key:string] : string }
-  filter: string
+  static get is() { return 'x-widget' }
   connectedCallback(){
     this.emojis = {
       smile: '🙂',
@@ -116,14 +88,15 @@ Registration boilerplate:
 
 {% highlight js linenos %}
 [Widget].forEach(el => {
-  const name = 'x-' + el.name.toLowerCase()
-  if (!window.customElements.get(name)) {
-    window.customElements.define(name, el);
+  if (!window.customElements.get(el.is)) {
+    window.customElements.define(el.is, el);
   }
 })
 {% endhighlight %}
 
-Note: event listeners must be bound externally to survive template transformation:
+Note `is` naming convention consistent with Polymer.
+
+Note event listeners bound externally to separate behavior from markup, and to survive template inlining, eg via Babel:
 
 {% highlight js linenos %}
 connectedCallback(){
@@ -136,5 +109,6 @@ connectedCallback(){
 [Dodson]: https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133
 
 ## Footnotes
+
 
 
