@@ -2,7 +2,7 @@
 title: Team efficiency
 layout: post
 tags: org team management
-date: 2017-09-25 15:56:54.553000000 -07:00
+date: 2017-10-20 15:04:48.376085000 -07:00
 
 ---
 
@@ -47,11 +47,12 @@ This relates to product ownership in that an engineer working on a side project 
 
 ### Focus time
 
-Provide folks doing focused work with uninterrupted time, eg "no-meeting Thursdays", biasing to Mondays and Fridays for meetings, etc. [Paul Graham's "Maker's Schedule, Manager's Schedule"](www.paulgraham.com/makersschedule.html) describes this well.
+Provide folks doing focused work with uninterrupted time, eg "no-meeting Thursdays", biasing to Mondays and Fridays for meetings, etc. [Paul Graham's "Maker's Schedule, Manager's Schedule"](http://www.paulgraham.com/makersschedule.html) and [Joel Spolsky's "Task Switches Considered Harmful"](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) describe this well.
 
 ### Infra product
 
 Treat internal infrastructure as a product, complete with office hours, support rotations, documentation, SLAs, etc, to enable efficient application development on that infra.
+
 
 
 
