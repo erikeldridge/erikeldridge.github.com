@@ -1,6 +1,6 @@
 ---
 title: Adventures in academic advisory
-date: 2017-09-25 16:41:39.583444000 -07:00
+date: 2017-10-26 13:49:20.346105000 -07:00
 layout: post
 tags: academic advisory
 
@@ -39,9 +39,9 @@ Nurture the tech community near campus by hosting events like hack days, unconfe
 
 The ["one thing well"](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well) phrasing comes from Unix philosophy, but I think it works for career planning too. Pick something interesting to you and bias towards it, eg I want to develop mobile apps. Use this to guide your career, eg the classes you pick, questions you ask, interview questions you practice, code you push to github, tldr on your resume, meetups you attend, projects you volunteer for etc. This is what's described as having "passion" for a topic, or "goals" :) You can always tune this focal point, eg I want to develop mobile apps --> I want to develop apps on Android.
 
-Actually being able to do this thing full time for work is also a matter of luck, but you'll be best prepared when opportunity comes along, eg in an interview: "How would you build an app on Android?"
+Actually being able to do this thing full time for work is also a matter of luck, but you'll be best prepared when opportunity comes along.
 
-"T-shaped" focus refers to doing one thing well, but being aware of related skills, eg I build clients, but I know how enough about server development to prototype clients efficiently, or, in terms of curriculum, we teach everything but language-specific classes in Java so students gain expertise in this language as a side-effect.
+"T-shaped" focus refers to doing one thing well, but being aware of related skills, eg I specialize in Android, but I'm familiar w service development enough to help debug network requests made from my Android app.
 
 ### Sharpening the saw
 
@@ -108,6 +108,7 @@ I first heard this phrase in the context of advancing a tech ladder ([example la
 ### Pre-college
 
 From [article on Vietnamese education](http://neil.fraser.name/news/2013/03/16/) wrt Google’s hiring criteria: "There is no question that half of the students in that grade 11 class could pass the Google interview process."
+
 
 
 
