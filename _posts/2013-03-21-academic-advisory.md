@@ -1,8 +1,8 @@
 ---
 title: Adventures in academic advisory
-date: 2017-10-31 10:53:52.251097000 -07:00
+date: 2017-10-31 22:04:42.944817000 -07:00
 layout: post
-tags: academic advisory focus
+tags: academic advisory interests
 
 ---
 
@@ -13,7 +13,7 @@ How can students in a standard CS program prepare for the job market, and how ca
 
 ## Solution
 
-Tldr: Faculty and industry should **standardize** approaches (to scale and avoid corporate bias) and provide **material support**, eg scholarships, resources and jobs (to avoid institutional bias in traditional hiring). Students should focus on **academic performance** (implicit interview prep) with a **career goal** (aka "passion") and **collaboration** (we don't work alone) in mind.
+Tldr: Faculty and industry should **standardize** approaches (to scale and avoid corporate bias) and provide **material support**, eg scholarships, resources and jobs (to avoid institutional bias in traditional hiring). Students should focus on **academic performance** (implicit interview prep) with their **interests** (aka "passion") and **collaboration** (we work in teams) in mind.
 
 ### Soft-skills
 
@@ -108,6 +108,7 @@ I first heard this phrase in the context of advancing a tech ladder ([example la
 ### Pre-college
 
 From [article on Vietnamese education](http://neil.fraser.name/news/2013/03/16/) wrt Google’s hiring criteria: "There is no question that half of the students in that grade 11 class could pass the Google interview process."
+
 
 
 
