@@ -2,7 +2,7 @@
 title: Team efficiency
 layout: post
 tags: org team management
-date: 2017-10-20 15:04:48.376085000 -07:00
+date: 2017-11-01 10:49:31.415048000 -07:00
 
 ---
 
@@ -51,7 +51,8 @@ Provide folks doing focused work with uninterrupted time, eg "no-meeting Thursda
 
 ### Infra product
 
-Treat internal infrastructure as a product, complete with office hours, support rotations, documentation, SLAs, etc, to enable efficient application development on that infra.
+Treat internal infrastructure as a product, complete with office hours, support rotations, documentation, SLAs, etc, to enable efficient application development on that infra. Mark McBride discusses this in the "Teammates as Customers" section of his post [Coworkers Will Become Customers—It’s a Good Thing](https://blog.turbinelabs.io/coworkers-will-become-customers-its-a-good-thing-1750790f8a59).
+
 
 
 
