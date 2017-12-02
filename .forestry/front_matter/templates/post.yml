@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/2017-12-02-regional-trails.md
 hide_body: false
 fields:
 - name: title

@@ -1,15 +1,12 @@
 ---
 title: Regional trails
-date: 2017-12-02 13:47:33.073280000 -08:00
+date: 2017-12-02 13:56:15 -0800
 tags:
 - urban-planning
 - civic
 layout: post
-
 ---
-
-
-I was first introduced to the concept of "regional trails" (maintained trails an urban or suburban context) by the [Iron Horse trail](http://www.ebparks.org/parks/trails/iron_horse) running through Walnut Creek, which I walked along frequently and with gusto!
+I was first introduced to the concept of "regional trails" (relatively long-distance paths, closed to car traffic, through the parks in cities and suburbs) by the [Iron Horse trail](http://www.ebparks.org/parks/trails/iron_horse) running through Walnut Creek, which I walked along frequently and with gusto!
 
 That trail is part of the larger [Interpark trail network](http://www.ebparks.org/parks/trails) connecting cities in the area, and introduced me to the [Rails-to-Trails](https://www.railstotrails.org) project.
 
