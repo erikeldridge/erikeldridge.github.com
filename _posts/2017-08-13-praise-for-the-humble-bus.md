@@ -1,9 +1,13 @@
 ---
-title: Praise for the humble bus 🚌
+title: "Praise for the humble bus \U0001F68C"
+date: 2017-08-13 00:00:00 Z
+tags:
+- bus
+- pubsub
+- pattern
+- toolkit
 layout: post
-tags: bus pubsub pattern toolkit
 ---
-
 
 ## Context
 

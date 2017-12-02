@@ -1,11 +1,8 @@
 ---
 title: Strong opinions, loosely held
+date: 2017-11-23 19:17:51.293000000 Z
 layout: post
-tags: 
-date: 2017-11-23 11:17:51.293284000 -08:00
-
 ---
-
 
 I first heard the phrase “strong opinions, loosely held” in the context of politics, but I think the perspective it represents is applicable more broadly.
 

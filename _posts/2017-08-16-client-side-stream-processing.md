@@ -1,10 +1,15 @@
 ---
-description: Mutating and persisting data and view state in clients
 title: Client-side stream processing
+date: 2017-08-16 00:00:00 Z
+tags:
+- pattern
+- toolkit
+- reducer
+- stream
+- processing
+description: Mutating and persisting data and view state in clients
 layout: post
-tags: pattern toolkit reducer stream processing
 ---
-
 
 ## Solution
 

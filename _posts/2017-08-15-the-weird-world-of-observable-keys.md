@@ -1,10 +1,14 @@
 ---
+title: "The weird world of observable keys \U0001F511\U0001F440"
+date: 2017-08-15 00:00:00 Z
+tags:
+- observable
+- pattern
+- swift
+- toolkit
 description: An evented interface for key/val storage
 layout: post
-tags: observable pattern swift toolkit
-title: The weird world of observable keys 🔑👀
 ---
-
 
 The get that keeps on getting.
 

@@ -1,9 +1,12 @@
 ---
 title: Source control
+date: 2017-09-19 00:00:00 Z
+tags:
+- git
+- toolkit
+- source
 layout: post
-tags: git toolkit source
 ---
-
 
 ## Solution
 

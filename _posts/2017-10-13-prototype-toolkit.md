@@ -1,11 +1,13 @@
 ---
 title: Prototype toolkit
+date: 2017-10-13 19:58:27.602000000 Z
+tags:
+- toolkit
+- web
+- app
+- prototyping
 layout: post
-tags: toolkit web app prototyping
-date: 2017-10-13 12:58:27.602433000 -07:00
-
 ---
-
 
 A collection of tools for rapid prototyping.
 

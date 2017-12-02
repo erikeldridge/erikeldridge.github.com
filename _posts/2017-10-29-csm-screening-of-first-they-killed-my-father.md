@@ -1,11 +1,14 @@
 ---
 title: CSM screening of "First They Killed My Father"
+date: 2017-10-29 19:17:48.228000000 Z
+tags:
+- film
+- cambodia
+- education
+- community-college
+- san-mateo
 layout: post
-tags: film cambodia education community-college san-mateo
-date: 2017-10-29 12:17:48.228713000 -07:00
-
 ---
-
 
 College of San Mateo (CSM) [screened](http://www.collegeofsanmateo.edu/calendar/events/index.php?com=detail&eID=20170&year=2017&month=10) Angelina Jolie's film "First They Killed My Father" last night. This film is an adaptation of Luong Ung's book by the same name about her experiences surviving Cambodia's communist revolution and subsequent war with Vietnam.
 

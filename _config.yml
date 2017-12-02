@@ -1,5 +1,4 @@
 ---
-exclude: ['new.rb', 'README.md']
 title: erikeldridge.com
 timezone: UTC
 collections:
@@ -9,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+exclude:
+- new.rb
+- README.md
 gems:
 - jekyll-gist
 - jekyll-seo-tag

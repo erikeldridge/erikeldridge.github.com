@@ -1,11 +1,11 @@
 ---
 title: Resume review
+date: 2017-11-01 05:04:42.951000000 Z
+tags:
+- interests
+- advice
 layout: post
-tags: interests advice
-date: 2017-10-31 22:04:42.951578000 -07:00
-
 ---
-
 
 A resume is your one-page summary of your skills and experience, and will be read in the context of the job being applied for.
 

@@ -1,11 +1,14 @@
 ---
 title: Batch interviewing
+date: 2017-09-29 22:59:05.659000000 Z
+tags:
+- batch
+- manager
+- schedule
+- recruiting
+- diversity
 layout: post
-tags: batch manager schedule recruiting diversity
-date: 2017-09-29 15:59:05.659899000 -07:00
-
 ---
-
 
 ## Problem
 

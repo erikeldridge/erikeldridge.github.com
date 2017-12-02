@@ -1,9 +1,10 @@
 ---
 title: A case for programmatic views in iOS
+date: 2017-07-29 00:00:00 Z
+tags:
+- ios
 layout: post
-tags: ios
 ---
-
 
 ## Context
 

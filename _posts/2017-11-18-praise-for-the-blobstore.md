@@ -1,11 +1,17 @@
 ---
 title: "Praise for the blobstore \U0001F4EF"
+date: 2017-11-18 18:36:16.059000000 Z
+tags:
+- event-bus
+- document
+- execution
+- rest
+- source-control
+- ci
+- cdn
+- hosting
 layout: post
-tags: event-bus document execution rest source-control ci cdn hosting
-date: 2017-11-18 10:36:16.059688000 -08:00
-
 ---
-
 
 The phrase "blobstore" refers to a simple key-value store, optimized for large values. [Amazon’s S3](https://aws.amazon.com/s3/), [App Engine’s Blobstore](https://cloud.google.com/appengine/docs/standard/python/blobstore/) and [Twitter’s Blobstore](https://blog.twitter.com/engineering/en_us/a/2012/blobstore-twitter-s-in-house-photo-storage-system.html), are examples.
 

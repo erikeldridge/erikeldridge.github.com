@@ -1,11 +1,12 @@
 ---
 title: Entrepreneur school
+date: 2017-09-28 23:46:44.863000000 Z
+tags:
+- career
+- org
+- customer
 layout: post
-tags: career org customer
-date: 2017-09-28 16:46:44.863828000 -07:00
-
 ---
-
 
 ## Problem
 

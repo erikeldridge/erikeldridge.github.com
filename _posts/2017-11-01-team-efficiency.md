@@ -1,11 +1,12 @@
 ---
 title: Team efficiency
+date: 2017-11-01 17:49:31.415000000 Z
+tags:
+- org
+- team
+- management
 layout: post
-tags: org team management
-date: 2017-11-01 10:49:31.415048000 -07:00
-
 ---
-
 
 ## Problem
 

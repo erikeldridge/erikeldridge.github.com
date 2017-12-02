@@ -1,11 +1,12 @@
 ---
 title: Adventures in academic advisory
-date: 2017-10-31 22:04:42.944817000 -07:00
+date: 2017-11-01 05:04:42.944000000 Z
+tags:
+- academic
+- advisory
+- interests
 layout: post
-tags: academic advisory interests
-
 ---
-
 
 ## Problem
 

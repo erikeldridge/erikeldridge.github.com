@@ -1,9 +1,11 @@
 ---
 title: Blog search
+date: 2017-07-29 00:00:00 Z
+tags:
+- blog
+- search
 layout: post
-tags: blog search
 ---
-
 
 ## Context
 

@@ -1,9 +1,17 @@
 ---
 title: Mobile Growth meetup 9/21/17
+date: 2017-09-22 00:00:00 Z
+tags:
+- branch
+- growth
+- microsoft
+- laughly
+- league
+- box
+- criteo
+- meetup
 layout: post
-tags: branch growth microsoft laughly league box criteo meetup
 ---
-
 
 ## Meta
 

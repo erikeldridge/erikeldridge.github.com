@@ -1,9 +1,10 @@
 ---
 title: Gender diversity
+date: 2017-07-27 00:00:00 Z
+tags:
+- diversity
 layout: post
-tags: diversity
 ---
-
 
 I recently attended a talk by Bill McNabb, CEO of Vanguard. Vanguard promotes gender diversity [internally](http://www.vanguard.com/pdf/hrdiv.pdf) and at [companies they own shares in](https://www.ft.com/content/2b915d48-1f81-11e7-a454-ab04428977f9). I thought the rationale he described was eloquent and applicable in general. Three points stood out.
 

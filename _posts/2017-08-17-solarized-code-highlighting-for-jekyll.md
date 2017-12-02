@@ -1,10 +1,13 @@
 ---
-description: Easy solarized code highlighting for jekyll blogs.
 title: Solarized code highlighting for Jekyll
+date: 2017-08-17 00:00:00 Z
+tags:
+- blog
+- jekyll
+- solarized
+description: Easy solarized code highlighting for jekyll blogs.
 layout: post
-tags: blog jekyll solarized
 ---
-
 
 ## Problem
 
