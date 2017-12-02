@@ -1,7 +1,7 @@
 ---
 title: Regional trails
 date: 2017-12-02 13:47:33.073280000 -08:00
-Tags:
+tags:
 - urban-planning
 - civic
 layout: post
