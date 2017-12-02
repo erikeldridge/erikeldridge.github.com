@@ -1,0 +1,21 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: tag_list
+  name: Tags
+- type: datetime
+  name: date
+  label: Date
+  config:
+    date_format: YYYY
+    required: true
+- type: text
+  name: layout
+  label: Layout
+  config:
+    required: true
