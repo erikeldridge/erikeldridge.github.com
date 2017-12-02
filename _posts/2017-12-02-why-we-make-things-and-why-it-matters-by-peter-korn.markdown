@@ -36,6 +36,11 @@ These are my notes, organized by page, as read through Peter Korn's book _Why We
 
 59
 
-* "Consumerism promises spiritual and emotional fulfillment through acquisition" // Korn is to furniture making what Wendell Berry is to farming
+* "Consumerism promises spiritual and emotional fulfillment through acquisition" <-- Korn is to furniture making what Wendell Berry is to farming
 * "... the physical details of \[a crafted object\] speak to a more ancient materialism ... the belief that objects have mana: that the miraculous power to provide spiritual sustenance resides in the object itself, not in the achievement of ownership"
 * "... the making of the desk was a multilayered process of thinking with things."
+
+60
+
+* "To the human mind, where thoughts spring up unheralded only to vanish just as capriciously ..."
+* "... each completed work becomes a springboard for the genesis of its successors" <-- Reminds me of an earlier statement re crafted objects attesting to a craftworker's skill
