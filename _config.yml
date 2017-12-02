@@ -11,9 +11,11 @@ collections:
 exclude:
 - new.rb
 - README.md
-gems:
+plugins:
 - jekyll-gist
 - jekyll-seo-tag
+gist:
+  noscript: false # prevent local "Liquid Exception: SSL_connect" error
 permalink: "/notes/:title.html"
 markdown: kramdown
 kramdown:
