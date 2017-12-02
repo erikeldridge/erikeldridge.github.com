@@ -6,7 +6,7 @@ tags:
 layout: post
 ---
 
-These are my notes, organized by page, as read through Peter Korn's book Why We Make Things and Why It Matters.
+These are my notes, organized by page, as read through Peter Korn's book *Why We Make Things and Why It Matters*.
 
 53
 - "My consciousness comes to inhabit the tip of the knife and the tooth of the saw, so I am not only in the world, but somehow of the world … There is a deep centeredness in trusting one's hands, mind, and imagination to work as a single, well-tuned instrument, a centeredness that touches upon the very essence of fulfillment."
