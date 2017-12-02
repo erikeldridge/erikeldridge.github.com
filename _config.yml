@@ -15,7 +15,7 @@ plugins:
 - jekyll-gist
 - jekyll-seo-tag
 gist:
-  noscript: false # prevent local "Liquid Exception: SSL_connect" error
+  noscript: false
 permalink: "/notes/:title.html"
 markdown: kramdown
 kramdown:
