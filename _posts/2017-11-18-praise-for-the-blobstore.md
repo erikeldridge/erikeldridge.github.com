@@ -1,6 +1,6 @@
 ---
 title: "Praise for the blobstore \U0001F4EF"
-date: 2017-11-18 18:36:16 +0000
+date: 2017-12-03 11:00:03 -0800
 tags:
 - event-bus
 - document
