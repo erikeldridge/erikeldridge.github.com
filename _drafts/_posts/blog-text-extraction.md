@@ -50,8 +50,8 @@ Outline:
 
 My blog uses Jekyll, so all content is sourced from markdown under [_posts](https://github.com/erikeldridge/erikeldridge.github.com/tree/master/_posts). However, I need plain text, so I'll
 
-1. Render the markdown to html using `jekyll build`
-2. Scrape the html using Beautiful Soup, as described by the NLTK docs
+1. Render the markdown to html under _site using `jekyll build`
+2. Scrape the html using Beautiful Soup, as [described by the NLTK docs](http://www.nltk.org/book/ch03.html#dealing-with-html)
 
     import glob
     from bs4 import BeautifulSoup
