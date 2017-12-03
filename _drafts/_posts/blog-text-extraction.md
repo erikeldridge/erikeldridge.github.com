@@ -9,6 +9,7 @@ tags:
 - academic-advisory
 - sf-mb-tech-bridge
 - jekyll
+- beautiful-soup
 layout: post
 ---
 ## Problem
@@ -37,14 +38,13 @@ I'm developing on MacOS 10.12.
 
 Outline:
 
-1. set up
-2. build corpus
-3. normalize text and extract concepts
-4. normalize concepts and count occurances
-5. rank concepts by count
-6. identify concepts unassociated with cannonical definition
-7. identify posts containing concepts without tags
-8. markup occurrences in posts containing concepts
+1. build corpus
+2. normalize text and extract concepts
+3. normalize concepts and count occurances
+4. rank concepts by count
+5. identify concepts unassociated with cannonical definition
+6. identify posts containing concepts without tags
+7. markup occurrences in posts containing concepts
 
 ### Build corpus
 
@@ -53,20 +53,22 @@ My blog uses Jekyll, so all content is sourced from markdown under [_posts](http
 1. Render the markdown to html under _site using `jekyll build`
 2. Scrape the html using Beautiful Soup, as [described by the NLTK docs](http://www.nltk.org/book/ch03.html#dealing-with-html)
 
-    import glob
-    from bs4 import BeautifulSoup
-    
-    def list_files(path):
-      return glob.glob(path + "*.html")
-    
-    def read_file(path):
-      with open(path) as f:
+```python
+import glob   
+from bs4 import BeautifulSoup
+
+def list_files(path):
+    return glob.glob(path + "*.html")
+
+def read_file(path):
+    with open(path) as f:
         return ''.join(f.readlines())
-    
-    def read_files(paths):
-      return ''.join(map(read_file, paths))
-    
-    print(read_files(list_files('../_site/notes/')))
+
+def read_files(paths):
+    return ''.join(map(read_file, paths))
+
+print(read_files(list_files('../_site/notes/')))
+```
 
 ### Extract
 
