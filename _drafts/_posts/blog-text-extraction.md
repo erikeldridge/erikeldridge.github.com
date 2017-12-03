@@ -48,16 +48,39 @@ Outline:
 
 ### Build corpus
 
-My blog uses Jekyll, so all content is under [_posts](https://github.com/erikeldridge/erikeldridge.github.com/tree/master/_posts).
+My blog uses Jekyll, so all content is sourced from markdown under [_posts](https://github.com/erikeldridge/erikeldridge.github.com/tree/master/_posts). However, I need plain text, so I'll
+
+1. Render the markdown to html using `jekyll build`
+2. Scrape the html using Beautiful Soup, as described by the NLTK docs
+
+    import glob
+    from bs4 import BeautifulSoup
+    
+    def list_files(path):
+      return glob.glob(path + "*.html")
+    
+    def read_file(path):
+      with open(path) as f:
+        return ''.join(f.readlines())
+    
+    def read_files(paths):
+      return ''.join(map(read_file, paths))
+    
+    print(read_files(list_files('../_site/notes/')))
 
 ### Extract
 
 I believe the technical term for what I'm trying to do is "extraction", eg "phrase extraction", from the field of Natural Language Processing (NLP).
 
-The standard tool for NLP in Python is NLTK. Installing that was relatively straightforward. I found [this SO answer](https://stackoverflow.com/a/47144516/1971682) helpful when installing pip and pipenv.
+The standard tool for NLP in Python is NLTK. Installing that was relatively straightforward, with a couple caveats:
 
-Eventually, I could do this:
+* I wanted to use Python 3 per the [_Hitchhiker's Guide_](http://docs.python-guide.org/en/latest/starting/install3/osx/#doing-it-right)
+* I wanted to use pipenv to encapsulate module dependencies, for which I found [this SO answer re installing pip and pipenv](https://stackoverflow.com/a/47144516/1971682) helpful
+
+Eventually, per the [NLTK](http://www.nltk.org/install.html) and [pipenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/#using-installed-packages) docs, I could do this:
 
     $ pipenv run python3
     >>> import nltk
     >>>
+
+asd
