@@ -1,6 +1,6 @@
 ---
 title: "Praise for the blobstore \U0001F4EF"
-date: 2017-11-18 18:36:16.059000000 Z
+date: 2017-11-18 18:36:16 +0000
 tags:
 - event-bus
 - document
@@ -12,8 +12,7 @@ tags:
 - hosting
 layout: post
 ---
-
-The phrase "blobstore" refers to a simple key-value store, optimized for large values. [Amazon’s S3](https://aws.amazon.com/s3/), [App Engine’s Blobstore](https://cloud.google.com/appengine/docs/standard/python/blobstore/) and [Twitter’s Blobstore](https://blog.twitter.com/engineering/en_us/a/2012/blobstore-twitter-s-in-house-photo-storage-system.html), are examples.
+The phrase "blobstore" refers to a simple key-value store, optimized for large values. [Amazon’s S3](https://aws.amazon.com/s3/), [App Engine’s Blobstore](https://cloud.google.com/appengine/docs/standard/python/blobstore/) and [Twitter’s Blobstore](https://blog.twitter.com/engineering/en_us/a/2012/blobstore-twitter-s-in-house-photo-storage-system.html) are examples.
 
 I’m writing to highlight what appears to be a fundamental role played by the blobstore pattern. This may be aspirational, but I’m curious to explore.
 
@@ -28,7 +27,7 @@ This is one of the more primitive, intuitive applications. Push a local file to 
     $ curl -T my_file https://blobs.example.com/my_file
     $ curl https://blobs.example.com/my_file
 
-Note how amenable the store is to a [RESTful](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) API.
+Note how amenable the store is to a [RESTful](http://www.ics.uci.edu/\~fielding/pubs/dissertation/rest_arch_style.htm) API. Related, many of the connections made in this post remind me of [CouchDB](http://couchdb.apache.org/).
 
 ### Custom domains
 
@@ -36,6 +35,10 @@ Enable custom domains and we have general hosting:
 
     $ curl -H "x-custom-domain: mydomain.com" https://blobs.example.com/my_file
     $ curl https://mydomain.com/my_file
+
+## Artifact store
+
+Push executable blobs into the store and we have an artifact store, like [Twitter's Packer](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2016/the-infrastructure-behind-twitter-efficiency-and-optimization.html) and [Google's MPM](https://www.youtube.com/watch?v=hJAIL-Syzxw).
 
 ## CDN
 
@@ -51,12 +54,12 @@ We improve hosting scalability by building on a key-value pattern, for example.
 
 For better or worse, a blobstore is only aware of simple keys, so we can’t browse it like a file structure.
 
-However, split the path and index the fragments and we have a **document store**. We can keep the blob store pure by defining the document store as standalone infrastructure and depending on an **[event bus](/notes/praise-for-the-humble-bus.html)** and **execution service**:
+However, split the path and index the fragments and we have a **document store**. We can keep the blob store pure by defining the document store as standalone infrastructure and depending on an [**event bus**](/notes/praise-for-the-humble-bus.html) and **execution service**:
 
 1. Document store subscribes to blobstore push events via event bus associating an executable
-1. Client pushes value to blobstore
-1. Blob store writes value and fires event, eg “push <url>”
-1. Document store processes the path as described above
+2. Client pushes value to blobstore
+3. Blob store writes value and fires event, eg “push <url>”
+4. Document store processes the path as described above
 
 Now we can look up values by path fragments:
 
@@ -72,6 +75,8 @@ Using an approach similar to building a document store, we can process the value
 
 Put a review process and commit log in front of writes to the blobstore and you have scalable **source control**. [Use a blobstore for Git's object store](https://fancybeans.com/2012/08/24/how-to-use-s3-as-a-private-git-repository/), and you get scalable replication. Use [a document-aware source control mechanism, like Google](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext#body-4), and you get a scalable mono-repo.
 
+Blobstore data is often immutable and versioned, so commits could simply be references to file versions.
+
 ## CI
 
 Subscribe to push events from source control, using an **event bus** and **execution service**, and we have CI. We can listen for success events from our subscriber to get pre-submit quality control. We can write artifacts back to the blobstore as part of a continuous deploy pipeline.
@@ -79,5 +84,3 @@ Subscribe to push events from source control, using an **event bus** and **execu
 ## Batch
 
 We’ve already described a few cases of stream processing via an **event bus**, but we can also periodically iterate over values and stream them through an **execution service** to rebuild indices, produce artifacts, normalize data, etc.
-
-
