@@ -4,6 +4,7 @@ date: 2017-12-02 11:10:00 -0800
 tags:
 - craft
 - book
+- "\U0001F4D6"
 layout: post
 ---
 These are my notes as read through Peter Korn's book _Why We Make Things and Why It Matters_.
