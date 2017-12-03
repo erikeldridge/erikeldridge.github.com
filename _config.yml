@@ -10,6 +10,7 @@ collections:
     output: true
 exclude:
 - new.rb
+- nlp
 - README.md
 plugins:
 - jekyll-gist
