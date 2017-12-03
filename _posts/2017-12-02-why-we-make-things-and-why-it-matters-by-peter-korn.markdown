@@ -10,6 +10,7 @@ These are my notes as read through Peter Korn's book _Why We Make Things and Why
 
 ## Summary
 
+* A concise, articulate, humane description of the pleasures of craftwork in the context of life
 * In trying to fit Korn's descriptions of the pleasures of craftwork to my own experiences with software development, I'm reminded of The Pragmatic Programmer
 * Korn is to craft and furniture making what Wendell Berry is to community and farming
 
