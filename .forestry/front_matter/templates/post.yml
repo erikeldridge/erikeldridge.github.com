@@ -24,4 +24,6 @@ fields:
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: post
+  config:
+    required: true
