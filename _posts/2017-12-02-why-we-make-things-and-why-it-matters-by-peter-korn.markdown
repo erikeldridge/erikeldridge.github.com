@@ -6,7 +6,14 @@ tags:
 - book
 layout: post
 ---
-These are my notes, organized by page, as read through Peter Korn's book _Why We Make Things and Why It Matters_.
+These are my notes as read through Peter Korn's book _Why We Make Things and Why It Matters_.
+
+## Summary
+
+* In trying to fit Korn's descriptions of the pleasures of craftwork to my own experiences with software development, I'm reminded of The Pragmatic Programmer
+* Korn is to craft and furniture making what Wendell Berry is to community and farming
+
+## By page
 
 53
 
@@ -25,6 +32,10 @@ These are my notes, organized by page, as read through Peter Korn's book _Why We
 * "the maker sees the immediate effect of every step he takes along the way"
 * "craft is a process of continuous feedback"
 
+56
+
+* "... craftsmanship must reckon with the infallible judgement of reality, where one's failures or shortcomings cannot be interpreted away"
+
 57
 
 * stated goal: "create furniture that manifested simplicity, integrity and grace"
@@ -36,11 +47,13 @@ These are my notes, organized by page, as read through Peter Korn's book _Why We
 
 59
 
-* "Consumerism promises spiritual and emotional fulfillment through acquisition" <-- Korn is to furniture making what Wendell Berry is to farming
+* "Consumerism promises spiritual and emotional fulfillment through acquisition"
 * "... the physical details of \[a crafted object\] speak to a more ancient materialism ... the belief that objects have mana: that the miraculous power to provide spiritual sustenance resides in the object itself, not in the achievement of ownership"
 * "... the making of the desk was a multilayered process of thinking with things."
 
 60
 
 * "To the human mind, where thoughts spring up unheralded only to vanish just as capriciously ..."
-* "... each completed work becomes a springboard for the genesis of its successors" <-- Reminds me of an earlier statement re crafted objects attesting to a craftworker's skill
+* "... each completed work becomes a springboard for the genesis of its successors" <-- this notion of an objective record reminds me of a quote from page 56 re craft enabling objective assessment of a worker's skill by virtue of the tangible objects produced
+* "The pleasure I experience when the coffee table in our living room catches my eye is a good example of the way that an object functions as a thought marker"
+* "I built \[the table\] ... as a private homage to Alan Peters ..."
