@@ -1,6 +1,6 @@
 ---
 title: "Why We Make Things and Why It Matters by Peter Korn \U0001F4D6"
-date: 2017-12-02 16:29:42 -0800
+date: 2017-12-03 10:27:50 -0800
 tags:
 - craft
 - book
