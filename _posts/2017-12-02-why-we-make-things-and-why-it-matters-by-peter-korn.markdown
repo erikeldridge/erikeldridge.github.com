@@ -25,8 +25,8 @@ These are my notes as read through Peter Korn's book _Why We Make Things and Why
 54
 
 * "the intrinsic pleasure of creative work derived from a mental phenomenon he calls flow"
-* ‎9 elements of flow
-* ‎autotelic --> an act worth doing for its own sake
+* 9 elements of flow
+* autotelic --> an act worth doing for its own sake
 
 55
 
