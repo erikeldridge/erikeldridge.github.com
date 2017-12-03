@@ -60,4 +60,24 @@ These are my notes as read through Peter Korn's book _Why We Make Things and Why
 
 61
 
-* "Simplicity, fluting, and the decorative use of end grain were signature elements of Alan Peter's design vocabulary" <-- What's my "design vocabulary"? Do I emulate others' vocabularies?
+* "Simplicity, fluting, and the decorative use of end grain were signature elements of Alan Peter's design vocabulary" <-- What's my "design vocabulary"? Do I emulate others' vocabularies? Would it be fair to equate vocabulary with toolkit? Perhaps the former includes "soft" tools, like experiences and inspirations, while the latter typically refers to "hard" tools, like a chisel or text editor.
+
+63
+
+* "When I am making furniture, I think with things; when I am writing, I think with words"
+* "We are socially embraided to such an extent that the architecture of our thoughts is a communal construction"
+* "What gets embedded in the work are not only questions and ideas of which the maker is conscious, but also attitudes and hypotheses of which he remains unaware"
+    
+64  
+* "... on the downside, only one idea can be presented at a time…\[the craftsman's\] picture is worth the proverbial thousand words"
+* all makers go "through a similar process of thinking with things...to discover, embody, and communicate a vision of what matters"
+    
+67  
+* "One's sense of self is...strongly influenced by external circumstances, especially the beliefs of other people" <-- reminds me of the process of differentiating my identity from the identities of those around me in childhood
+* "making is a lifelong project of self-construction and self-determination" reminds me of the notions of "career" in the workplace and "hero's journey" in life
+    
+68  
+* "We think w materials and objects at least as much as we think with words, perhaps far more" reminds me of shamanism's use of animals and spirits to convey information
+    
+70  
+* "...all my life desires had been parked down to one, which was to be without pain or discomfort, and there on the beach my wish was fulfilled. I wanted for nothing."
