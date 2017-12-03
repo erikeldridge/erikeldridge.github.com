@@ -1,6 +1,6 @@
 ---
 title: "Why We Make Things and Why It Matters by Peter Korn \U0001F4D6"
-date: 2017-12-02 11:10:00 -0800
+date: 2017-12-02 16:29:42 -0800
 tags:
 - craft
 - book
@@ -47,7 +47,7 @@ These are my notes as read through Peter Korn's book _Why We Make Things and Why
 
 59
 
-* "Consumerism promises spiritual and emotional fulfillment through acquisition"
+* "Consumerism promises spiritual and emotional fulfillment through acquisition" <-- Reminds me of Berry
 * "... the physical details of \[a crafted object\] speak to a more ancient materialism ... the belief that objects have mana: that the miraculous power to provide spiritual sustenance resides in the object itself, not in the achievement of ownership"
 * "... the making of the desk was a multilayered process of thinking with things."
 
@@ -57,3 +57,7 @@ These are my notes as read through Peter Korn's book _Why We Make Things and Why
 * "... each completed work becomes a springboard for the genesis of its successors" <-- this notion of an objective record reminds me of a quote from page 56 re craft enabling objective assessment of a worker's skill by virtue of the tangible objects produced
 * "The pleasure I experience when the coffee table in our living room catches my eye is a good example of the way that an object functions as a thought marker"
 * "I built \[the table\] ... as a private homage to Alan Peters ..."
+
+61
+
+* "Simplicity, fluting, and the decorative use of end grain were signature elements of Alan Peter's design vocabulary" <-- What's my "design vocabulary"? Do I emulate others' vocabularies?
