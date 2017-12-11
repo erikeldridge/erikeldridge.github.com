@@ -1,5 +1,5 @@
 ---
-title: "December 2017 mushroom foray \U0001F344"
+title: "December 2017 mushroom foray \U0001F344\U0001F384"
 layout: post
 date: 2017-12-10 00:00:00 +0000
 tags:
