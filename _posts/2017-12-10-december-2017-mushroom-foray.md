@@ -5,7 +5,7 @@ date: 2017-12-10 18:30:11 -0800
 tags:
 - mushroom
 ---
-The [Bay Area Mushroom Society](http://www.bayareamushrooms.org/) organized a foray on December 9 to collect specimens for the [Point Reyes National Seashore Fungus Fair](https://www.nps.gov/pore/planyourvisit/events_fungusfair.htm). Around 50 people participated, splitting into groups to search Point Reyes and neighboring parks.
+The [Bay Area Mycological Society](http://www.bayareamushrooms.org/) organized a foray on December 9 to collect specimens for the [Point Reyes National Seashore Fungus Fair](https://www.nps.gov/pore/planyourvisit/events_fungusfair.htm). Around 50 people participated, splitting into groups to search Point Reyes and neighboring parks.
 
 My wife (who observed "trees were full of life, even after death") and I chose to look along the Mt Wittenberg trail, teaming up briefly with a forager and his sons (one in a Baby Bjorn) from Petaluma, and later with a grad student from Berkeley (who was momentarily "captivated by another kingdom" while admiring a large Bay tree).
 
