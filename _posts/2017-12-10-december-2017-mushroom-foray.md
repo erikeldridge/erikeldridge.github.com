@@ -1,7 +1,7 @@
 ---
 title: "December 2017 mushroom foray \U0001F344\U0001F384"
 layout: post
-date: 2017-12-10 18:30:11 -0800
+date: 2017-12-11 11:24:19 -0800
 tags:
 - mushroom
 ---
@@ -11,7 +11,7 @@ My wife (who observed "trees were full of life, even after death") and I chose t
 
 The trail passed pines, under which we found [Suillus](https://www.inaturalist.org/taxa/53490-Suillus) ([granulatus](https://www.inaturalist.org/taxa/179065-Suillus-granulatus)?),  [Xerocomellus chrysenteron](https://www.inaturalist.org/taxa/438013-Xerocomellus-chrysenteron) (Cracking Red Bolete), [Russula xerampelina](https://www.inaturalist.org/taxa/154875-Russula-xerampelina) (Shrimp Russula), [Armillaria mellea](https://www.inaturalist.org/taxa/55950-Armillaria-mellea) (Honey Mushroom) and lots of [Laccaria amethysteo-occidentalis](https://www.inaturalist.org/taxa/54893-Laccaria-amethysteo-occidentalis), and through Bay forrest in which we found [Gymnopilus ventricosus](https://www.inaturalist.org/taxa/348809-Gymnopilus-ventricosus) (Jumbo Gym) and ‎[Hypholoma fasciculare](https://www.inaturalist.org/taxa/48767-Hypholoma-fasciculare) (Sulphur Tuft). Foragers gathered at the Red Barn classroom to compare and identify. Others found many more varieties, including [Bolete edulis](https://www.inaturalist.org/taxa/48701-Boletus-edulis) (King Bolete) with bagel-shaped caps.
 
-This trip was joyful for a number of reasons: the kids _loved_ mushroom hunting; I finally glimpsed [Amanita muscaria](https://www.inaturalist.org/taxa/48715-Amanita-muscaria) ("Super Mario mushroom" to one fellow hiker), which appeared like Santa under a Christmas tree (next to the parking lot!), and [Amanita phalloides](https://www.inaturalist.org/taxa/52135-Amanita-phalloides) (Death Cap), striking with its cup, veil and metallic yellow-green tint, which I've long feared, but never seen; interactions with many smart, friendly people; hours of immersion in nature, off-trail, intently searching for treasure in the leaves.
+This trip was joyful for a number of reasons: kids and adults were able to participate equally (most adults were novice hunters) and families could participate together; I finally glimpsed [Amanita muscaria](https://www.inaturalist.org/taxa/48715-Amanita-muscaria) ("Super Mario mushroom" to one fellow hiker), which appeared like Santa under a Christmas tree (next to the parking lot!), and [Amanita phalloides](https://www.inaturalist.org/taxa/52135-Amanita-phalloides) (Death Cap), striking with its cup, veil and metallic yellow-green tint, which I've long feared, but never seen; interactions with many smart, friendly people; hours of immersion in nature, off-trail, intently searching for treasure in the leaves.
 
 Things I'd bring next time:
 
