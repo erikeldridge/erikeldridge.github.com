@@ -1,6 +1,6 @@
 ---
 title: "Why We Make Things and Why It Matters by Peter Korn \U0001F4D6"
-date: 2017-12-03 10:27:50 -0800
+date: 2017-12-24 22:38:52 -0800
 tags:
 - craft
 - book
@@ -68,17 +68,47 @@ These are my notes as read through Peter Korn's book _Why We Make Things and Why
 * "When I am making furniture, I think with things; when I am writing, I think with words"
 * "We are socially embraided to such an extent that the architecture of our thoughts is a communal construction"
 * "What gets embedded in the work are not only questions and ideas of which the maker is conscious, but also attitudes and hypotheses of which he remains unaware"
-    
-64  
+
+64
+
 * "... on the downside, only one idea can be presented at a time…\[the craftsman's\] picture is worth the proverbial thousand words"
 * all makers go "through a similar process of thinking with things...to discover, embody, and communicate a vision of what matters"
-    
-67  
+
+67
+
 * "One's sense of self is...strongly influenced by external circumstances, especially the beliefs of other people" <-- reminds me of the process of differentiating my identity from the identities of those around me in childhood
 * "making is a lifelong project of self-construction and self-determination" reminds me of the notions of "career" in the workplace and "hero's journey" in life
-    
-68  
+
+68
+
 * "We think w materials and objects at least as much as we think with words, perhaps far more" reminds me of shamanism's use of animals and spirits to convey information
-    
-70  
+
+70
+
 * "...all my life desires had been parked down to one, which was to be without pain or discomfort, and there on the beach my wish was fulfilled. I wanted for nothing."
+
+72
+
+* "my work needed a distinctive, compelling look…Otherwise, I didn't see how I was going to sell enough work, and at high enough prices, to provide a sustainable living"
+* Is there an equivalent of negative space for software?
+
+73
+
+* Is there an equivalent of a solo show equivalent for software? Hackweek poster sessions come close 
+
+76
+
+* Is there an equivalent of the Anderson arts ranch for software? Woodworking may have a more solitary culture
+
+77
+
+* Is there a "language of formal criticism" as in the arts for software development?
+* "integrate their self-absorbed passion for making with the necessity of earning a living and the demands of maintaining a relationship"
+
+80
+
+* Reiteration of objective: simplicity, integrity, grace
+
+81
+
+* "working in isolation doesn't foster the substantial engagement with community it takes to cultivate a local market"
