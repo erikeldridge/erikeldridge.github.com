@@ -18,12 +18,12 @@ I've been using a Web-based editor at work, which makes my Macbook feel like a g
 
 The 15" Macbook is great, but $2500 is steep for my needs. I think an actual netbook would be sufficient, but I have little experience w them.
 
-I like Chromebook's simplicity. The Pixelbook seems well designed, but it's too pricey. Looking around, $500 seems like a reasonable experiment.
+I like Chromebook's simplicity. The Pixelbook seems well-designed, but it's pricey. Looking around, $500 seems like a reasonable experiment.
 
 At this point I'm looking for a Chromebook with:
 
 * High ratings in general
-* Something close to Pixelbook specs
+* Close to Pixelbook specs
 * Close to 15" screen
 * [Support for Android](https://sites.google.com/a/chromium.org/dev/chromium-os/chrome-os-systems-supporting-android-apps), so I can use [1Password](https://discussions.agilebits.com/discussion/67454/does-1password-work-on-a-chromebook-chrome-os)
 * USB ports (so I can charge my phone :)
@@ -34,9 +34,9 @@ The Acer Chromebook 14 is highly rated on Amazon, provides 4GB ram, 32GB storage
 
 Now that I have a screen, keyboard and internet connection, I need a machine to develop on. A colleague recommended [Cloud9](https://aws.amazon.com/cloud9/), which layers a Web-based IDE on EC2.
 
-Cloud9's original incarnation as [c9.io]() is great, and has a free tier, but the terminal would hang (due to resource sharing, I presume) and maintaining it probably has lower priority than maintaining the new AWS version.
+Cloud9's original incarnation as [c9.io]() is great, and has a free tier, but the terminal  frequently hangs (due to resource sharing, I presume) and I'd guess maintaining it  has lower priority than building the new AWS version.
 
-I have little experience maintaining AWS resources, but [Amazon estimates the cost at \~$2/mo](https://aws.amazon.com/cloud9/pricing/), which also seems like a reasonable experiment.
+I have little experience with AWS, but [Amazon estimates the cost at \~$2/mo](https://aws.amazon.com/cloud9/pricing/), which also seems like a reasonable amount to experiment with.
 
 Setting up Cloud9 was straightforward. Kudos to that team for a great product, and AWS for integrating it well.
 
@@ -46,4 +46,4 @@ Now I need a place to persist source code. Bitbucket provides free private repos
 
 ## Summary
 
-All in all, I'm pleased with the new setup.
+After a day of experience, setting things up and drafting this post, I'm pleased with the set up. Seems like a success so far.
