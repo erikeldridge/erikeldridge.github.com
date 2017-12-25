@@ -1,7 +1,7 @@
 ---
 title: Netbook development
 layout: post
-date: 2017-12-24 21:58:07 -0800
+date: 2017-12-24 22:31:23 -0800
 tags:
 - netbook
 - chromebook
@@ -34,7 +34,7 @@ The Acer Chromebook 14 is highly rated on Amazon, provides 4GB ram, 32GB storage
 
 Now that I have a screen, keyboard and internet connection, I need a machine to develop on. A colleague recommended [Cloud9](https://aws.amazon.com/cloud9/), which layers a Web-based IDE on EC2.
 
-Cloud9's original incarnation as [c9.io]() is great, and has a free tier, but the terminal  frequently hangs (due to resource sharing, I presume) and I'd guess maintaining it  has lower priority than building the new AWS version.
+Cloud9's original incarnation as [c9.io](https://c9.io/) is great, and has a free tier, but the terminal  frequently hangs (due to resource sharing, I presume) and I'd guess maintaining it  has lower priority than building the new AWS version.
 
 I have little experience with AWS, but [Amazon estimates the cost at \~$2/mo](https://aws.amazon.com/cloud9/pricing/), which also seems like a reasonable amount to experiment with. I created a budget for $10/mo just in case. After a few hours of usage today, my bill is $0.02, and all for S3.
 
