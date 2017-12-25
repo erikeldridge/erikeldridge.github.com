@@ -1,7 +1,7 @@
 ---
 title: Netbook development
 layout: post
-date: 2017-12-25 00:12:26 -0800
+date: 2017-12-25 01:17:44 -0800
 tags:
 - netbook
 - chromebook
@@ -47,6 +47,15 @@ Setting up Cloud9 was straightforward. Kudos to that team for a great product, a
 Now I need a place to persist source code. Bitbucket provides free private repos. After generating an SSH key pair in Cloud 9's terminal and adding the public key to my Bitbucket account Git works as expected. Cloud9 automatically persists to EBS, so the key pair survives [hibernation](https://aws.amazon.com/cloud9/faqs/).
 
 To simplify SSH passphrase usage, I had to run `eval "$(ssh-agent)"` and then `ssh-add` after each restart.
+
+## Development HTTP
+
+1. In Cloud9 IDE, create [express server](https://expressjs.com/en/starter/hello-world.html)
+2. In EC2 console,
+   1. Create a security group with a "Custom TCP Rule" exposing port 3000
+   2. Add this security group to the instance created by Cloud9
+   3. Note instance's "Public DNS" hostname
+3. In browser, load host with scheme http and port 3000
 
 ## Emoji
 
