@@ -1,7 +1,7 @@
 ---
 title: Netbook development
 layout: post
-date: 2017-12-24 00:00:00 +0000
+date: 2017-12-24 21:58:07 -0800
 tags:
 - netbook
 - chromebook
@@ -43,6 +43,10 @@ Setting up Cloud9 was straightforward. Kudos to that team for a great product, a
 ## Source control
 
 Now I need a place to persist source code. Bitbucket provides free private repos. After generating an SSH key pair in Cloud 9's terminal and adding the public key to my Bitbucket account Git works as expected. We'll see if the key pair persists through [hibernation](https://aws.amazon.com/cloud9/faqs/).
+
+## Emoji
+
+There's an [onscreen keyboard](https://support.google.com/chromebook/answer/6076237?hl=en) with emoji support, but it takes a million clicks to get to. Still on the lookout for a [Rocket](http://matthewpalmer.net/rocket/)-like emoji picker.
 
 ## Summary
 
