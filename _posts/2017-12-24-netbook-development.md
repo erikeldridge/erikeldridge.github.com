@@ -1,7 +1,7 @@
 ---
 title: Netbook development
 layout: post
-date: 2017-12-24 22:31:23 -0800
+date: 2017-12-25 00:12:26 -0800
 tags:
 - netbook
 - chromebook
@@ -38,11 +38,15 @@ Cloud9's original incarnation as [c9.io](https://c9.io/) is great, and has a fre
 
 I have little experience with AWS, but [Amazon estimates the cost at \~$2/mo](https://aws.amazon.com/cloud9/pricing/), which also seems like a reasonable amount to experiment with. I created a budget for $10/mo just in case. After a few hours of usage today, my bill is $0.02, and all for S3.
 
+Cloud9 configures EC2 and EBS, but I remember seeing a doc mention security is still our responsibility. The [Node docs](http://docs.aws.amazon.com/cloud9/latest/user-guide/sample-nodejs.html) describe an easy way to stay up to date: `sudo yum -y update`.
+
 Setting up Cloud9 was straightforward. Kudos to that team for a great product, and AWS for integrating it well.
 
 ## Source control
 
-Now I need a place to persist source code. Bitbucket provides free private repos. After generating an SSH key pair in Cloud 9's terminal and adding the public key to my Bitbucket account Git works as expected. We'll see if the key pair persists through [hibernation](https://aws.amazon.com/cloud9/faqs/).
+Now I need a place to persist source code. Bitbucket provides free private repos. After generating an SSH key pair in Cloud 9's terminal and adding the public key to my Bitbucket account Git works as expected. Cloud9 automatically persists to EBS, so the key pair survives [hibernation](https://aws.amazon.com/cloud9/faqs/).
+
+To simplify SSH passphrase usage, I had to run `eval "$(ssh-agent)"` and then `ssh-add` after each restart.
 
 ## Emoji
 
