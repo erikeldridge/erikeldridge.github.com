@@ -36,7 +36,7 @@ Now that I have a screen, keyboard and internet connection, I need a machine to 
 
 Cloud9's original incarnation as [c9.io]() is great, and has a free tier, but the terminal  frequently hangs (due to resource sharing, I presume) and I'd guess maintaining it  has lower priority than building the new AWS version.
 
-I have little experience with AWS, but [Amazon estimates the cost at \~$2/mo](https://aws.amazon.com/cloud9/pricing/), which also seems like a reasonable amount to experiment with.
+I have little experience with AWS, but [Amazon estimates the cost at \~$2/mo](https://aws.amazon.com/cloud9/pricing/), which also seems like a reasonable amount to experiment with. I created a budget for $10/mo just in case. After a few hours of usage today, my bill is $0.02, and all for S3.
 
 Setting up Cloud9 was straightforward. Kudos to that team for a great product, and AWS for integrating it well.
 
