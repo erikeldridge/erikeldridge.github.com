@@ -2,7 +2,11 @@
 title: Netbook development
 layout: post
 date: 2017-12-24 00:00:00 +0000
-tags: []
+tags:
+- netbook
+- chromebook
+- cloud9
+- toolkit
 ---
 ## Context
 
@@ -26,6 +30,8 @@ At this point I'm looking for a Chromebook with:
 
 The Acer Chromebook 14 is highly rated on Amazon, provides 4GB ram, 32GB storage, USB 3, Wi-FI AC, HD video, supports Android and costs \~$300, and I can pick it up immediately at a local BestBuy, which provides a surprisingly nice Instacart-like experience.
 
+## IDE
+
 Now that I have a screen, keyboard and internet connection, I need a machine to develop on. A colleague recommended [Cloud9](https://aws.amazon.com/cloud9/), which layers a Web-based IDE on EC2.
 
 Cloud9's original incarnation as [c9.io]() is great, and has a free tier, but the terminal would hang (due to resource sharing, I presume) and maintaining it probably has lower priority than maintaining the new AWS version.
@@ -34,6 +40,10 @@ I have little experience maintaining AWS resources, but [Amazon estimates the co
 
 Setting up Cloud9 was straightforward. Kudos to that team for a great product, and AWS for integrating it well.
 
-Now I need a place to persist source code. Bitbucket provides free private repos. After generating an SSH key pair in Cloud 9's terminal and adding the public key to my Bitbucket account Git works as expected.
+## Source control
+
+Now I need a place to persist source code. Bitbucket provides free private repos. After generating an SSH key pair in Cloud 9's terminal and adding the public key to my Bitbucket account Git works as expected. We'll see if the key pair persists through [hibernation](https://aws.amazon.com/cloud9/faqs/).
+
+## Summary
 
 All in all, I'm pleased with the new setup.
