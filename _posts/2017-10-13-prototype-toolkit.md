@@ -1,14 +1,15 @@
 ---
 title: Prototype toolkit
-date: 2017-10-13 19:58:27.602000000 Z
+date: 2017-12-26 20:36:50 -0800
 tags:
 - toolkit
 - web
 - app
 - prototyping
+- javascript
+- express
 layout: post
 ---
-
 A collection of tools for rapid prototyping.
 
 ## Web
@@ -25,30 +26,30 @@ NPM boilerplate:
 
 {% highlight js linenos %}
 {
-  "scripts": {
-    "start": "watchify main.js -o demo/bundle.js -v",
-    "serve": "serve"
-  },
-  "devDependencies": {
-    "serve": "^6.2.0",
-    "watchify": "^3.9.0"
-  ...
+"scripts": {
+"start": "watchify main.js -o demo/bundle.js -v",
+"serve": "serve"
+},
+"devDependencies": {
+"serve": "^6.2.0",
+"watchify": "^3.9.0"
+...
 }
 {% endhighlight %}
 
 ## Language
 
-Use ES6 (for concision and to simplify client and server dev) [^es6]
+Use ES6 (for concision and to simplify client and server dev) \[^es6\]
 
-[^es6]: Type safety is helpful for non-trivial code bases, but the goal in prototyping is to get customer feedback for the lowest cost; we can refactor to something type-safe once we've found product-market fit.
+\[^es6\]: Type safety is helpful for non-trivial code bases, but the goal in prototyping is to get customer feedback for the lowest cost; we can refactor to something type-safe once we've found product-market fit.
 
 ## HTML diffing
 
-Use [diffhtml](https://github.com/tbranyen/diffhtml). [Dodson] enthusiastically recommends it and it's worked well for me.
+Use [diffhtml](https://github.com/tbranyen/diffhtml). [Dodson](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133) enthusiastically recommends it and it's worked well for me.
 
 ## Custom elements
 
-Use [web components](https://www.webcomponents.org/introduction#how-do-i-define-a-new-html-element-) with ES6 classes. [Dodson] describes the benefits well.
+Use [web components](https://www.webcomponents.org/introduction#how-do-i-define-a-new-html-element-) with ES6 classes. [Dodson](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133) describes the benefits well.
 
 Web components are well-supported [natively](http://caniuse.com/#search=custom%20elements) and via [polyfills](https://www.webcomponents.org/polyfills/).
 
@@ -58,30 +59,24 @@ Example widget:
 import {html, innerHTML} from 'diffhtml'
 
 class Widget extends HTMLElement {
-  static get is() { return 'x-widget' }
-  connectedCallback(){
-    this.emojis = {
-      smile: '🙂',
-      grin: '😁'
-    }
-    this.filter = ''
-    this.render()
-  }
-  render(){
-    const options = Object.keys(this.emojis)
-      .filter(name => name.startsWith(this.filter))
-      .map(name => {
-        const emoji = this.emojis[name]
-        return html`
-          <span data-name="${name}">${emoji}</span>
-        `
-      })
-    innerHTML(this, html`
-      <div class="options">
-      ${options}
-      </div>
-    `)
-  }
+static get is() { return 'x-widget' }
+connectedCallback(){
+this.emojis = {
+smile: '🙂',
+grin: '😁'
+}
+this.filter = ''
+this.render()
+}
+render(){
+const options = Object.keys(this.emojis)
+.filter(name => name.startsWith(this.filter))
+.map(name => {
+const emoji = this.emojis\[name\]
+return html`<span data-name="${name}">${emoji}</span>`
+})
+innerHTML(this, html`<div class="options"> ${options} </div>`)
+}
 }
 export default Widget
 {% endhighlight %}
@@ -89,10 +84,10 @@ export default Widget
 Registration boilerplate:
 
 {% highlight js linenos %}
-[Widget].forEach(el => {
-  if (!window.customElements.get(el.is)) {
-    window.customElements.define(el.is, el);
-  }
+\[Widget\].forEach(el => {
+if (!window.customElements.get(el.is)) {
+window.customElements.define(el.is, el);
+}
 })
 {% endhighlight %}
 
@@ -102,15 +97,30 @@ Note event listeners bound externally to separate behavior from markup, and to s
 
 {% highlight js linenos %}
 connectedCallback(){
-  this.render()
-  this.composer = this.querySelector('textarea')
-  this.composer.addEventListener('keyup', this.onKeyUp.bind(this))
+this.render()
+this.composer = this.querySelector('textarea')
+this.composer.addEventListener('keyup', this.onKeyUp.bind(this))
 }
 {% endhighlight %}
 
-[Dodson]: https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133
+## Services
+
+Bias towards HTTP, REST and a widely-used, terse framework: Express JS.
+
+## File upload
+
+{% highlight js linenos %}
+const app = express()
+const storage = {}
+const upload = multer()
+
+// $ curl -v -F 'value=@val1.txt' http://localhost:3000/key1
+app.post('/:key', upload.single('value'), (req, res) => { storage\[req.params.key\] = req.file.buffer.toString() res.end() })
+
+app.get('/:key', (req, res) => {
+res.send(storage\[key\])
+res.end()
+})
+{% endhighlight %}
 
 ## Footnotes
-
-
-
