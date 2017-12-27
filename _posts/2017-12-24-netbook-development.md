@@ -7,6 +7,9 @@ tags:
 - chromebook
 - cloud9
 - toolkit
+- prototype
+- javascript
+- aws
 ---
 ## Context
 
@@ -52,7 +55,7 @@ To simplify SSH passphrase usage, I had to run `eval "$(ssh-agent)"` and then `s
 
 ## Development HTTP
 
-I like using Node for [prototyping](prototype-toolkit "Prototype toolkit") ideas, so:
+I like using JavaScript for [prototyping](prototype-toolkit "Prototype toolkit") ideas, so:
 
 1. In Cloud9 IDE, create [express server](https://expressjs.com/en/starter/hello-world.html)
 2. In EC2 console,
