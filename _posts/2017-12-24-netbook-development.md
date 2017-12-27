@@ -39,7 +39,7 @@ Now that I have a screen, keyboard and internet connection, I need a machine to 
 
 Cloud9's original incarnation as [c9.io](https://c9.io/) is great, and has a free tier, but the terminal  frequently hangs (due to resource sharing, I presume) and I'd guess maintaining it  has lower priority than building the new AWS version.
 
-I have little experience with AWS, but [Amazon estimates the cost at \~$2/mo](https://aws.amazon.com/cloud9/pricing/), which also seems like a reasonable amount to experiment with. I created a budget for $10/mo just in case. After a few hours of usage today, my bill is $0.02, and all for S3.
+I have little experience with AWS, but [Amazon estimates the cost at \~$2/mo](https://aws.amazon.com/cloud9/pricing/), which also seems like a reasonable amount to experiment with. I created a budget for $10/mo just in case. After a few hours of usage over the past few days, my bill is $0.15, mostly for EC2, but a few cents for S3 (Cloud9-managed EBS) and data transfer too.
 
 Cloud9 provides an "auto-hibernation" setting to save cost. This appears to stop the associated EC2 instance. Opening the IDE after manually stopping the instance restarts it.
 
