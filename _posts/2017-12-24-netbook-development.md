@@ -1,7 +1,7 @@
 ---
 title: Netbook development
 layout: post
-date: 2017-12-25 01:17:44 -0800
+date: 2017-12-26 17:43:21 -0800
 tags:
 - netbook
 - chromebook
@@ -38,6 +38,8 @@ Cloud9's original incarnation as [c9.io](https://c9.io/) is great, and has a fre
 
 I have little experience with AWS, but [Amazon estimates the cost at \~$2/mo](https://aws.amazon.com/cloud9/pricing/), which also seems like a reasonable amount to experiment with. I created a budget for $10/mo just in case. After a few hours of usage today, my bill is $0.02, and all for S3.
 
+Cloud9 provides an "auto-hibernation" setting to save cost. This appears to stop the associated EC2 instance. Opening the IDE after manually stopping the instance restarts it.
+
 Cloud9 configures EC2 and EBS, but I remember seeing a doc mention security is still our responsibility. The [Node docs](http://docs.aws.amazon.com/cloud9/latest/user-guide/sample-nodejs.html) describe an easy way to stay up to date: `sudo yum -y update`.
 
 Setting up Cloud9 was straightforward. Kudos to that team for a great product, and AWS for integrating it well.
@@ -49,6 +51,8 @@ Now I need a place to persist source code. Bitbucket provides free private repos
 To simplify SSH passphrase usage, I had to run `eval "$(ssh-agent)"` and then `ssh-add` after each restart.
 
 ## Development HTTP
+
+I like using Node for [prototyping](prototype-toolkit "Prototype toolkit") ideas, so:
 
 1. In Cloud9 IDE, create [express server](https://expressjs.com/en/starter/hello-world.html)
 2. In EC2 console,
