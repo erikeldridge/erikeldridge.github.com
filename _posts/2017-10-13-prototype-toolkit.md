@@ -1,6 +1,6 @@
 ---
 title: Prototype toolkit
-date: 2017-12-26 20:36:50 -0800
+date: 2017-12-26 21:06:32 -0800
 tags:
 - toolkit
 - web
@@ -120,7 +120,7 @@ app.post('/:key', upload.single('value'), (req, res) => {
 })
 
 app.get('/:key', (req, res) => {
-  res.send(storage\[key\])
+  res.send(storage[key])
   res.end()
 })
 {% endhighlight %}
