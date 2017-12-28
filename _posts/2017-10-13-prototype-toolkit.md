@@ -1,6 +1,6 @@
 ---
 title: Prototype toolkit
-date: 2017-12-26 21:06:32 -0800
+date: 2017-12-27 17:21:55 -0800
 tags:
 - toolkit
 - web
@@ -8,6 +8,8 @@ tags:
 - prototyping
 - javascript
 - express
+- file
+- header
 layout: post
 ---
 A collection of tools for rapid prototyping.
@@ -39,9 +41,9 @@ NPM boilerplate:
 
 ## Language
 
-Use ES6 (for concision and to simplify client and server dev) [^es6]
+Use ES6 (for concision and to simplify client and server dev) \[^es6\]
 
-[^es6]: Type safety is helpful for non-trivial code bases, but the goal in prototyping is to get customer feedback for the lowest cost; we can refactor to something type-safe once we've found product-market fit.
+\[^es6\]: Type safety is helpful for non-trivial code bases, but the goal in prototyping is to get customer feedback for the lowest cost; we can refactor to something type-safe once we've found product-market fit.
 
 ## HTML diffing
 
@@ -59,24 +61,24 @@ Example widget:
 import {html, innerHTML} from 'diffhtml'
 
 class Widget extends HTMLElement {
-  static get is() { return 'x-widget' }
-  connectedCallback(){
-    this.emojis = {
-      smile: '🙂',
-      grin: '😁'
-    }
-    this.filter = ''
-    this.render()
-  }
-  render(){
-    const options = Object.keys(this.emojis)
-      .filter(name => name.startsWith(this.filter))
-      .map(name => {
-        const emoji = this.emojis[name]
-        return html`<span data-name="${name}">${emoji}</span>`
-      })
-    innerHTML(this, html`<div class="options"> ${options} </div>`)
-  }
+static get is() { return 'x-widget' }
+connectedCallback(){
+this.emojis = {
+smile: '🙂',
+grin: '😁'
+}
+this.filter = ''
+this.render()
+}
+render(){
+const options = Object.keys(this.emojis)
+.filter(name => name.startsWith(this.filter))
+.map(name => {
+const emoji = this.emojis\[name\]
+return html`<span data-name="${name}">${emoji}</span>`
+})
+innerHTML(this, html`<div class="options"> ${options} </div>`)
+}
 }
 export default Widget
 {% endhighlight %}
@@ -84,10 +86,10 @@ export default Widget
 Registration boilerplate:
 
 {% highlight js linenos %}
-[Widget].forEach(el => {
-  if (!window.customElements.get(el.is)) {
-    window.customElements.define(el.is, el);
-  }
+\[Widget\].forEach(el => {
+if (!window.customElements.get(el.is)) {
+window.customElements.define(el.is, el);
+}
 })
 {% endhighlight %}
 
@@ -97,9 +99,9 @@ Note event listeners bound externally to separate behavior from markup, and to s
 
 {% highlight js linenos %}
 connectedCallback(){
-  this.render()
-  this.composer = this.querySelector('textarea')
-  this.composer.addEventListener('keyup', this.onKeyUp.bind(this))
+this.render()
+this.composer = this.querySelector('textarea')
+this.composer.addEventListener('keyup', this.onKeyUp.bind(this))
 }
 {% endhighlight %}
 
@@ -116,13 +118,20 @@ const upload = multer()
 
 // $ curl -v -F 'value=@val1.txt' http://localhost:3000/key1
 app.post('/:key', upload.single('value'), (req, res) => {
-  storage[req.params.key] = req.file.buffer.toString() res.end()
+storage\[req.params.key\] = req.file.buffer.toString() res.end()
 })
 
 app.get('/:key', (req, res) => {
-  res.send(storage[key])
-  res.end()
+res.send(storage\[key\])
+res.end()
 })
 {% endhighlight %}
+
+## Custom browser headers
+
+Use [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj?hl=en) to set custom headers, eg:
+
+* Dynamically compose services using [dtab headers](https://medium.com/@muuki88/a-beginners-guide-for-twitter-finagle-7ff7189541e5#6560)
+* Route requests using the "host" header
 
 ## Footnotes
