@@ -1,6 +1,6 @@
 ---
 title: Prototype toolkit
-date: 2017-12-27 17:34:32 -0800
+date: 2017-12-27 17:38:13 -0800
 tags:
 - toolkit
 - web
@@ -26,15 +26,18 @@ Watch [Rollup](https://rollupjs.org). Its dependency on ES6 syntax simplifies th
 
 NPM boilerplate:
 
-    {
-      "scripts": {
-        "start": "watchify main.js -o demo/bundle.js -v",
-        "serve": "serve"
-      },
-      "devDependencies": {
-        "serve": "^6.2.0",
-        "watchify": "^3.9.0"
-    ...
+```json
+{
+  "scripts": {
+    "start": "watchify main.js -o demo/bundle.js -v",
+    "serve": "serve"
+  },
+   "devDependencies": {
+    "serve": "^6.2.0",
+    "watchify": "^3.9.0"
+  }
+}
+```
 
 ## Language
 
