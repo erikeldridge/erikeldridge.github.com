@@ -49,10 +49,10 @@ Cloud9 provides a terminal, but I was also able to successfully access via Secur
 
 1. Use the Cloud9 terminal to generate an SSH key pair manually (I named mine "chromebook" and omitted the passphrase): `ssh-keygen -t rsa -b 2048 -v`
 2. Enable read permissions on the private key: `chmod 400 chromebook`
-3. Authorize the public key: `echo "\`cat chromebook.pub\`" >> \~/.ssh/authorized_keys`
+3. Authorize the public key (Cloud9 also maintains a key there, so don't clobber the file): `echo "\`cat chromebook.pub\`" >> \~/.ssh/authorized_keys`
 4. Download both keys (chromebook and chromebook.pub) by control-clicking on the files in Cloud9's file tree and selecting "download"
 5. Grab public DNS hostname from the EC2 console, eg ec2-51-88-231-95.us-west-2.compute.amazonaws.com
-6. In Secure Shell, specify the Cloud9 user ("ec2-user") and hostname copied above, and import the public **and** private keys. (The identity field should change from "default" to "chromebook".) 
+6. In Secure Shell, specify the Cloud9 user ("ec2-user") and hostname copied above, and import the public **and** private keys. (The identity field should change from "default" to "chromebook".)
 
 Setting up Cloud9 was straightforward. Kudos to that team for a great product, and AWS for integrating it well.
 
