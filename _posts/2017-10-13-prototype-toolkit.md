@@ -1,6 +1,6 @@
 ---
 title: Prototype toolkit
-date: 2017-12-27 17:38:13 -0800
+date: 2017-12-27 17:40:43 -0800
 tags:
 - toolkit
 - web
@@ -57,37 +57,41 @@ Web components are well-supported [natively](http://caniuse.com/#search=custom%2
 
 Example widget:
 
-    import {html, innerHTML} from 'diffhtml'
-    
-    class Widget extends HTMLElement {
-      static get is() { return 'x-widget' }
-      connectedCallback(){
-    	this.emojis = {
-          smile: '🙂',
-          grin: '😁'
-        }
-        this.filter = ''
-        this.render()
-      }
-      render(){
-        const options = Object.keys(this.emojis)
-          .filter(name => name.startsWith(this.filter))
-          .map(name => {
-            const emoji = this.emojis[name]
-            return html<span data-name="${name}">${emoji}</span>
-          })
-        innerHTML(this, html<div class="options"> ${options} </div>)
-      }
+```js
+import {html, innerHTML} from 'diffhtml'
+
+class Widget extends HTMLElement {
+  static get is() { return 'x-widget' }
+  connectedCallback(){
+	this.emojis = {
+      smile: '🙂',
+      grin: '😁'
     }
-    export default Widget
+    this.filter = ''
+    this.render()
+  }
+  render(){
+    const options = Object.keys(this.emojis)
+      .filter(name => name.startsWith(this.filter))
+      .map(name => {
+        const emoji = this.emojis[name]
+        return html<span data-name="${name}">${emoji}</span>
+      })
+    innerHTML(this, html<div class="options"> ${options} </div>)
+  }
+}
+export default Widget
+```
 
 Registration boilerplate:
 
-    [Widget].forEach(el => {
-      if (!window.customElements.get(el.is)) {
-    	window.customElements.define(el.is, el);
-      }
-    })
+```js
+[Widget].forEach(el => {
+  if (!window.customElements.get(el.is)) {
+	window.customElements.define(el.is, el);
+  }
+})
+```
 
 Note `is` naming convention consistent with Polymer.
 
