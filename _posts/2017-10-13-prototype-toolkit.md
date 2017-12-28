@@ -1,6 +1,6 @@
 ---
 title: Prototype toolkit
-date: 2017-12-27 17:40:43 -0800
+date: 2017-12-27 17:42:23 -0800
 tags:
 - toolkit
 - web
@@ -63,7 +63,7 @@ import {html, innerHTML} from 'diffhtml'
 class Widget extends HTMLElement {
   static get is() { return 'x-widget' }
   connectedCallback(){
-	this.emojis = {
+    this.emojis = {
       smile: '🙂',
       grin: '😁'
     }
@@ -97,11 +97,13 @@ Note `is` naming convention consistent with Polymer.
 
 Note event listeners bound externally to separate behavior from markup, and to survive template inlining, eg via Babel:
 
-    connectedCallback(){
-      this.render()
-      this.composer = this.querySelector('textarea')
-      this.composer.addEventListener('keyup', this.onKeyUp.bind(this))
-    }
+```js
+connectedCallback(){
+  this.render()
+  this.composer = this.querySelector('textarea')
+  this.composer.addEventListener('keyup', this.onKeyUp.bind(this))
+}
+```
 
 ## Services
 
@@ -109,19 +111,21 @@ Bias towards HTTP, REST and a widely-used, terse framework: Express JS.
 
 ## File upload
 
-    const app = express()
-    const storage = {}
-    const upload = multer()
+```js
+const app = express()
+const storage = {}
+const upload = multer()
 
-    // $ curl -v -F 'value=@val1.txt' http://localhost:3000/key1
-    app.post('/:key', upload.single('value'), (req, res) => {
-      storage\[req.params.key\] = req.file.buffer.toString() res.end()
-    })
+// $ curl -v -F 'value=@val1.txt' http://localhost:3000/key1
+app.post('/:key', upload.single('value'), (req, res) => {
+  storage\[req.params.key\] = req.file.buffer.toString() res.end()
+})
 
-    app.get('/:key', (req, res) => {
-      res.send(storage\[key\])
-      res.end()
-    })
+app.get('/:key', (req, res) => {
+  res.send(storage\[key\])
+  res.end()
+})
+```
 
 ## Custom browser headers
 
