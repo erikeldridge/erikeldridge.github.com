@@ -1,7 +1,7 @@
 ---
 title: Netbook development
 layout: post
-date: 2017-12-27 16:42:24 -0800
+date: 2017-12-28 18:33:32 -0800
 tags:
 - netbook
 - chromebook
@@ -45,6 +45,10 @@ Cloud9 provides an "auto-hibernation" setting to save cost. This appears to stop
 
 Cloud9 configures EC2 and EBS, but I remember seeing a doc mention security is still our responsibility. The [Node docs](http://docs.aws.amazon.com/cloud9/latest/user-guide/sample-nodejs.html) describe an easy way to stay up to date: `sudo yum -y update`.
 
+Setting up Cloud9 was straightforward. Kudos to that team for a great product, and AWS for integrating it well.
+
+## Shell
+
 Cloud9 provides a terminal, but I also wanted to play around with [Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo/support?hl=en) ([with "open as window" enabled](https://chromium.googlesource.com/apps/libapps/+/master/nassh/doc/FAQ.md#How-do-I-send-Ctrl_W_Ctrl_N-or-Ctrl_T-to-the-terminal), so I can use ctrl-w and have more conventional alt-tab navigation). Here's what worked for me:
 
 1. Use the Cloud9 terminal to generate an SSH key pair manually (I named mine "chromebook" and omitted the passphrase): `ssh-keygen -t rsa -b 2048 -v`
@@ -56,7 +60,7 @@ Cloud9 provides a terminal, but I also wanted to play around with [Secure Shell]
 5. Grab public DNS hostname from the EC2 console, eg ec2-51-88-231-95.us-west-2.compute.amazonaws.com
 6. In Secure Shell, specify the Cloud9 user ("ec2-user") and hostname copied above, and import [both the public and private key](https://chromium.googlesource.com/apps/libapps/+/master/nassh/doc/FAQ.md#Can-I-connect-using-a-public-key-pair-or-certificate). (The identity field should change from "default" to "chromebook".)
 
-Setting up Cloud9 was straightforward. Kudos to that team for a great product, and AWS for integrating it well.
+It took me awhile to figure out how [paste text into Secure Shell](https://chromium.googlesource.com/apps/libapps/+/master/nassh/doc/FAQ.md#How-do-I-paste-text-to-the-terminal "Secure Shell paste docs"): two-finger tap.
 
 ## Source control
 
