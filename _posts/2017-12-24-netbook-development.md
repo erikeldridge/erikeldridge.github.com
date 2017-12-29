@@ -1,7 +1,7 @@
 ---
 title: Netbook development
 layout: post
-date: 2017-12-28 18:33:32 -0800
+date: 2017-12-28 20:24:41 -0800
 tags:
 - netbook
 - chromebook
@@ -44,6 +44,8 @@ I have little experience with AWS, but [Amazon estimates the cost at \~$2/mo](ht
 Cloud9 provides an "auto-hibernation" setting to save cost. This appears to stop the associated EC2 instance. Opening the IDE after manually stopping the instance restarts it.
 
 Cloud9 configures EC2 and EBS, but I remember seeing a doc mention security is still our responsibility. The [Node docs](http://docs.aws.amazon.com/cloud9/latest/user-guide/sample-nodejs.html) describe an easy way to stay up to date: `sudo yum -y update`.
+
+Aside: the Lambda editor seems like a simplified Cloud9 IDE 🤔
 
 Setting up Cloud9 was straightforward. Kudos to that team for a great product, and AWS for integrating it well.
 
