@@ -1,7 +1,7 @@
 ---
 title: On-demand compute
 layout: post
-date: 2017-12-29 23:44:46 -0800
+date: 2017-12-29 23:46:36 -0800
 tags:
 - cloud9
 - aws
@@ -45,7 +45,7 @@ Since I'm paying by usage, and the only customer, I only want this function invo
 
 Setting up API Key security on a proxy endpoint is accomplished by drilling into the "Method Request" configuration of the "Method Execution" overview.
 
-I can use [ModHeader](prototype-toolkit) to include the ["x-api-key" header](https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-use-postman-to-call-api.html) and [filter](https://docs.google.com/document/d/1-2CSdz1I7Sfr32R_KAYgLffGslpw2eGoX3xyKn1A3Iw/pub#h.us8lgitrn0f5) for requests to "\*.amazonaws.com".
+I can use [ModHeader](prototype-toolkit#custom-browser-headers) to include the ["x-api-key" header](https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-use-postman-to-call-api.html) and [filter](https://docs.google.com/document/d/1-2CSdz1I7Sfr32R_KAYgLffGslpw2eGoX3xyKn1A3Iw/pub#h.us8lgitrn0f5) for requests to "\*.amazonaws.com".
 
 ## Custom domain
 
