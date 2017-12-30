@@ -1,7 +1,7 @@
 ---
 title: On-demand compute
 layout: post
-date: 2017-12-29 00:00:00 +0000
+date: 2017-12-29 23:44:46 -0800
 tags:
 - cloud9
 - aws
@@ -16,6 +16,8 @@ tags:
 - dns
 ---
 ## Goals
+
+At a high level, I want to map RESTful requests to an execution layer at minimal cost, which breaks down to the following steps:
 
 * Define on-demand compute resource
 * Enable HTTP requests to urls like example.com/\*
@@ -93,7 +95,7 @@ Use [Google's Public DNS tool](https://dns.google.com/query?name=_acme-challenge
 
 Now that we have a cert, we need to import it into AWS' Certificate Manager service. (Note at the time of this writing, only N. Virginia was supported, so import certs there and then reference them in whatever region we're using for API Gateway.)
 
-After acme generates the cert, copy the first cert into ACM's "Certificate body" field and the second into the "Certificate chain". Copy the key into the "Certificate private key" field.
+Acme generates a single cert file, but it contains two cert strings. Copy the first into ACM's "Certificate body" field and the second into the "Certificate chain". Copy the key into the "Certificate private key" field.
 
 Associate the cert with the API and stage (so we don't have to pass it in the path) in the API Gateway custom domain configuration. The output of this process is a cloudfront "Target Domain Name", eg d1eputjh2acqt4.cloudfront.net.
 
