@@ -1,7 +1,7 @@
 ---
 title: Netbook development
 layout: post
-date: 2017-12-28 20:24:41 -0800
+date: 2017-12-29 20:37:09 -0800
 tags:
 - netbook
 - chromebook
@@ -59,7 +59,7 @@ Cloud9 provides a terminal, but I also wanted to play around with [Secure Shell]
 
         echo "`cat chromebook.pub`" >> ~/.ssh/authorized_keys
 4. Download both keys (chromebook and chromebook.pub) by control-clicking on the files in Cloud9's file tree and selecting "download"
-5. Grab public DNS hostname from the EC2 console, eg ec2-51-88-231-95.us-west-2.compute.amazonaws.com
+5. Grab public DNS hostname from the EC2 console, eg ec2-51-88-231-95.us-west-2.compute.amazonaws.com (Note this changes every time the instance stops, eg via Cloud9 hibernation.)
 6. In Secure Shell, specify the Cloud9 user ("ec2-user") and hostname copied above, and import [both the public and private key](https://chromium.googlesource.com/apps/libapps/+/master/nassh/doc/FAQ.md#Can-I-connect-using-a-public-key-pair-or-certificate). (The identity field should change from "default" to "chromebook".)
 
 It took me awhile to figure out how [paste text into Secure Shell](https://chromium.googlesource.com/apps/libapps/+/master/nassh/doc/FAQ.md#How-do-I-paste-text-to-the-terminal "Secure Shell paste docs"): two-finger tap.
