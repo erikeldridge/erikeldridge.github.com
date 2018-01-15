@@ -18,9 +18,11 @@ tags:
 ---
 I attended the [Fungus Federation of Santa Cruz 2018 Fungus Fair](http://ffsc.us/fair) for the first time last weekend. I highly recommend it and plan to go again.
 
+The venue itself was noteworthy: the Louden Nelson Community Center, named after a former slave who donated his estate to the Santa Cruz school district ([pdf](http://www.cityofsantacruz.com/home/showdocument?id=59599)).
+
 The fair had a large room with several hundred labeled specimens from the Santa Cruz area, grouped by genus and/or tree they're associated with. I was impressed by the diversity of mushrooms found on a given couple days (all were fresh, and several had started disintegrating) in a given region.
 
-The specimen room also had an identification table staffed by several experts who could identify mushrooms brought in on the day of the fair. The authors of Mushrooms of the Redwood Coast were there, for example.
+The specimen room also had an identification table staffed by several experts who could identify mushrooms brought in on the day of the fair.
 
 The fair also had two tracks of speakers, main and "Mushrooms 101". I spent the day attending talks in the latter.
 
@@ -62,3 +64,7 @@ The last talk of the day was Alan Rockefeller's "Mushrooms of Mexico". Notes:
   5. Back at the lab, sequence DNA ($7 if you do it yourself) and upload to [GenBank](https://www.ncbi.nlm.nih.gov/genbank/), with the Mushroom Observer observation id
 * [Alan's photos are excellent](http://mushroomobserver.org/image/show_image/637360?q=CUWx) and his talk was full of imagery, humor, cultural awareness and scientific precision
 * He also raised awareness of a [ballot initiative (pdf) to legalize Psilocybe mushrooms in California](https://www.oag.ca.gov/system/files/initiatives/pdfs/17-0024%20%28Legalize%20Psilocybin%29_0.pdf). Increased tax revenue, decreased non-violent offenders in jail and recognition of an ancient relationship with a fungal partner. Shipit 🚢
+
+Aside from the talks, there were also several vendors selling clothes, food, kits, books, etc. I got donuts filled with Candy Cap cream and a [Porcini shirt from Robyn MacLean](https://www.etsy.com/listing/465018315/porcinibolete-t-shirt). Oh, and there was also a kids room filled with crafts!
+
+The fair promoted an atmosphere of curiosity, community, mutual support and unabashed appreciation of the natural world. Several of the speakers were committed citizen scientists. Inspirational.
