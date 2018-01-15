@@ -1,7 +1,7 @@
 ---
 title: "Santa Cruz Fungus Fair 2018 \U0001F344"
 layout: post
-date: 2018-01-15 13:25:54 -0800
+date: 2018-01-15 14:53:42 -0800
 tags:
 - mushroom
 - fungus
@@ -13,6 +13,8 @@ tags:
 - stewart-brand
 - place
 - los-trancos
+- inaturalist
+- mushroom-observer
 ---
 I attended the [Fungus Federation of Santa Cruz 2018 Fungus Fair](http://ffsc.us/fair) for the first time last weekend. I highly recommend it and plan to go again.
 
@@ -41,10 +43,22 @@ The second talk was "An Introduction to Mushroom Cultivation", presented by Just
   4. once the jar is filled with mycelium, use this "spawn" to inoculate "blocks" of sawdust, straw, etc for mushroom production
 * We can sterilize straw by soaking overnight in a bucket filled with water and hydrogen peroxide
 
-Douglas Smith spoke next about his experience studying terrestrial mushrooms in [Los Trancos open space preserve](https://www.openspace.org/preserves/los-trancos). Notes:
+Next, Douglas Smith presented "The Mushrooms of Los Trancos, A Local Open Space Area" about his experience studying terrestrial mushrooms in [Los Trancos open space preserve](https://www.openspace.org/preserves/los-trancos). Notes:
 
 * He initially wanted to survey all mushrooms in California, but realized there was so much diversity it'd be impossible, so he reduced his scope to just a single 2 x 3 mile park, which he's studied for 12 years and is still discovering new varieties.
 * He's performing an informal study, visiting the park 6-10 times per year. He takes a photograph and sample of each species on each visit, and plots observations over time. Some species he's seen only once. Others he sees on every trip. He's concerned climate and habitat change may negatively impact fungal diversity, but there are so many factors influencing a mushroom's appearance, it's difficult to discern patterns.
 * Hearing this talk reminded me of Stewart Brand's recommendation in Whole Earth Discipline to deeply understand the place we live
 
 The last talk of the day was Alan Rockefeller's "Mushrooms of Mexico". Notes:
+
+* He most recently spent three months in Mexico, which he says has the best mushroom hunting in the world. He described hunting all day, hunting bio-luminescent mushrooms by night, sleeping a few hours and then doing it all again! Many private land owners are open to him hunting on their land. Many mushrooms were previously identified with European names, but are often new species.
+* Many people in Mexico are still familiar with mushrooms and forage regularly. There's a long history of psilocybe use in ritual.
+* He said this talk would be posted to youtube. In the meantime, this seems to be the same talk from a few months ago: https://youtu.be/RcX93JZ7LXs
+* His standard reporting process:
+  1. Photograph and sample in the field
+  2. Back at the truck, put each sample in a bag w desicant (to prevent liquifaction and disintigration)
+  3. Back online, upload raw photos to [Mushroom Observer](http://mushroomobserver.org), which preserves full-size images, enables a community to collaboratively identify and generates a unique observer id that can be used to associate iNaturalist and GenBank records
+  4. Import observations into [iNaturalist](https://inaturalist.org) (which doesn't save full-size images) from Mushroom Observer to tap into a larger community
+  5. Back at the lab, sequence DNA ($7 if you do it yourself) and upload to [GenBank](https://www.ncbi.nlm.nih.gov/genbank/), with the Mushroom Observer observation id
+* [Alan's photos are excellent](http://mushroomobserver.org/image/show_image/637360?q=CUWx) and his talk was full of imagery, humor, cultural awareness and scientific precision
+* He also raised awareness of a [ballot initiative (pdf) to legalize Psilocybe mushrooms in California](https://www.oag.ca.gov/system/files/initiatives/pdfs/17-0024%20%28Legalize%20Psilocybin%29_0.pdf). Increased tax revenue, decreased non-violent offenders in jail and recognition of an ancient relationship with a fungal partner. Shipit 🚢
