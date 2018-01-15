@@ -10,6 +10,9 @@ tags:
 - foolproof-four
 - stropharia
 - far-west-fungi
+- stewart-brand
+- place
+- los-trancos
 ---
 I attended the [Fungus Federation of Santa Cruz 2018 Fungus Fair](http://ffsc.us/fair) for the first time last weekend. I highly recommend it and plan to go again.
 
@@ -41,5 +44,7 @@ The second talk was "An Introduction to Mushroom Cultivation", presented by Just
 Douglas Smith spoke next about his experience studying terrestrial mushrooms in [Los Trancos open space preserve](https://www.openspace.org/preserves/los-trancos). Notes:
 
 * He initially wanted to survey all mushrooms in California, but realized there was so much diversity it'd be impossible, so he reduced his scope to just a single 2 x 3 mile park, which he's studied for 12 years and is still discovering new varieties.
-* He's performing an informal study, visiting the park 6-10 times per year. He takes a photograph and sample of each species on each visit, and plots observations over time
-* Hearing this talk reminded me of 
+* He's performing an informal study, visiting the park 6-10 times per year. He takes a photograph and sample of each species on each visit, and plots observations over time. Some species he's seen only once. Others he sees on every trip. He's concerned climate and habitat change may negatively impact fungal diversity, but there are so many factors influencing a mushroom's appearance, it's difficult to discern patterns.
+* Hearing this talk reminded me of Stewart Brand's recommendation in Whole Earth Discipline to deeply understand the place we live
+
+The last talk of the day was Alan Rockefeller's "Mushrooms of Mexico". Notes:
