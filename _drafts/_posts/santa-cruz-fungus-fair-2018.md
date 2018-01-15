@@ -29,7 +29,7 @@ The second talk was "An Introduction to Mushroom Cultivation", presented by Just
 
 * FWF grows mushrooms on mixed hardwood sawdust, sourced from local furnature makers
 * FWF has open houses a couple times a year if you'd like to see commercial mushroom production. Visitors can take spent "blocks". (FWF effectively uses their ["mini farms"](http://www.farwestfungi.com/index.php/products/mushroom-mini-farms) for commercial production and discards them after two flushes.) We can also make an appointment to pick up blocks outside the open house schedule.
-* He inoculated a yard of cheap, dyed wood chips with [King Stropharia](https://www.inaturalist.org/taxa/119151-Stropharia-rugosoannulata) by simply tossing chunks of inoculated substrate into the dark before heading to work one night. The mushrooms loved whatever was in the yard, fruiting abundantly and sending mycelium into pots on the ground, which then fruited out the top. I was curious about growing King Stropharia outside, but have no experience, so this was reassuring.
+* He inoculated a yard of cheap, dyed wood chips with [King Stropharia](https://www.inaturalist.org/taxa/119151-Stropharia-rugosoannulata) by simply tossing chunks of inoculated substrate into the dark before heading to work one night. The mushrooms loved whatever was in the yard, fruiting abundantly and sending mycelium into pots on the ground, which then fruited out the top. I was curious about [growing King Stropharia outside](http://www.fungi.com/product-detail/product/the-king-stropharia-mushroom-patch.html), but have no experience, so this was reassuring.
 * We can buy most of what we need for culturing mushrooms from the local dollar store. Make a glove box from a plastic storage container. Use food storage containers made from #5 (tolerant of sterilization heat!) plastic for culturing containers. Agar is commonly used as a culturing medium, but mashed potatoes work too. Fabric medical tape over a hole melted with a hot nail can be used as functional "gas port" (mushrooms respire like us! Enable oxygen to enter and carbon dioxide to leave, but prevent contaminants from entering). A normal pressure cooker can be used for sterilization, but we just need to be careful of air rushing into the cooker when it's opened; Stamet's recommends placing a cloth soaked with alcohol over the vent.
 * Most parts of a mushroom can be used to clone the mushroom. Inside your glove box:
   1. carve a small piece of tissue from inside the cap of the mushroom you want to clone
@@ -40,4 +40,6 @@ The second talk was "An Introduction to Mushroom Cultivation", presented by Just
 
 Douglas Smith spoke next about his experience studying terrestrial mushrooms in [Los Trancos open space preserve](https://www.openspace.org/preserves/los-trancos). Notes:
 
-* 
+* He initially wanted to survey all mushrooms in California, but realized there was so much diversity it'd be impossible, so he reduced his scope to just a single 2 x 3 mile park, which he's studied for 12 years and is still discovering new varieties.
+* He's performing an informal study, visiting the park 6-10 times per year. He takes a photograph and sample of each species on each visit, and plots observations over time
+* Hearing this talk reminded me of 
