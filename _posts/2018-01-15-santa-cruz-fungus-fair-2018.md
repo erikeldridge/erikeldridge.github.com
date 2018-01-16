@@ -1,7 +1,7 @@
 ---
 title: "Santa Cruz Fungus Fair 2018 \U0001F344"
 layout: post
-date: 2018-01-15 14:53:42 -0800
+date: 2018-01-15 19:25:24 -0800
 tags:
 - mushroom
 - fungus
@@ -50,6 +50,7 @@ Next, Douglas Smith presented "The Mushrooms of Los Trancos, A Local Open Space 
 * He initially wanted to survey all mushrooms in California, but realized there was so much diversity it'd be impossible, so he reduced his scope to just a single 2 x 3 mile park, which he's studied for 12 years and is still discovering new varieties.
 * He's performing an informal study, visiting the park 6-10 times per year. He takes a photograph and sample of each species on each visit, and plots observations over time. Some species he's seen only once. Others he sees on every trip. He's concerned climate and habitat change may negatively impact fungal diversity, but there are so many factors influencing a mushroom's appearance, it's difficult to discern patterns.
 * Hearing this talk reminded me of Stewart Brand's recommendation in Whole Earth Discipline to deeply understand the place we live
+* Smith mentioned he had a permit to study off-trail in the preserve, that such permits aren't widely available, but there's some movement to create a "hunting" permit for mushrooms, like there is for fish and game
 
 The last talk of the day was Alan Rockefeller's "Mushrooms of Mexico". Notes:
 
