@@ -29,4 +29,4 @@ Here are the plants I've tried, organized by what's taken and what hasn't.
 
 | Latin name | Common name | Health |
 | --- | --- | --- |
-| [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | - | looks healthy, but hasn't flowered |
+| [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | California horkelia | looks healthy, but hasn't flowered |
