@@ -4,6 +4,8 @@ layout: post
 date: 2018-01-20 00:00:00 +0000
 tags:
 - permaculture
+- walnut
+- juglone
 ---
 A large black walnut tree lives in my yard.
 
@@ -27,4 +29,4 @@ Here are the plants I've tried, organized by what's taken and what hasn't.
 
 | Latin name | Common name | Health |
 | --- | --- | --- |
-| a | b | c |
+| [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | - | looks healthy, but hasn't flowered |
