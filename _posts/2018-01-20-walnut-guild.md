@@ -50,7 +50,7 @@ Here are the plants I've tried:
 | [Pittosporum tobira](https://www.inaturalist.org/taxa/78592-Pittosporum-tobira)| Mock orange | Low tree | 5 | 3 | Flowering and leaves look good |
 | [Prunus cerasifera](https://www.inaturalist.org/taxa/55837-Prunus-cerasifera) | Purple leaf ornamental plum | Low tree | 3 | 1 | I think this is a plum. The tree leaves regularly, but hasn't flowered and has dying branches. I suspect it was planted when the walnut was smaller and let more light through |
 | [Plantago subnuda](https://www.inaturalist.org/taxa/60223-Plantago-subnuda) | Tall coastal plantain | Herb | &nbsp; | 1 | New planting🤞 |
-| [Rudbeckia californica](https://www.inaturalist.org/taxa/78896-Rudbeckia-californica) | California coneflower | 5 | 1 | Planted in a pot (away from slugs) but in range of leaf fall |
+| [Rudbeckia californica](https://www.inaturalist.org/taxa/78896-Rudbeckia-californica) | California coneflower | Shrub | 5 | 1 | Planted in a pot (away from slugs) but in range of leaf fall |
 | [Stachys bullata](https://www.inaturalist.org/taxa/58930-Stachys-bullata) | Wood mint | Herb | | 1 | New planting🤞 |
 | [Symphyotrichum chilense](https://www.inaturalist.org/taxa/56861-Symphyotrichum-chilense) | California aster | Shrub | 4 | 3 | Leaves look good, slow growing |
 | [Taraxacum officinale](https://www.inaturalist.org/taxa/47602-Taraxacum-officinale) | Dandelion | Herb | 4 | 1 | Self-propagating. Leaves look good. If it flowers and spreads, I'll increase the health grade to 5 |
