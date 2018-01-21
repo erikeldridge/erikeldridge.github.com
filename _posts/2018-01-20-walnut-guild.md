@@ -37,21 +37,20 @@ Here are the plants I've tried:
 | Citrus tangerina | Tangerine tree | Low tree | 2 | 1 | The tree produces inedible fruit and its leaves are chlorotic and sparse :( I suspect it gets insufficient sun. There's a lemon tree in the front yard that looks great, for comparison |
 | [Claytonia sibirica](https://www.inaturalist.org/taxa/55767-Claytonia-sibirica) | Candy flower | Herb | 5 | 3 | Leaves and growth look good |
 | [Clinopodium douglasii](https://www.inaturalist.org/taxa/53203-Clinopodium-douglasii) | Yerba buena | Ground | 4 | 1 | Leaves look good, but growth is slow |
-| [Festuca californica](https://www.inaturalist.org/taxa/57169-Festuca-californica)  | California fescue | Ground | | 1 | New planting🤞|
+| [Festuca californica](https://www.inaturalist.org/taxa/57169-Festuca-californica)  | California fescue | Ground |  | 1 | New planting🤞|
 | [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | 3 | 1 | Spreading and leaves look good, but not flowering. Suspect more sun needed |
 | [Heracleum maximum](https://www.inaturalist.org/taxa/53094-Heracleum-maximum) | Cow parsnip | Shrub | 2 | 1 | Under dripline. Planted two and both died back, but one returned. Leaves ok so far |
 | [Holodiscus discolor](https://www.inaturalist.org/taxa/53414-Holodiscus-discolor) | Cream bush | Shrub | 4 | 1 | Leaves look good, but slow growing | 
 | [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | California horkelia | Ground | 4 | 1 | Hasn't flowered or spread. Suspect more sun needed |
 | [Iris douglasiana](https://www.inaturalist.org/taxa/50854-Iris-douglasiana) | Douglas Iris | Shrub | 4 | 1 | Planted two. One died. The other's leaves look good, but it hasn't flowered. There's another iris nearby that's flowering, for comparison |
-| [Lupinus arboreus](https://www.inaturalist.org/taxa/61010-Lupinus-arboreus) | Yellow bush lupine | Shrub | | 1 | New planting in a relatively sunny spot🤞 Gaia's Garden mentions nitrogen fixers are generally juglone-tolerant |
+| [Lupinus arboreus](https://www.inaturalist.org/taxa/61010-Lupinus-arboreus) | Yellow bush lupine | Shrub |  | 1 | New planting in a relatively sunny spot🤞 Gaia's Garden mentions nitrogen fixers are generally juglone-tolerant |
 | | Spreading lupine | Shrub | | 1 | As above |
 | [Nandina domestica](https://www.inaturalist.org/taxa/127010-Nandina-domestica) | Heavenly bamboo | Shrub | 4 | 2 | Here when I moved in. |
 | [Oxalis pes-caprae](https://www.inaturalist.org/taxa/53169-Oxalis-pes-caprae) | Sourgrass | Herb | 5 | 1 | Under dripline. It's invasive, but in the spirit of permaculture I'm trying to learn from it. Makes me want to try a [native oxalis](https://www.inaturalist.org/taxa/78298-Oxalis-californica) |
 | [Pittosporum tobira](https://www.inaturalist.org/taxa/78592-Pittosporum-tobira)| Mock orange | Low tree | 5 | 3 | Flowering and leaves look good |
 | Prunus | Purple leaf ornamental plum | Low tree | 3 | 1 | I think this is a plum. The tree leaves regularly, but hasn't flowered and has dying branches. I suspect it was planted when the walnut was smaller and let more light through |
-| [Plantago subnuda](https://www.inaturalist.org/taxa/60223-Plantago-subnuda) |
-Tall coastal plantain | Herb | | 1 | New planting🤞 |
-| [Stachys bullata](https://www.inaturalist.org/taxa/58930-Stachys-bullata) | Wood mint | Herb | | 1 | New planting🤞 |
+| [Plantago subnuda](https://www.inaturalist.org/taxa/60223-Plantago-subnuda) | Tall coastal plantain | Herb |  | 1 | New planting🤞 |
+| [Stachys bullata](https://www.inaturalist.org/taxa/58930-Stachys-bullata) | Wood mint | Herb |  | 1 | New planting🤞 |
 | [Symphyotrichum chilense](https://www.inaturalist.org/taxa/56861-Symphyotrichum-chilense) | California aster | Shrub | 4 | 3 | Leaves look good, slow growing |
 | [Taraxacum officinale](https://www.inaturalist.org/taxa/47602-Taraxacum-officinale) | Dandelion | Herb | 4 | 1 | Self-propagating. Leaves look good. If it flowers and spreads, I'll increase the health grade to 5 |
 
