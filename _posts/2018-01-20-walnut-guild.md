@@ -30,6 +30,8 @@ Here are the plants I've tried:
 | Latin name | Common name | Layer | Notes |
 | --- | --- | --- | --- |
 | [Achillea millefolium californica](https://www.inaturalist.org/taxa/239065-Achillea-millefolium-californica) | California yarrow | Herb | Thin. Not thriving. Suspect more sun needed, but one in the front yard in shade is fuller |
+| [Brugmansia arborea](https://www.inaturalist.org/taxa/126914-Brugmansia-arborea) | Trumpet flower | Low tree | Here when I moved in. Thin, but flowering |
 | [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | Leaves look good. Spreading. Suspect more sun needed |
 | [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | California horkelia | Ground | Looks healthy, but not thriving, ie hasn't flowered or spread. Suspect more sun needed |
-| [Oxalis pes-caprae](https://www.inaturalist.org/taxa/53169-Oxalis-pes-caprae) | Sourgrass | Herb | Thriving. Makes me want to try a [native oxalis](https://www.inaturalist.org/taxa/78298-Oxalis-californica) |
+| [Nandina domestica](https://www.inaturalist.org/taxa/127010-Nandina-domestica) | Heavenly bamboo | Shrub | Here when I moved in. Seems to be doing fine. |
+| [Oxalis pes-caprae](https://www.inaturalist.org/taxa/53169-Oxalis-pes-caprae) | Sourgrass | Herb | Thriving. It's invasive, but in the spirit of permaculture I'm trying to learn from it. Makes me want to try a [native oxalis](https://www.inaturalist.org/taxa/78298-Oxalis-californica) |
