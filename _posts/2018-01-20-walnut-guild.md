@@ -28,7 +28,7 @@ So, the challenge is: build a juglone-, drought- and shade-tolerant California n
 Here are the plants I've tried:
 
 | Latin name | Common name | Layer | Health (5 = Thriving) | Notes |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | [Achillea millefolium californica](https://www.inaturalist.org/taxa/239065-Achillea-millefolium-californica) | California yarrow | Herb | 3 | Suspect more sun needed, but one in the front yard in shade is fuller |
 | [Allium triquetrum](https://www.inaturalist.org/taxa/55505-Allium-triquetrum) | Three-cornered leek | Herb | 5 | Self-propagating |
 | [Aquilegia eximia](https://www.inaturalist.org/taxa/57230-Aquilegia-eximia) | Serpentine columbine | Shrub | 1 | The columbine's health steadily declined after planting, dropping leaves and never flowering. |
