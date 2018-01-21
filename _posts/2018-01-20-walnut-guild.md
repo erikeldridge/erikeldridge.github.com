@@ -1,7 +1,7 @@
 ---
 title: "Walnut Guild \U0001F333"
 layout: post
-date: 2018-01-20 21:46:03 -0800
+date: 2018-01-20 22:04:15 -0800
 tags:
 - permaculture
 - walnut
@@ -32,7 +32,9 @@ Here are the plants I've tried:
 | [Achillea millefolium californica](https://www.inaturalist.org/taxa/239065-Achillea-millefolium-californica) | California yarrow | Herb | 3 | 1 | Suspect more sun needed, but one in the front yard in shade is fuller |
 | [Allium triquetrum](https://www.inaturalist.org/taxa/55505-Allium-triquetrum) | Three-cornered leek | Herb | 5 | 1 | Self-propagating |
 | [Aquilegia eximia](https://www.inaturalist.org/taxa/57230-Aquilegia-eximia) | Serpentine columbine | Shrub | 1 | 1 | The columbine's health steadily declined after planting, dropping leaves and never flowering. |
+| [Asarum caudatum](https://www.inaturalist.org/taxa/52858-Asarum-caudatum) | Western wild ginger | Root | 4 | 3 | Leaves look good, but growth is slow and it hasn't flowered. I suspect it needs more water |
 | [Brugmansia arborea](https://www.inaturalist.org/taxa/126914-Brugmansia-arborea) | Trumpet flower | Low tree | 4 | 2 | Flowering and leaves look good. Suspect more sun needed |
+| [Claytonia sibirica](https://www.inaturalist.org/taxa/55767-Claytonia-sibirica) | Candy flower | Herb | 5 | 3 | Leaves and growth look good |
 | [Clinopodium douglasii](https://www.inaturalist.org/taxa/53203-Clinopodium-douglasii) | Yerba buena | Ground | 4 | 1 | Leaves look good, but growth is slow |
 | [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | 3 | 1 | Spreading and leaves look good, but not flowering. Suspect more sun needed |
 | [Heracleum maximum](https://www.inaturalist.org/taxa/53094-Heracleum-maximum) | Cow parsnip | Shrub | 2 | 1 | Under dripline. Planted two and both died back, but one returned. Leaves ok so far |
@@ -42,7 +44,8 @@ Here are the plants I've tried:
 | [Nandina domestica](https://www.inaturalist.org/taxa/127010-Nandina-domestica) | Heavenly bamboo | Shrub | 4 | 2 | Here when I moved in. |
 | [Oxalis pes-caprae](https://www.inaturalist.org/taxa/53169-Oxalis-pes-caprae) | Sourgrass | Herb | 5 | 1 | Under dripline. It's invasive, but in the spirit of permaculture I'm trying to learn from it. Makes me want to try a [native oxalis](https://www.inaturalist.org/taxa/78298-Oxalis-californica) |
 | [Pittosporum tobira](https://www.inaturalist.org/taxa/78592-Pittosporum-tobira)| Mock orange | Low tree | 5 | 3 | Flowering and leaves look good |
-| [Symphyotrichum chilense](https://www.inaturalist.org/taxa/56861-Symphyotrichum-chilense) | California aster | 4 | 3 | Leaves look good, slow growing |
+| [Symphyotrichum chilense](https://www.inaturalist.org/taxa/56861-Symphyotrichum-chilense) | California aster | Shrub | 4 | 3 | Leaves look good, slow growing |
+| [Taraxacum officinale](https://www.inaturalist.org/taxa/47602-Taraxacum-officinale) | Dandelion | Herb | 4 | 1 | Self-propagating. Leaves look good. If it flowers and spreads, I'll increase the health grade to 5 |
 
 \* Health: 1-5, 5 = thriving
 \*\* Proximity: 1-3, 1 = inside dripline
