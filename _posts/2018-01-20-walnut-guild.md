@@ -36,6 +36,7 @@ Here are the plants I've tried:
 | [Clinopodium douglasii](https://www.inaturalist.org/taxa/53203-Clinopodium-douglasii) | Yerba buena | Ground | 4 | 1 | Leaves look good, but growth is slow |
 | [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | 3 | 1 | Spreading and leaves look good, but not flowering. Suspect more sun needed |
 | [Heracleum maximum](https://www.inaturalist.org/taxa/53094-Heracleum-maximum) | Cow parsnip | Shrub | 2 | 1 | Under dripline. Planted two and both died back, but one returned. Leaves ok so far |
+| [Holodiscus discolor](https://www.inaturalist.org/taxa/53414-Holodiscus-discolor) | Cream bush | Shrub | 4 | 1 | Leaves look good, but slow growing | 
 | [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | California horkelia | Ground | 4 | 1 | Hasn't flowered or spread. Suspect more sun needed |
 | [Iris douglasiana](https://www.inaturalist.org/taxa/50854-Iris-douglasiana) | Douglas Iris | Shrub | 4 | 1 | Planted two. One died. The other's leaves look good, but it hasn't flowered. There's another iris nearby that's flowering, for comparison |
 | [Nandina domestica](https://www.inaturalist.org/taxa/127010-Nandina-domestica) | Heavenly bamboo | Shrub | 4 | 2 | Here when I moved in. |
