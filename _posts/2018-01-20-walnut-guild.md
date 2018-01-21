@@ -33,7 +33,7 @@ Here are the plants I've tried:
 | [Allium triquetrum](https://www.inaturalist.org/taxa/55505-Allium-triquetrum) | Three-cornered leek | Herb | Good. Self-propagating |
 | [Aquilegia eximia](https://www.inaturalist.org/taxa/57230-Aquilegia-eximia) | Serpentine columbine | Shrub | Bad. The columbine's health steadily declined after planting, dropping leaves and never flowering. |
 | [Brugmansia arborea](https://www.inaturalist.org/taxa/126914-Brugmansia-arborea) | Trumpet flower | Low tree | Here when I moved in. Ok. Flowering and leaves look good. Suspect more sun needed |
-| [Clinopodium douglasii](https://www.inaturalist.org/taxa/53203-Clinopodium-douglasii) | Yerba buena | Ok. | Leaves look good, but growth is slow |
+| [Clinopodium douglasii](https://www.inaturalist.org/taxa/53203-Clinopodium-douglasii) | Yerba buena | Ground | Leaves look good, but growth is slow |
 | [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | Ok. Spreading and leaves look good, but not flowering. Suspect more sun needed |
 | [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | California horkelia | Ground | Ok, ie hasn't flowered or spread. Suspect more sun needed |
 | [Nandina domestica](https://www.inaturalist.org/taxa/127010-Nandina-domestica) | Heavenly bamboo | Shrub | Ok. Here when I moved in. |
