@@ -34,6 +34,7 @@ Here are the plants I've tried:
 | [Aquilegia eximia](https://www.inaturalist.org/taxa/57230-Aquilegia-eximia) | Serpentine columbine | Shrub | 1 | 1 | The columbine's health steadily declined after planting, dropping leaves and never flowering. |
 | [Asarum caudatum](https://www.inaturalist.org/taxa/52858-Asarum-caudatum) | Western wild ginger | Root | 4 | 3 | Leaves look good, but growth is slow and it hasn't flowered. I suspect it needs more water |
 | [Brugmansia arborea](https://www.inaturalist.org/taxa/126914-Brugmansia-arborea) | Trumpet flower | Low tree | 4 | 2 | Flowering and leaves look good. Suspect more sun needed |
+| [Callistemon rigidus](https://www.inaturalist.org/taxa/146916-Callistemon-rigidus) | Bottlebrush tree | Low tree | 5 | 3 | Flowers profusely year-round |
 | Citrus tangerina | Tangerine tree | Low tree | 2 | 1 | The tree produces inedible fruit and its leaves are chlorotic and sparse :( I suspect it gets insufficient sun. There's a lemon tree in the front yard that looks great, for comparison |
 | [Camellia japonica](https://www.inaturalist.org/taxa/83056-Camellia-japonica) | Camelia | Low tree | 1 & 5 | 3 | Two camellias on the property outside dripline. One in good health, but one suddenly whithered. Suspecting gophers although they left the other alone. |
 | [Claytonia sibirica](https://www.inaturalist.org/taxa/55767-Claytonia-sibirica) | Candy flower | Herb | 5 | 3 | Leaves and growth look good |
