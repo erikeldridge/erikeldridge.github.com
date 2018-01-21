@@ -1,7 +1,7 @@
 ---
 title: "Walnut Guild \U0001F333"
 layout: post
-date: 2018-01-20 20:59:02 -0800
+date: 2018-01-20 21:10:28 -0800
 tags:
 - permaculture
 - walnut
@@ -35,6 +35,7 @@ Here are the plants I've tried:
 | [Brugmansia arborea](https://www.inaturalist.org/taxa/126914-Brugmansia-arborea) | Trumpet flower | Low tree | Here when I moved in. Ok. Flowering and leaves look good. Suspect more sun needed |
 | [Clinopodium douglasii](https://www.inaturalist.org/taxa/53203-Clinopodium-douglasii) | Yerba buena | Ground | Leaves look good, but growth is slow |
 | [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | Ok. Spreading and leaves look good, but not flowering. Suspect more sun needed |
+| [Heracleum maximum](https://www.inaturalist.org/taxa/53094-Heracleum-maximum) | Cow parsnip | Shrub | Ok. Under dripline. Planted two and both died back, but one returned. Leaves ok so far |
 | [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | California horkelia | Ground | Ok, ie hasn't flowered or spread. Suspect more sun needed |
 | [Nandina domestica](https://www.inaturalist.org/taxa/127010-Nandina-domestica) | Heavenly bamboo | Shrub | Ok. Here when I moved in. |
 | [Pittosporum tobira](https://www.inaturalist.org/taxa/78592-Pittosporum-tobira)| Mock orange | Low tree | Good. Flowering and leaves look good |
