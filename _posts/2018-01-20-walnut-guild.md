@@ -1,7 +1,7 @@
 ---
 title: "Walnut Guild \U0001F333"
 layout: post
-date: 2018-01-21 00:16:26 -0800
+date: 2018-01-21 00:44:05 -0800
 tags:
 - permaculture
 - walnut
@@ -35,6 +35,7 @@ Here are the plants I've tried:
 | [Asarum caudatum](https://www.inaturalist.org/taxa/52858-Asarum-caudatum) | Western wild ginger | Root | 4 | 3 | Leaves look good, but growth is slow and it hasn't flowered. I suspect it needs more water |
 | [Brugmansia arborea](https://www.inaturalist.org/taxa/126914-Brugmansia-arborea) | Trumpet flower | Low tree | 4 | 2 | Flowering and leaves look good. Suspect more sun needed |
 | Citrus tangerina | Tangerine tree | Low tree | 2 | 1 | The tree produces inedible fruit and its leaves are chlorotic and sparse :( I suspect it gets insufficient sun. There's a lemon tree in the front yard that looks great, for comparison |
+| [Camellia japonica](https://www.inaturalist.org/taxa/83056-Camellia-japonica) | Camelia | Low tree | 1 & 5 | 3 | Two camellias on the property outside dripline. One in good health, but one suddenly whithered. Suspecting gophers although they left the other alone. |
 | [Claytonia sibirica](https://www.inaturalist.org/taxa/55767-Claytonia-sibirica) | Candy flower | Herb | 5 | 3 | Leaves and growth look good |
 | [Clinopodium douglasii](https://www.inaturalist.org/taxa/53203-Clinopodium-douglasii) | Yerba buena | Ground | 4 | 1 | Leaves look good, but growth is slow |
 | [Festuca californica](https://www.inaturalist.org/taxa/57169-Festuca-californica)  | California fescue | Ground | | 1 | New planting🤞|
@@ -43,6 +44,7 @@ Here are the plants I've tried:
 | [Heracleum maximum](https://www.inaturalist.org/taxa/53094-Heracleum-maximum) | Cow parsnip | Shrub | 2 | 1 | Under dripline. Planted two and both died back, but one returned. Leaves ok so far |
 | [Holodiscus discolor](https://www.inaturalist.org/taxa/53414-Holodiscus-discolor) | Cream bush | Shrub | 4 | 1 | Leaves look good, but slow growing | 
 | [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | California horkelia | Ground | 4 | 1 | Hasn't flowered or spread. Suspect more sun needed |
+| [Hydrangea macrophylla](https://www.inaturalist.org/taxa/122034-Hydrangea-macrophylla) | Hydrangea | Shrub | 1 | 3 | A tall shrub growing in shade when I moved in. Declining health perhaps due to low water or sun |
 | [Iris douglasiana](https://www.inaturalist.org/taxa/50854-Iris-douglasiana) | Douglas Iris | Shrub | 4 | 1 | Planted two. One died. The other's leaves look good, but it hasn't flowered. There's another iris nearby that's flowering, for comparison |
 | [Lupinus arboreus](https://www.inaturalist.org/taxa/61010-Lupinus-arboreus) | Yellow bush lupine | Shrub | | 1 | New planting in a relatively sunny spot🤞 I read somewhere nitrogen fixers are generally juglone-tolerant |
 | [Lupinus variicolor](https://www.inaturalist.org/taxa/61018-Lupinus-variicolor) | Varied lupine | Shrub | | 1 | As above |
