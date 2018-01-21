@@ -1,7 +1,7 @@
 ---
 title: "Walnut Guild \U0001F333"
 layout: post
-date: 2018-01-20 21:34:20 -0800
+date: 2018-01-20 21:46:03 -0800
 tags:
 - permaculture
 - walnut
@@ -40,8 +40,9 @@ Here are the plants I've tried:
 | [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | California horkelia | Ground | 4 | 1 | Hasn't flowered or spread. Suspect more sun needed |
 | [Iris douglasiana](https://www.inaturalist.org/taxa/50854-Iris-douglasiana) | Douglas Iris | Shrub | 4 | 1 | Planted two. One died. The other's leaves look good, but it hasn't flowered. There's another iris nearby that's flowering, for comparison |
 | [Nandina domestica](https://www.inaturalist.org/taxa/127010-Nandina-domestica) | Heavenly bamboo | Shrub | 4 | 2 | Here when I moved in. |
-| [Pittosporum tobira](https://www.inaturalist.org/taxa/78592-Pittosporum-tobira)| Mock orange | Low tree | 5 | 3 | Flowering and leaves look good |
 | [Oxalis pes-caprae](https://www.inaturalist.org/taxa/53169-Oxalis-pes-caprae) | Sourgrass | Herb | 5 | 1 | Under dripline. It's invasive, but in the spirit of permaculture I'm trying to learn from it. Makes me want to try a [native oxalis](https://www.inaturalist.org/taxa/78298-Oxalis-californica) |
+| [Pittosporum tobira](https://www.inaturalist.org/taxa/78592-Pittosporum-tobira)| Mock orange | Low tree | 5 | 3 | Flowering and leaves look good |
+| [Symphyotrichum chilense](https://www.inaturalist.org/taxa/56861-Symphyotrichum-chilense) | California aster | 4 | 3 | Leaves look good, slow growing |
 
 \* Health: 1-5, 5 = thriving
 \*\* Proximity: 1-3, 1 = inside dripline
