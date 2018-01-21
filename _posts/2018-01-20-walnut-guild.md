@@ -1,7 +1,7 @@
 ---
 title: "Walnut Guild \U0001F333"
 layout: post
-date: 2018-01-20 23:20:45 -0800
+date: 2018-01-21 00:16:26 -0800
 tags:
 - permaculture
 - walnut
@@ -45,6 +45,8 @@ Here are the plants I've tried:
 | [Iris douglasiana](https://www.inaturalist.org/taxa/50854-Iris-douglasiana) | Douglas Iris | Shrub | 4 | 1 | Planted two. One died. The other's leaves look good, but it hasn't flowered. There's another iris nearby that's flowering, for comparison |
 | [Lupinus arboreus](https://www.inaturalist.org/taxa/61010-Lupinus-arboreus) | Yellow bush lupine | Shrub | | 1 | New planting in a relatively sunny spot🤞 I read somewhere nitrogen fixers are generally juglone-tolerant |
 | [Lupinus variicolor](https://www.inaturalist.org/taxa/61018-Lupinus-variicolor) | Varied lupine | Shrub | | 1 | As above |
+| [Mimulus aurantiacus](https://www.inaturalist.org/taxa/48858-Mimulus-aurantiacus) | Bush monkeyflower | Shrub | 4 | 3 | Planted in shade. Leaves and growth look good, but waiting for flowers |
+| [Mimulus aurantiacus](https://www.inaturalist.org/taxa/48858-Mimulus-aurantiacus) | Bush monkeyflower var ? | Shrub | 4 | 1 | A lower, spreading mimulus planted in shade. Leaves and growth look good, but waiting for flowers |
 | [Nandina domestica](https://www.inaturalist.org/taxa/127010-Nandina-domestica) | Heavenly bamboo | Shrub | 4 | 2 | Here when I moved in. |
 | [Oxalis pes-caprae](https://www.inaturalist.org/taxa/53169-Oxalis-pes-caprae) | Sourgrass | Herb | 5 | 1 | Under dripline. It's invasive, but in the spirit of permaculture I'm trying to learn from it. Makes me want to try a [native oxalis](https://www.inaturalist.org/taxa/78298-Oxalis-californica) |
 | [Pittosporum tobira](https://www.inaturalist.org/taxa/78592-Pittosporum-tobira)| Mock orange | Low tree | 5 | 3 | Flowering and leaves look good |
