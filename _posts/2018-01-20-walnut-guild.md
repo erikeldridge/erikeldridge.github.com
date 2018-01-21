@@ -7,11 +7,11 @@ tags:
 - walnut
 - juglone
 ---
-A large black walnut tree lives in my yard.
+A large black walnut tree lives in the back yard.
 
 I would like to find California native companion plants for it, but have had a difficult time.
 
-Something about the soil made me think it was poor. It was clay to begin with, but also full of gravel, construction debris and covered by barrier plastic and rocks in many places. Few things grow well.
+Something about the soil made me think it's poor. It was clay to begin with, but also full of gravel, construction debris and covered by barrier plastic and pea gravel, pavers and bricks in many places. Few things grow well.
 
 The walnut and neighboring buildings cast the yard in shade. California is frequently in drought, so it's dry. I've recently learned walnuts are [allelopathic](https://en.wikipedia.org/wiki/Allelopathy).
 
@@ -25,8 +25,10 @@ Paul Stamets, a hero, is also a fan of permaculture and proposes a [Stametsian M
 
 So, the challenge is: build a juglone-, drought- and shade-tolerant California native guild around the walnut.
 
-Here are the plants I've tried, organized by what's taken and what hasn't.
+Here are the plants I've tried:
 
-| Latin name | Common name | Health |
-| --- | --- | --- |
-| [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | California horkelia | looks healthy, but hasn't flowered |
+| Latin name | Common name | Layer | Notes |
+| --- | --- | --- | --- |
+| [Achillea millefolium californica](https://www.inaturalist.org/taxa/239065-Achillea-millefolium-californica) | California yarrow | Herb | Thin. Not thriving. Suspect more sun needed, but one in the front yard in shade is fuller |
+| [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | Leaves look good. Spreading. Suspect more sun needed |
+| [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | California horkelia | Ground | Looks healthy, but not thriving, ie hasn't flowered or spread. Suspect more sun needed |
