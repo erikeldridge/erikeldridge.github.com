@@ -1,7 +1,7 @@
 ---
 title: "Walnut Guild \U0001F333"
 layout: post
-date: 2018-01-21 20:19:18 -0800
+date: 2018-01-21 20:22:17 -0800
 tags:
 - permaculture
 - walnut
@@ -56,7 +56,7 @@ Here are the plants I've tried:
 | [Lupinus variicolor](https://www.inaturalist.org/taxa/61018-Lupinus-variicolor) | Varied lupine | Shrub |  | 1 | 4 | 1 | As above |
 | [Mimulus aurantiacus](https://www.inaturalist.org/taxa/48858-Mimulus-aurantiacus) | Bush monkeyflower | Shrub | 4 | 3 | 2 | 1 | Planted in shade. Leaves and growth look good, but waiting for flowers |
 | [Mimulus aurantiacus](https://www.inaturalist.org/taxa/48858-Mimulus-aurantiacus) | Bush monkeyflower var ? | Shrub | 4 | 1 | 3 | 1 | A lower, spreading mimulus. Leaves and growth look good, but waiting for flowers |
-| [Nandina domestica](https://www.inaturalist.org/taxa/127010-Nandina-domestica) | Heavenly bamboo | Shrub | 4 | 2 | 3-4 | 1 | Leaves look healthy. |
+| [Nandina domestica](https://www.inaturalist.org/taxa/127010-Nandina-domestica) | Heavenly bamboo | Shrub | 5 | 2 | 3-4 | 1 | Leaves look healthy. |
 | [Oxalis pes-caprae](https://www.inaturalist.org/taxa/53169-Oxalis-pes-caprae) | Sourgrass | Herb | 5 | 1 | 2-4 | 1-2 | Under dripline. It's invasive, but in the spirit of permaculture I'm trying to learn from it. Makes me want to try a native oxalis |
 | [Pittosporum tobira](https://www.inaturalist.org/taxa/78592-Pittosporum-tobira) | Mock orange | Low tree | 5 | 3 | 5 | 1 | Flowering and leaves look good |
 | [Prunus cerasifera](https://www.inaturalist.org/taxa/55837-Prunus-cerasifera) | Purple leaf ornamental plum | Low tree | 3 | 1 | 3 | 1 | I think this is a plum. The tree leaves regularly, but hasn't flowered and has dying branches. I suspect it was planted when the walnut was smaller and let more light through |
