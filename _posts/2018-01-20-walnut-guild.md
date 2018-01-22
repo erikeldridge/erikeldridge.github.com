@@ -1,7 +1,7 @@
 ---
 title: "Walnut Guild \U0001F333"
 layout: post
-date: 2018-01-21 19:20:14 -0800
+date: 2018-01-21 20:19:18 -0800
 tags:
 - permaculture
 - walnut
@@ -33,6 +33,7 @@ Here are the plants I've tried:
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Achillea millefolium californica](https://www.inaturalist.org/taxa/239065-Achillea-millefolium-californica) | California yarrow | Herb | 3 | 1 | 4 | 1 | Suspect more sun needed, but one in the front yard in shade is fuller |
 | [Allium triquetrum](https://www.inaturalist.org/taxa/55505-Allium-triquetrum) | Three-cornered leek | Herb | 5 | 1 | 2-4 | 1 | Self-propagating |
+| [Agapanthus praecox orientalis](https://www.inaturalist.org/taxa/57838-Agapanthus-praecox-orientalis) | Lilly of the Nile | Shrub | 2 | 1 | 3 | 1 | This was doing well, but then started yellowing. Agapanthus is prolific in the front yard in shade, for comparison |
 | [Aquilegia eximia](https://www.inaturalist.org/taxa/57230-Aquilegia-eximia) | Serpentine columbine | Shrub | 1 | 1 | 2 | 2 | The columbine's health steadily declined after planting, dropping leaves and never flowering. |
 | [Artemisia douglasiana](https://www.inaturalist.org/taxa/52854-Artemisia-douglasiana) | California Mugwort | Herb | 2 | 2 | 4 | 1 | Leaves look good, but growth is slow. Suspecting it needs more water |
 | [Asarum caudatum](https://www.inaturalist.org/taxa/52858-Asarum-caudatum) | Western wild ginger | Root | 4 | 3 | 2 | 2 | Leaves look good, but growth is slow and it hasn't flowered. I suspect it needs more water |
@@ -42,6 +43,7 @@ Here are the plants I've tried:
 | [Camellia japonica](https://www.inaturalist.org/taxa/83056-Camellia-japonica) | Camelia | Low tree | 1 & 5 | 3 | 2-3 | 2 | Two camellias on the property outside dripline. One in good health, but one suddenly whithered. Suspecting gophers although they left the other alone. |
 | [Claytonia sibirica](https://www.inaturalist.org/taxa/55767-Claytonia-sibirica) | Candy flower | Herb | 5 | 3 | 2 | 2 | Leaves and growth look good |
 | [Clinopodium douglasii](https://www.inaturalist.org/taxa/53203-Clinopodium-douglasii) | Yerba buena | Ground | 4 | 1 | 2 | 2 | Leaves look good, but growth is slow |
+| [Dietes iridioides](https://www.inaturalist.org/taxa/129407-Dietes-iridioides) | African iris | Shrub | 5 | 1 | 3 | 1 | Flowers and seeds readily |
 | [Festuca californica](https://www.inaturalist.org/taxa/57169-Festuca-californica)  | California fescue | Ground |  | 1 | 2 | 1 | New planting🤞 |
 | [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | 3 | 1 | 3 | 1 | Spreading and leaves look good, but not flowering. Suspect more sun needed |
 | [Hedera helix](https://www.inaturalist.org/taxa/55882-Hedera-helix) | English ivy | Vine | 5 | 2 | 3 | 1 | Well-established when I moved in. Grows vigorously on wall at dripline. Less vigorously inside dripline |
