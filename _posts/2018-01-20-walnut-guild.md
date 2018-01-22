@@ -1,7 +1,7 @@
 ---
 title: "Walnut Guild \U0001F333"
 layout: post
-date: 2018-01-21 18:45:26 -0800
+date: 2018-01-21 19:20:14 -0800
 tags:
 - permaculture
 - walnut
@@ -31,12 +31,12 @@ Here are the plants I've tried:
 
 | Latin name | Common name | Layer | Health\* | Proximity\* | Sun\* | Water\* | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Achillea millefolium californica | California yarrow | Herb | 3 | 1 | 4 | 1 | Suspect more sun needed, but one in the front yard in shade is fuller |
-| Allium triquetrum | Three-cornered leek | Herb | 5 | 1 | 2-4 | 1 | Self-propagating |
-| Aquilegia eximia | Serpentine columbine | Shrub | 1 | 1 | 2 | 2 | The columbine's health steadily declined after planting, dropping leaves and never flowering. |
-| Asarum caudatum | Western wild ginger | Root | 4 | 3 | 2 | 2 | Leaves look good, but growth is slow and it hasn't flowered. I suspect it needs more water |
-| Brugmansia arborea | Trumpet flower | Low tree | 4 | 2 | 4 | 1 | Flowering and leaves look good. Suspect more sun needed |
-| Callistemon rigidus | Bottlebrush tree | Low tree | 5 | 3 | 4 | 1 | Flowers profusely year-round |
+| [Achillea millefolium californica](https://www.inaturalist.org/taxa/239065-Achillea-millefolium-californica) | California yarrow | Herb | 3 | 1 | 4 | 1 | Suspect more sun needed, but one in the front yard in shade is fuller |
+| [Allium triquetrum](https://www.inaturalist.org/taxa/55505-Allium-triquetrum) | Three-cornered leek | Herb | 5 | 1 | 2-4 | 1 | Self-propagating |
+| [Aquilegia eximia](https://www.inaturalist.org/taxa/57230-Aquilegia-eximia) | Serpentine columbine | Shrub | 1 | 1 | 2 | 2 | The columbine's health steadily declined after planting, dropping leaves and never flowering. |
+| [Asarum caudatum](https://www.inaturalist.org/taxa/52858-Asarum-caudatum) | Western wild ginger | Root | 4 | 3 | 2 | 2 | Leaves look good, but growth is slow and it hasn't flowered. I suspect it needs more water |
+| [Brugmansia arborea](https://www.inaturalist.org/taxa/126914-Brugmansia-arborea) | Trumpet flower | Low tree | 4 | 2 | 4 | 1 | Flowering and leaves look good. Suspect more sun needed |
+| [Callistemon rigidus](https://www.inaturalist.org/taxa/146916-Callistemon-rigidus) | Bottlebrush tree | Low tree | 5 | 3 | 4 | 1 | Flowers profusely year-round |
 | Citrus tangerina | Tangerine tree | Low tree | 2 | 1 | 3 | 1 | The tree produces inedible fruit and its leaves are chlorotic and sparse :( I suspect it gets insufficient sun. There's a lemon tree in the front yard that looks great, for comparison |
 | Camellia japonica | Camelia | Low tree | 1 & 5 | 3 | 2-3 | 2 | Two camellias on the property outside dripline. One in good health, but one suddenly whithered. Suspecting gophers although they left the other alone. |
 | Claytonia sibirica | Candy flower | Herb | 5 | 3 | 2 | 2 | Leaves and growth look good |
@@ -63,7 +63,7 @@ Here are the plants I've tried:
 | Symphyotrichum chilense | California aster | Shrub | 4 | 3 | 3 | 1 | Leaves look good, slow growing |
 | Taraxacum officinale | Dandelion | Herb | 4 | 1 | 3 | 1 | Self-propagating. Leaves look good. If it flowers and spreads, I'll increase the health grade to 5 |
 
-\* Nmeric ranges:
+\* Numeric ranges:
 
 * Health: 1-5, 5 = thriving
 * Proximity: 1-3, 1 = planted inside dripline of walnut
