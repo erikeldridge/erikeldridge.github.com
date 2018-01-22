@@ -38,12 +38,12 @@ Here are the plants I've tried:
 | [Brugmansia arborea](https://www.inaturalist.org/taxa/126914-Brugmansia-arborea) | Trumpet flower | Low tree | 4 | 2 | 4 | 1 | Flowering and leaves look good. Suspect more sun needed |
 | [Callistemon rigidus](https://www.inaturalist.org/taxa/146916-Callistemon-rigidus) | Bottlebrush tree | Low tree | 5 | 3 | 4 | 1 | Flowers profusely year-round |
 | Citrus tangerina | Tangerine tree | Low tree | 2 | 1 | 3 | 1 | The tree produces inedible fruit and its leaves are chlorotic and sparse :( I suspect it gets insufficient sun. There's a lemon tree in the front yard that looks great, for comparison |
-| Camellia japonica | Camelia | Low tree | 1 & 5 | 3 | 2-3 | 2 | Two camellias on the property outside dripline. One in good health, but one suddenly whithered. Suspecting gophers although they left the other alone. |
-| Claytonia sibirica | Candy flower | Herb | 5 | 3 | 2 | 2 | Leaves and growth look good |
-| Clinopodium douglasii | Yerba buena | Ground | 4 | 1 | 2 | 2 | Leaves look good, but growth is slow |
-| Festuca californica | California fescue | Ground |  | 1 | 2 | 1 | New planting🤞 |
-| Fragaria californica | Wild strawberry | Ground | 3 | 1 | 3 | 1 | Spreading and leaves look good, but not flowering. Suspect more sun needed |
-| Hedera helix | English ivy | Vine | 5 | 2 | 3 | 1 | Well-established when I moved in. Grows vigorously on wall at dripline. Less vigorously inside dripline |
+| [Camellia japonica](https://www.inaturalist.org/taxa/83056-Camellia-japonica) | Camelia | Low tree | 1 & 5 | 3 | 2-3 | 2 | Two camellias on the property outside dripline. One in good health, but one suddenly whithered. Suspecting gophers although they left the other alone. |
+| [Claytonia sibirica](https://www.inaturalist.org/taxa/55767-Claytonia-sibirica) | Candy flower | Herb | 5 | 3 | 2 | 2 | Leaves and growth look good |
+| [Clinopodium douglasii](https://www.inaturalist.org/taxa/53203-Clinopodium-douglasii) | Yerba buena | Ground | 4 | 1 | 2 | 2 | Leaves look good, but growth is slow |
+| [Festuca californica](https://www.inaturalist.org/taxa/57169-Festuca-californica)  | California fescue | Ground |  | 1 | 2 | 1 | New planting🤞 |
+| [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | 3 | 1 | 3 | 1 | Spreading and leaves look good, but not flowering. Suspect more sun needed |
+| [Hedera helix](https://www.inaturalist.org/taxa/55882-Hedera-helix) | English ivy | Vine | 5 | 2 | 3 | 1 | Well-established when I moved in. Grows vigorously on wall at dripline. Less vigorously inside dripline |
 | Heracleum maximum | Cow parsnip | Shrub | 2 | 1 | 2 | 2 | Under dripline. Planted two and both died back, but one returned. Leaves ok so far |
 | Holodiscus discolor | Cream bush | Shrub | 4 | 1 | 2 | 2 | Leaves look good, but slow growing |
 | Horkelia californica | California horkelia | Ground | 4 | 1 | 3 | 1 | Hasn't flowered or spread. Suspect more sun needed |
