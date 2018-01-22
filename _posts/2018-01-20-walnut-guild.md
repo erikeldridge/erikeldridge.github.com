@@ -25,8 +25,8 @@ Paul Stamets, a hero, is a fan of permaculture and proposes a [Stametsian Model]
 
 Las Pilitas Nursary is a rich source of [native plant](http://www.laspilitas.com/nature-of-california/native-plants-san-jose.html) and [permaculture](http://www.laspilitas.com/garden/howto/permaculture/permaculture1.htm) information. Lists of juglone-tolerant species abound, eg [^Penn].
 
-[^PennState]: https://extension.psu.edu/landscaping-and-gardening-around-walnuts-and-other-juglone-producing-plants
-[^JungSeed]: https://www.jungseed.com/Gardeners/Articles/Plants-Resistant-to-Walnut-Toxicity 
+[^PennState]: [Landscaping and Gardening Around Walnuts and Other Juglone Producing Plants](https://extension.psu.edu/landscaping-and-gardening-around-walnuts-and-other-juglone-producing-plants)
+[^JungSeed]: [Plants Resistant to Walnut Toxicity](https://www.jungseed.com/Gardeners/Articles/Plants-Resistant-to-Walnut-Toxicity) 
 
 So, the challenge is: build a juglone-, drought- and shade-tolerant California native guild around the walnut.
 
