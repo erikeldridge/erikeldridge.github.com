@@ -1,7 +1,7 @@
 ---
 title: "Walnut Guild \U0001F333"
 layout: post
-date: 2018-01-21 22:49:56 -0800
+date: 2018-01-21 23:02:25 -0800
 tags:
 - permaculture
 - walnut
@@ -23,7 +23,10 @@ I've found [Gaia's Garden by Toby Hemenway](https://www.chelseagreen.com/gaias-g
 
 Paul Stamets, a hero, is a fan of permaculture and proposes a [Stametsian Model](http://www.fungi.com/blog/items/permaculture-with-a-mycological-twist.html) with an eighth layer for fungi.
 
-Las Pilitas Nursary is a rich source of [native plant](http://www.laspilitas.com/nature-of-california/native-plants-san-jose.html) and [permaculture](http://www.laspilitas.com/garden/howto/permaculture/permaculture1.htm) information. Lists of juglone-tolerant species abound, eg [[Penn\]](https://extension.psu.edu/landscaping-and-gardening-around-walnuts-and-other-juglone-producing-plants).
+Las Pilitas Nursary is a rich source of [native plant](http://www.laspilitas.com/nature-of-california/native-plants-san-jose.html) and [permaculture](http://www.laspilitas.com/garden/howto/permaculture/permaculture1.htm) information. Lists of juglone-tolerant species abound, eg [^Penn].
+
+[^PennState]: https://extension.psu.edu/landscaping-and-gardening-around-walnuts-and-other-juglone-producing-plants
+[^JungSeed]: https://www.jungseed.com/Gardeners/Articles/Plants-Resistant-to-Walnut-Toxicity 
 
 So, the challenge is: build a juglone-, drought- and shade-tolerant California native guild around the walnut.
 
@@ -31,8 +34,8 @@ Here are the plants I've tried:
 
 | Latin name | Common name | Layer | Health\* | Proximity\* | Sun\* | Water\* | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Achillea millefolium californica](https://www.inaturalist.org/taxa/239065-Achillea-millefolium-californica) | California yarrow | Herb | 3 | 1 | 4 | 1 | Suspect more sun needed, but one in the front yard in shade is fuller. Juglone tolerant per \[Penn] |
-| [Allium triquetrum](https://www.inaturalist.org/taxa/55505-Allium-triquetrum) | Three-cornered leek | Herb | 5 | 1 | 2-4 | 1 | Self-propagating. Juglone tolerant per \[Penn] |
+| [Achillea millefolium californica](https://www.inaturalist.org/taxa/239065-Achillea-millefolium-californica) | California yarrow | Herb | 3 | 1 | 4 | 1 | Suspect more sun needed, but one in the front yard in shade is fuller. Juglone tolerant per [^PennState] |
+| [Allium triquetrum](https://www.inaturalist.org/taxa/55505-Allium-triquetrum) | Three-cornered leek | Herb | 5 | 1 | 2-4 | 1 | Self-propagating. Juglone tolerant per [^PennState] |
 | [Agapanthus praecox orientalis](https://www.inaturalist.org/taxa/57838-Agapanthus-praecox-orientalis) | Lilly of the Nile | Shrub | 2 | 1 | 3 | 1 | This was doing well, but then started yellowing. Agapanthus is prolific in the front yard in shade, for comparison |
 | [Aquilegia eximia](https://www.inaturalist.org/taxa/57230-Aquilegia-eximia) | Serpentine columbine | Shrub | 1 | 1 | 2 | 2 | The columbine's health steadily declined after planting, dropping leaves and never flowering. |
 | [Artemisia douglasiana](https://www.inaturalist.org/taxa/52854-Artemisia-douglasiana) | California Mugwort | Herb | 2 | 2 | 4 | 1 | Leaves look good, but growth is slow. Suspecting it needs more water |
@@ -43,7 +46,7 @@ Here are the plants I've tried:
 | [Camellia japonica](https://www.inaturalist.org/taxa/83056-Camellia-japonica) | Camelia | Low tree | 1 & 5 | 3 | 2-3 | 2 | Two camellias on the property outside dripline. One in good health, but one suddenly whithered. Suspecting gophers although they left the other alone. |
 | [Claytonia sibirica](https://www.inaturalist.org/taxa/55767-Claytonia-sibirica) | Candy flower | Herb | 5 | 3 | 2 | 2 | Leaves and growth look good |
 | [Clinopodium douglasii](https://www.inaturalist.org/taxa/53203-Clinopodium-douglasii) | Yerba buena | Ground | 4 | 1 | 2 | 2 | Leaves look good, but growth is slow |
-| [Dietes iridioides](https://www.inaturalist.org/taxa/129407-Dietes-iridioides) | African iris | Shrub | 5 | 1 | 3 | 1 | Flowers and seeds readily. Juglone tolerant per \[Penn] |
+| [Dietes iridioides](https://www.inaturalist.org/taxa/129407-Dietes-iridioides) | African iris | Shrub | 5 | 1 | 3 | 1 | Flowers and seeds readily. Juglone tolerant per [^PennState] |
 | [Festuca californica](https://www.inaturalist.org/taxa/57169-Festuca-californica)  | California fescue | Ground |  | 1 | 2 | 1 | New planting🤞 |
 | [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | 3 | 1 | 3 | 1 | Spreading and leaves look good, but not flowering. Suspect more sun needed |
 | [Hedera helix](https://www.inaturalist.org/taxa/55882-Hedera-helix) | English ivy | Vine | 5 | 2 | 3 | 1 | Well-established when I moved in. Grows vigorously on wall at dripline. Less vigorously inside dripline |
@@ -51,7 +54,7 @@ Here are the plants I've tried:
 | [Holodiscus discolor](https://www.inaturalist.org/taxa/53414-Holodiscus-discolor) | Cream bush | Shrub | 4 | 1 | 2 | 2 | Leaves look good, but slow growing |
 | [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | California horkelia | Ground | 4 | 1 | 3 | 1 | Hasn't flowered or spread. Suspect more sun needed |
 | [Hydrangea macrophylla](https://www.inaturalist.org/taxa/122034-Hydrangea-macrophylla) | Hydrangea | Shrub | 1 | 3 | 3 | 1 | A tall shrub growing in shade when I moved in. Declining health perhaps due to low water or sun |
-| [Iris douglasiana](https://www.inaturalist.org/taxa/50854-Iris-douglasiana) | Douglas Iris | Shrub | 4 | 1 | 3 | 1 | Planted two. One died. The other's leaves look good, but it hasn't flowered. There's another iris nearby that's flowering, for comparison. Juglone tolerant per \[Penn] |
+| [Iris douglasiana](https://www.inaturalist.org/taxa/50854-Iris-douglasiana) | Douglas Iris | Shrub | 4 | 1 | 3 | 1 | Planted two. One died. The other's leaves look good, but it hasn't flowered. There's another iris nearby that's flowering, for comparison. Juglone tolerant per [^PennState] |
 | [Lupinus arboreus](https://www.inaturalist.org/taxa/61010-Lupinus-arboreus) | Yellow bush lupine | Shrub |  | 1 | 4 | 1 | New planting in a relatively sunny spot🤞 I read somewhere nitrogen fixers are generally juglone-tolerant |
 | [Lupinus variicolor](https://www.inaturalist.org/taxa/61018-Lupinus-variicolor) | Varied lupine | Shrub |  | 1 | 4 | 1 | As above |
 | [Mimulus aurantiacus](https://www.inaturalist.org/taxa/48858-Mimulus-aurantiacus) | Bush monkeyflower | Shrub | 4 | 3 | 2 | 1 | Planted in shade. Leaves and growth look good, but waiting for flowers |
@@ -62,7 +65,7 @@ Here are the plants I've tried:
 | [Prunus cerasifera](https://www.inaturalist.org/taxa/55837-Prunus-cerasifera) | Purple leaf ornamental plum | Low tree | 3 | 1 | 3 | 1 | I think this is a plum. The tree leaves regularly, but hasn't flowered and has dying branches. I suspect it was planted when the walnut was smaller and let more light through |
 | [Plantago subnuda](https://www.inaturalist.org/taxa/60223-Plantago-subnuda) | Tall coastal plantain | Herb |   | 1 | 2 | 2 | New planting🤞 |
 | [Rudbeckia californica](https://www.inaturalist.org/taxa/78896-Rudbeckia-californica) | California coneflower | Shrub | 5 | 1 | 4 | 1 | Planted in a pot (away from slugs) but in range of leaf fall |
-| [Stachys bullata](https://www.inaturalist.org/taxa/58930-Stachys-bullata) | Wood mint | Herb |  | 1 | 2 | 2 | New planting🤞 |
+| [Stachys bullata](https://www.inaturalist.org/taxa/58930-Stachys-bullata) | Wood mint | Herb |  | 1 | 2 | 2 | New planting🤞 Juglone-tolerant per [^JungSeed] |
 | [Symphyotrichum chilense](https://www.inaturalist.org/taxa/56861-Symphyotrichum-chilense) | California aster | Shrub | 4 | 3 | 3 | 1 | Leaves look good, slow growing |
 | [Taraxacum officinale](https://www.inaturalist.org/taxa/47602-Taraxacum-officinale) | Dandelion | Herb | 4 | 1 | 3 | 1 | Self-propagating. Leaves look good. If it flowers and spreads, I'll increase the health grade to 5 |
 
@@ -72,3 +75,5 @@ Here are the plants I've tried:
 * Proximity: 1-3, 1 = planted inside dripline of walnut
 * Sun: 1-5, 5 = planted in full sun
 * Water: 1-3, 3 = planted in wet soil
+
+## Footnotes
