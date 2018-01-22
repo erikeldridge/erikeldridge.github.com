@@ -44,24 +44,24 @@ Here are the plants I've tried:
 | [Festuca californica](https://www.inaturalist.org/taxa/57169-Festuca-californica)  | California fescue | Ground |  | 1 | 2 | 1 | New planting🤞 |
 | [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | 3 | 1 | 3 | 1 | Spreading and leaves look good, but not flowering. Suspect more sun needed |
 | [Hedera helix](https://www.inaturalist.org/taxa/55882-Hedera-helix) | English ivy | Vine | 5 | 2 | 3 | 1 | Well-established when I moved in. Grows vigorously on wall at dripline. Less vigorously inside dripline |
-| Heracleum maximum | Cow parsnip | Shrub | 2 | 1 | 2 | 2 | Under dripline. Planted two and both died back, but one returned. Leaves ok so far |
-| Holodiscus discolor | Cream bush | Shrub | 4 | 1 | 2 | 2 | Leaves look good, but slow growing |
-| Horkelia californica | California horkelia | Ground | 4 | 1 | 3 | 1 | Hasn't flowered or spread. Suspect more sun needed |
-| Hydrangea macrophylla | Hydrangea | Shrub | 1 | 3 | 3 | 1 | A tall shrub growing in shade when I moved in. Declining health perhaps due to low water or sun |
-| Iris douglasiana | Douglas Iris | Shrub | 4 | 1 | 3 | 1 | Planted two. One died. The other's leaves look good, but it hasn't flowered. There's another iris nearby that's flowering, for comparison |
-| Lupinus arboreus | Yellow bush lupine | Shrub |  | 1 | 4 | 1 | New planting in a relatively sunny spot🤞 I read somewhere nitrogen fixers are generally juglone-tolerant |
-| Lupinus variicolor | Varied lupine | Shrub |  | 1 | 4 | 1 | As above |
-| Mimulus aurantiacus | Bush monkeyflower | Shrub | 4 | 3 | 2 | 1 | Planted in shade. Leaves and growth look good, but waiting for flowers |
-| Mimulus aurantiacus | Bush monkeyflower var ? | Shrub | 4 | 1 | 3 | 1 | A lower, spreading mimulus planted in shade. Leaves and growth look good, but waiting for flowers |
-| Nandina domestica | Heavenly bamboo | Shrub | 4 | 2 | 3-4 | 1 | Leaves look healthy. |
-| Oxalis pes-caprae | Sourgrass | Herb | 5 | 1 | 2-4 | 1-2 | Under dripline. It's invasive, but in the spirit of permaculture I'm trying to learn from it. Makes me want to try a native oxalis |
-| Pittosporum tobira | Mock orange | Low tree | 5 | 3 | 5 | 1 | Flowering and leaves look good |
-| Prunus cerasifera | Purple leaf ornamental plum | Low tree | 3 | 1 | 3 | 1 | I think this is a plum. The tree leaves regularly, but hasn't flowered and has dying branches. I suspect it was planted when the walnut was smaller and let more light through |
-| Plantago subnuda | Tall coastal plantain | Herb |   | 1 | 2 | 2 | New planting🤞 |
-| Rudbeckia californica | California coneflower | Shrub | 5 | 1 | 4 | 1 | Planted in a pot (away from slugs) but in range of leaf fall |
-| Stachys bullata | Wood mint | Herb |  | 1 | 2 | 2 | New planting🤞 |
-| Symphyotrichum chilense | California aster | Shrub | 4 | 3 | 3 | 1 | Leaves look good, slow growing |
-| Taraxacum officinale | Dandelion | Herb | 4 | 1 | 3 | 1 | Self-propagating. Leaves look good. If it flowers and spreads, I'll increase the health grade to 5 |
+| [Heracleum maximum](https://www.inaturalist.org/taxa/53094-Heracleum-maximum) | Cow parsnip | Shrub | 2 | 1 | 2 | 2 | Under dripline. Planted two and both died back, but one returned. Leaves ok so far |
+| [Holodiscus discolor](https://www.inaturalist.org/taxa/53414-Holodiscus-discolor) | Cream bush | Shrub | 4 | 1 | 2 | 2 | Leaves look good, but slow growing |
+| [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | California horkelia | Ground | 4 | 1 | 3 | 1 | Hasn't flowered or spread. Suspect more sun needed |
+| [Hydrangea macrophylla](https://www.inaturalist.org/taxa/122034-Hydrangea-macrophylla) | Hydrangea | Shrub | 1 | 3 | 3 | 1 | A tall shrub growing in shade when I moved in. Declining health perhaps due to low water or sun |
+| [Iris douglasiana](https://www.inaturalist.org/taxa/50854-Iris-douglasiana) | Douglas Iris | Shrub | 4 | 1 | 3 | 1 | Planted two. One died. The other's leaves look good, but it hasn't flowered. There's another iris nearby that's flowering, for comparison |
+| [Lupinus arboreus](https://www.inaturalist.org/taxa/61010-Lupinus-arboreus) | Yellow bush lupine | Shrub |  | 1 | 4 | 1 | New planting in a relatively sunny spot🤞 I read somewhere nitrogen fixers are generally juglone-tolerant |
+| [Lupinus variicolor](https://www.inaturalist.org/taxa/61018-Lupinus-variicolor) | Varied lupine | Shrub |  | 1 | 4 | 1 | As above |
+| [Mimulus aurantiacus](https://www.inaturalist.org/taxa/48858-Mimulus-aurantiacus) | Bush monkeyflower | Shrub | 4 | 3 | 2 | 1 | Planted in shade. Leaves and growth look good, but waiting for flowers |
+| [Mimulus aurantiacus](https://www.inaturalist.org/taxa/48858-Mimulus-aurantiacus) | Bush monkeyflower var ? | Shrub | 4 | 1 | 3 | 1 | A lower, spreading mimulus. Leaves and growth look good, but waiting for flowers |
+| [Nandina domestica](https://www.inaturalist.org/taxa/127010-Nandina-domestica) | Heavenly bamboo | Shrub | 4 | 2 | 3-4 | 1 | Leaves look healthy. |
+| [Oxalis pes-caprae](https://www.inaturalist.org/taxa/53169-Oxalis-pes-caprae) | Sourgrass | Herb | 5 | 1 | 2-4 | 1-2 | Under dripline. It's invasive, but in the spirit of permaculture I'm trying to learn from it. Makes me want to try a native oxalis |
+| [Pittosporum tobira](https://www.inaturalist.org/taxa/78592-Pittosporum-tobira) | Mock orange | Low tree | 5 | 3 | 5 | 1 | Flowering and leaves look good |
+| [Prunus cerasifera](https://www.inaturalist.org/taxa/55837-Prunus-cerasifera) | Purple leaf ornamental plum | Low tree | 3 | 1 | 3 | 1 | I think this is a plum. The tree leaves regularly, but hasn't flowered and has dying branches. I suspect it was planted when the walnut was smaller and let more light through |
+| [Plantago subnuda](https://www.inaturalist.org/taxa/60223-Plantago-subnuda) | Tall coastal plantain | Herb |   | 1 | 2 | 2 | New planting🤞 |
+| [Rudbeckia californica](https://www.inaturalist.org/taxa/78896-Rudbeckia-californica) | California coneflower | Shrub | 5 | 1 | 4 | 1 | Planted in a pot (away from slugs) but in range of leaf fall |
+| [Stachys bullata](https://www.inaturalist.org/taxa/58930-Stachys-bullata) | Wood mint | Herb |  | 1 | 2 | 2 | New planting🤞 |
+| [Symphyotrichum chilense](https://www.inaturalist.org/taxa/56861-Symphyotrichum-chilense) | California aster | Shrub | 4 | 3 | 3 | 1 | Leaves look good, slow growing |
+| [Taraxacum officinale](https://www.inaturalist.org/taxa/47602-Taraxacum-officinale) | Dandelion | Herb | 4 | 1 | 3 | 1 | Self-propagating. Leaves look good. If it flowers and spreads, I'll increase the health grade to 5 |
 
 \* Numeric ranges:
 
