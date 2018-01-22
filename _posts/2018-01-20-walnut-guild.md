@@ -1,7 +1,7 @@
 ---
 title: "Walnut Guild \U0001F333"
 layout: post
-date: 2018-01-21 23:02:25 -0800
+date: 2018-01-21 23:10:36 -0800
 tags:
 - permaculture
 - walnut
@@ -35,7 +35,7 @@ Here are the plants I've tried:
 | Latin name | Common name | Layer | Health\* | Proximity\* | Sun\* | Water\* | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Achillea millefolium californica](https://www.inaturalist.org/taxa/239065-Achillea-millefolium-californica) | California yarrow | Herb | 3 | 1 | 4 | 1 | Suspect more sun needed, but one in the front yard in shade is fuller. Juglone tolerant per [^PennState] |
-| [Allium triquetrum](https://www.inaturalist.org/taxa/55505-Allium-triquetrum) | Three-cornered leek | Herb | 5 | 1 | 2-4 | 1 | Self-propagating. Juglone tolerant per [^PennState] |
+| [Allium triquetrum](https://www.inaturalist.org/taxa/55505-Allium-triquetrum) | Three-cornered leek | Herb | 5 | 1 | 2-4 | 1 | Self-propagating. Juglone tolerant per [^PennState]. Curious to try a native Allium like [Allium unifolium](https://www.inaturalist.org/taxa/59781-Allium-unifolium) |
 | [Agapanthus praecox orientalis](https://www.inaturalist.org/taxa/57838-Agapanthus-praecox-orientalis) | Lilly of the Nile | Shrub | 2 | 1 | 3 | 1 | This was doing well, but then started yellowing. Agapanthus is prolific in the front yard in shade, for comparison |
 | [Aquilegia eximia](https://www.inaturalist.org/taxa/57230-Aquilegia-eximia) | Serpentine columbine | Shrub | 1 | 1 | 2 | 2 | The columbine's health steadily declined after planting, dropping leaves and never flowering. |
 | [Artemisia douglasiana](https://www.inaturalist.org/taxa/52854-Artemisia-douglasiana) | California Mugwort | Herb | 2 | 2 | 4 | 1 | Leaves look good, but growth is slow. Suspecting it needs more water |
