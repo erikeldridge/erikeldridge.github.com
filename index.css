@@ -36,6 +36,27 @@ img {
   display: inline;
 }
 
+/**
+ * Tables
+ */
+table {
+  background: white;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+td, th {
+  padding: 8px;
+}
+thead {
+  background: #efefef;
+}
+tr {
+  border-bottom: 1px solid #efefef;
+}
+tr:hover {
+  background: #efefef;
+}
+
 /*
  * Syntax
  */
