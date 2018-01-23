@@ -2,7 +2,7 @@
 
 ## Develop
 
-1. Run test server: `rbenv exec bundle exec jekyll serve`
+1. Run test server: `bundle exec jekyll serve --host=0.0.0.0 --port=3000`
 
 ## NLP
 
