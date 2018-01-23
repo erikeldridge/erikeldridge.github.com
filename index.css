@@ -39,21 +39,21 @@ img {
 /**
  * Tables
  */
-table {
+table:not(.rouge-table) {
   background: white;
   border-collapse: collapse;
   border-spacing: 0;
 }
-td, th {
+table:not(.rouge-table) td, th {
   padding: 8px;
 }
-thead {
+table:not(.rouge-table) thead {
   background: #efefef;
 }
-tr {
+table:not(.rouge-table) tr {
   border-bottom: 1px solid #efefef;
 }
-tr:hover {
+table:not(.rouge-table) tr:hover {
   background: #efefef;
 }
 
