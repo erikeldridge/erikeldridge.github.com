@@ -12,5 +12,5 @@
       }
     })
   })
-  $input.show()
+  $input.show().focus()
 })(jQuery)
