@@ -1,7 +1,7 @@
 ---
 title: "Santa Cruz Fungus Fair 2018 \U0001F344"
 layout: post
-date: 2018-01-15 19:25:24 -0800
+date: 2018-01-24 13:00:45 -0800
 tags:
 - mushroom
 - fungus
@@ -52,11 +52,10 @@ Next, Douglas Smith presented "The Mushrooms of Los Trancos, A Local Open Space 
 * Hearing this talk reminded me of Stewart Brand's recommendation in Whole Earth Discipline to deeply understand the place we live
 * Smith mentioned he had a permit to study off-trail in the preserve, that such permits aren't widely available, but there's some movement to create a "hunting" permit for mushrooms, like there is for fish and game
 
-The last talk of the day was Alan Rockefeller's "Mushrooms of Mexico". Notes:
+The last talk of the day was [Alan Rockefeller's "Mushrooms of Mexico"](https://www.youtube.com/watch?v=ZGfO_F1-xcM). Notes:
 
 * He most recently spent three months in Mexico, which he says has the best mushroom hunting in the world. He described hunting all day, hunting bio-luminescent mushrooms by night, sleeping a few hours and then doing it all again! Many private land owners are open to him hunting on their land. Many mushrooms were previously identified with European names, but are often new species.
 * Many people in Mexico are still familiar with mushrooms and forage regularly. There's a long history of psilocybe use in ritual.
-* He said this talk would be posted to youtube. In the meantime, this seems to be the same talk from a few months ago: https://youtu.be/RcX93JZ7LXs
 * His standard reporting process:
   1. Photograph and sample in the field
   2. Back at the truck, put each sample in a bag w desicant (to prevent liquifaction and disintigration)
