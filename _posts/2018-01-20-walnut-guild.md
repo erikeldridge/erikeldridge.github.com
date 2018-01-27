@@ -1,7 +1,7 @@
 ---
 title: "Walnut Guild \U0001F333"
 layout: post
-date: 2018-01-21 23:56:37 -0800
+date: 2018-01-27 14:54:40 -0800
 tags:
 - permaculture
 - walnut
@@ -50,7 +50,7 @@ Here are the plants I've tried:
 | [Festuca californica](https://www.inaturalist.org/taxa/57169-Festuca-californica)  | California fescue | Ground |  | 1 | 2 | 1 | New planting🤞 |
 | [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | 3 | 1 | 3 | 1 | Spreading and leaves look good, but not flowering. Suspect more sun needed |
 | [Hedera helix](https://www.inaturalist.org/taxa/55882-Hedera-helix) | English ivy | Vine | 5 | 2 | 3 | 1 | Well-established when I moved in. Grows vigorously on wall at dripline. Less vigorously inside dripline |
-| [Heracleum maximum](https://www.inaturalist.org/taxa/53094-Heracleum-maximum) | Cow parsnip | Shrub | 2 | 1 | 2 | 2 | Under dripline. Planted two and both died back, but one returned. Leaves ok so far |
+| [Heracleum maximum](https://www.inaturalist.org/taxa/53094-Heracleum-maximum) | Cow parsnip | Shrub | 3 | 1 | 2 | 2 | Under dripline. Planted two and both died back, but one returned when the rains came. Leaves good so far |
 | [Holodiscus discolor](https://www.inaturalist.org/taxa/53414-Holodiscus-discolor) | Cream bush | Shrub | 4 | 1 | 2 | 2 | Leaves look good, but slow growing |
 | [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | California horkelia | Ground | 4 | 1 | 3 | 1 | Hasn't flowered or spread. Suspect more sun needed |
 | [Hydrangea macrophylla](https://www.inaturalist.org/taxa/122034-Hydrangea-macrophylla) | Hydrangea | Shrub | 1 | 3 | 3 | 1 | A tall shrub growing in shade when I moved in. Declining health perhaps due to low water or sun |
