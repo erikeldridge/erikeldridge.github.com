@@ -8,4 +8,4 @@ tags:
 ---
 I want to grow mushrooms in my garden.
 
-More specifically, I want to experiment with the idea that bee immunology benefits from some fungi. A beekeeper maintains some hives in the yard and the residents suffer from mites. I'd like to see if growing the King Stropharia near the hives, as mentioned by Paul Stamets in [Report from the Underground](https://www.youtube.com/watch?v=DAw_Zzge49c), helps.
+More specifically, I want to experiment with the idea that some fungi assist bee immunology benefits. A beekeeper maintains some hives in the yard and the residents suffer from mites. I'd like to see if growing the King Stropharia near the hives, as mentioned by Paul Stamets in [Report from the Underground](https://www.youtube.com/watch?v=DAw_Zzge49c), helps.
