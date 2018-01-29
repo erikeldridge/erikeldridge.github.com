@@ -12,7 +12,7 @@ I want to grow mushrooms in my garden for a few reasons: to improve bee and soil
 
 Regarding bee health, I want to experiment with a theory described by Paul Stamets in [Report from the Underground](https://www.youtube.com/watch?v=DAw_Zzge49c) that some fungi assist bee immunology. Stamets formulated the hypothesis after noticing bees visiting a King Stropharia ([Stropharia rugoso-annulata](https://www.inaturalist.org/taxa/119151-Stropharia-rugosoannulata)) patch in his garden.
 
-A beekeeper maintains hives in my yard and treats bees suffering from mites. One of the three colonies has collapsed :( Stamets' mentioned in his talk a product (MycoHoney) he's developing to directly support bees, but until that becomes available, I want to see if growing S. rugoso-annulata near the hives helps. A [patent application by Stamets](https://www.google.com/patents/US20140220150) describes S. rugoso-annulata as "an exceptional species for aiding bees when challenged by multiple stressors that can lead to \[colony collapse disorder\]."
+A beekeeper maintains hives in my yard and treats bees suffering from mites. One of the three colonies has collapsed :( Stamets' mentioned in his talk a product (MycoHoney) he's developing to directly support bees, but until that becomes available, I want to see if growing S. rugoso-annulata near the hives helps. A patent application by Stamets [^patent] describes S. rugoso-annulata as "an exceptional species for aiding bees when challenged by multiple stressors that can lead to \[colony collapse disorder\]."
 
 Regarding soil health, the yard is dominated by a black walnut and appears to have poor soil. I'm exploring use of permaculture concepts, including [Stamets' proposal to treat fungi as an eighth layer](http://www.fungi.com/blog/items/permaculture-with-a-mycological-twist.html), to improve soil health and mitigate the walnut's toxin. My [walnut guild notes](http://erikeldridge.com/notes/walnut-guild.html) go into more detail.
 
@@ -20,7 +20,7 @@ Stamets' company Fungi Perfecti (FP) makes it easy to grow S. rugoso-annulata by
 
 ## Step 1: get wood chips
 
-The [kit instructions (pdf)](http://www.fungi.com/pdf/instructions/kits/LKSRA.pdf) state S. rugoso-annulata grows on wood chips or straw. I'm inclined toward the former because Stamets' hypothesis concerns bees visiting rotting wood, but where does one get wood chips clean enough to use for food-grade mushrooms?
+The [kit instructions (pdf)](http://www.fungi.com/pdf/instructions/kits/LKSRA.pdf) state S. rugoso-annulata grows on wood chips or straw. I'm inclined toward the former because Stamets' hypothesis concerns bees visiting rotting wood: "...the mycelium of Stropharia rugoso-annulata does not produce these rhizomorphic cords until making contact with the bacterial genome resident in woody soils. This dynamic is likely to confer bees with more robust nutritional and immune support." [^patent]. But where does one get wood chips clean enough to use for food-grade mushrooms?
 
 FP sells [alder chips](http://www.fungi.com/product-detail/product/mycomedia-select-hardwood-chips.html), and I ordered some, but the kit instructions state most non-aromatic hardwoods will do, and I think sourcing local wood is the more sustainable option, so I kept looking. Additional research indicated chips should be more than a few weeks old, so the trees' natural anti-fungal properties have broken down, but not so old that other fungi have colonized.
 
@@ -47,3 +47,7 @@ The kit arrived in a box with a sticker on the side stating it contained live cu
 The chips were wet from recent rains. As instructed, I broke up the sawdust in the kit and sprinkled it evenly over the chips. I then layered the alder chips on top, turned the chips over until I didn't see any mycelium-covered chips on the surface and watered.
 
 Per the instructions, my job now is to water the chips enough to keep them moist, but otherwise wait and let the fungus do its work.🤞
+
+## Footnotes
+
+[^patent]: [Integrative fungal solutions for protecting bees and overcoming colony collapse disorder (CCD): methods and compositions](https://www.google.com/patents/US20140220150)
