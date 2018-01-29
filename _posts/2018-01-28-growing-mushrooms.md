@@ -1,10 +1,12 @@
 ---
 title: "Growing mushrooms \U0001F344\U0001F3E1\U0001F41D"
 layout: post
-date: 2018-01-28 17:30:27 -0800
+date: 2018-01-28 17:42:00 -0800
 tags:
 - nature
 - bee
+- mushroom
+- permaculture
 ---
 I want to grow mushrooms in my garden for a few reasons: to improve bee and soil health and provide (some) food.
 
@@ -24,11 +26,11 @@ FP sells [alder chips](http://www.fungi.com/product-detail/product/mycomedia-sel
 
 Tree trimming companies are apparently eager to give away fresh chips to avoid disposal fees, eg [Chip Drop](https://getchipdrop.com/), but require recipients to accept a full truck load of several cubic yards, which more than I need, and have space for a large truck to make the delivery, which I don't.
 
-Some waste disposal companies, eg [Bayview Greenwaste](http://www.bvgrecycle.com) allow individuals to visit and haul away wood chips for free, but I'd like a better understanding of where the wood comes from. Also, my town is full of trees. Surely, there's a source near home.
+Some waste disposal companies, eg [Bayview Greenwaste](http://www.bvgrecycle.com), allow individuals to visit and haul away wood chips for free, but I'd like a better understanding of where the wood comes from. Also, my town is full of trees. Surely, there's a source near home.
 
 Around this time, I attended the [Santa Cruz Fungus Federation's annual fair](http://ffsc.us/fair/2018/about) ([notes](http://erikeldridge.com/notes/santa-cruz-fungus-fair-2018.html)). Justin Pierce gave a presentation on mushroom cultivation in which he mentioned Far West Fungi sources hardwood sawdust from local furniture makers. He also mentioned S. rugosoannulata had grown vigorously on cheap, dyed-red chips in his backyard after a haphazard inoculation, indicating the fungus wasn't too picky.
 
-One day, I noticed a large pile of chips in the parking lot of a local public park(!) I also saw mushrooms sprouting abundantly in mulched areas, indicating whatever was being spread over the years was at least edible by some fungi. I asked a park employee if I could take a cubic yard of fresh chips. He said it was mostly sycamore and encouraged me to take all I wanted; the chips were normally dropped off in the city's yard, but they were preparing to re-mulch the park; I could make an appointment to drop by the city's yard for more and from specific trees, but it's not generally open to the public. One of the unexpected rewards of this experience has been learning more about my local community.
+One day, I noticed a large pile of chips in the parking lot of a local public park(!) I also saw mushrooms sprouting abundantly in mulched areas, indicating whatever was being spread over the years was at least edible by some fungi. I asked a park employee if I could take a cubic yard. He said it was mostly sycamore and encouraged me to take all I wanted; the chips were normally dropped off in the city's yard, but they were preparing to re-mulch the park; I could make an appointment to drop by the city's yard for more and from specific trees, but it's not generally open to the public. One of the unexpected rewards of this experience has been learning more about my local community.
 
 The kit's instructions state the mushroom patch should be in a moist area out of direct sunlight. Luckily, the bee hives are near such an area.
 
@@ -36,16 +38,12 @@ The kit's instructions state the mushroom patch should be in a moist area out of
 
 After obtaining chips, I ordered the kit and supplemental alder chips mentioned above.
 
-The kit arrived in a box with a sticker on the side stating it contained live culture and should be opened immediately, but the instructions inside the box stated we should let the culture rest in the box undisturbed for a week before inoculation. What did "undisturbed" mean? Why not put a do-not-disturb notice outside the box if we should literally do nothing? I didn't want the fungi to suffocate or dehydrate.
+The kit arrived in a box with a sticker on the side stating it contained live culture and should be opened immediately, but instructions inside the box stated we should let the culture rest in the box undisturbed for a week before inoculation. What did "undisturbed" mean? Why not put a do-not-disturb notice outside the box if we should literally do nothing? I didn't want the fungi to suffocate or dehydrate.
 
-[A video for the indoor kit](https://www.youtube.com/watch?v=CE-W7pCH-G4) talks about opening the bag. Should I do the same for the outdoor kit?  I called FP, who were friendly and helpful, and clarified the gas port on the bag is sufficient for respiration and the bag doesn't need to be unfolded or opened.
+[A video for the indoor kit](https://www.youtube.com/watch?v=CE-W7pCH-G4) talks about opening the bag. Should I do the same for the outdoor kit? I called FP, who were friendly and helpful, and clarified the gas port on the bag is sufficient for respiration and the bag doesn't need to be unfolded or opened.
 
 ## Step 3: inoculate, water & wait
 
-The chips were wet from recent rains. As instructed, I broke up the sawdust in the kit and sprinkled it evenly over the chips. I then layered the alder chips on top, turned the chips over until I didn't see any mycelium-covered chips on the surface and watered. 
+The chips were wet from recent rains. As instructed, I broke up the sawdust in the kit and sprinkled it evenly over the chips. I then layered the alder chips on top, turned the chips over until I didn't see any mycelium-covered chips on the surface and watered.
 
 Per the instructions, my job now is to water the chips enough to keep them moist, but otherwise wait and let the fungus do its work.🤞
-
-
-
-
