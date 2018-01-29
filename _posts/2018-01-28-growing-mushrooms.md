@@ -8,7 +8,7 @@ tags:
 - mushroom
 - permaculture
 ---
-I want to grow mushrooms in my garden for a few reasons: to improve bee and soil health and provide (some) food.
+I want to grow mushrooms in my garden for a few reasons: to improve bee and soil health and provide food.
 
 Regarding bee health, I want to experiment with a theory described by Paul Stamets in [Report from the Underground](https://www.youtube.com/watch?v=DAw_Zzge49c) that some fungi assist bee immunology. Stamets formulated the hypothesis after noticing bees visiting a King Stropharia ([Stropharia rugosoannulata](https://www.inaturalist.org/taxa/119151-Stropharia-rugosoannulata)) patch in his garden.
 
