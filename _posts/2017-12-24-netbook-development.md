@@ -1,7 +1,7 @@
 ---
 title: Netbook development
 layout: post
-date: 2017-12-29 20:37:09 -0800
+date: 2018-02-03 11:09:51 -0800
 tags:
 - netbook
 - chromebook
@@ -33,13 +33,15 @@ At this point I'm looking for a Chromebook with:
 
 The Acer Chromebook 14 is highly rated on Amazon, provides 4GB ram, 32GB storage, USB 3, Wi-FI AC, HD video, supports Android and costs \~$300, and I can pick it up immediately at a local BestBuy, which provides a surprisingly nice Instacart-like experience.
 
+### Updates
+
+After using the chromebook for a few months, 4GB is just enough. It's great for having a few Chrome tabs open. But jumping between a dozen, esp email and slack, with a few different apps running, esp video conference, pushes the limits.
+
 ## IDE
 
 Now that I have a screen, keyboard and internet connection, I need a machine to develop on. A colleague recommended [Cloud9](https://aws.amazon.com/cloud9/), which layers a Web-based IDE on EC2.
 
-Cloud9's original incarnation as [c9.io](https://c9.io/) is great, and has a free tier, but the terminal  frequently hangs (due to resource sharing, I presume) and I'd guess maintaining it  has lower priority than building the new AWS version.
-
-I have little experience with AWS, but [Amazon estimates the cost at \~$2/mo](https://aws.amazon.com/cloud9/pricing/), which also seems like a reasonable amount to experiment with. I created a budget for $10/mo just in case. After a few hours of usage over the past few days, my bill is $0.15, mostly for EC2, but a few cents for S3 (Cloud9-managed EBS) and data transfer too.
+I have little experience with AWS, but [Amazon estimates the cost at \~$2/mo](https://aws.amazon.com/cloud9/pricing/), which also seems like a reasonable amount to experiment with. I created a budget for $10/mo just in case.
 
 Cloud9 provides an "auto-hibernation" setting to save cost. This appears to stop the associated EC2 instance. Opening the IDE after manually stopping the instance restarts it.
 
@@ -48,6 +50,12 @@ Cloud9 configures EC2 and EBS, but I remember seeing a doc mention security is s
 Aside: the Lambda editor seems like a simplified Cloud9 IDE 🤔
 
 Setting up Cloud9 was straightforward. Kudos to that team for a great product, and AWS for integrating it well.
+
+### Updates
+
+The past couple months' AWS bills are around $1, mostly for EBS (The OS alone is 4GB).
+
+This whole plan of using a chromebook + cloud really shines wrt dynamic resource changes. I've been playing around w Anaconda recently, which is an enormous installation. I ran out of storage with the default Cloud9 configuration (8GB) 
 
 ## Shell
 
