@@ -35,6 +35,10 @@ The Acer Chromebook 14 is highly rated on Amazon, provides 4GB ram, 32GB storage
 
 ### Updates
 
+[Acer is the genus of trees](https://www.inaturalist.org/taxa/47727-Acer) containing maples :) 🍁
+
+The keyboard, esp the space bar, is flaky compared w a mac. (On the upside, it's improving my touch-typing :)
+
 After using the chromebook for a few months, 4GB is just enough. It's great for having a few Chrome tabs open. But jumping between a dozen, esp email and slack, with a few different apps running, esp video conference, pushes the limits.
 
 ## IDE
@@ -58,9 +62,9 @@ The past couple months' AWS bills are around $1, mostly for EBS (The OS alone is
 This whole plan of using a chromebook + cloud really shines wrt dynamic resource changes. I've been playing around with large data sets recently using [Anaconda](https://www.anaconda.com/download/#linux), and ran out of storage with the default Cloud9 configuration (8GB). [Upgrading the EBS "volume"](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/console-modify.html) to 16GB was fast and easy (once I found it):
 
 1. open the EC2 console
-1. stop the EC2 instance created by Cloud9
-1. in the left column, find Elastic Block Store > Volumes
-1. ctrl click on the volume and select modify
+2. stop the EC2 instance created by Cloud9
+3. in the left column, find Elastic Block Store > Volumes
+4. ctrl click on the volume and select modify
 
 ## Shell
 
