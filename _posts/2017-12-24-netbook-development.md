@@ -55,7 +55,12 @@ Setting up Cloud9 was straightforward. Kudos to that team for a great product, a
 
 The past couple months' AWS bills are around $1, mostly for EBS (The OS alone is 4GB).
 
-This whole plan of using a chromebook + cloud really shines wrt dynamic resource changes. I've been playing around w Anaconda recently, which is an enormous installation. I ran out of storage with the default Cloud9 configuration (8GB) 
+This whole plan of using a chromebook + cloud really shines wrt dynamic resource changes. I've been playing around with large data sets recently using [Anaconda](https://www.anaconda.com/download/#linux), and ran out of storage with the default Cloud9 configuration (8GB). [Upgrading the EBS "volume"](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/console-modify.html) to 16GB was fast and easy (once I found it):
+
+1. open the EC2 console
+1. stop the EC2 instance created by Cloud9
+1. in the left column, find Elastic Block Store > Volumes
+1. ctrl click on the volume and select modify
 
 ## Shell
 
