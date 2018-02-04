@@ -1,11 +1,12 @@
 ---
 title: "Walnut Guild \U0001F333"
 layout: post
-date: 2018-01-27 14:54:40 -0800
+date: 2018-02-04 14:15:53 -0800
 tags:
 - permaculture
 - walnut
 - juglone
+- privet
 ---
 A large black walnut tree lives in the back yard.
 
@@ -55,6 +56,7 @@ Here are the plants I've tried:
 | [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | California horkelia | Ground | 4 | 1 | 3 | 1 | Hasn't flowered or spread. Suspect more sun needed |
 | [Hydrangea macrophylla](https://www.inaturalist.org/taxa/122034-Hydrangea-macrophylla) | Hydrangea | Shrub | 1 | 3 | 3 | 1 | A tall shrub growing in shade when I moved in. Declining health perhaps due to low water or sun |
 | [Iris douglasiana](https://www.inaturalist.org/taxa/50854-Iris-douglasiana) | Douglas Iris | Shrub | 4 | 1 | 3 | 1 | Planted two. One died. The other's leaves look good, but it hasn't flowered. There's another iris nearby that's flowering, for comparison. Juglone tolerant per [^PennState] |
+| [Ligustrum japonicum](https://www.inaturalist.org/taxa/77739-Ligustrum-japonicum) | Japanese Privet | Low tree | 5 | 1 | 2 | 1 | Predates my arrival. Healthy/invasive. | 
 | [Lupinus arboreus](https://www.inaturalist.org/taxa/61010-Lupinus-arboreus) | Yellow bush lupine | Shrub |  | 1 | 4 | 1 | New planting in a relatively sunny spot🤞 I read somewhere nitrogen fixers are generally juglone-tolerant |
 | [Lupinus variicolor](https://www.inaturalist.org/taxa/61018-Lupinus-variicolor) | Varied lupine | Shrub |  | 1 | 4 | 1 | As above |
 | [Mimulus aurantiacus](https://www.inaturalist.org/taxa/48858-Mimulus-aurantiacus) | Bush monkeyflower | Shrub | 4 | 3 | 2 | 1 | Planted in shade. Leaves and growth look good, but waiting for flowers |
