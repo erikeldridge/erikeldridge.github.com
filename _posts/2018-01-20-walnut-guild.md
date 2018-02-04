@@ -15,7 +15,7 @@ I would like to find California native companion plants for it, but have had a d
 
 Something about the soil makes me think it's poor. It's clay to begin with, but also full of gravel, construction debris and covered by barrier plastic and pea gravel, pavers and bricks in many places. Few things grow well.
 
-The walnut and neighboring buildings cast the yard in shade. California is frequently in drought, so it's dry. I've recently learned walnuts are [allelopathic](https://en.wikipedia.org/wiki/Allelopathy).
+The walnut and neighboring buildings cast the yard in shade. California is frequently in drought, so it's dry. I've recently learned walnuts are [allelopathic](https://en.wikipedia.org/wiki/Allelopathy), releasing the toxin [juglone](https://en.wikipedia.org/wiki/Juglone). An arborist we consulted regarding the health of the walnut wasn't too concerned about juglone toxicity wrt other trees in the yard, fwiw.
 
 [The Black Walnut Dispatch](https://blackwalnutdispatch.com/the-black-walnut-society/) inspires me to take and share notes so we might all learn together.
 
@@ -44,7 +44,7 @@ Here are the plants I've tried:
 | [Asarum caudatum](https://www.inaturalist.org/taxa/52858-Asarum-caudatum) | Western wild ginger | Root | 4 | 3 | 2 | 2 | Leaves look good, but growth is slow and it hasn't flowered. I suspect it needs more water |
 | [Brugmansia arborea](https://www.inaturalist.org/taxa/126914-Brugmansia-arborea) | Trumpet flower | Low tree | 4 | 2 | 4 | 1 | Flowering and leaves look good. Suspect more sun needed |
 | [Callistemon rigidus](https://www.inaturalist.org/taxa/146916-Callistemon-rigidus) | Bottlebrush tree | Low tree | 5 | 3 | 4 | 1 | Flowers profusely year-round |
-| Citrus tangerina | Tangerine tree | Low tree | 2 | 1 | 3 | 1 | The tree produces inedible fruit and its leaves are chlorotic and sparse :( I suspect it gets insufficient sun. There's a lemon tree in the front yard that looks great, for comparison |
+| Citrus tangerina | Tangerine tree | Low tree | 2 | 1 | 3 | 1 | The tree produces inedible fruit and its leaves are chlorotic and sparse :( I suspect it gets insufficient sun. An arborist mentioned citrus trees are "hungry", so this one may just need fertilizer. There's a lemon tree in the front yard that looks great, for comparison |
 | [Camellia japonica](https://www.inaturalist.org/taxa/83056-Camellia-japonica) | Camelia | Low tree | 1 & 5 | 3 | 2-3 | 2 | Two camellias on the property outside dripline. One in good health, but one suddenly whithered. Suspecting gophers although they left the other alone. |
 | [Claytonia sibirica](https://www.inaturalist.org/taxa/55767-Claytonia-sibirica) | Candy flower | Herb | 5 | 3 | 2 | 2 | Leaves and growth look good |
 | [Clinopodium douglasii](https://www.inaturalist.org/taxa/53203-Clinopodium-douglasii) | Yerba buena | Ground | 4 | 1 | 2 | 2 | Leaves look good, but growth is slow |
@@ -66,7 +66,7 @@ Here are the plants I've tried:
 | [Oxalis pes-caprae](https://www.inaturalist.org/taxa/53169-Oxalis-pes-caprae) | Sourgrass | Herb | 5 | 1 | 2-4 | 1-2 | Under dripline. It's invasive, but in the spirit of permaculture I'm trying to learn from it. Makes me want to try a native oxalis like [Oxalis oregana](https://www.inaturalist.org/taxa/47757-Oxalis-oregana) |
 | [Pittosporum eugenioides](https://www.inaturalist.org/taxa/200847-Pittosporum-eugenioides) | Tarata | Low tree | 5 | 1 | 2 | 1 | Predates me. Healthy. Looks like a volunteer. | 
 | [Pittosporum tobira](https://www.inaturalist.org/taxa/78592-Pittosporum-tobira) | Mock orange | Low tree | 5 | 3 | 5 | 1 | Flowering and leaves look good |
-| [Prunus cerasifera](https://www.inaturalist.org/taxa/55837-Prunus-cerasifera) | Purple leaf ornamental plum | Low tree | 3 | 1 | 3 | 1 | I think this is a plum. The tree leaves regularly, but hasn't flowered and has dying branches. I suspect it was planted when the walnut was smaller and let more light through |
+| [Prunus cerasifera](https://www.inaturalist.org/taxa/55837-Prunus-cerasifera) | Purple leaf ornamental plum | Low tree | 3 | 1 | 3 | 1 | I think this is a plum. The tree leaves regularly, but hasn't flowered and has dying branches. I suspect it was planted when the walnut was smaller and let more light through. |
 | [Plantago subnuda](https://www.inaturalist.org/taxa/60223-Plantago-subnuda) | Tall coastal plantain | Herb |   | 1 | 2 | 2 | New planting🤞 |
 | [Rudbeckia californica](https://www.inaturalist.org/taxa/78896-Rudbeckia-californica) | California coneflower | Shrub | 5 | 1 | 4 | 1 | Planted in a pot (away from slugs) but in range of leaf fall |
 | [Stachys bullata](https://www.inaturalist.org/taxa/58930-Stachys-bullata) | Wood mint | Herb |  | 1 | 2 | 2 | New planting🤞 Juglone-tolerant per [^JungSeed] |
