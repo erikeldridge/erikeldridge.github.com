@@ -7,6 +7,7 @@ tags:
 - walnut
 - juglone
 - privet
+- pittosporum
 ---
 A large black walnut tree lives in the back yard.
 
@@ -56,13 +57,14 @@ Here are the plants I've tried:
 | [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | California horkelia | Ground | 4 | 1 | 3 | 1 | Hasn't flowered or spread. Suspect more sun needed |
 | [Hydrangea macrophylla](https://www.inaturalist.org/taxa/122034-Hydrangea-macrophylla) | Hydrangea | Shrub | 1 | 3 | 3 | 1 | A tall shrub growing in shade when I moved in. Declining health perhaps due to low water or sun |
 | [Iris douglasiana](https://www.inaturalist.org/taxa/50854-Iris-douglasiana) | Douglas Iris | Shrub | 4 | 1 | 3 | 1 | Planted two. One died. The other's leaves look good, but it hasn't flowered. There's another iris nearby that's flowering, for comparison. Juglone tolerant per [^PennState] |
-| [Ligustrum japonicum](https://www.inaturalist.org/taxa/77739-Ligustrum-japonicum) | Japanese Privet | Low tree | 5 | 1 | 2 | 1 | Predates my arrival. Healthy/invasive. | 
+| [Ligustrum japonicum](https://www.inaturalist.org/taxa/77739-Ligustrum-japonicum) | Japanese Privet | Low tree | 5 | 1 | 2 | 1 | Predates me. Healthy/invasive. | 
 | [Lupinus arboreus](https://www.inaturalist.org/taxa/61010-Lupinus-arboreus) | Yellow bush lupine | Shrub |  | 1 | 4 | 1 | New planting in a relatively sunny spot🤞 I read somewhere nitrogen fixers are generally juglone-tolerant |
 | [Lupinus variicolor](https://www.inaturalist.org/taxa/61018-Lupinus-variicolor) | Varied lupine | Shrub |  | 1 | 4 | 1 | As above |
 | [Mimulus aurantiacus](https://www.inaturalist.org/taxa/48858-Mimulus-aurantiacus) | Bush monkeyflower | Shrub | 4 | 3 | 2 | 1 | Planted in shade. Leaves and growth look good, but waiting for flowers |
 | [Mimulus aurantiacus](https://www.inaturalist.org/taxa/48858-Mimulus-aurantiacus) | Bush monkeyflower var ? | Shrub | 4 | 1 | 3 | 1 | A lower, spreading mimulus. Leaves and growth look good, but waiting for flowers |
 | [Nandina domestica](https://www.inaturalist.org/taxa/127010-Nandina-domestica) | Heavenly bamboo | Shrub | 5 | 2 | 3-4 | 1 | Leaves look healthy. |
 | [Oxalis pes-caprae](https://www.inaturalist.org/taxa/53169-Oxalis-pes-caprae) | Sourgrass | Herb | 5 | 1 | 2-4 | 1-2 | Under dripline. It's invasive, but in the spirit of permaculture I'm trying to learn from it. Makes me want to try a native oxalis like [Oxalis oregana](https://www.inaturalist.org/taxa/47757-Oxalis-oregana) |
+| [Pittosporum eugenioides](https://www.inaturalist.org/taxa/200847-Pittosporum-eugenioides) | Lemonwood | Low tree | 5 | 1 | 2 | 1 | Predates me. Healthy. Looks like a volunteer. | 
 | [Pittosporum tobira](https://www.inaturalist.org/taxa/78592-Pittosporum-tobira) | Mock orange | Low tree | 5 | 3 | 5 | 1 | Flowering and leaves look good |
 | [Prunus cerasifera](https://www.inaturalist.org/taxa/55837-Prunus-cerasifera) | Purple leaf ornamental plum | Low tree | 3 | 1 | 3 | 1 | I think this is a plum. The tree leaves regularly, but hasn't flowered and has dying branches. I suspect it was planted when the walnut was smaller and let more light through |
 | [Plantago subnuda](https://www.inaturalist.org/taxa/60223-Plantago-subnuda) | Tall coastal plantain | Herb |   | 1 | 2 | 2 | New planting🤞 |
