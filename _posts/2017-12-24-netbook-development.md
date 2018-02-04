@@ -1,7 +1,7 @@
 ---
 title: Netbook development
 layout: post
-date: 2018-02-03 11:09:51 -0800
+date: 2018-02-04 14:48:03 -0800
 tags:
 - netbook
 - chromebook
@@ -40,6 +40,8 @@ The Acer Chromebook 14 is highly rated on Amazon, provides 4GB ram, 32GB storage
 The keyboard, esp the space bar, is flaky compared w a mac. (On the upside, it's improving my touch-typing :)
 
 After using the chromebook for a few months, 4GB is just enough. It's great for having a few Chrome tabs open. But jumping between a dozen, esp email and slack, with a few different apps running, esp video conference, pushes the limits.
+
+Android interop is great, but not all apps work well. For example, 1Password is fine, but Slack is crashy. Also, not all apps are compatible, ie just because I have an app on my phone doesn't mean it can be installed on my chromebook. I'd guess the same would be true with a tablet.
 
 ## IDE
 
