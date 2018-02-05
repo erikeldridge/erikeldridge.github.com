@@ -1,7 +1,7 @@
 ---
 title: Netbook development
 layout: post
-date: 2018-02-04 21:51:29 -0800
+date: 2018-02-05 00:06:50 -0800
 tags:
 - netbook
 - chromebook
@@ -13,6 +13,7 @@ tags:
 - ubuntu
 - ssh
 - ec2
+- chrome-remote-desktop
 ---
 ## Context
 
@@ -92,7 +93,9 @@ I'd like to explore Android development using this set up.
 
 The first step is setting up remote desktop, so I can run Android Studio and an emulator.
 
-Amazon Linux, the OS used by Cloud9 doesn't support remote desktop, so I'll use Ubuntu. The [AMI browser on ubuntu.com](https://cloud-images.ubuntu.com/locator/ec2/) makes it easy to find an LTS (stable version) backed by HVM (recommended by [EC2 docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)) EBS (like Cloud9's configuration) in my region (close by for low latency).
+### Create instance with window manager
+
+I like Ubuntu, and there's lots of support for it. The [AMI browser on ubuntu.com](https://cloud-images.ubuntu.com/locator/ec2/) makes it easy to find an LTS (stable version) backed by HVM (recommended by [EC2 docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)) EBS (like Cloud9's configuration) in my region (close by for low latency).
 
 [EC2's getting started docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) do a good job explaining how to set up an instance with sane defaults. One caveat: I was able to launch an instance as documented, but if I tried to reuse my "chromebook" key, the instance never acquired a public IP. So, it seems I need to use an EC2 key pair, which requires a bit of finagling as chromebook's SSH app requires a private key with restricted permissions and a public key, but EC2's key pair generation only provides a private key with open permissions. Workaround:
 
@@ -105,7 +108,31 @@ Amazon Linux, the OS used by Cloud9 doesn't support remote desktop, so I'll use 
 4. In the chromebook, import these keys into the SSH app as described above
 5. SSH into the ubuntu instance using the username "ubuntu", ie as opposed to "ec2-user" for Amazon Linux.
 
+### Install Chrome Remote Desktop (CRD)
 
+The [CRD docs](https://support.google.com/chrome/answer/1649523) are pretty good, but assume you already have a desktop with Chrome running. For EC2, we need a way to bootstrap without a desktop. A couple ([1](https://productforums.google.com/forum/#!msg/chrome/CTnqSKj6uts/8xg88ribRxQJ), [2](https://productforums.google.com/d/msg/chrome/WvcFOblHMik/hGlM875QAwAJ)) Chrome support threads were helpful. Steps:
+
+1. Install a window manager:
+
+        $ sudo apt-get install xfce4
+2. Download the CRD installer and install:
+
+        $ wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
+        ...
+        $ sudo dpkg -i chrome-remote-desktop_current_amd64.deb
+3. Define \~/.chrome-remote-desktop-session:
+
+        exec /usr/sbin/lightdm-session "startxfce4"
+4. Restart CRD to load the config:
+
+        $ sudo /etc/init.d/chrome-remote-desktop restart
+5. Authenticate, register the host and set an access pin:
+
+        $ /opt/google/chrome-remote-desktop/start-host
+
+   Note: this step directs you to a url, which redirects to another url. [The auth token is a query param of the redirect url](https://askubuntu.com/questions/795703/chrome-remote-desktop-access-to-headless-ubuntu-server-16-04-machine#comment1587657_953269).
+6. Install the CRD extension on the chromebook and launch it. You should see your host listed in the "my computers" section.
+7. Click on your host and enter the access pin you defined
 
 ## Source control
 
