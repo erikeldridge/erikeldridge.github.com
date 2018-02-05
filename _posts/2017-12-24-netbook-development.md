@@ -1,7 +1,7 @@
 ---
 title: Netbook development
 layout: post
-date: 2018-02-04 14:48:03 -0800
+date: 2018-02-04 21:51:29 -0800
 tags:
 - netbook
 - chromebook
@@ -10,6 +10,9 @@ tags:
 - prototype
 - javascript
 - aws
+- ubuntu
+- ssh
+- ec2
 ---
 ## Context
 
@@ -82,6 +85,27 @@ Cloud9 provides a terminal, but I also wanted to play around with [Secure Shell]
 6. In Secure Shell, specify the Cloud9 user ("ec2-user") and hostname copied above, and import [both the public and private key](https://chromium.googlesource.com/apps/libapps/+/master/nassh/doc/FAQ.md#Can-I-connect-using-a-public-key-pair-or-certificate). (The identity field should change from "default" to "chromebook".)
 
 It took me awhile to figure out how [paste text into Secure Shell](https://chromium.googlesource.com/apps/libapps/+/master/nassh/doc/FAQ.md#How-do-I-paste-text-to-the-terminal "Secure Shell paste docs"): two-finger tap.
+
+## Remote desktop
+
+I'd like to explore Android development using this set up.
+
+The first step is setting up remote desktop, so I can run Android Studio and an emulator.
+
+Amazon Linux, the OS used by Cloud9 doesn't support remote desktop, so I'll use Ubuntu. The [AMI browser on ubuntu.com](https://cloud-images.ubuntu.com/locator/ec2/) makes it easy to find an LTS (stable version) backed by HVM (recommended by [EC2 docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)) EBS (like Cloud9's configuration) in my region (close by for low latency).
+
+[EC2's getting started docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) do a good job explaining how to set up an instance with sane defaults. One caveat: I was able to launch an instance as documented, but if I tried to reuse my "chromebook" key, the instance never acquired a public IP. So, it seems I need to use an EC2 key pair, which requires a bit of finagling as chromebook's SSH app requires a private key with restricted permissions and a public key, but EC2's key pair generation only provides a private key with open permissions. Workaround:
+
+1. Create a key pair and download the .pem file as instructed. (I'll use "admin" as a name here per the docs [recommendation to create an "Administrator" account](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html#create-an-iam-user).)
+2. Open the admin.pem file using chromebook's Text app and copy the contents
+3. In the Cloud9 terminal
+   1. Create a new file and paste the .pem contents into it
+   2. Restrict permissions (`chmod 400 admin`) and download as described above
+   3. Generate a public key (`-keygen -y -f admin > admin.pub`) and download that too
+4. In the chromebook, import these keys into the SSH app as described above
+5. SSH into the ubuntu instance using the username "ubuntu", ie as opposed to "ec2-user" for Amazon Linux.
+
+
 
 ## Source control
 
