@@ -1,7 +1,7 @@
 ---
 title: Netbook development
 layout: post
-date: 2018-02-05 00:06:50 -0800
+date: 2018-02-10 01:34:08 -0800
 tags:
 - netbook
 - chromebook
@@ -29,7 +29,7 @@ I like Chromebook's simplicity. The Pixelbook seems well-designed, but it's pric
 
 At this point I'm looking for a Chromebook with:
 
-* High ratings in general
+* High ratings in general (crowd wisdom)
 * Close to Pixelbook specs
 * Close to 15" screen
 * [Support for Android](https://sites.google.com/a/chromium.org/dev/chromium-os/chrome-os-systems-supporting-android-apps), so I can use [1Password](https://discussions.agilebits.com/discussion/67454/does-1password-work-on-a-chromebook-chrome-os)
@@ -76,14 +76,15 @@ This whole plan of using a chromebook + cloud really shines wrt dynamic resource
 
 Cloud9 provides a terminal, but I also wanted to play around with [Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo/support?hl=en) ([with "open as window" enabled](https://chromium.googlesource.com/apps/libapps/+/master/nassh/doc/FAQ.md#How-do-I-send-Ctrl_W_Ctrl_N-or-Ctrl_T-to-the-terminal), so I can use ctrl-w and have more conventional alt-tab navigation). Here's what worked for me:
 
-1. Use the Cloud9 terminal to generate an SSH key pair manually (I named mine "chromebook" and omitted the passphrase): `ssh-keygen -t rsa -b 2048 -v`
-2. Enable read permissions on the private key: `chmod 400 chromebook`
+1. Use the Cloud9 terminal to generate an SSH key pair in your \~/.ssh dir (we can also use this key for github, bitbucket, etc; I use the default id_rsa name and omitted the passphrase): `ssh-keygen -t rsa -b 2048 -v`
+2. Enable read permissions on the private key: `chmod 400 id_rsa`
 3. Authorize the public key (Cloud9 also maintains a key there, so don't clobber the file):
 
-        echo "`cat chromebook.pub`" >> ~/.ssh/authorized_keys
-4. Download both keys (chromebook and chromebook.pub) by control-clicking on the files in Cloud9's file tree and selecting "download"
+        echo "`cat id_rsa.pub`" >> ~/.ssh/authorized_keys
+
+4. Download both keys (id_rsa and id_rsa.pub) by control-clicking on the files in Cloud9's file tree and selecting "download"
 5. Grab public DNS hostname from the EC2 console, eg ec2-51-88-231-95.us-west-2.compute.amazonaws.com (Note this changes every time the instance stops, eg via Cloud9 hibernation.)
-6. In Secure Shell, specify the Cloud9 user ("ec2-user") and hostname copied above, and import [both the public and private key](https://chromium.googlesource.com/apps/libapps/+/master/nassh/doc/FAQ.md#Can-I-connect-using-a-public-key-pair-or-certificate). (The identity field should change from "default" to "chromebook".)
+6. In Secure Shell, specify the Cloud9 user ("ec2-user") and hostname copied above, and import [both the public and private key](https://chromium.googlesource.com/apps/libapps/+/master/nassh/doc/FAQ.md#Can-I-connect-using-a-public-key-pair-or-certificate). (The identity field should change from "default" to "id_rsa".)
 
 It took me awhile to figure out how [paste text into Secure Shell](https://chromium.googlesource.com/apps/libapps/+/master/nassh/doc/FAQ.md#How-do-I-paste-text-to-the-terminal "Secure Shell paste docs"): two-finger tap.
 
@@ -97,14 +98,14 @@ The first step is setting up remote desktop, so I can run Android Studio and an 
 
 I like Ubuntu, and there's lots of support for it. The [AMI browser on ubuntu.com](https://cloud-images.ubuntu.com/locator/ec2/) makes it easy to find an LTS (stable version) backed by HVM (recommended by [EC2 docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)) EBS (like Cloud9's configuration) in my region (close by for low latency).
 
-[EC2's getting started docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) do a good job explaining how to set up an instance with sane defaults. One caveat: I was able to launch an instance as documented, but if I tried to reuse my "chromebook" key, the instance never acquired a public IP. So, it seems I need to use an EC2 key pair, which requires a bit of finagling as chromebook's SSH app requires a private key with restricted permissions and a public key, but EC2's key pair generation only provides a private key with open permissions. Workaround:
+[EC2's getting started docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) do a good job explaining how to set up an instance with sane defaults. One caveat: I was able to launch an instance as documented, but if I tried to reuse the pub key created above, the instance never acquired a public IP. So, it seems I need to use an EC2 key pair, which requires a bit of finagling as chromebook's SSH app requires a private key with restricted permissions and a public key, but EC2's key pair generation only provides a private key with open permissions. Workaround:
 
 1. Create a key pair and download the .pem file as instructed. (I'll use "admin" as a name here per the docs [recommendation to create an "Administrator" account](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html#create-an-iam-user).)
 2. Open the admin.pem file using chromebook's Text app and copy the contents
 3. In the Cloud9 terminal
-   1. Create a new file and paste the .pem contents into it
-   2. Restrict permissions (`chmod 400 admin`) and download as described above
-   3. Generate a public key (`-keygen -y -f admin > admin.pub`) and download that too
+   1. Create a new file ~/.ssh/id_rsa and paste the .pem contents into it
+   2. Restrict permissions (`chmod 400 ~/.ssh/id_rsa`) and download as described above
+   3. Generate a public key (`-keygen -y -f ~/.ssh/id_rsa > ~/.ssh/id_rsa.pub`) and download that too
 4. In the chromebook, import these keys into the SSH app as described above
 5. SSH into the ubuntu instance using the username "ubuntu", ie as opposed to "ec2-user" for Amazon Linux.
 
