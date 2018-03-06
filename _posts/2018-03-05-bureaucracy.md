@@ -17,7 +17,7 @@ LaDonna Harris identified the importance of focus and organization in her work t
 
 ## Patience
 
-I'd humbly add patience to the list. Nothing moves quickly in a bureaucracy. Pushing for fast action burns everyone out. Expanding my timeline generally seems to be the solution when I'm stressed about the pace of a project.
+Nothing moves quickly in a bureaucracy. Pushing for fast action burns everyone out. Expanding my timeline generally seems to be the solution when I'm stressed about the pace of a project.
 
 To quote [Haile Selassie, in his 1963 address to the United Nations](https://en.wikisource.org/wiki/Haile_Selassie%27s_address_to_the_United_Nations,_1963), popularized by [Bob Marley's "War"](https://www.youtube.com/watch?v=vPZydAotVOY): "we know that we shall win, as we are confident in the victory of good over evil."
 
