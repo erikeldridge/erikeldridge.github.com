@@ -147,7 +147,7 @@ In general, it's easier to estimate the cost of a small change than a large chan
 
 ### Maker & manager schedules
 
-[Paul Graham's "Maker's schedule, manager's schedule"](http://www.paulgraham.com/makersschedule.html) essay persuasively argues wricting code and meeting with people require fundamentally different forms of attention. Both are important, mutually incompatible. [Subbu Allamaraju's essay "Accept | Tentative ✓ | Decline"](https://m.subbu.org/accept-tentative-decline-f12185b31259) also addresses this topic. Carve out "no-meeting" blocks on your calendar for focus work.
+[Paul Graham's "Maker's schedule, manager's schedule"](http://www.paulgraham.com/makersschedule.html) essay persuasively argues wricting code and meeting with people require fundamentally different forms of attention. Both are important, mutually incompatible. [Subbu Allamaraju's essay "Accept &#124; Tentative ✓ &#124; Decline"](https://m.subbu.org/accept-tentative-decline-f12185b31259) also addresses this topic. Carve out "no-meeting" blocks on your calendar for focus work.
 
 ### Reduce chaos
 
