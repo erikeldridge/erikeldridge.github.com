@@ -79,9 +79,23 @@ Productive uses of this time include: moving into a support role for those still
 
 This ties into "ownership" too; rather than wait for someone to tell you what to do next, you can use the time to advance toward your goals.
 
+### Team
+
+Software development has a significant social component. We typically work in teams. We can approximate this in an academic setting by noting people we trust and work well with. This is our team.
+
+A referral from someone familiar with your work is worth a thousand applications, so keep in touch with your team. With luck, you'll have teammates working at the companies you want to work at and they can refer you in.
+
+Interviewing involves solving problems collaboratively, eg on whiteboards and shared editors. You can build experience by practicing with your team.
+
+[Write/Speak/Code's](http://www.writespeakcode.com/) identifies the value of such a group wrt building confidence by publishing professional ideas, eg via a github blog, and seeking feedback from your team before publishing to a wider audience. (Credit [@megha](https://twitter.com/megha) for attending and sharing with our team.)
+
+CSUMB has recently published [research](https://twitter.com/katieirenec/status/969274791503986689) supporting the hypothesis that a cohort improves academic performance.
+
 ### Discovery
 
-Help opportunities find you by populating a linkedin profile, which recruiters mine for leads, and hosting code on github, which interviewers can use to start establishing rapport. Follow [Write/Speak/Code's](http://www.writespeakcode.com/) example by publishing professional ideas, eg via a github blog, and seeking feedback from trusted peers, eg friends in your CS classes. (Credit [@megha](https://twitter.com/megha) for attending and sharing with our team.)
+Help opportunities find you by populating a linkedin profile, which recruiters mine for leads, and hosting code on github, which interviewers can use to start establishing rapport.
+
+Ask your team to review your code, posts, etc to improve quality and build confidence.
 
 ### Interviewing
 
@@ -129,7 +143,7 @@ In general, it's easier to estimate the cost of a small change than a large chan
 
 ### Maker & manager schedules
 
-[Paul Graham's "Maker's schedule, manager's schedule"](http://www.paulgraham.com/makersschedule.html) essay persuasively argues wricting code and meeting with people require fundamentally different forms of attention. Both are important, mutually incompatible. [Subbu Allamaraju's essay "Accept \| Tentative ✓ \| Decline"](https://m.subbu.org/accept-tentative-decline-f12185b31259) also addresses this topic. Carve out "no-meeting" blocks on your calendar for focus work.
+[Paul Graham's "Maker's schedule, manager's schedule"](http://www.paulgraham.com/makersschedule.html) essay persuasively argues wricting code and meeting with people require fundamentally different forms of attention. Both are important, mutually incompatible. [Subbu Allamaraju's essay "Accept | Tentative ✓ | Decline"](https://m.subbu.org/accept-tentative-decline-f12185b31259) also addresses this topic. Carve out "no-meeting" blocks on your calendar for focus work.
 
 ### Reduce chaos
 
