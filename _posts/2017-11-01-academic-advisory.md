@@ -37,13 +37,17 @@ Nurture the tech community near campus by hosting events like hack days, unconfe
 
 ### One thing well
 
-The ["one thing well"](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well) phrasing comes from Unix philosophy, but I think it works for career planning too. Pick something interesting to you and bias towards it, eg I want to develop mobile apps. Use this to guide your career, eg the classes you pick, questions you ask, interview questions you practice, code you push to github, tldr on your resume, meetups you attend, projects you volunteer for etc. This is what's described as having "passion" for a topic, a "north star", or "goals" :)
+The ["one thing well"](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well) phrasing comes from Unix philosophy, but I think it works for career planning too. Pick something interesting to you and bias towards it, eg I want to develop mobile apps. Use this to guide your career, eg the classes you pick, questions you ask, interview questions you practice, code you push to github, tldr on your resume, meetups you attend, projects you volunteer for etc. This is what's described as having "passion" for a topic, aka "north star", "focus", "objective", "goal".
 
-You can always tune this focal point, eg I want to develop mobile apps --> I want to develop apps on Android, but consistency will help push back against day-to-day distractions.
+Finding interesting things is often a matter of luck, so take note of anything you enjoy doing. Ideally, you'll be paid to do something you enjoy. We can help ensure this happens by searching for jobs involving our interests, and focusing on the areas of overlap, aka "target roles". Once you find one, bias towards the required skills, so you'll be best prepared when opportunity comes along.
 
-Actually being able to do this thing full time for work is also a matter of luck, but you'll be best prepared when opportunity comes along.
+You can always tune your focal point, eg I want to develop mobile apps --> I want to develop apps on Android, but consistency will help push back against day-to-day distractions.
 
 "T-shaped" focus refers to doing one thing well, but being aware of related skills, eg I specialize in Android, but I'm familiar w service development enough to help debug network requests made from my Android app.
+
+### Target role
+
+When in school, a specific job description can help us set reasonable goals. In the workplace, we often use a career ladder for the same purpose. These are "target roles". They're a balance of what we ideally want to do and what someone will pay us to do.
 
 ### Log
 
