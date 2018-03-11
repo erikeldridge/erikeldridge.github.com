@@ -1,13 +1,12 @@
 ---
 title: Adventures in academic advisory
-date: 2017-11-01 05:04:42.944000000 Z
+date: 2018-03-10 17:33:32 -0800
 tags:
 - academic
 - advisory
 - interests
 layout: post
 ---
-
 ## Problem
 
 How can students in a standard CS program prepare for the job market, and how can faculty help them prepare, in a way that's efficient for all involved (students, faculty, industry)?
@@ -38,11 +37,39 @@ Nurture the tech community near campus by hosting events like hack days, unconfe
 
 ### One thing well
 
-The ["one thing well"](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well) phrasing comes from Unix philosophy, but I think it works for career planning too. Pick something interesting to you and bias towards it, eg I want to develop mobile apps. Use this to guide your career, eg the classes you pick, questions you ask, interview questions you practice, code you push to github, tldr on your resume, meetups you attend, projects you volunteer for etc. This is what's described as having "passion" for a topic, or "goals" :) You can always tune this focal point, eg I want to develop mobile apps --> I want to develop apps on Android.
+The ["one thing well"](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well) phrasing comes from Unix philosophy, but I think it works for career planning too. Pick something interesting to you and bias towards it, eg I want to develop mobile apps. Use this to guide your career, eg the classes you pick, questions you ask, interview questions you practice, code you push to github, tldr on your resume, meetups you attend, projects you volunteer for etc. This is what's described as having "passion" for a topic, a "north star", or "goals" :)
+
+You can always tune this focal point, eg I want to develop mobile apps --> I want to develop apps on Android, but consistency will help push back against day-to-day distractions.
 
 Actually being able to do this thing full time for work is also a matter of luck, but you'll be best prepared when opportunity comes along.
 
 "T-shaped" focus refers to doing one thing well, but being aware of related skills, eg I specialize in Android, but I'm familiar w service development enough to help debug network requests made from my Android app.
+
+### Log
+
+Regularly noting what I work on has a couple benefits:
+
+1. Artifacts of work, eg git log entries, task tracking cards, etc, may not succinctly capture the intent of a significant project, ie they're often too granular
+2. I often forget what I worked on, and who I worked with, over time
+
+I find a weekly log in a doc to be just right. I can review last week's entry on Monday to remember what I was working on, and I can review the log on Friday to add details. Note how this aligns with the Agile pattern of kickoff and demo. Making the log public to my team also helps provide context if I'm unavailable.
+
+I like this format:
+
+    2018-02-04
+    
+    Auth project
+    * Fixed bug 123 with Sarah and Sidhant preventing people from signing in: git.io/a1s2d
+    * Continued adding auth-specific config to remote config response so we can control steps in the flow
+    ...
+    
+    Organization
+    * Interviewed three candidates for Android role
+    ...
+
+Periodically aggregating this log makes it easier to keep a resume up to date, and can highlight patterns. I like quarterly aggregation, which aligns with a biannual feedback cycle commonly used by large companies. For contrast, without a log, I'd have to think back over six months and try to remember what I did to argue persuasively for a raise.
+
+I collect aggregates in a spreadsheet, which enables me to group by date, keyword, project, goal and/or collaborator, so I can gauge progress against a career ladder and structure for a resume.
 
 ### Sharpening the saw
 
@@ -68,7 +95,7 @@ Two consistently high-performing groups of people I've interviewed are Waterloo 
 
 Interviewing is similar to pair programming in that two are involved, but one person is "driving". The interviewer may look to you for motivation, eg "Is this applicant self-motivated?", be inexperienced and/or slammed with work, so prepare to humbly take a lead role in identifying the problem, implementing the solution and asserting correctness.
 
-Typically, a hiring team will schedule an initial phone interview using a shared text editor like [collabedit](http://collabedit.com/), and then invite the applicant onsite for a day of in-person interviews with ~5 engineers and managers. At this point, practice is less important than responsiveness to coordination emails and getting sufficient food and sleep to think clearly under pressure, especially since we often interview with multiple companies in unfamiliar places simultaneously.
+Typically, a hiring team will schedule an initial phone interview using a shared text editor like [collabedit](http://collabedit.com/), and then invite the applicant onsite for a day of in-person interviews with \~5 engineers and managers. At this point, practice is less important than responsiveness to coordination emails and getting sufficient food and sleep to think clearly under pressure, especially since we often interview with multiple companies in unfamiliar places simultaneously.
 
 Interviews are also intended to give applicants a chance to see if the team seems like a good fit, so prepare questions, eg "What is your development process like?", "Do you use any externally-available tools I can learn about before I join?", "Are there any tools/patterns you use you think everyone should know about?"
 
@@ -100,20 +127,12 @@ In general, it's easier to estimate the cost of a small change than a large chan
 
 ### Maker & manager schedules
 
-[Paul Graham's "Maker's schedule, manager's schedule"](http://www.paulgraham.com/makersschedule.html) essay persuasively argues wricting code and meeting with people require fundamentally different forms of attention. Both are important, mutually incompatible. [Subbu Allamaraju's essay "Accept \| Tentative ✓ \| Decline"](https://m.subbu.org/accept-tentative-decline-f12185b31259) also addresses this topic. Carve out "no-meeting" blocks on your calendar for focus work.
+[Paul Graham's "Maker's schedule, manager's schedule"](http://www.paulgraham.com/makersschedule.html) essay persuasively argues wricting code and meeting with people require fundamentally different forms of attention. Both are important, mutually incompatible. [Subbu Allamaraju's essay "Accept | Tentative ✓ | Decline"](https://m.subbu.org/accept-tentative-decline-f12185b31259) also addresses this topic. Carve out "no-meeting" blocks on your calendar for focus work.
 
 ### Reduce chaos
 
-I first heard this phrase in the context of advancing a tech ladder ([example ladder](https://github.com/urbanairship/techladder/blob/master/eng.md)), eg senior engineers reduce chaos from a system, but I think it's broadly applicable for career (and life) planning: identifying a personal career goal to buffer against corporate goal fluctuation; saving an emergency fund to buffer against employment fluctuation; diversifying investments to avoid single points of failure; etc.
+I first heard this phrase in the context of advancing a tech ladder ([example ladder](https://github.com/urbanairship/techladder/blob/master/eng.md)), eg senior engineers reduce chaos from a system, but I think it's broadly applicable for career (and life) planning: identifying a personal career goal (see "one thing well" above) to buffer against corporate goal fluctuation; saving an emergency fund to buffer against employment fluctuation; diversifying investments to avoid single points of failure; etc.
 
 ### Pre-college
 
 From [article on Vietnamese education](http://neil.fraser.name/news/2013/03/16/) wrt Google’s hiring criteria: "There is no question that half of the students in that grade 11 class could pass the Google interview process."
-
-
-
-
-
-
-
-
