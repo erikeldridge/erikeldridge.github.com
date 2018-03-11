@@ -71,7 +71,7 @@ I like this format:
     * Interviewed three candidates for Android role
     ...
 
-Periodically aggregating this log makes it easier to keep a resume up to date, and can highlight patterns. I like quarterly aggregation, which aligns with a biannual feedback cycle commonly used by large companies. For contrast, without a log, I'd have to think back over six months and try to remember what I did to argue persuasively for a raise.
+Periodically aggregating this log makes it easier to keep a resume up to date, and can highlight patterns, eg am I tracking toward my target role? I like quarterly aggregation, which aligns with a biannual feedback cycle commonly used by large companies. For contrast, without a log, I'd have to think back over six months and try to remember what I did to argue persuasively for a raise.
 
 I collect aggregates in a spreadsheet, which enables me to group by date, keyword, project, goal and/or collaborator, so I can gauge progress against a career ladder and structure for a resume.
 
