@@ -85,13 +85,13 @@ This ties into "ownership" too; rather than wait for someone to tell you what to
 
 ### Team
 
-Software development has a significant social component. We typically work in teams. We can approximate this in an academic setting by noting people we trust and work well with. This is our team.
+Software development has a significant social component. We typically work in teams. We can approximate this in an academic setting by noting people we trust and work well with.
 
 A referral from someone familiar with your work is worth a thousand applications, so keep in touch with your team. With luck, you'll have teammates working at the companies you want to work at and they can refer you in.
 
 Interviewing involves solving problems collaboratively, eg on whiteboards and shared editors. You can build experience by practicing with your team.
 
-[Write/Speak/Code's](http://www.writespeakcode.com/) identifies the value of such a group wrt building confidence by publishing professional ideas, eg via a github blog, and seeking feedback from your team before publishing to a wider audience. (Credit [@megha](https://twitter.com/megha) for attending and sharing with our team.)
+[Write/Speak/Code](http://www.writespeakcode.com/) identifies the value of such a group wrt building confidence by publishing professional ideas, eg via a github blog, and seeking feedback from your team before publishing to a wider audience. (Credit [@megha](https://twitter.com/megha) for attending and sharing with our team.)
 
 CSUMB has recently published [research](https://twitter.com/katieirenec/status/969274791503986689) supporting the hypothesis that a cohort improves academic performance.
 
