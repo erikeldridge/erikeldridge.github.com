@@ -24,7 +24,7 @@ Aside, I find a personal log of activity, updated weekly, helps wrt remembering 
 
 ### Structure
 
-For some reason, self-assessments are often requested in "resume format", ie structured chronologically, but reviewed in "ladder format", ie the definition of the current and next rung of the ladder. Translating from one format to the other, both by the individual (who uses the ladder for career planning) and the reviewer, is costly.
+For some reason, self-assessments are often requested in "resume format", ie structured chronologically, but reviewed in "ladder format", ie the definition of the current and next rung of the [career ladder](career-ladder). Translating from one format to the other, both by the individual (who uses the ladder for career planning) and the reviewer, is costly.
 
 So, start with a self-assessment structured around the current and next rungs of the ladder, mentioning significant collaborators by name.
 
