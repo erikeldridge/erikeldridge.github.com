@@ -1,7 +1,7 @@
 ---
 title: Bureaucracy ⛰️
 layout: post
-date: 2018-03-05 19:05:32 -0800
+date: 2018-03-25 14:49:58 -0700
 tags:
 - org
 ---
@@ -23,7 +23,11 @@ To quote [Haile Selassie, in his 1963 address to the United Nations](https://en.
 
 ## Locality
 
-Another thing that helps is decreasing the scope of a change. If it takes too much effort to gain permission to publish an idea on a shared blog, I publish on my own, and then use that to gain support.
+Another thing that helps is decreasing the scope of a change.
+
+["Sphere of influence"](http://keysconsult.com/resources/management-sanity.php) is another way of phrasing this.
+
+For example, if it takes too much effort to gain permission to publish an idea on a shared blog, I publish on my own, and then use that to gain support.
 
 ## Forgiveness
 
