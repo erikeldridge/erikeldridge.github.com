@@ -1,5 +1,5 @@
 ---
-title: Performance review
+title: "Performance review \U0001F4C8"
 layout: post
 date: 2018-03-25 00:00:00 +0000
 tags:
