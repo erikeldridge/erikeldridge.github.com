@@ -1,13 +1,13 @@
 ---
 title: Bureaucracy ⛰️
 layout: post
-date: 2018-03-25 14:49:58 -0700
+date: 2018-03-25 16:47:41 -0700
 tags:
 - org
 ---
 # Problem statement
 
-Bureaucracy, as delegated authority, has a role, but can be frustrating to work with.
+Bureaucracy, as delegated authority, has a role, esp wrt removing single points of failure, but can be frustrating to work with.
 
 # Solutions
 
