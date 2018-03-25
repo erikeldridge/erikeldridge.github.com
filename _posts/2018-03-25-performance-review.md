@@ -1,7 +1,7 @@
 ---
 title: "Performance review \U0001F4C8"
 layout: post
-date: 2018-03-25 00:00:00 +0000
+date: 2018-03-25 15:55:44 -0700
 tags:
 - org
 - management
@@ -24,9 +24,9 @@ Aside, I find a personal log of activity, updated weekly, helps wrt remembering 
 
 ### Structure
 
-For some reason, self-assessments are often requested in "resume format", ie structured chronologically, but reviewed in "ladder format", ie the definition of the current and next rung of the ladder. Translating from one format to the other, both by the individual (who uses the ladder for career planning) and the reviewer, is costly. 
+For some reason, self-assessments are often requested in "resume format", ie structured chronologically, but reviewed in "ladder format", ie the definition of the current and next rung of the ladder. Translating from one format to the other, both by the individual (who uses the ladder for career planning) and the reviewer, is costly.
 
-So, start with a self-assessment structured with around the current and next rungs of the ladder, mentioning significant collaborators by name.
+So, start with a self-assessment structured around the current and next rungs of the ladder, mentioning significant collaborators by name.
 
 Next, request peer review of this assessment from those collaborators. Ideally, they should be able to simply assert the provided description is accurate, and it should be obvious when someone is operating at the next rung of the ladder, ie eligible for promotion.
 
