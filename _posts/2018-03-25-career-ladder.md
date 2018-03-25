@@ -20,6 +20,6 @@ Here's a simple example:
 
 Each rung is broadly defined and would have an associated compensation range, eg ["pay band"](https://en.wikipedia.org/wiki/Pay_bands), providing room to grow.
 
-Given such a ladder, employees can perform their own career planning, review peers' performance against self-assessments based on a common structure, and initiate discussions regarding promotion based on an objective measure.
+Given such a ladder, employees can perform their own career planning, [review](performance-review) peers' performance against self-assessments based on a common structure, and initiate discussions regarding promotion based on an objective measure.
 
 Related, although there are management aspects to senior IC roles, I'm a fan of maintaining a distinct ladder for IC and management. ICs manage projects. Managers manage people. They collaborate continuously, but are evaluated differently.
