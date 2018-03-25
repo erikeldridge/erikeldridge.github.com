@@ -1,7 +1,7 @@
 ---
 title: Career ladder
 layout: post
-date: 2018-03-25 00:00:00 +0000
+date: 2018-03-25 16:35:44 -0700
 tags:
 - org
 - career
