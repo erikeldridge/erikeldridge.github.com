@@ -15,7 +15,7 @@ I would like to find California native companion plants for it, but have had a d
 
 Something about the soil makes me think it's poor. It's clay to begin with, but also full of gravel, construction debris and covered by barrier plastic and pea gravel, pavers and bricks in many places. Few things grow well.
 
-The walnut and neighboring buildings cast the yard in shade. California is frequently in drought, so it's dry. I've recently learned walnuts are [allelopathic](https://en.wikipedia.org/wiki/Allelopathy), releasing the toxin [juglone](https://en.wikipedia.org/wiki/Juglone). An arborist we consulted regarding the health of the walnut wasn't too concerned about juglone toxicity wrt other trees in the yard, fwiw.
+The walnut and neighboring buildings cast the yard in shade. California is frequently in drought, so it's dry. I've recently learned walnuts are [allelopathic](https://en.wikipedia.org/wiki/Allelopathy), releasing the toxin [juglone](https://en.wikipedia.org/wiki/Juglone). Fwiw, neither an arborist we consulted regarding the health of the walnut, nor the city arborist, expressed concern about juglone toxicity wrt other trees in the yard.
 
 [The Black Walnut Dispatch](https://blackwalnutdispatch.com/the-black-walnut-society/) inspires me to take and share notes so we might all learn together.
 
@@ -48,7 +48,7 @@ Here are the plants I've tried:
 | [Camellia japonica](https://www.inaturalist.org/taxa/83056-Camellia-japonica) | Camelia | Low tree | 1 & 5 | 3 | 2-3 | 2 | Two camellias on the property outside dripline. One in good health, but one suddenly whithered. Suspecting gophers although they left the other alone. |
 | [Claytonia sibirica](https://www.inaturalist.org/taxa/55767-Claytonia-sibirica) | Candy flower | Herb | 5 | 3 | 2 | 2 | Leaves and growth look good |
 | [Clinopodium douglasii](https://www.inaturalist.org/taxa/53203-Clinopodium-douglasii) | Yerba buena | Ground | 4 | 1 | 2 | 2 | Leaves look good, but growth is slow. Spring rain didn't improve. Suspect more sun needed |
-| Dicentra formosa | Bleeding heart | 5 | 1 | 2 | 2 | Planted two. Died back completely after summer, but rebounded vigorously after Spring rain |
+| [Dicentra formosa](https://www.inaturalist.org/taxa/51048-Dicentra-formosa) | Bleeding heart | 5 | 1 | 2 | 2 | Planted two. Died back completely after summer, but resprouted and spread vigorously after Spring rain |
 | [Dietes iridioides](https://www.inaturalist.org/taxa/129407-Dietes-iridioides) | African iris | Shrub | 5 | 1 | 3 | 1 | Flowers and seeds readily. Juglone tolerant per [^PennState] |
 | [Festuca californica](https://www.inaturalist.org/taxa/57169-Festuca-californica)  | California fescue | Ground |  | 1 | 2 | 1 | New planting🤞 |
 | [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | 3 | 1 | 3 | 1 | Spreading and leaves look good, but not flowering. Suspect more sun needed |
