@@ -10,7 +10,7 @@ tags:
 - pittosporum
 - juglone
 ---
-A large black walnut tree lives in the back yard.
+A large [black walnut tree](https://www.laspilitas.com/nature-of-california/plants/363--juglans-californica) lives in the back yard.
 
 I would like to find California native companion plants for it, but have had a difficult time.
 
