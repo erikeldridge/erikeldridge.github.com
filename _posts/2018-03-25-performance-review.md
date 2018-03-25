@@ -1,7 +1,7 @@
 ---
 title: "Performance review \U0001F4C8"
 layout: post
-date: 2018-03-25 15:55:44 -0700
+date: 2018-03-25 16:41:33 -0700
 tags:
 - org
 - management
@@ -25,6 +25,8 @@ Aside, I find a personal log of activity, updated weekly, helps wrt remembering 
 ### Structure
 
 For some reason, self-assessments are often requested in "resume format", ie structured chronologically, but reviewed in "ladder format", ie the definition of the current and next rung of the [career ladder](career-ladder). Translating from one format to the other, both by the individual (who uses the ladder for career planning) and the reviewer, is costly.
+
+Aside, resumes are also often reviewed with an implicit ladder in mind, eg "Is there evidence this individual progressed in prior roles?", ie in addition to reviews for evidence of technical skill appropriate for the hiring role. I wonder if an external resume could be structured using ladder format and still be effective.
 
 So, start with a self-assessment structured around the current and next rungs of the ladder, mentioning significant collaborators by name.
 
