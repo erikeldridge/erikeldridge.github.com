@@ -30,7 +30,7 @@ So, start with a self-assessment structured around the current and next rungs of
 
 Next, request peer review of this assessment from those collaborators. Ideally, they should be able to simply assert the provided description is accurate, and it should be obvious when someone is operating at the next rung of the ladder, ie eligible for promotion.
 
-Simplify review collection to minimize decision fatigue for reviewers. For example, asking how each peer is performing on 10 point scale, along four axes, phrased two different ways, may be helpful for statistical analysis, but it's hard on the reviewer; instead, ask what rung the peer is performing at and with high/low confidence.
+Simplify review collection to minimize decision fatigue for reviewers. For example, asking how each peer is performing on 10 point scale, along four axes, phrased two different ways, may be helpful for statistical analysis, but it's hard on the reviewer, as compared with asking what rung the peer is performing at and with high/low confidence.
 
 ### Goals
 
