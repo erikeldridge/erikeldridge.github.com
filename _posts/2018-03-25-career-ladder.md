@@ -7,7 +7,7 @@ tags:
 - career
 - management
 ---
-I've found a career ladder helpful for structuring my professional development and making promotion discussions more objective.
+I've found a [career ladder](https://en.wikipedia.org/wiki/Career_ladder) helpful for structuring my professional development and making promotion discussions more objective.
 
 Here's a simple example:
 
