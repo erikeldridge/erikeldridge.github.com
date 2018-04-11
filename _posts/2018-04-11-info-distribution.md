@@ -1,13 +1,13 @@
 ---
 title: Info distribution
 layout: post
-date: 2018-04-11 00:00:00 +0000
+date: 2018-04-11 01:20:42 -0700
 tags:
 - org
 ---
 # Problem
 
-How to share information with a group?
+How to share one-way information with a group?
 
 # Solution
 
