@@ -9,6 +9,8 @@ tags:
 
 How to share one-way information with a group?
 
+Note this is distinct from documentation, which is better organized thematically, eg READMEs, and discussion, which benefits from concision and dynamism, eg Slack.
+
 # Solution
 
 ## Blog
