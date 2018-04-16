@@ -89,11 +89,11 @@ It took me awhile to figure out how [paste text into Secure Shell](https://chrom
 
 EBS-backed EC2 instances, like Cloud9, persist to EBS on shutdown, so public keys are durable for use w services like Github, BitBucket, etc.
 
-## EC2
+## Compute
 
-Cloud9 is nice, but sometimes I'd like to work with EC2 directly.
+Cloud9 is nice, but sometimes I'd like to work with the [compute](/compute) layer directly.
 
-### Create instance
+### EC2
 
 Click the "create instance" button on the EC2 dashboard.
 
@@ -111,13 +111,11 @@ Note: the names of the security group and key pair are arbitrary.
 
 The admin.pem downloaded when creating a key pair isn't immediately usable in this chromebook setup. We need a key pair and the private key needs to be readable.
 
-So, launch a Cloud9 session, create a file called "admin", copy/paste the pem file contents in it, and grant read permissions, eg `chmod 400 admin`. 
+So, launch a Cloud9 session, create a file called "admin", copy/paste the pem file contents in it, and grant read permissions, eg `chmod 400 admin`.
 
 Create a public key from the private key: `ssh-keygen -y -f admin > admin.pub`.
 
 Download "admin" and "admin.pub" to the chromebook and use it with the Secure Shell, as described above.
-
-Note: we could reuse this same approach for SSH access to the Cloud9 instance, ie instead of creating the id_rsa pair described above.
 
 ## Remote desktop
 
@@ -135,8 +133,8 @@ I like Ubuntu, and there's lots of support for it. The [AMI browser on ubuntu.co
 2. Open the admin.pem file using chromebook's Text app and copy the contents
 3. In the Cloud9 terminal
    1. Create a new file \~/.ssh/id_rsa and paste the .pem contents into it
-   2. Restrict permissions (`chmod 400 \\\~/.ssh/id_rsa`) and download as described above
-   3. Generate a public key (`-keygen -y -f \\\~/.ssh/id_rsa > \\\~/.ssh/id_rsa.pub`) and download that too
+   2. Restrict permissions (`chmod 400 \\\\\\\~/.ssh/id_rsa`) and download as described above
+   3. Generate a public key (`-keygen -y -f \\\\\\\~/.ssh/id_rsa > \\\\\\\~/.ssh/id_rsa.pub`) and download that too
 4. In the chromebook, import these keys into the SSH app as described above
 5. SSH into the ubuntu instance using the username "ubuntu", ie as opposed to "ec2-user" for Amazon Linux.
 
