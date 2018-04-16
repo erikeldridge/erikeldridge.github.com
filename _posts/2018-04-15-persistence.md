@@ -61,11 +61,13 @@ Test access:
 
 In Node (following [Heroku's lead](https://devcenter.heroku.com/articles/getting-started-with-nodejs#provision-a-database) and using [node postgres](https://node-postgres.com/features/queries)):
 
-    const { Pool } = require('pg');
-    const pool = new Pool({
-      connectionString: process.env.DATABASE_URL
-    })  
-    const result = pool.query('select * from users;', (err, res) => {
-      console.log(err, res.rows)
-      pool.end()
-    })
+```js
+const { Pool } = require('pg');
+const pool = new Pool({
+  connectionString: process.env.DATABASE_URL
+})  
+const result = pool.query('select * from users;', (err, res) => {
+  console.log(err, res.rows)
+  pool.end()
+})
+```
