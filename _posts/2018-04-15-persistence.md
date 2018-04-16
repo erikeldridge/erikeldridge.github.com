@@ -26,18 +26,26 @@ Create a database:
 
 	create database foo;
 
-Create table:
-
-	create table users (id int, name text, primary key(id));
-
 Create service user (for service that's going to call db):
 
 	create user api_user with encrypted password 'bar';
-
+    
 Give service user access to db:
 
 	grant connect on database foo to api_user;
     grant usage on schema public to api_user;
+
+Exit and connect to new db:
+
+	\q
+    psql foo
+
+Create table in database:
+
+	create table users (id int, name text, primary key(id));
+
+Give service user access to table:
+
     grant select on users to api_user;
 
 Exit psql:
