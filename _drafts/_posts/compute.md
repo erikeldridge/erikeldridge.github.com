@@ -13,4 +13,4 @@ In terms of a toolkit, this is a fundamental component, ie I can create a servic
 
 EC2 and Google Cloud both provide a great service.
 
-For VMs, I prefer Ubuntu 16.04, mostly just because it has an organization (Canonical) behind it. 
+For VMs, I prefer Ubuntu 16.04, mostly just because it has an organization (Canonical) behind it.
