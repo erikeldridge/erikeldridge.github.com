@@ -1,16 +1,16 @@
 ---
 title: Sentiment survey
 layout: post
-date: 2018-04-11 00:00:00 +0000
+date: 2018-04-16 00:18:34 -0700
 tags:
 - org
 - data
 ---
-# Problem
+## Problem
 
 How do people in a group feel about the group? How to collect this sentiment in a non-threatening way?
 
-# Solution
+## Solution
 
 Periodically survey to gauge sentiment, eg do you enjoy working here? Can you do your job effectively?
 
