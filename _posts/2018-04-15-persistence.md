@@ -24,9 +24,10 @@ Launch postgres cli (psql; as "postgres" user):
 	sudo -i -u postgres
     psql -U postgres
 
-Create a database:
+Create a database and connect to it:
 
 	create database foo;
+    \connect foo
 
 Create service user (for service that's going to call db):
 
@@ -36,11 +37,6 @@ Give service user access to db:
 
 	grant connect on database foo to api_user;
     grant usage on schema public to api_user;
-
-Exit and connect to new db:
-
-	\q
-    psql foo
 
 Create table in database:
 
