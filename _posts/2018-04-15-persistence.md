@@ -1,5 +1,5 @@
 ---
-title: "persistence \U0001F3E6"
+title: "Persistence \U0001F3E6"
 layout: post
 date: 2018-04-15 00:00:00 +0000
 tags:
