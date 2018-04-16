@@ -1,19 +1,19 @@
 ---
 title: Info distribution
 layout: post
-date: 2018-04-11 01:20:42 -0700
+date: 2018-04-16 00:19:06 -0700
 tags:
 - org
 ---
-# Problem
+## Problem
 
 How to share one-way information with a group?
 
 Note this is distinct from documentation, which is better organized thematically, eg READMEs, and discussion, which benefits from concision and dynamism, eg Slack.
 
-# Solution
+## Solution
 
-## Blog
+### Blog
 
 I generally prefer "pull" over "push" wrt info distribution. For example, I prefer to search for what I need when I need it rather than attend broadcast meetings, subscribe to updates, etc and then filter content.
 
@@ -31,18 +31,18 @@ I'm a fan of pushing all group updates through the same blog to maximize discove
 
 When composing posts, focus on meaning rather than raw data, and tie interpretation to goals for consistency and coordination, to increase signal/noise ratio.
 
-## Newsletter
+### Newsletter
 
 If we are going to broadcast, I prefer an aggregation. Ideally, this could simply be a generated summary, eg blog posts from the past week.
 
 Newsletters form an effective structure for a meeting agenda, eg our group meets once a week and reviews changes (as reflected in the newsletter).
 
-## Bathroom flyers
+### Bathroom flyers
 
 This is low tech, but scalable and effective. Install a flyer display bracket in bathroom stalls and post group news there, eg the newsletter, a particular blog post, etc. Assign an evangelist per gender per building/floor to update the flyers periodically.
 
 Aside: task delegation seems to be a good use of the push model.
 
-## Meeting room flyers
+### Meeting room flyers
 
 Like flyers in bathrooms, flyers in meeting rooms also have a captive audience. 5 tips for inclusive meetings is a great example.
