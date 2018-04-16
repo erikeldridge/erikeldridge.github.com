@@ -91,7 +91,7 @@ EBS-backed EC2 instances, like Cloud9, persist to EBS on shutdown, so public key
 
 ## Compute
 
-Cloud9 is nice, but sometimes I'd like to work with the [compute](/compute) layer directly.
+Cloud9 is nice, but sometimes I'd like to work with the [compute](compute) layer directly.
 
 ### EC2
 
