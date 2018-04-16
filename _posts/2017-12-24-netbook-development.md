@@ -1,7 +1,7 @@
 ---
 title: Netbook development
 layout: post
-date: 2018-02-10 01:34:08 -0800
+date: 2018-04-15 18:41:48 -0700
 tags:
 - netbook
 - chromebook
@@ -51,9 +51,7 @@ Android interop is great, but not all apps work well. For example, 1Password is 
 
 Now that I have a screen, keyboard and internet connection, I need a machine to develop on. A colleague recommended [Cloud9](https://aws.amazon.com/cloud9/), which layers a Web-based IDE on EC2.
 
-I have little experience with AWS, but [Amazon estimates the cost at \~$2/mo](https://aws.amazon.com/cloud9/pricing/), which also seems like a reasonable amount to experiment with. I created a budget for $10/mo just in case.
-
-Cloud9 provides an "auto-hibernation" setting to save cost. This appears to stop the associated EC2 instance. Opening the IDE after manually stopping the instance restarts it.
+Cloud9 provides an "auto-hibernation" setting, which stops the associated EC2 instance,  to save cost. Opening the IDE after manually stopping the instance restarts it.
 
 Cloud9 configures EC2 and EBS, but I remember seeing a doc mention security is still our responsibility. The [Node docs](http://docs.aws.amazon.com/cloud9/latest/user-guide/sample-nodejs.html) describe an easy way to stay up to date: `sudo yum -y update`.
 
@@ -81,9 +79,8 @@ Cloud9 provides a terminal, but I also wanted to play around with [Secure Shell]
 3. Authorize the public key (Cloud9 also maintains a key there, so don't clobber the file):
 
         echo "`cat id_rsa.pub`" >> ~/.ssh/authorized_keys
-
 4. Download both keys (id_rsa and id_rsa.pub) by control-clicking on the files in Cloud9's file tree and selecting "download"
-5. Grab public DNS hostname from the EC2 console, eg ec2-51-88-231-95.us-west-2.compute.amazonaws.com (Note this changes every time the instance stops, eg via Cloud9 hibernation.)
+5. Grab public DNS hostname from the EC2 console, eg ec2-51-88-231-95.us-west-2.compute.amazonaws.com (Note this changes every time the instance stops.)
 6. In Secure Shell, specify the Cloud9 user ("ec2-user") and hostname copied above, and import [both the public and private key](https://chromium.googlesource.com/apps/libapps/+/master/nassh/doc/FAQ.md#Can-I-connect-using-a-public-key-pair-or-certificate). (The identity field should change from "default" to "id_rsa".)
 
 It took me awhile to figure out how [paste text into Secure Shell](https://chromium.googlesource.com/apps/libapps/+/master/nassh/doc/FAQ.md#How-do-I-paste-text-to-the-terminal "Secure Shell paste docs"): two-finger tap.
@@ -103,9 +100,9 @@ I like Ubuntu, and there's lots of support for it. The [AMI browser on ubuntu.co
 1. Create a key pair and download the .pem file as instructed. (I'll use "admin" as a name here per the docs [recommendation to create an "Administrator" account](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html#create-an-iam-user).)
 2. Open the admin.pem file using chromebook's Text app and copy the contents
 3. In the Cloud9 terminal
-   1. Create a new file ~/.ssh/id_rsa and paste the .pem contents into it
-   2. Restrict permissions (`chmod 400 ~/.ssh/id_rsa`) and download as described above
-   3. Generate a public key (`-keygen -y -f ~/.ssh/id_rsa > ~/.ssh/id_rsa.pub`) and download that too
+   1. Create a new file \~/.ssh/id_rsa and paste the .pem contents into it
+   2. Restrict permissions (`chmod 400 \~/.ssh/id_rsa`) and download as described above
+   3. Generate a public key (`-keygen -y -f \~/.ssh/id_rsa > \~/.ssh/id_rsa.pub`) and download that too
 4. In the chromebook, import these keys into the SSH app as described above
 5. SSH into the ubuntu instance using the username "ubuntu", ie as opposed to "ec2-user" for Amazon Linux.
 

@@ -16,6 +16,7 @@ pages:
 - _posts/blog-text-extraction.md
 - _posts/2017-11-23-strong-opinions-loosely-held.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
