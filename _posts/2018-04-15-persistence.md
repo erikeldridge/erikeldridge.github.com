@@ -60,7 +60,7 @@ Exit "postgres" user:
 
 Test access:
 
-	DATABASE_URL=postgres://api_user:bar@localhost:5432/foo
+	export DATABASE_URL=postgres://api_user:bar@localhost:5432/foo
 	psql $DATABASE_URL
 
 In Node (following [Heroku's lead](https://devcenter.heroku.com/articles/getting-started-with-nodejs#provision-a-database) and using [node postgres](https://node-postgres.com/features/queries)):
