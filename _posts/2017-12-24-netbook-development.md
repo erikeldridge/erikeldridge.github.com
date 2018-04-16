@@ -107,8 +107,6 @@ Create an "admin" key pair at the prompt.
 
 Note: the names of the security group and key pair are arbitrary.
 
-### SSH
-
 The admin.pem downloaded when creating a key pair isn't immediately usable in this chromebook setup. We need a key pair and the private key needs to be readable.
 
 So, launch a Cloud9 session, create a file called "admin", copy/paste the pem file contents in it, and grant read permissions, eg `chmod 400 admin`.
