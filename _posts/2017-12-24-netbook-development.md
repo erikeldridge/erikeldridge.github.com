@@ -87,7 +87,7 @@ It took me awhile to figure out how [paste text into Secure Shell](https://chrom
 
 ## Source control
 
-EBS-backed EC2 instances, like Cloud9, persist to EBS on shutdown, so SSH key pairs are durable.
+EBS-backed EC2 instances, like Cloud9, persist to EBS on shutdown, so public keys are durable for use w services like Github, BitBucket, etc.
 
 ## EC2
 
