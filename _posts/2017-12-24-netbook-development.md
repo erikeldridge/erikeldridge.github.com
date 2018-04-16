@@ -1,7 +1,7 @@
 ---
 title: Netbook development
 layout: post
-date: 2018-04-15 18:41:48 -0700
+date: 2018-04-15 19:34:35 -0700
 tags:
 - netbook
 - chromebook
@@ -70,7 +70,7 @@ This whole plan of using a chromebook + cloud really shines wrt dynamic resource
 3. in the left column, find Elastic Block Store > Volumes
 4. ctrl click on the volume and select modify
 
-## Shell
+## SSH
 
 Cloud9 provides a terminal, but I also wanted to play around with [Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo/support?hl=en) ([with "open as window" enabled](https://chromium.googlesource.com/apps/libapps/+/master/nassh/doc/FAQ.md#How-do-I-send-Ctrl_W_Ctrl_N-or-Ctrl_T-to-the-terminal), so I can use ctrl-w and have more conventional alt-tab navigation). Here's what worked for me:
 
@@ -84,6 +84,40 @@ Cloud9 provides a terminal, but I also wanted to play around with [Secure Shell]
 6. In Secure Shell, specify the Cloud9 user ("ec2-user") and hostname copied above, and import [both the public and private key](https://chromium.googlesource.com/apps/libapps/+/master/nassh/doc/FAQ.md#Can-I-connect-using-a-public-key-pair-or-certificate). (The identity field should change from "default" to "id_rsa".)
 
 It took me awhile to figure out how [paste text into Secure Shell](https://chromium.googlesource.com/apps/libapps/+/master/nassh/doc/FAQ.md#How-do-I-paste-text-to-the-terminal "Secure Shell paste docs"): two-finger tap.
+
+## Source control
+
+EBS-backed EC2 instances, like Cloud9, persist to EBS on shutdown, so SSH key pairs are durable.
+
+## EC2
+
+Cloud9 is nice, but sometimes I'd like to work with EC2 directly.
+
+### Create instance
+
+Click the "create instance" button on the EC2 dashboard.
+
+I prefer to use Ubuntu, so select the general purpose 16.04 AMI.
+
+Click the "review and launch" button.
+
+Create an "ssh" security group that accepts connections from anywhere, but otherwise accept the defaults and click the "launch" button.
+
+Create an "admin" key pair at the prompt.
+
+Note: the names of the security group and key pair are arbitrary.
+
+### SSH
+
+The admin.pem downloaded when creating a key pair isn't immediately usable in this chromebook setup. We need a key pair and the private key needs to be readable.
+
+So, launch a Cloud9 session, create a file called "admin", copy/paste the pem file contents in it, and grant read permissions, eg `chmod 400 admin`. 
+
+Create a public key from the private key: `ssh-keygen -y -f admin > admin.pub`.
+
+Download "admin" and "admin.pub" to the chromebook and use it with the Secure Shell, as described above.
+
+Note: we could reuse this same approach for SSH access to the Cloud9 instance, ie instead of creating the id_rsa pair described above.
 
 ## Remote desktop
 
@@ -101,8 +135,8 @@ I like Ubuntu, and there's lots of support for it. The [AMI browser on ubuntu.co
 2. Open the admin.pem file using chromebook's Text app and copy the contents
 3. In the Cloud9 terminal
    1. Create a new file \~/.ssh/id_rsa and paste the .pem contents into it
-   2. Restrict permissions (`chmod 400 \~/.ssh/id_rsa`) and download as described above
-   3. Generate a public key (`-keygen -y -f \~/.ssh/id_rsa > \~/.ssh/id_rsa.pub`) and download that too
+   2. Restrict permissions (`chmod 400 \\\~/.ssh/id_rsa`) and download as described above
+   3. Generate a public key (`-keygen -y -f \\\~/.ssh/id_rsa > \\\~/.ssh/id_rsa.pub`) and download that too
 4. In the chromebook, import these keys into the SSH app as described above
 5. SSH into the ubuntu instance using the username "ubuntu", ie as opposed to "ec2-user" for Amazon Linux.
 
@@ -131,12 +165,6 @@ The [CRD docs](https://support.google.com/chrome/answer/1649523) are pretty good
    Note: this step directs you to a url, which redirects to another url. [The auth token is a query param of the redirect url](https://askubuntu.com/questions/795703/chrome-remote-desktop-access-to-headless-ubuntu-server-16-04-machine#comment1587657_953269).
 6. Install the CRD extension on the chromebook and launch it. You should see your host listed in the "my computers" section.
 7. Click on your host and enter the access pin you defined
-
-## Source control
-
-Now I need a place to persist source code. Bitbucket provides free private repos. After generating an SSH key pair in Cloud 9's terminal and adding the public key to my Bitbucket account Git works as expected. Cloud9 automatically persists to EBS, so the key pair survives [hibernation](https://aws.amazon.com/cloud9/faqs/).
-
-To simplify SSH passphrase usage, I had to run `eval "$(ssh-agent)"` and then `ssh-add` after each restart.
 
 ## Development HTTP
 
