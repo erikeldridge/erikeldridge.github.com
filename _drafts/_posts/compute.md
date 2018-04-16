@@ -7,10 +7,10 @@ tags:
 - azure
 - gcloud
 ---
-I use the term "compute" to refer to a remote environment in which I can run execute a process.
+I use the term "compute" (or "exec") to refer to a remote environment in which I can execute a process.
 
-EC2 is the most generally useful in my experience, perhaps because I use Cloud9 for an editor with my netbook.
+In terms of a toolkit, this is a fundamental component, ie I can create a service, but it needs to run somewhere public to be useful.
 
-That said, I like [Google's Cloud Shell](https://cloud.google.com/shell/ "Google Cloud Shell") and how both Google and Azure have a relatively simple process for updating the public keys used for accessing an instance.
+EC2 and Google Cloud both provide a great service.
 
 For VMs, I prefer Ubuntu 16.04, mostly just because it has an organization (Canonical) behind it. 
