@@ -14,6 +14,7 @@ tags:
 - ssh
 - ec2
 - chrome-remote-desktop
+- googlecloud
 ---
 ## Context
 
