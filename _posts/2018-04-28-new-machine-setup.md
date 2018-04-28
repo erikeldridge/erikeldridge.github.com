@@ -4,6 +4,13 @@ layout: post
 date: 2018-04-28 00:00:00 +0000
 tags:
 - toolkit
+- ubuntu
+- vim
+- tmux
+- bash
+- ack
+- silversearcher
+- dotfiles
 ---
 There are a few general steps I walk through when setting up a new development machine:
 
