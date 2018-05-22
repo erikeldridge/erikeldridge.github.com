@@ -38,6 +38,7 @@ Here are the plants I've tried:
 | [Callistemon rigidus](https://www.inaturalist.org/taxa/146916-Callistemon-rigidus) | Bottlebrush tree | Low tree | 5 | 3 | 1 | Flowers profusely year-round |
 | Citrus tangerina | Tangerine tree | Low tree | 2 | 3 | 1 | The tree produces inedible fruit and its leaves are chlorotic and sparse :( I suspect it used to get insufficient sun. An arborist mentioned citrus trees are "hungry", so this one may just need fertilizer. There's a lemon tree in the front yard that looks great, for comparison |
 | [Camellia japonica](https://www.inaturalist.org/taxa/83056-Camellia-japonica) | Camelia | Low tree | 5 | 2 | 1 | Two camellias on the property outside dripline. One in good health, but one suddenly whithered. Suspecting gophers although they left the other alone. |
+|[Chlorogalum pomeridianum](https://www.inaturalist.org/taxa/47597-Chlorogalum-pomeridianum)|Soap plant|Herb|🤞|3|1|Spring 18. Inspired by native uses.|
 | [Claytonia sibirica](https://www.inaturalist.org/taxa/55767-Claytonia-sibirica) | Candy flower | Herb | 5 | 1 | 2 | Leaves and growth look great. Flowering. Neighboring ginger |
 |[Collinsia heterophylla](https://www.inaturalist.org/taxa/47325-Collinsia-heterophylla)|Chinese houses|Shrub|🤞|2|1|Planted Spring 18. Flowering!|
 | [Satureja douglasii](https://www.laspilitas.com/nature-of-california/plants/622--satureja-douglasii) | Yerba buena | Ground | 4 | 2-3 | 1 | Leaves look good, but growth is slow. Spring rain didn't improve. |
