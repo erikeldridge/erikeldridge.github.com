@@ -67,6 +67,7 @@ Here are the plants I've tried:
 | [Plantago subnuda](https://www.inaturalist.org/taxa/60223-Plantago-subnuda) | Tall coastal plantain | Herb | 2 | 2 | 1 | Slug favorite. |
 | [Romneya coulteri](https://www.inaturalist.org/taxa/61946-Romneya-coulteri) | Matilija poppy | Shrub | 4 | 5 | 1 | Transplanted(!) Fall 17 |
 | [Rudbeckia californica](https://www.inaturalist.org/taxa/78896-Rudbeckia-californica) | California coneflower | Shrub | 5 | 4 | 1 | Planted in a pot. Slug favorite |
+|[Salvia spathacea](https://www.inaturalist.org/taxa/64133-Salvia-spathacea)| Hummingbird sage | Shrub | 5 | 5 | 1 | Flowering and spreading! |
 | [Silene laciniata ssp. californica](https://www.inaturalist.org/taxa/62222-Silene-laciniata-californica) | Northern California Indian pink | Shrub | 🤞 | 4 | 1 | Planted Spring 18. Hoping hummingbirds like it. |
 | [Sisyrinchium bellum](https://www.inaturalist.org/taxa/49918-Sisyrinchium-bellum) | Ground | 5 | 4 | 1 | Planted 3 Spring 17. Flowering! What a charm! Planted 3 more Spring 18. |
 | [Stachys bullata](https://www.inaturalist.org/taxa/58930-Stachys-bullata) | Wood mint | Herb | 2 | 3 | 1 | Slow growing. |
