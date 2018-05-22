@@ -41,6 +41,7 @@ Here are the plants I've tried:
 | [Festuca californica](https://www.inaturalist.org/taxa/57169-Festuca-californica)  | California fescue | Ground |  | 5 | 1 | New planting🤞 |
 | [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | 3 | 3 | 1 | Spreading and leaves look good, but not flowering. |
 | [Hedera helix](https://www.inaturalist.org/taxa/55882-Hedera-helix) | English ivy | Vine | 5 | 4 | 1 | Well-established when I moved in. |
+| [Helianthus californicus](https://www.inaturalist.org/taxa/56954-Helianthus-californicus) | Shrub | 3 | 4 | 1 | Planted Spring 18. Munched by someone, but hanging on |
 | [Heracleum maximum](https://www.inaturalist.org/taxa/53094-Heracleum-maximum) | Cow parsnip | Shrub | 4 | 1 | 2 | Planted two. Both died back, but returned with Spring rain. Leaves good so far |
 | [Holodiscus discolor](https://www.inaturalist.org/taxa/53414-Holodiscus-discolor) | Cream bush | Shrub | 4 | 2 | 1 | Leaves look good, but slow growing |
 | [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | California horkelia | Ground | 4 | 3 | 1 | Hasn't flowered or spread, but doubled in size after Spring rain |
