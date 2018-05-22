@@ -42,7 +42,8 @@ Here are the plants I've tried:
 | [Satureja douglasii](https://www.laspilitas.com/nature-of-california/plants/622--satureja-douglasii) | Yerba buena | Ground | 4 | 2-3 | 1 | Leaves look good, but growth is slow. Spring rain didn't improve. |
 | [Dicentra formosa](https://www.laspilitas.com/nature-of-california/plants/241--dicentra-formosa) | Bleeding heart | Shrub | 5 | 2-3 | 2 | Planted three. Died back completely after summer, but resprouted and spread vigorously after Spring rain |
 | [Dietes iridioides](https://www.inaturalist.org/taxa/129407-Dietes-iridioides) | African iris | Shrub | 5 | 1 | 1 | Flowers and seeds readily. |
-| [Festuca californica](https://www.inaturalist.org/taxa/57169-Festuca-californica)  | California fescue | Ground | 🤞 | 5 | 1 | Flattened by treefall. |
+|[Eschscholzia californica](https://www.inaturalist.org/taxa/48225-Eschscholzia-californica)| California poppy | Shrub | 4 | 5 | 1 | Gopher favorite, but some survived to bloom this year! |
+| [Festuca californica](https://www.inaturalist.org/taxa/57169-Festuca-californica)  | California fescue | Ground | 🤞 | 5 | 1 | Flattened by tree-fall. |
 | [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | 3 | 3 | 1 | Spreading and leaves look good, but not flowering. |
 | [Hedera helix](https://www.inaturalist.org/taxa/55882-Hedera-helix) | English ivy | Vine | 5 | 4 | 1 | Well-established when I moved in. |
 | [Helianthus californicus](https://www.inaturalist.org/taxa/56954-Helianthus-californicus) | Shrub | 🤞 | 4 | 1 | Planted Spring 18. Munched by someone, but hanging on |
@@ -59,12 +60,15 @@ Here are the plants I've tried:
 | [Mimulus aurantiacus](https://www.inaturalist.org/taxa/48858-Mimulus-aurantiacus) | Bush monkeyflower var ? | Shrub | 5 | 3 | 1 | A lower, spreading mimulus. Leaves and growth look good. Flowering. Doubled in size after Spring rain. |
 | [Nandina domestica](https://www.inaturalist.org/taxa/127010-Nandina-domestica) | Heavenly bamboo | Shrub | 5 | 2-5 | 1 | Pre-existing. Invasive |
 | [Oxalis pes-caprae](https://www.inaturalist.org/taxa/53169-Oxalis-pes-caprae) | Sourgrass | Herb | 5 | 2-4 | 1 | Invasive, but in the spirit of permaculture I'm trying to learn from it. Makes me want to try a native oxalis like [Oxalis oregana](https://www.inaturalist.org/taxa/47757-Oxalis-oregana) |
+| [Papaver heterophyllum](https://www.inaturalist.org/taxa/78344-Papaver-heterophyllum) | Wind poppy | Shrub | 🤞 | 5 | 1 | Planted Spring 18 |
 | [Pittosporum eugenioides](https://www.inaturalist.org/taxa/200847-Pittosporum-eugenioides) | Tarata | Low tree | 5 | 3 | 1 | Predates me. Healthy. Looks like a volunteer. | 
 | [Pittosporum tobira](https://www.inaturalist.org/taxa/78592-Pittosporum-tobira) | Mock orange | Low tree | 5 | 5 | 1 | Flowering and leaves look good |
 | [Prunus cerasifera](https://www.inaturalist.org/taxa/55837-Prunus-cerasifera) | Purple leaf ornamental plum | Low tree | 3 | 5 | 1 |The tree leaves and flowers regularly, but has dying branches. Arborist advised removal due to ill health. |
 | [Plantago subnuda](https://www.inaturalist.org/taxa/60223-Plantago-subnuda) | Tall coastal plantain | Herb | 2 | 2 | 1 | Slug favorite. |
+| [Romneya coulteri](https://www.inaturalist.org/taxa/61946-Romneya-coulteri) | Matilija poppy | Shrub | 4 | 5 | 1 | Transplanted(!) Fall 17 |
 | [Rudbeckia californica](https://www.inaturalist.org/taxa/78896-Rudbeckia-californica) | California coneflower | Shrub | 5 | 4 | 1 | Planted in a pot. Slug favorite |
 | [Silene laciniata ssp. californica](https://www.inaturalist.org/taxa/62222-Silene-laciniata-californica) | Northern California Indian pink | Shrub | 🤞 | 4 | 1 | Planted Spring 18. Hoping hummingbirds like it. |
+| [Sisyrinchium bellum](https://www.inaturalist.org/taxa/49918-Sisyrinchium-bellum) | Ground | 5 | 4 | 1 | Planted 3 Spring 17. Flowering! What a charm! Planted 3 more Spring 18. |
 | [Stachys bullata](https://www.inaturalist.org/taxa/58930-Stachys-bullata) | Wood mint | Herb | 2 | 3 | 1 | Slow growing. |
 | [Symphyotrichum chilense](https://www.inaturalist.org/taxa/56861-Symphyotrichum-chilense) | California aster | Shrub | 3 | 2 | 1 | Leaves look good, but slow growing. Suspect more sun needed. |
 | [Taraxacum officinale](https://www.inaturalist.org/taxa/47602-Taraxacum-officinale) | Dandelion | Herb | 5 | 3 | 1 | Self-propagating. Leaves look good. Flowered. |
