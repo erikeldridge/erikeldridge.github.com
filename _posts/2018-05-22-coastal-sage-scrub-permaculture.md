@@ -1,7 +1,7 @@
 ---
 title: "Coastal sage scrub permaculture\U0001F33B\U0001F41D"
 layout: post
-date: 2018-05-22 00:00:00 +0000
+date: 2018-05-22 07:26:53 -0700
 tags:
 - permaculture
 - native
@@ -39,6 +39,7 @@ Here are the plants I've tried:
 | Citrus tangerina | Tangerine tree | Low tree | 2 | 3 | 1 | The tree produces inedible fruit and its leaves are chlorotic and sparse :( I suspect it used to get insufficient sun. An arborist mentioned citrus trees are "hungry", so this one may just need fertilizer. There's a lemon tree in the front yard that looks great, for comparison |
 | [Camellia japonica](https://www.inaturalist.org/taxa/83056-Camellia-japonica) | Camelia | Low tree | 5 | 2 | 1 | Two camellias on the property outside dripline. One in good health, but one suddenly whithered. Suspecting gophers although they left the other alone. |
 | [Claytonia sibirica](https://www.inaturalist.org/taxa/55767-Claytonia-sibirica) | Candy flower | Herb | 5 | 1 | 2 | Leaves and growth look great. Flowering. Neighboring ginger |
+|[Collinsia heterophylla](https://www.inaturalist.org/taxa/47325-Collinsia-heterophylla)|Chinese houses|Shrub|🤞|2|1|Planted Spring 18. Flowering!|
 | [Satureja douglasii](https://www.laspilitas.com/nature-of-california/plants/622--satureja-douglasii) | Yerba buena | Ground | 4 | 2-3 | 1 | Leaves look good, but growth is slow. Spring rain didn't improve. |
 | [Dicentra formosa](https://www.laspilitas.com/nature-of-california/plants/241--dicentra-formosa) | Bleeding heart | Shrub | 5 | 2-3 | 2 | Planted three. Died back completely after summer, but resprouted and spread vigorously after Spring rain |
 | [Dietes iridioides](https://www.inaturalist.org/taxa/129407-Dietes-iridioides) | African iris | Shrub | 5 | 1 | 1 | Flowers and seeds readily. |
@@ -72,7 +73,7 @@ Here are the plants I've tried:
 | [Silene laciniata ssp. californica](https://www.inaturalist.org/taxa/62222-Silene-laciniata-californica) | Northern California Indian pink | Shrub | 🤞 | 4 | 1 | Planted Spring 18. Hoping hummingbirds like it. |
 | [Sisyrinchium bellum](https://www.inaturalist.org/taxa/49918-Sisyrinchium-bellum) | Blue-eyed grass | Ground | 5 | 4 | 1 | Planted 3 Spring 17. Flowering! What a charmer! Planted 3 more Spring 18. |
 |[Solanum xanti](https://www.inaturalist.org/taxa/79146-Solanum-xanti)| Purple nightshade | Shrub |🤞|2|1|Planted Spring 18|
-| [Stachys bullata](https://www.inaturalist.org/taxa/58930-Stachys-bullata) | Wood mint | Herb | 2 | 3 | 1 | Slow growing. |
+| [Stachys bullata](https://www.inaturalist.org/taxa/58930-Stachys-bullata) | Wood mint | Herb | 2 | 3 | 1 | Slow growing. Inspired by [Sawyer Camp trail](https://bahiker.com/southbayhikes/sawyercamp.html) (north end). |
 | [Symphyotrichum chilense](https://www.inaturalist.org/taxa/56861-Symphyotrichum-chilense) | California aster | Shrub | 3 | 2 | 1 | Leaves look good, but slow growing. Suspect more sun needed. |
 | [Taraxacum officinale](https://www.inaturalist.org/taxa/47602-Taraxacum-officinale) | Dandelion | Herb | 5 | 3 | 1 | Self-propagating. Leaves look good. Flowered. |
 
