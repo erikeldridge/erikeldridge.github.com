@@ -70,6 +70,7 @@ Here are the plants I've tried:
 |[Salvia spathacea](https://www.inaturalist.org/taxa/64133-Salvia-spathacea)| Hummingbird sage | Shrub | 5 | 5 | 1 | Flowering and spreading! |
 | [Silene laciniata ssp. californica](https://www.inaturalist.org/taxa/62222-Silene-laciniata-californica) | Northern California Indian pink | Shrub | 🤞 | 4 | 1 | Planted Spring 18. Hoping hummingbirds like it. |
 | [Sisyrinchium bellum](https://www.inaturalist.org/taxa/49918-Sisyrinchium-bellum) | Blue-eyed grass | Ground | 5 | 4 | 1 | Planted 3 Spring 17. Flowering! What a charmer! Planted 3 more Spring 18. |
+|[Solanum xanti](https://www.inaturalist.org/taxa/79146-Solanum-xanti)| Purple nightshade | Shrub |🤞|2|1|Planted Spring 18|
 | [Stachys bullata](https://www.inaturalist.org/taxa/58930-Stachys-bullata) | Wood mint | Herb | 2 | 3 | 1 | Slow growing. |
 | [Symphyotrichum chilense](https://www.inaturalist.org/taxa/56861-Symphyotrichum-chilense) | California aster | Shrub | 3 | 2 | 1 | Leaves look good, but slow growing. Suspect more sun needed. |
 | [Taraxacum officinale](https://www.inaturalist.org/taxa/47602-Taraxacum-officinale) | Dandelion | Herb | 5 | 3 | 1 | Self-propagating. Leaves look good. Flowered. |
