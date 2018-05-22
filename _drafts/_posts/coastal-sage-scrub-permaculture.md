@@ -1,5 +1,5 @@
 ---
-title: Coastal sage scrub permaculture
+title: "Coastal sage scrub permaculture\U0001F33B\U0001F41D"
 layout: post
 date: 2018-05-22 00:00:00 +0000
 tags:
