@@ -24,6 +24,7 @@ So, the challenge is: build a California coastal sage scrub guild.
 # Solution
 
 Here are the plants I've tried:
+
 | Latin name | Common name | Layer | Health\* | Sun\* | Water\* | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Achillea millefolium californica](https://www.inaturalist.org/taxa/239065-Achillea-millefolium-californica) | California yarrow | Herb | 4 | 2 & 5 | 1 | Suspect more sun needed, but one in the front yard in shade is fuller.|
