@@ -69,7 +69,7 @@ Here are the plants I've tried:
 | [Romneya coulteri](https://www.inaturalist.org/taxa/61946-Romneya-coulteri) | Matilija poppy | Shrub | 4 | 5 | 1 | Transplanted(!) Fall 17 |
 | [Rudbeckia californica](https://www.inaturalist.org/taxa/78896-Rudbeckia-californica) | California coneflower | Shrub | 5 | 4 | 1 | Planted in a pot. Slug favorite |
 |[Salvia spathacea](https://www.inaturalist.org/taxa/64133-Salvia-spathacea)| Hummingbird sage | Shrub | 5 | 5 | 1 | Flowering and spreading! |
-|[Sanicula crassicaulis](https://www.inaturalist.org/taxa/53201-Sanicula-crassicaulis)|Snakeroot|🤞|2|1|Planted Spring 18. Inspired by [Sawyer Camp trail](https://bahiker.com/southbayhikes/sawyercamp.html) (north end).|
+|[Sanicula crassicaulis](https://www.inaturalist.org/taxa/53201-Sanicula-crassicaulis)|Snakeroot|Shrub|🤞|2|1|Planted Spring 18. Inspired by [Sawyer Camp trail](https://bahiker.com/southbayhikes/sawyercamp.html) (north end).|
 | [Silene laciniata ssp. californica](https://www.inaturalist.org/taxa/62222-Silene-laciniata-californica) | Northern California Indian pink | Shrub | 🤞 | 4 | 1 | Planted Spring 18. Hoping hummingbirds like it. |
 | [Sisyrinchium bellum](https://www.inaturalist.org/taxa/49918-Sisyrinchium-bellum) | Blue-eyed grass | Ground | 5 | 4 | 1 | Planted 3 Spring 17. Flowering! What a charmer! Planted 3 more Spring 18. |
 |[Solanum xanti](https://www.inaturalist.org/taxa/79146-Solanum-xanti)| Purple nightshade | Shrub |🤞|2|1|Planted Spring 18|
