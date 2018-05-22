@@ -25,7 +25,7 @@ fields:
   config:
     required: true
 pages:
-- _posts/coastal-sage-scrub-permaculture.md
+- _posts/2018-05-22-coastal-sage-scrub-permaculture.md
 - _posts/2018-05-10-bitwise.md
 - _posts/2018-04-28-new-machine-setup.md
 - _posts/2018-03-05-bureaucracy.md
