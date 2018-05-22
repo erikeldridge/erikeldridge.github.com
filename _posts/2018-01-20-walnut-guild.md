@@ -1,13 +1,10 @@
 ---
 title: "Walnut Guild \U0001F333"
 layout: post
-date: 2018-03-24 20:07:48 -0700
+date: 2018-05-22 07:19:31 -0700
 tags:
 - permaculture
 - walnut
-- juglone
-- privet
-- pittosporum
 - juglone
 ---
 A large [black walnut tree](https://www.laspilitas.com/nature-of-california/plants/363--juglans-californica) lives in the back yard.
