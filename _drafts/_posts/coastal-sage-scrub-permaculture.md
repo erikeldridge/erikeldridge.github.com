@@ -2,7 +2,10 @@
 title: Coastal sage scrub permaculture
 layout: post
 date: 2018-05-22 00:00:00 +0000
-tags: []
+tags:
+- permaculture
+- native
+- california
 ---
 # Problem statement
 
@@ -28,6 +31,7 @@ Here are the plants I've tried:
 | [Allium triquetrum](https://www.inaturalist.org/taxa/55505-Allium-triquetrum) | Three-cornered leek | Herb | 5 | 1 | 1 | Self-propagating. Curious to try a native Allium like [Allium unifolium](https://www.inaturalist.org/taxa/59781-Allium-unifolium) |
 | [Agapanthus praecox orientalis](https://www.inaturalist.org/taxa/57838-Agapanthus-praecox-orientalis) | Lilly of the Nile | Shrub | 5 | 1 | 1 | Prolific in the front yard in shade |
 | [Aquilegia eximia](https://www.inaturalist.org/taxa/57230-Aquilegia-eximia) | Serpentine columbine | Shrub | 4 | 3 | 2 | The columbine's health steadily declined after planting, dropping leaves and never flowering. Transplanted to pot with potting soil and more sun and care and it rebounded. Recently transplanted back. |
+| [Armeria maritima](https://www.inaturalist.org/taxa/60476-Armeria-maritima) | Sea thrift |🤞| 4 | 2 | Planted Spring 18 |
 | [Artemisia douglasiana](https://www.inaturalist.org/taxa/52854-Artemisia-douglasiana) | California Mugwort | Herb | 4 | 2 | 1 | Died back completely in summer, but resprouted and grew vigorously after Spring rain |
 | [Asarum caudatum](https://www.inaturalist.org/taxa/52858-Asarum-caudatum) | Western wild ginger | Root | 3 | 1 | 2 | Leaves look good, but growth is slow and it hasn't flowered. I suspect it needs more water |
 | [Brugmansia arborea](https://www.inaturalist.org/taxa/126914-Brugmansia-arborea) | Trumpet flower | Low tree | 4 | 2 | 1 | Flowering and leaves look good. Suspect more sun needed |
@@ -38,16 +42,17 @@ Here are the plants I've tried:
 | [Satureja douglasii](https://www.laspilitas.com/nature-of-california/plants/622--satureja-douglasii) | Yerba buena | Ground | 4 | 2-3 | 1 | Leaves look good, but growth is slow. Spring rain didn't improve. |
 | [Dicentra formosa](https://www.laspilitas.com/nature-of-california/plants/241--dicentra-formosa) | Bleeding heart | Shrub | 5 | 2-3 | 2 | Planted three. Died back completely after summer, but resprouted and spread vigorously after Spring rain |
 | [Dietes iridioides](https://www.inaturalist.org/taxa/129407-Dietes-iridioides) | African iris | Shrub | 5 | 1 | 1 | Flowers and seeds readily. |
-| [Festuca californica](https://www.inaturalist.org/taxa/57169-Festuca-californica)  | California fescue | Ground |  | 5 | 1 | New planting🤞 |
+| [Festuca californica](https://www.inaturalist.org/taxa/57169-Festuca-californica)  | California fescue | Ground | 🤞 | 5 | 1 | Flattened by treefall. |
 | [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | 3 | 3 | 1 | Spreading and leaves look good, but not flowering. |
 | [Hedera helix](https://www.inaturalist.org/taxa/55882-Hedera-helix) | English ivy | Vine | 5 | 4 | 1 | Well-established when I moved in. |
-| [Helianthus californicus](https://www.inaturalist.org/taxa/56954-Helianthus-californicus) | Shrub | 3 | 4 | 1 | Planted Spring 18. Munched by someone, but hanging on |
+| [Helianthus californicus](https://www.inaturalist.org/taxa/56954-Helianthus-californicus) | Shrub | 🤞 | 4 | 1 | Planted Spring 18. Munched by someone, but hanging on |
 | [Heracleum maximum](https://www.inaturalist.org/taxa/53094-Heracleum-maximum) | Cow parsnip | Shrub | 4 | 1 | 2 | Planted two. Both died back, but returned with Spring rain. Leaves good so far |
 | [Holodiscus discolor](https://www.inaturalist.org/taxa/53414-Holodiscus-discolor) | Cream bush | Shrub | 4 | 2 | 1 | Leaves look good, but slow growing |
 | [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | California horkelia | Ground | 4 | 3 | 1 | Hasn't flowered or spread, but doubled in size after Spring rain |
 | [Hydrangea macrophylla](https://www.inaturalist.org/taxa/122034-Hydrangea-macrophylla) | Hydrangea | Shrub | 1 | 2 | 1 | A tall shrub growing in shade when I moved in. Declining health perhaps due to low water or sun |
 | [Iris douglasiana](https://www.inaturalist.org/taxa/50854-Iris-douglasiana) | Douglas Iris | Shrub | 4 | 2 | 1 | Planted two. One died. The other's leaves look good, but it hasn't flowered. There's another iris nearby that's flowering, for comparison. |
 | [Ligustrum japonicum](https://www.inaturalist.org/taxa/77739-Ligustrum-japonicum) | Japanese Privet | Low tree | 5 | 1 | 1 | Predates me. Healthy/invasive. | 
+| [Lonicera hispidula](https://www.inaturalist.org/taxa/53416-Lonicera-hispidula) | California honeysuckle | Vine |🤞| 4 | 1 | Planted Spring 18. Munched a bit, but seems to be growing |
 | [Lupinus arboreus](https://www.inaturalist.org/taxa/61010-Lupinus-arboreus) | Yellow bush lupine | Shrub | 4 | 4 | 1 | Planted in pot in sun. Flowering! |
 | [Lupinus variicolor](https://www.inaturalist.org/taxa/61018-Lupinus-variicolor) | Varied lupine | Shrub |  | 1 | 1 | Planted in shade by compost pile. Demolished by slugs |
 | [Mimulus aurantiacus](https://www.inaturalist.org/taxa/48858-Mimulus-aurantiacus) | Bush monkeyflower | Shrub | 3 | 1 | 1 | Planted in shade. Leaves and growth look good, but waiting for flowers |
@@ -59,6 +64,7 @@ Here are the plants I've tried:
 | [Prunus cerasifera](https://www.inaturalist.org/taxa/55837-Prunus-cerasifera) | Purple leaf ornamental plum | Low tree | 3 | 5 | 1 |The tree leaves and flowers regularly, but has dying branches. Arborist advised removal due to ill health. |
 | [Plantago subnuda](https://www.inaturalist.org/taxa/60223-Plantago-subnuda) | Tall coastal plantain | Herb | 2 | 2 | 1 | Slug favorite. |
 | [Rudbeckia californica](https://www.inaturalist.org/taxa/78896-Rudbeckia-californica) | California coneflower | Shrub | 5 | 4 | 1 | Planted in a pot. Slug favorite |
+| [Silene laciniata ssp. californica](https://www.inaturalist.org/taxa/62222-Silene-laciniata-californica) | Northern California Indian pink | Shrub | 🤞 | 4 | 1 | Planted Spring 18. Hoping hummingbirds like it. |
 | [Stachys bullata](https://www.inaturalist.org/taxa/58930-Stachys-bullata) | Wood mint | Herb | 2 | 3 | 1 | Slow growing. |
 | [Symphyotrichum chilense](https://www.inaturalist.org/taxa/56861-Symphyotrichum-chilense) | California aster | Shrub | 3 | 2 | 1 | Leaves look good, but slow growing. Suspect more sun needed. |
 | [Taraxacum officinale](https://www.inaturalist.org/taxa/47602-Taraxacum-officinale) | Dandelion | Herb | 5 | 3 | 1 | Self-propagating. Leaves look good. Flowered. |
