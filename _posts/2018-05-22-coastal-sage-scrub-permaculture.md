@@ -76,6 +76,7 @@ Here are the plants I've tried:
 | [Stachys bullata](https://www.inaturalist.org/taxa/58930-Stachys-bullata) | Wood mint | Herb | 2 | 3 | 1 | Slow growing. Inspired by [Sawyer Camp trail](https://bahiker.com/southbayhikes/sawyercamp.html) (north end). |
 | [Symphyotrichum chilense](https://www.inaturalist.org/taxa/56861-Symphyotrichum-chilense) | California aster | Shrub | 3 | 2 | 1 | Leaves look good, but slow growing. Suspect more sun needed. |
 | [Taraxacum officinale](https://www.inaturalist.org/taxa/47602-Taraxacum-officinale) | Dandelion | Herb | 5 | 3 | 1 | Self-propagating. Leaves look good. Flowered. |
+|[Wyethia angustifolia](https://www.inaturalist.org/taxa/56987-Wyethia-angustifolia)|Mule ears|Shrub|🤞|3|1|Spring 18|
 
 \* Numeric ranges:
 
