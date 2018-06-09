@@ -6,6 +6,7 @@ tags:
 - team
 - management
 - core-values
+- holacracy
 layout: post
 ---
 ## Problem
@@ -54,7 +55,9 @@ This relates to product ownership in that an engineer working on a side project 
 
 ### Focus time
 
-Provide folks doing focused work with uninterrupted time, eg "no-meeting Thursdays", biasing to Mondays and Fridays for meetings, etc. [Paul Graham's "Maker's Schedule, Manager's Schedule"](http://www.paulgraham.com/makersschedule.html) and [Joel Spolsky's "Task Switches Considered Harmful"](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) describe this well.
+Provide folks doing focused work with uninterrupted time, eg "no-meeting Thursdays", cancelling meetings for hackweek, etc. [Paul Graham's "Maker's Schedule, Manager's Schedule"](http://www.paulgraham.com/makersschedule.html) and [Joel Spolsky's "Task Switches Considered Harmful"](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) describe this well.
+
+I've had success adding "focus" blocks to my calendar. During these blocks, I work from an undisclosed location and avoid chat and email. Outside these blocks, I work from my desk and am open to collaboration and interruption.
 
 ### Infra product
 
