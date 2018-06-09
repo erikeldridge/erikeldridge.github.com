@@ -1,13 +1,12 @@
 ---
 title: Team efficiency
-date: 2017-11-01 17:49:31.415000000 Z
+date: 2018-06-09 12:50:36 -0700
 tags:
 - org
 - team
 - management
 layout: post
 ---
-
 ## Problem
 
 What enables a team to work efficiently?
@@ -24,7 +23,7 @@ Product prioritizes feature work and coordinates with engineering to delegate ow
 
 ### Systems-level thinking
 
-Efficient teams can see individual tasks as part of a larger effort and think independently. The phrase "autonomy" speaks to this.
+Efficient teams can see individual tasks as part of a larger effort and think independently. The phrase "autonomy" speaks to this. To quote [Valve's handbook (pdf)](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf "Valve's employee handbook"): "A fearless adventure in knowing what to do when no one’s there telling you what to do."
 
 ### One team
 
@@ -36,7 +35,7 @@ A team's domain ownership should be broadly and consistently asserted, to avoid 
 
 ### Bottom-up innovation
 
-Enable engineering to gain customer perspective and contribute to product development, and release pressure when product backs up, by clearly identifying channels for bottom up innovation. 
+Enable engineering to gain customer perspective and contribute to product development, and release pressure when product backs up, by clearly identifying channels for bottom up innovation.
 
 Identify acceptable deploy channels for individuals, eg  spend 20% of your time on self-motivated projects; attend internal "entrepreneur school" to associate with other independent developers and learn best practices; define a "labs" channel to enable low-friction deployment without polluting the main product offering; publish to your blog with this disclaimer and your github with this license.
 
@@ -46,6 +45,10 @@ Publish feature prioritization so side-projects have an "on ramp" back.
 
 This relates to product ownership in that an engineer working on a side project is her own customer.
 
+### Self-organization
+
+Given a clear charter, people should be able to self-organize. 
+
 ### Focus time
 
 Provide folks doing focused work with uninterrupted time, eg "no-meeting Thursdays", biasing to Mondays and Fridays for meetings, etc. [Paul Graham's "Maker's Schedule, Manager's Schedule"](http://www.paulgraham.com/makersschedule.html) and [Joel Spolsky's "Task Switches Considered Harmful"](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) describe this well.
@@ -53,9 +56,3 @@ Provide folks doing focused work with uninterrupted time, eg "no-meeting Thursda
 ### Infra product
 
 Treat internal infrastructure as a product, complete with office hours, support rotations, documentation, SLAs, etc, to enable efficient application development on that infra. Mark McBride discusses this in the "Teammates as Customers" section of his post [Coworkers Will Become Customers—It’s a Good Thing](https://blog.turbinelabs.io/coworkers-will-become-customers-its-a-good-thing-1750790f8a59).
-
-
-
-
-
-
