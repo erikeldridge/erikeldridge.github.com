@@ -5,6 +5,7 @@ tags:
 - org
 - team
 - management
+- core-values
 layout: post
 ---
 ## Problem
@@ -21,9 +22,9 @@ Product management collects, aggregates and channels customer feedback to engine
 
 Product prioritizes feature work and coordinates with engineering to delegate ownership, which enables engineering to allocate resources efficiently.
 
-### Systems-level thinking
+### Core values
 
-Efficient teams can see individual tasks as part of a larger effort and think independently. The phrase "autonomy" speaks to this. To quote [Valve's handbook (pdf)](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf "Valve's employee handbook"): "A fearless adventure in knowing what to do when no one’s there telling you what to do."
+Efficient teams can see individual tasks as part of a larger effort and think independently. The phrase "autonomy" speaks to this. A charter or set of core values helps. To quote [Valve's handbook (pdf)](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf "Valve's employee handbook"): "A fearless adventure in knowing what to do when no one’s there telling you what to do."
 
 ### One team
 
@@ -32,6 +33,12 @@ Ownership for a product should fall within a single team for that team to move e
 ### Recognition
 
 A team's domain ownership should be broadly and consistently asserted, to avoid fighting for space and awareness. Join the team to work in its associated space or identify an uncontested space to work in.
+
+### Self-organization
+
+Given clear ownership and overarching goals, people should be able to self-organize.
+
+[HBR's article "Beyond the Holacracy Hype"](https://hbr.org/2016/07/beyond-the-holacracy-hype (HBR's article "Beyond the Holacracy Hype")) discusses pros and cons.
 
 ### Bottom-up innovation
 
@@ -44,10 +51,6 @@ Encourage sample app development. (Hopefully, a team's tooling will be the most 
 Publish feature prioritization so side-projects have an "on ramp" back.
 
 This relates to product ownership in that an engineer working on a side project is her own customer.
-
-### Self-organization
-
-Given a clear charter, people should be able to self-organize. 
 
 ### Focus time
 
