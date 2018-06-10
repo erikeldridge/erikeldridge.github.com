@@ -5,8 +5,8 @@ tags:
 - org
 - team
 - management
-- core-values
 - holacracy
+- core-value
 layout: post
 ---
 ## Problem
