@@ -25,7 +25,6 @@ fields:
   config:
     required: true
 pages:
-- _posts/patience.md
 - _posts/2018-06-09-maslow.md
 - _posts/2018-05-10-bitwise.md
 - _posts/2018-06-09-happiness.md
