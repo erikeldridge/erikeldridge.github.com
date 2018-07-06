@@ -47,6 +47,7 @@ Here are the plants I've tried:
 |[Eschscholzia californica](https://www.inaturalist.org/taxa/48225-Eschscholzia-californica)| California poppy | Shrub | 4 | 5 | 1 | Gopher favorite, but some survived to bloom this year! |
 | [Festuca californica](https://www.inaturalist.org/taxa/57169-Festuca-californica)  | California fescue | Ground | 🤞 | 5 | 1 | Flattened by tree-fall. |
 | [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | 3 | 3 | 1 | Spreading and leaves look good, but not flowering. |
+| [Frangula californica](https://www.inaturalist.org/taxa/53423-Frangula-californica) | Coffeeberry | Shrub | 🤞  | 5 | 1 | Planted summer 2018 |
 | [Hedera helix](https://www.inaturalist.org/taxa/55882-Hedera-helix) | English ivy | Vine | 5 | 4 | 1 | Pre-existing. Non-native. |
 | [Helianthus californicus](https://www.inaturalist.org/taxa/56954-Helianthus-californicus) | California sunflower | Shrub | 🤞 | 4 | 1 | Planted Spring 18. Munched by someone, but hanging on |
 | [Heracleum maximum](https://www.inaturalist.org/taxa/53094-Heracleum-maximum) | Cow parsnip | Shrub | 4 | 1 | 2 | Planted two. Both died back, but returned with Spring rain. Leaves good so far |
@@ -67,7 +68,7 @@ Here are the plants I've tried:
 | [Pittosporum eugenioides](https://www.inaturalist.org/taxa/200847-Pittosporum-eugenioides) | Tarata | Low tree | 5 | 3 | 1 | Predates me. Healthy. Looks like a volunteer. | 
 | [Pittosporum tobira](https://www.inaturalist.org/taxa/78592-Pittosporum-tobira) | Mock orange | Low tree | 5 | 5 | 1 | Flowering and leaves look good |
 | [Prunus cerasifera](https://www.inaturalist.org/taxa/55837-Prunus-cerasifera) | Purple leaf ornamental plum | Low tree | 3 | 5 | 1 |The tree leaves and flowers regularly, but has dying branches. Arborist advised removal due to ill health. |
-| [Plantago subnuda](https://www.inaturalist.org/taxa/60223-Plantago-subnuda) | Tall coastal plantain | Herb | 2 | 2 | 1 | Slug favorite. |
+| [Plantago subnuda](https://www.inaturalist.org/taxa/60223-Plantago-subnuda) | Tall coastal plantain | Herb | 1 | 4 | 1 | Eaten by slugs when watered, deciduous/dead when unwatered :( |
 | [Romneya coulteri](https://www.inaturalist.org/taxa/61946-Romneya-coulteri) | Matilija poppy | Shrub | 4 | 5 | 1 | Transplanted(!) Fall 17 |
 | [Rudbeckia californica](https://www.inaturalist.org/taxa/78896-Rudbeckia-californica) | California coneflower | Shrub | 5 | 4 | 1 | Planted in a pot. Slug favorite |
 |[Salvia spathacea](https://www.inaturalist.org/taxa/64133-Salvia-spathacea)| Hummingbird sage | Shrub | 5 | 5 | 1 | Flowering and spreading! |
