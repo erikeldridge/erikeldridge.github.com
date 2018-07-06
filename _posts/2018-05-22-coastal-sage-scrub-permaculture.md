@@ -25,7 +25,7 @@ Here are the plants I've tried:
 
 | Latin name | Common name | Layer | Health\* | Sun\* | Water\* | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Achillea millefolium californica](https://www.inaturalist.org/taxa/239065-Achillea-millefolium-californica) | California yarrow | Herb | 4 | 2 & 5 | 1 | Suspect more sun needed, but one in the front yard in shade is fuller.|
+| [Achillea millefolium californica](https://www.inaturalist.org/taxa/239065-Achillea-millefolium-californica) | California yarrow | Herb | 5 | 3 & 5 | 1 | Loves the sun. No water required. Spreading and flowering, but more slowly in part-shade. |
 | [Allium triquetrum](https://www.inaturalist.org/taxa/55505-Allium-triquetrum) | Three-cornered leek | Herb | 5 | 1 | 1 | Pre-existing. Non-native. Self-propagating. Curious to try a native Allium like [Allium unifolium](https://www.inaturalist.org/taxa/59781-Allium-unifolium) |
 | [Agapanthus praecox orientalis](https://www.inaturalist.org/taxa/57838-Agapanthus-praecox-orientalis) | Lilly of the Nile | Shrub | 5 | 1 | 1 | Pre-existing. Non-native. Prolific in the front yard in shade |
 | [Aquilegia eximia](https://www.inaturalist.org/taxa/57230-Aquilegia-eximia) | Serpentine columbine | Shrub | 4 | 3 | 2 | The columbine's health steadily declined after planting, dropping leaves and never flowering. Transplanted to pot with potting soil and more sun and care and it rebounded. Recently transplanted back. |
