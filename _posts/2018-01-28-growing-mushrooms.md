@@ -46,7 +46,11 @@ The kit arrived in a box with a sticker on the side stating it contained live cu
 
 The chips were wet from recent rains. As instructed, I broke up the sawdust in the kit and sprinkled it evenly over the chips. I then layered the alder chips on top, turned the chips over until I didn't see any mycelium-covered chips on the surface and watered.
 
-Per the instructions, my job now is to water the chips enough to keep them moist, but otherwise wait and let the fungus do its work.🤞
+Per the instructions, my job now is to water the chips enough to keep them moist, but otherwise wait and let the fungus do its work.
+
+### Update Summer 2018
+
+We cut down a tree shading the original location of the chip pile. Although covered with cardboard, it was then in one of the hotter, drier parts of the yard, and I feared the worst after a couple months. In an attempt to salvage something, I moved the pile into a shaded location adjacent to our compost pile, which was regularly splashed with water. To my surprise, several inches under the surface, the mycelium looked moist and healthy and smelled great! Now, we wait to see if the colony survived the move.🤞 
 
 ## Footnotes
 
