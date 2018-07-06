@@ -15,7 +15,7 @@ The permaculture discipline provides handy phrases like [_guild_](https://www.ch
 
 I've found [Gaia's Garden by Toby Hemenway](https://www.chelseagreen.com/gaias-garden-second-edition) a concise introduction. Paul Stamets, a hero, is a fan of permaculture and proposes a [Stametsian Model](http://www.fungi.com/blog/items/permaculture-with-a-mycological-twist.html) with an eighth layer for fungi.
 
-Las Pilitas Nursary is a rich source of [native plant](http://www.laspilitas.com/nature-of-california/communities/coastal-sage-scrub) and [permaculture](http://www.laspilitas.com/garden/howto/permaculture/permaculture1.htm) information. CNPS also enables us to [search shade plants by zipcode](http://calscape.org/loc-94010/cat-Part_shade/ord-popular/vw-list/np-1?&poploc=1&srchcr=sc5a6597ead1f9b). [Oaktown nursery](http://oaktownnativenursery.info/ "Oaktown nursery") is one of my favorite sources of native plants.
+Las Pilitas Nursary is a rich source of [native plant](http://www.laspilitas.com/nature-of-california/communities/coastal-sage-scrub) and [permaculture](http://www.laspilitas.com/garden/howto/permaculture/permaculture1.htm) information. CNPS also enables us to [search shade plants by zipcode](http://calscape.org/loc-94010/cat-Part_shade/ord-popular/vw-list/np-1?&poploc=1&srchcr=sc5a6597ead1f9b). [Oaktown nursery](http://oaktownnativenursery.info/ "Oaktown nursery") and [Bay Natives](http://www.baynatives.com "Bay Natives nursery") are my favorite sources of native plants.
 
 So, the challenge is: build a California coastal sage scrub guild.
 
