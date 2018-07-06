@@ -41,12 +41,12 @@ Here are the plants I've tried:
 | [Chlorogalum pomeridianum](https://www.inaturalist.org/taxa/47597-Chlorogalum-pomeridianum)|Soap plant|Herb|🤞|3|1|Spring 18. Inspired by native uses.|
 | [Claytonia sibirica](https://www.inaturalist.org/taxa/55767-Claytonia-sibirica) | Candy flower | Herb | 5 | 1 | 2 | Leaves and growth look great. Flowering. Neighboring ginger |
 | [Collinsia heterophylla](https://www.inaturalist.org/taxa/47325-Collinsia-heterophylla)|Chinese houses|Shrub|🤞|2|1|Planted Spring 18. Flowering!|
-| [Satureja douglasii](https://www.laspilitas.com/nature-of-california/plants/622--satureja-douglasii) | Yerba buena | Ground | 4 | 2-3 | 1 | Leaves look good, but growth is slow. Spring rain didn't improve. |
 | [Dicentra formosa](https://www.laspilitas.com/nature-of-california/plants/241--dicentra-formosa) | Bleeding heart | Shrub | 5 | 2-3 | 2 | Planted three. Died back completely after summer, but resprouted and spread vigorously after Spring rain |
 | [Dietes iridioides](https://www.inaturalist.org/taxa/129407-Dietes-iridioides) | African iris | Shrub | 5 | 1 | 1 | Pre-existing. Non-native. Flowers and seeds readily. |
 | [Epilobium canum "Catalina"](http://www.baynatives.com/plants/Epilobium-canum/)| California fuscia | Ground cover | 🤞  | 5 | 1 | Planted summer 2018 |
-|[Eriogonum fasciculatum](https://www.inaturalist.org/taxa/54999-Eriogonum-fasciculatum)| California buckwheat | Shrub | 🤞  | 5 | 1 | Planted summer 2018 |
-|[Eriogonum latifollum](https://www.inaturalist.org/taxa/57211-Eriogonum-latifolium)| Seaside buckwheat | Ground cover | 🤞  | 5 | 1 | Planted summer 2018 |
+| [Eriogonum fasciculatum](https://www.inaturalist.org/taxa/54999-Eriogonum-fasciculatum)| California buckwheat | Shrub | 🤞  | 5 | 1 | Planted summer 2018 |
+| [Eriogonum giganteum](http://www.baynatives.com/plants/Eriogonum-giganteum/)| St. Catherine's Lace | Shrub | 🤞  | 4 | 1 | Planted summer 2018 |
+| [Eriogonum latifollum](https://www.inaturalist.org/taxa/57211-Eriogonum-latifolium)| Seaside buckwheat | Ground cover | 🤞  | 5 | 1 | Planted summer 2018 |
 |[Eschscholzia californica](https://www.inaturalist.org/taxa/48225-Eschscholzia-californica)| California poppy | Shrub | 4 | 5 | 1 | Gopher favorite, but some survived to bloom this year! |
 | [Festuca californica](https://www.inaturalist.org/taxa/57169-Festuca-californica)  | California fescue | Ground | 🤞 | 5 | 1 | Flattened by tree-fall. |
 | [Ficus carica "Violeta de Bordeaux"](https://www.inaturalist.org/taxa/60218-Ficus-carica)  | Fig tree | Low tree | 🤞 | 4 | 1 | Planted summer 2018 |
@@ -78,6 +78,7 @@ Here are the plants I've tried:
 | [Rudbeckia californica](https://www.inaturalist.org/taxa/78896-Rudbeckia-californica) | California coneflower | Shrub | 5 | 4 | 1 | Planted in a pot. Slug favorite |
 |[Salvia spathacea](https://www.inaturalist.org/taxa/64133-Salvia-spathacea)| Hummingbird sage | Shrub | 5 | 5 | 1 | Flowering and spreading! |
 |[Sanicula crassicaulis](https://www.inaturalist.org/taxa/53201-Sanicula-crassicaulis)|Snakeroot|Shrub|🤞|2|1|Planted Spring 18. Inspired by [Sawyer Camp trail](https://bahiker.com/southbayhikes/sawyercamp.html) (north end).|
+| [Satureja douglasii](https://www.laspilitas.com/nature-of-california/plants/622--satureja-douglasii) | Yerba buena | Ground | 4 | 3-4 | 1 | Doesn't mind dry clay soil, but grows best in bright/direct sun |
 | [Silene laciniata ssp. californica](https://www.inaturalist.org/taxa/62222-Silene-laciniata-californica) | Northern California Indian pink | Shrub | 🤞 | 4 | 1 | Planted Spring 18. Hoping hummingbirds like it. |
 | [Sisyrinchium bellum](https://www.inaturalist.org/taxa/49918-Sisyrinchium-bellum) | Blue-eyed grass | Ground | 5 | 4 | 1 | Planted 3 Spring 17. Flowering! What a charmer! Planted 3 more Spring 18. |
 |[Solanum xanti](https://www.inaturalist.org/taxa/79146-Solanum-xanti)| Purple nightshade | Shrub |🤞|2|1|Planted Spring 18|
