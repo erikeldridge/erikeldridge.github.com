@@ -65,8 +65,8 @@ Here are the plants I've tried:
 | [Lupinus arboreus](https://www.inaturalist.org/taxa/61010-Lupinus-arboreus) | Yellow bush lupine | Shrub | 4 | 4 | 1 | Planted in pot in sun. Flowering! |
 | [Lupinus variicolor](https://www.inaturalist.org/taxa/61018-Lupinus-variicolor) | Varied lupine | Shrub |  | 1 | 1 | Planted in shade by compost pile. Demolished by slugs |
 | [Mimulus aurantiacus](https://www.inaturalist.org/taxa/48858-Mimulus-aurantiacus) | Bush monkeyflower | Shrub | 3 | 1 | 1 | Planted in shade. Leaves and growth look good, but waiting for flowers |
-| [Mimulus aurantiacus](https://www.inaturalist.org/taxa/48858-Mimulus-aurantiacus) | Bush monkeyflower var ? | Shrub | 5 | 3 | 1 | A lower, spreading mimulus. Leaves and growth look good. Flowering. Doubled in size after Spring rain. |
-|[Monardella odoratissima](https://www.inaturalist.org/taxa/62678-Monardella-odoratissima)|Mountain coyote mint|Herb|🤞|3|1|Spring 18. Smells wonderful!|
+| [Mimulus aurantiacus](https://www.inaturalist.org/taxa/48858-Mimulus-aurantiacus) | Bush monkeyflower | Shrub | 4-5 | 2-5 | 1 | One planted in shade, one in sun. The first looks healthy, but produces far fewer flowers. The second flowers profusely. |
+|[Monardella odoratissima](https://www.inaturalist.org/taxa/62678-Monardella-odoratissima)|Mountain coyote mint|Herb|4|3|1| Planted spring 18. Foliage smells wonderful. Flowering, but slow growing/compact. Bumblebees like it and gophers appear not to. |
 | [Nandina domestica](https://www.inaturalist.org/taxa/127010-Nandina-domestica) | Heavenly bamboo | Shrub | 5 | 2-5 | 1 | Pre-existing. Invasive |
 | [Oxalis pes-caprae](https://www.inaturalist.org/taxa/53169-Oxalis-pes-caprae) | Sourgrass | Herb | 5 | 2-4 | 1 | Invasive, but in the spirit of permaculture I'm trying to learn from it. Makes me want to try a native oxalis like [Oxalis oregana](https://www.inaturalist.org/taxa/47757-Oxalis-oregana) |
 | [Papaver heterophyllum](https://www.inaturalist.org/taxa/78344-Papaver-heterophyllum) | Wind poppy | Shrub | 🤞 | 5 | 1 | Planted Spring 18 |
