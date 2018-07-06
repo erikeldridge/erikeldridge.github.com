@@ -29,14 +29,14 @@ Here are the plants I've tried:
 | [Allium triquetrum](https://www.inaturalist.org/taxa/55505-Allium-triquetrum) | Three-cornered leek | Herb | 5 | 1 | 1 | Pre-existing. Non-native. Self-propagating. Curious to try a native Allium like [Allium unifolium](https://www.inaturalist.org/taxa/59781-Allium-unifolium) |
 | [Agapanthus praecox orientalis](https://www.inaturalist.org/taxa/57838-Agapanthus-praecox-orientalis) | Lilly of the Nile | Shrub | 5 | 1 | 1 | Pre-existing. Non-native. Prolific in the front yard in shade |
 | [Aquilegia eximia](https://www.inaturalist.org/taxa/57230-Aquilegia-eximia) | Serpentine columbine | Shrub | 4 | 3 | 2 | The columbine's health steadily declined after planting, dropping leaves and never flowering. Transplanted to pot with potting soil and more sun and care and it rebounded. Recently transplanted back. |
-| [Arctostaphylos densiflora "Sentinel"](http://www.baynatives.com/plants/Arctostaphylos-densiflora-'Sentinel'/) | Manzanita | Low tree | 🤞 | 4 | 1 | Yerba Buena nursery has [a good description of A. densiflora "Sentinel"](http://www.yerbabuenanursery.com/viewplant.php?pid=149). Planted summer 2018. |
+| [Arctostaphylos densiflora "Sentinel"](http://www.baynatives.com/plants/Arctostaphylos-densiflora-'Sentinel'/) | Manzanita | Sub-canopy | 🤞 | 4 | 1 | Yerba Buena nursery has [a good description of A. densiflora "Sentinel"](http://www.yerbabuenanursery.com/viewplant.php?pid=149). Planted summer 2018. |
 | [Armeria maritima](https://www.inaturalist.org/taxa/60476-Armeria-maritima) | Sea thrift | Ground |🤞| 4 | 2 | Planted Spring 18. Visibly wilts without regular water. |
 | [Artemisia douglasiana](https://www.inaturalist.org/taxa/52854-Artemisia-douglasiana) | California Mugwort | Herb | 4 | 2 | 1 | Died back completely last summer, but resprouted and grew vigorously after spring rain, and is remaining green this summer |
 | [Asarum caudatum](https://www.inaturalist.org/taxa/52858-Asarum-caudatum) | Western wild ginger | Root | 3 | 1 | 2 | Leaves look good, but growth is slow and it hasn't flowered. I suspect it needs more water |
-| [Brugmansia arborea](https://www.inaturalist.org/taxa/126914-Brugmansia-arborea) | Trumpet flower | Low tree | 4 | 2 | 1 | Flowering and leaves look good. Suspect more sun needed |
-| [Callistemon rigidus](https://www.inaturalist.org/taxa/146916-Callistemon-rigidus) | Bottlebrush tree | Low tree | 5 | 3 | 1 | Pre-existing. Non-native. Flowers profusely year-round. Great for bees and wildlife. |
-| Citrus tangerina | Tangerine tree | Low tree | 2 | 3 | 1 | The tree produces inedible fruit and its leaves are chlorotic and sparse :( I suspect it used to get insufficient sun. An arborist mentioned citrus trees are "hungry", so this one may just need fertilizer. There's a lemon tree in the front yard that looks great, for comparison |
-| [Camellia japonica](https://www.inaturalist.org/taxa/83056-Camellia-japonica) | Camelia | Low tree | 5 | 2 | 1 | Pre-existing. Non-native. Two camellias on the property outside dripline. One in good health, but one suddenly whithered. Suspecting gophers although they left the other alone. |
+| [Brugmansia arborea](https://www.inaturalist.org/taxa/126914-Brugmansia-arborea) | Trumpet flower | Sub-canopy | 4 | 2 | 1 | Flowering and leaves look good. Suspect more sun needed |
+| [Callistemon rigidus](https://www.inaturalist.org/taxa/146916-Callistemon-rigidus) | Bottlebrush tree | Sub-canopy | 5 | 3 | 1 | Pre-existing. Non-native. Flowers profusely year-round. Great for bees and wildlife. |
+| Citrus tangerina | Tangerine tree | Sub-canopy | 2 | 3 | 1 | The tree produces inedible fruit and its leaves are chlorotic and sparse :( I suspect it used to get insufficient sun. An arborist mentioned citrus trees are "hungry", so this one may just need fertilizer. There's a lemon tree in the front yard that looks great, for comparison |
+| [Camellia japonica](https://www.inaturalist.org/taxa/83056-Camellia-japonica) | Camelia | Sub-canopy | 5 | 2 | 1 | Pre-existing. Non-native. Two camellias on the property outside dripline. One in good health, but one suddenly whithered. Suspecting gophers although they left the other alone. |
 | [Ceanothus x pallidus "Marie Simon"](https://www.anniesannuals.com/plants/view/?id=2917) | Pink Ceanothus |Shrub|🤞|4|1|Planted summer 2018|
 | [Ceanothus "Ray Hartman"](http://www.baynatives.com/plants/Ceanothus-'Ray-Hartman'/) | Tree Ceanothus |Shrub|🤞|4|1|Planted summer 2018|
 | [Chlorogalum pomeridianum](https://www.inaturalist.org/taxa/47597-Chlorogalum-pomeridianum)|Soap plant|Herb|🤞|3|1|Spring 18. Inspired by native uses.|
@@ -50,7 +50,7 @@ Here are the plants I've tried:
 | [Eriogonum latifollum](https://www.inaturalist.org/taxa/57211-Eriogonum-latifolium)| Seaside buckwheat | Ground cover | 🤞  | 5 | 1 | Planted summer 2018 |
 |[Eschscholzia californica](https://www.inaturalist.org/taxa/48225-Eschscholzia-californica)| California poppy | Shrub | 4 | 5 | 1 | Gopher favorite, but some survived to bloom this year! |
 | [Festuca californica](https://www.inaturalist.org/taxa/57169-Festuca-californica)  | California fescue | Ground | 🤞 | 5 | 1 | Flattened by tree-fall. |
-| [Ficus carica "Violeta de Bordeaux"](https://www.inaturalist.org/taxa/60218-Ficus-carica)  | Fig tree | Low tree | 🤞 | 4 | 1 | Planted summer 2018 |
+| [Ficus carica "Violeta de Bordeaux"](https://www.inaturalist.org/taxa/60218-Ficus-carica)  | Fig tree | Sub-canopy | 🤞 | 4 | 1 | Planted summer 2018 |
 | [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | 3 | 3 | 1 | Spreading and leaves look good, but not flowering. |
 | [Frangula californica (Presidio SF)](https://www.inaturalist.org/taxa/53423-Frangula-californica) | Coffeeberry | Shrub | 🤞  | 5 | 1 | Planted summer 2018 |
 | [Hedera helix](https://www.inaturalist.org/taxa/55882-Hedera-helix) | English ivy | Vine | 5 | 4 | 1 | Pre-existing. Non-native. |
@@ -60,7 +60,7 @@ Here are the plants I've tried:
 | [Horkelia californica](https://www.inaturalist.org/taxa/61737-Horkelia-californica) | California horkelia | Ground | 4 | 3 | 1 | Hasn't flowered or spread, but doubled in size after Spring rain |
 | [Hydrangea macrophylla](https://www.inaturalist.org/taxa/122034-Hydrangea-macrophylla) | Hydrangea | Shrub | 1 | 2 | 1 | Pre-existing. Non-native. A tall shrub growing in shade when I moved in. Declining health perhaps due to low water or sun |
 | [Iris douglasiana](https://www.inaturalist.org/taxa/50854-Iris-douglasiana) | Douglas Iris | Shrub | 4 | 2 | 1 | Planted two. One died. The other's leaves look good, but it hasn't flowered. There's another iris nearby that's flowering, for comparison. |
-| [Ligustrum japonicum](https://www.inaturalist.org/taxa/77739-Ligustrum-japonicum) | Japanese Privet | Low tree | 5 | 1 | 1 | Predates me. Healthy/invasive. | 
+| [Ligustrum japonicum](https://www.inaturalist.org/taxa/77739-Ligustrum-japonicum) | Japanese Privet | Sub-canopy | 5 | 1 | 1 | Predates me. Healthy/invasive. | 
 | [Lonicera hispidula](https://www.inaturalist.org/taxa/53416-Lonicera-hispidula) | California honeysuckle | Vine |🤞| 4 | 1 | Planted Spring 18. Munched a bit, but seems to be growing |
 | [Lupinus arboreus](https://www.inaturalist.org/taxa/61010-Lupinus-arboreus) | Yellow bush lupine | Shrub | 4 | 4 | 1 | Planted in pot in sun. Flowering! |
 | [Lupinus variicolor](https://www.inaturalist.org/taxa/61018-Lupinus-variicolor) | Varied lupine | Shrub |  | 1 | 1 | Planted in shade by compost pile. Demolished by slugs |
@@ -70,9 +70,9 @@ Here are the plants I've tried:
 | [Nandina domestica](https://www.inaturalist.org/taxa/127010-Nandina-domestica) | Heavenly bamboo | Shrub | 5 | 2-5 | 1 | Pre-existing. Invasive |
 | [Oxalis pes-caprae](https://www.inaturalist.org/taxa/53169-Oxalis-pes-caprae) | Sourgrass | Herb | 5 | 2-4 | 1 | Invasive, but in the spirit of permaculture I'm trying to learn from it. Makes me want to try a native oxalis like [Oxalis oregana](https://www.inaturalist.org/taxa/47757-Oxalis-oregana) |
 | [Papaver heterophyllum](https://www.inaturalist.org/taxa/78344-Papaver-heterophyllum) | Wind poppy | Shrub | 🤞 | 5 | 1 | Planted Spring 18 |
-| [Pittosporum eugenioides](https://www.inaturalist.org/taxa/200847-Pittosporum-eugenioides) | Tarata | Low tree | 5 | 3 | 1 | Predates me. Healthy. Looks like a volunteer. | 
-| [Pittosporum tobira](https://www.inaturalist.org/taxa/78592-Pittosporum-tobira) | Mock orange | Low tree | 5 | 5 | 1 | Flowering and leaves look good |
-| [Prunus cerasifera](https://www.inaturalist.org/taxa/55837-Prunus-cerasifera) | Purple leaf ornamental plum | Low tree | 3 | 5 | 1 |The tree leaves and flowers regularly, but has dying branches. Arborist advised removal due to ill health. |
+| [Pittosporum eugenioides](https://www.inaturalist.org/taxa/200847-Pittosporum-eugenioides) | Tarata | Sub-canopy | 5 | 3 | 1 | Predates me. Healthy. Looks like a volunteer. | 
+| [Pittosporum tobira](https://www.inaturalist.org/taxa/78592-Pittosporum-tobira) | Mock orange | Sub-canopy | 5 | 5 | 1 | Flowering and leaves look good |
+| [Prunus cerasifera](https://www.inaturalist.org/taxa/55837-Prunus-cerasifera) | Purple leaf ornamental plum | Sub-canopy | 3 | 5 | 1 |The tree leaves and flowers regularly, but has dying branches. Arborist advised removal due to ill health. |
 | [Plantago subnuda](https://www.inaturalist.org/taxa/60223-Plantago-subnuda) | Tall coastal plantain | Herb | 1 | 4 | 1 | Eaten by slugs when watered, deciduous/dead when unwatered :( |
 | [Penstemon heterophyllus ("Margarita Bop"))](https://www.inaturalist.org/taxa/51861-Penstemon-heterophyllus) | Bunchleaf Penstemon | Herb | 🤞 | 4 | 1 | Planted summer 2018 |
 | [Romneya coulteri](https://www.inaturalist.org/taxa/61946-Romneya-coulteri) | Matilija poppy | Shrub | 5 | 5 | 1 | Transplanted(!) Fall 17. Plant another in summer 2018 |
