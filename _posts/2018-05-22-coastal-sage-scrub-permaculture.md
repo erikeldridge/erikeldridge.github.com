@@ -47,7 +47,7 @@ Here are the plants I've tried:
 |[Eschscholzia californica](https://www.inaturalist.org/taxa/48225-Eschscholzia-californica)| California poppy | Shrub | 4 | 5 | 1 | Gopher favorite, but some survived to bloom this year! |
 | [Festuca californica](https://www.inaturalist.org/taxa/57169-Festuca-californica)  | California fescue | Ground | 🤞 | 5 | 1 | Flattened by tree-fall. |
 | [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | 3 | 3 | 1 | Spreading and leaves look good, but not flowering. |
-| [Frangula californica](https://www.inaturalist.org/taxa/53423-Frangula-californica) | Coffeeberry | Shrub | 🤞  | 5 | 1 | Planted summer 2018 |
+| [Frangula californica (Presidio SF)](https://www.inaturalist.org/taxa/53423-Frangula-californica) | Coffeeberry | Shrub | 🤞  | 5 | 1 | Planted summer 2018 |
 | [Hedera helix](https://www.inaturalist.org/taxa/55882-Hedera-helix) | English ivy | Vine | 5 | 4 | 1 | Pre-existing. Non-native. |
 | [Helianthus californicus](https://www.inaturalist.org/taxa/56954-Helianthus-californicus) | California sunflower | Shrub | 🤞 | 4 | 1 | Planted Spring 18. Munched by someone, but hanging on |
 | [Heracleum maximum](https://www.inaturalist.org/taxa/53094-Heracleum-maximum) | Cow parsnip | Shrub | 4 | 1 | 2 | Planted two. Both died back, but returned with Spring rain. Leaves good so far |
@@ -79,6 +79,7 @@ Here are the plants I've tried:
 | [Stachys bullata](https://www.inaturalist.org/taxa/58930-Stachys-bullata) | Wood mint | Herb | 2 | 3 | 1 | Slow growing. Inspired by [Sawyer Camp trail](https://bahiker.com/southbayhikes/sawyercamp.html) (north end). |
 | [Symphyotrichum chilense](https://www.inaturalist.org/taxa/56861-Symphyotrichum-chilense) | California aster | Shrub | 3 | 2 | 1 | Leaves look good, but slow growing. Suspect more sun needed. |
 | [Taraxacum officinale](https://www.inaturalist.org/taxa/47602-Taraxacum-officinale) | Dandelion | Herb | 5 | 3 | 1 | Self-propagating. Leaves look good. Flowered. |
+| [Trichostema lanatum](https://www.inaturalist.org/taxa/58931-Trichostema-lanatum) | Woolly bluecurls | Herb | 🤞 | 4 | 1 | Planted summer 2018 |
 |[Wyethia angustifolia](https://www.inaturalist.org/taxa/56987-Wyethia-angustifolia)|Mule ears|Shrub|🤞|3|1|Spring 18|
 
 \* Numeric ranges:
