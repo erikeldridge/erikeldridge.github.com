@@ -44,11 +44,12 @@ Here are the plants I've tried:
 | [Satureja douglasii](https://www.laspilitas.com/nature-of-california/plants/622--satureja-douglasii) | Yerba buena | Ground | 4 | 2-3 | 1 | Leaves look good, but growth is slow. Spring rain didn't improve. |
 | [Dicentra formosa](https://www.laspilitas.com/nature-of-california/plants/241--dicentra-formosa) | Bleeding heart | Shrub | 5 | 2-3 | 2 | Planted three. Died back completely after summer, but resprouted and spread vigorously after Spring rain |
 | [Dietes iridioides](https://www.inaturalist.org/taxa/129407-Dietes-iridioides) | African iris | Shrub | 5 | 1 | 1 | Pre-existing. Non-native. Flowers and seeds readily. |
-|[Epilobium canum](http://www.baynatives.com/plants/Epilobium-canum/)| California fuscia | Ground cover | 🤞  | 5 | 1 | Planted summer 2018 |
+| [Epilobium canum "Catalina"](http://www.baynatives.com/plants/Epilobium-canum/)| California fuscia | Ground cover | 🤞  | 5 | 1 | Planted summer 2018 |
 |[Eriogonum fasciculatum](https://www.inaturalist.org/taxa/54999-Eriogonum-fasciculatum)| California buckwheat | Shrub | 🤞  | 5 | 1 | Planted summer 2018 |
 |[Eriogonum latifollum](https://www.inaturalist.org/taxa/57211-Eriogonum-latifolium)| Seaside buckwheat | Ground cover | 🤞  | 5 | 1 | Planted summer 2018 |
 |[Eschscholzia californica](https://www.inaturalist.org/taxa/48225-Eschscholzia-californica)| California poppy | Shrub | 4 | 5 | 1 | Gopher favorite, but some survived to bloom this year! |
 | [Festuca californica](https://www.inaturalist.org/taxa/57169-Festuca-californica)  | California fescue | Ground | 🤞 | 5 | 1 | Flattened by tree-fall. |
+| [Ficus carica "Violeta de Bordeaux"](https://www.inaturalist.org/taxa/60218-Ficus-carica)  | Fig tree | Low tree | 🤞 | 4 | 1 | Planted summer 2018 |
 | [Fragaria californica](https://www.inaturalist.org/taxa/61095-Fragaria-vesca-californica) | Wild strawberry | Ground | 3 | 3 | 1 | Spreading and leaves look good, but not flowering. |
 | [Frangula californica (Presidio SF)](https://www.inaturalist.org/taxa/53423-Frangula-californica) | Coffeeberry | Shrub | 🤞  | 5 | 1 | Planted summer 2018 |
 | [Hedera helix](https://www.inaturalist.org/taxa/55882-Hedera-helix) | English ivy | Vine | 5 | 4 | 1 | Pre-existing. Non-native. |
