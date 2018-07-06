@@ -9,7 +9,7 @@ tags:
 ---
 # Problem statement
 
-I live in the [coastal sage scrub plant community](https://www.laspilitas.com/nature-of-california/communities/coastal-sage-scrub). I'd like the plants growing around my home to reflect this community and/or produce food.
+I live in the [Burlingame "Terrace"](https://goo.gl/maps/TTiNWPgg1kw), which is in the [coastal sage scrub plant community](https://www.laspilitas.com/nature-of-california/communities/coastal-sage-scrub). I'd like the plants growing around my home to reflect this community and/or produce food.
 
 The permaculture discipline provides handy phrases like [_guild_](https://www.chelseagreen.com/blogs/natural-polycultures-mimicking-nature-in-your-veggie-garden/) (recreations of plant communities found in nature) and [_companion plants_](https://www.chelseagreen.com/blogs/interplanting-and-beyond/) (symbiotic or mutually supportive), and concepts like a [_seven-layer garden_](https://www.chelseagreen.com/blogs/designing-a-forest-garden-the-seven-story-garden/) and soil building.
 
@@ -29,7 +29,8 @@ Here are the plants I've tried:
 | [Allium triquetrum](https://www.inaturalist.org/taxa/55505-Allium-triquetrum) | Three-cornered leek | Herb | 5 | 1 | 1 | Pre-existing. Non-native. Self-propagating. Curious to try a native Allium like [Allium unifolium](https://www.inaturalist.org/taxa/59781-Allium-unifolium) |
 | [Agapanthus praecox orientalis](https://www.inaturalist.org/taxa/57838-Agapanthus-praecox-orientalis) | Lilly of the Nile | Shrub | 5 | 1 | 1 | Pre-existing. Non-native. Prolific in the front yard in shade |
 | [Aquilegia eximia](https://www.inaturalist.org/taxa/57230-Aquilegia-eximia) | Serpentine columbine | Shrub | 4 | 3 | 2 | The columbine's health steadily declined after planting, dropping leaves and never flowering. Transplanted to pot with potting soil and more sun and care and it rebounded. Recently transplanted back. |
-| [Armeria maritima](https://www.inaturalist.org/taxa/60476-Armeria-maritima) | Sea thrift | Ground |🤞| 4 | 2 | Planted Spring 18 |
+| [Arctostaphylos densiflora "Sentinel"](http://www.baynatives.com/plants/Arctostaphylos-densiflora-'Sentinel'/) | Manzanita | Low tree | 🤞 | 4 | 1 | Yerba Buena nursery has [a good description of A. densiflora "Sentinel"](http://www.yerbabuenanursery.com/viewplant.php?pid=149). Planted summer 2018. |
+| [Armeria maritima](https://www.inaturalist.org/taxa/60476-Armeria-maritima) | Sea thrift | Ground |🤞| 4 | 2 | Planted Spring 18. Visibly wilts without regular water. |
 | [Artemisia douglasiana](https://www.inaturalist.org/taxa/52854-Artemisia-douglasiana) | California Mugwort | Herb | 4 | 2 | 1 | Died back completely last summer, but resprouted and grew vigorously after spring rain, and is remaining green this summer |
 | [Asarum caudatum](https://www.inaturalist.org/taxa/52858-Asarum-caudatum) | Western wild ginger | Root | 3 | 1 | 2 | Leaves look good, but growth is slow and it hasn't flowered. I suspect it needs more water |
 | [Brugmansia arborea](https://www.inaturalist.org/taxa/126914-Brugmansia-arborea) | Trumpet flower | Low tree | 4 | 2 | 1 | Flowering and leaves look good. Suspect more sun needed |
