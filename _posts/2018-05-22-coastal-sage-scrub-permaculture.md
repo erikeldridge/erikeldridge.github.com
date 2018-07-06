@@ -1,7 +1,7 @@
 ---
 title: "Coastal sage scrub permaculture\U0001F33B\U0001F41D"
 layout: post
-date: 2018-05-22 14:26:53 +0000
+date: 2018-07-06 15:43:06 -0700
 tags:
 - permaculture
 - native
