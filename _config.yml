@@ -17,7 +17,7 @@ plugins:
 - jekyll-seo-tag
 gist:
   noscript: false
-permalink: "/notes/:year/:month/:day/:title.html"
+permalink: "/notes/:title.html"
 markdown: kramdown
 kramdown:
   toc_levels: 2..5
