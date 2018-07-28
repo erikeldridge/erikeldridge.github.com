@@ -3,7 +3,10 @@ title: "Commercial yeast for Cider \U0001F34E\U0001F37B"
 layout: post
 date: 2018-07-28 23:17:15 +0000
 update: ''
-tags: []
+tags:
+- brewing
+- fermentation
+- cider
 
 ---
 This is an experiment in using commercial yeast.
