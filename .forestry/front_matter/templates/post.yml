@@ -8,8 +8,8 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: update
-  label: Updated
+- name: date
+  label: Date
   type: datetime
   hidden: false
   default: ''
