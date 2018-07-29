@@ -8,8 +8,8 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: update
-  label: Updated
+- name: date
+  label: Date
   type: datetime
   hidden: false
   default: ''
@@ -34,7 +34,6 @@ pages:
 - _posts/2018-04-15-persistence.md
 - _posts/2018-04-15-compute.md
 - _posts/2018-07-14-cider.md
-- _posts/2018-07-28-cider.md
 - _posts/2018-06-09-maslow.md
 - _posts/2017-12-02-regional-trails.md
 - _posts/2018-06-09-play.md
