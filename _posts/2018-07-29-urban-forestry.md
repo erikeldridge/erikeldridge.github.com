@@ -8,7 +8,7 @@ tags:
 - home-ownership
 
 ---
-Earlier this year, we learned a large walnut tree in our back yard had significant rot in the base of its trunk and needed to be cut down.
+Earlier this year, we learned [a large walnut tree in our back yard](walnut-guild "My notes about our walnut tree") had significant rot in the base of its trunk and needed to be cut down.
 
 We started by consulting several arborists, including the city arborist when seeking a permit to remove the tree.
 
