@@ -8,16 +8,16 @@ tags:
 - home-ownership
 
 ---
-Earlier this year, we learned a large walnut tree in our back yard had significant rot in the base of its trunk and needed to be cut down. This post is about the process.
+Earlier this year, we learned a large walnut tree in our back yard had significant rot in the base of its trunk and needed to be cut down.
 
 We started by consulting several arborists, including the city arborist when seeking a permit to remove the tree.
 
 Next, we needed to find someone who could fell the tree safely in a small back yard between four buildings, including our home. We loved the tree, and wanted to see the wood go to good use, so we had an additional requirement to cut the tree down in a way that would preserve large pieces for milling.
 
-Through the [Hida Tool](https://www.hidatool.com/ "Hida Tool's website") community in  Berkeley, we found a tree trimmer in Berkeley who, amazingly, did the work in two days with a three person team.
+Through the [Hida Tool](https://www.hidatool.com/ "Hida Tool's website") community in  Berkeley, we found a tree trimmer who, amazingly, did the work in two days with a three person team.
 
 Next, we needed to find people who could use the wood. This was tricky. Lots of people commented on how valuable black walnut is, but few could help us turn a yard full of giant branches into usable wood, especially given the location; harvesting wood in a forest is different than doing so in a neighborhood with limited access.
 
 We eventually attended a Bay Area Woodworkers Association meeting, where someone mentioned a milling machine called a Wood-Mizer. The [Wood-Mizer site listed sawyers by region "Wood-Mizer's list of local sawyers"](https://woodmizer.com/us/Services/Find-a-Local-Sawyer), leading us to [Ponderosa Millworks](https://ponderosamillworks.com/ "Ponderosa Millwork's website") in Berkeley.
 
-Ponderosa salvages wood to make beautiful furniture and supports local community initiatives. Exactly what we were looking for. They brought a truck with a crane capable of lifting the largest segments.
+Ponderosa salvages wood to make beautiful furniture and supports local community initiatives - exactly what we were looking for. They brought a truck with a crane capable of lifting the largest segments.
