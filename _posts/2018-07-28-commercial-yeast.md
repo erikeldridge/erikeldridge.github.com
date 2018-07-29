@@ -25,8 +25,6 @@ The 5 gram yeast packet contained enough for five gallons, so I measured \~1 gra
 
 The scale didn't support fractional grams, so I just added a dash of yeast nutrient.
 
-I microwaved the juice and pitched the yeast and nutrient in.
-
 Within a couple minutes the yeast started bubbling! This was very different from wild yeasting where I'd wait for a few days before anything happened.
 
 After the 20 minutes recommended by the yeast packet, I poured the yeast slurry into the juice in the 1 gallon jug, fitted the airlock, sanitized by wiping with a vodka-soaked paper towel, and sloshed the liquid around to aerate and disperse the yeast.
