@@ -26,6 +26,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/urban-forestry.md
 - _posts/2018-05-22-coastal-sage-scrub-permaculture.md
 - _posts/2018-01-15-santa-cruz-fungus-fair-2018.md
 - _posts/2018-06-09-happiness.md
