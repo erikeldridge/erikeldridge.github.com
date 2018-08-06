@@ -1,7 +1,7 @@
 ---
 title: "Commercial yeast for cider \U0001F34E\U0001F37B"
 layout: post
-date: 2018-07-28 23:52:44 +0000
+date: 2018-08-05 18:57:08 -0700
 update: ''
 tags:
 - brewing
@@ -31,4 +31,8 @@ After the 20 minutes recommended by the yeast packet, I poured the yeast slurry 
 
 After just a couple hours, there were bubbles collecting at the surface.
 
-I still prefer the informal approach of wild yeasting, but am looking forward to a more fully fermented cider. In future, I'd like to experiment with wild yeasting a starter, and if it tastes good, using that with the process described above for full fermentation.
+After a couple days, the ferment was consistently bubbling. It never boiled, but did produce large bubbles relative to a wild yeast.
+
+The bubbling subsided after a week. I then transferred the ferment minus the lees to a clean gallon jar. Although it appeared still prior to transfer, the cider effervesced vigorously. I fed the colony a tablespoon of sugar with hopes for a more full boil :) I also drank a bit of the lees, which were very mild relative to my experience with brewers yeast. The cider tasted clean and tart.
+
+I still prefer the informal, self-reliant approach of wild yeasting, but am looking forward to a more fully fermented cider. In future, I'd like to experiment with wild yeasting a starter, and if it tastes good, using that with the process described above for full fermentation.
