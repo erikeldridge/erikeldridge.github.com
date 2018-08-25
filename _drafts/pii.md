@@ -58,4 +58,4 @@ Do not require access to PII for development.
 
 Ensure applications can mock all dependencies ([hermetic testing](https://www.google.com/search?q=hermetic+testing "Google search for hermetic testing")) for local development and tests.
 
-Define a parallel data store for test data. Use this data for shared development, eg staging. Define a pre-prod environment for end-to-end testing with PII prior to production.
+Define a parallel data store for test data. Use this data for shared environments, eg staging. Configure all services to use environments consistently to avoid quality issues that reduce confidence and motivate development using production data. Define a pre-prod environment for end-to-end testing with PII prior to production.
