@@ -26,8 +26,8 @@ fields:
   config:
     required: true
 pages:
-- _posts/2018-08-25-pii.md
 - _posts/2018-08-21-migration.md
+- _posts/2018-08-25-pii.md
 - _posts/2018-07-29-urban-forestry.md
 - _posts/2018-07-14-cider.md
 - _posts/2018-04-15-compute.md
