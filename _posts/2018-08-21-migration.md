@@ -14,7 +14,7 @@ We have a service in production and we want to migrate traffic to a new service.
 
 ### Define an interface
 
-Ryan King expressed this succinctly: always start a migration by abstracting behind an interface. Splitting traffic behind an abstraction is easier than moving clients to a new interface.
+Ryan King expressed this succinctly: always start a migration by defining an abstraction layer. Splitting traffic behind an abstraction is easier than moving clients from one interface to another.
 
 Tools like gRPC, Thrift and Open API simplify this process for services by enabling us to declare a service interface.
 
