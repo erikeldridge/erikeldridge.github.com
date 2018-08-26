@@ -12,6 +12,9 @@ exclude:
 - new.rb
 - nlp
 - README.md
+- node_modules
+- package-lock.json
+- build-search-index.js
 plugins:
 - jekyll-gist
 - jekyll-seo-tag
