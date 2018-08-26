@@ -1,0 +1,21 @@
+{
+  "name": "erikeldridge-com-notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "lunr": "^2.3.2"
+  },
+  "devDependencies": {
+    "browserify": "^16.2.2",
+    "front-matter": "^2.3.0",
+    "remove-markdown": "^0.3.0",
+    "uglify-js": "^3.4.8"
+  },
+  "scripts": {
+    "build": "browserify main.js | uglifyjs > ../index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
