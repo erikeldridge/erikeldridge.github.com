@@ -8,7 +8,7 @@ const readFileAsync = promisify(fs.readFile)
 const writeFileAsync = promisify(fs.writeFile)
 
 // List posts
-const dirPath = '_posts/'
+const dirPath = '../_posts/'
 readDirAsync(dirPath).then(files =>
   Promise.all(files.map((file,index) => {
 
@@ -35,6 +35,6 @@ readDirAsync(dirPath).then(files =>
 
   // Write index to file
   })).then(idx =>
-    writeFileAsync('search-index.json', JSON.stringify(idx), 'utf8')).catch(console.log)
+    writeFileAsync('../search-index.json', JSON.stringify(idx), 'utf8')).catch(console.log)
 
 
