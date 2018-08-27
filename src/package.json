@@ -14,7 +14,7 @@
     "uglify-js": "^3.4.8"
   },
   "scripts": {
-    "build": "browserify main.js | uglifyjs > ../index.js"
+    "build": "node build-search-index.js && browserify main.js | uglifyjs > ../index.js"
   },
   "author": "",
   "license": "MIT"
