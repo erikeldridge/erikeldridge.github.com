@@ -2,15 +2,17 @@
   "name": "erikeldridge-com-notes",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
-  "dependencies": {
-    "jquery": "^3.3.1",
-    "lunr": "^2.3.2"
+  "browserify": {
+    "transform": [ "browserify-shim" ]
   },
+  "browserify-shim": {
+    "jquery": "global:jQuery"
+  },
+  "main": "main.js",
+  "dependencies": {},
   "devDependencies": {
     "browserify": "^16.2.2",
-    "front-matter": "^2.3.0",
-    "remove-markdown": "^0.3.0",
+    "browserify-shim": "^3.8.14",
     "uglify-js": "^3.4.8"
   },
   "scripts": {
