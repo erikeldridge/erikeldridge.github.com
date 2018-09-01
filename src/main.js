@@ -1,18 +1,12 @@
 var $ = require('jquery')
-var lunr = require('lunr')
-var prebuiltIndex = require('./search-index.json')
-
-var idx = lunr.Index.load(prebuiltIndex)
 
 var $input = $('#filter')
 var $items = $('li')
 $input.keyup(function(e){
-  var results = new Set($.map(idx.search(e.target.value), function(result){ return result.ref }))
-  console.log(results)
+  var pattern = new RegExp(e.target.value, 'i')
   $items.each(function(){
     var $item = $(this)
-    console.log($item.find('a').attr('href'))
-    if (results.has($item.find('a').attr('href'))) {
+    if (pattern.test($item.text())) {
       $item.show()
     } else {
       $item.hide()

@@ -2,10 +2,7 @@
 
 ## Develop
 
-1. Build JS: `cd src && npm run build`
-1. Run test server: `bundle exec jekyll serve --host=0.0.0.0 --port=3000
-   (Note: if running on a cloud provider, remember to open the firewall
-   for this port.)
+1. Run test server: `bundle exec jekyll serve --host=0.0.0.0 --port=3000`
 
 ## NLP
 
