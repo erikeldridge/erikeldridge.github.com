@@ -8,8 +8,10 @@ var $input = $('#filter')
 var $items = $('li')
 $input.keyup(function(e){
   var results = new Set($.map(idx.search(e.target.value), function(result){ return result.ref }))
+  console.log(results)
   $items.each(function(){
     var $item = $(this)
+    console.log($item.find('a').attr('href'))
     if (results.has($item.find('a').attr('href'))) {
       $item.show()
     } else {
