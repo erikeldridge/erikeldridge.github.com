@@ -22,5 +22,7 @@ permalink: "/notes/:title.html"
 markdown: kramdown
 kramdown:
   toc_levels: 2..5
+  # Smart quotes complicate stop word filtering, so disable.
+  smart_quotes: ["apos", "apos", "quot", "quot"]
 sass:
   style: compressed
