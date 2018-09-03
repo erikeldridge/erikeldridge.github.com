@@ -10,30 +10,10 @@ layout: base
 <ul>
   <input class="hidden" id="filter" placeholder="Filter">
 
-  {% assign chars = ';,.()[]"!?' | split: "" %}
-
   {% for post in site.posts %}
   <li>
     <a href="{{post.url}}">{{post.title}}</a>
     <div class="meta">
-      {% comment %} Auto-summarize post by removing common words. {% endcomment %}
-      {% assign post_words = post.content | strip_html | downcase | split: " " %}
-      {% capture clean_words %}
-      {% for word in post_words %}
-        {% assign clean_word = word %}
-        {% for char in chars %}
-          {% assign clean_word = clean_word | remove: char %}
-        {% endfor %}
-        {% unless site.data.stop_words contains word %}
-          {{clean_word}}
-        {% endunless %}
-      {% endfor %}
-      {% endcapture %}
-      {% assign clean_words = clean_words | split: " " | concat: post.tags %}
-      <!--
-      {{clean_words|uniq|sort|join:" "}}
-      -->
-
       {{post.tags | sort | join: " "}} {{post.date | date: '%Y'}}
     </div>
   </li>
