@@ -50,11 +50,10 @@ contents = read_files(glob.glob("../_posts/*.md"))
 tokens = [tokenize(content) for content in contents]
 words = intersect(tokens, 0.2)
 
-# Add MySQL's words
-# https://dev.mysql.com/doc/refman/8.0/en/fulltext-stopwords.html
-for line in open("mysql_stop_words.txt"):
-    for word in line.split():
-        words.add(word.strip())
+# Add common English words
+# https://github.com/first20hours/google-10000-english
+for line in open("google-10000-english-usa.txt"):
+    words.add(line.strip())
 
 # Integrate with Jekyll
 with open("../_data/stop_words.yml", "w") as f:
