@@ -32,14 +32,16 @@ Search providers understandably require UI control.
 
 Google's published the [most common English words](https://github.com/first20hours/google-10000-english). I could strip these from my content and then include the remainder in my index, eg:
 
+    {% raw %}
     {% unless site.data.stop_words contains word %}
       {{word}}
     {% endunless %}
+    {% endraw %}
 
-This still yields many words, however, which is unwieldy for displaying in an index. I'm also limited to Liquid syntax for index generation, which complicates things like exluding code snippets.
+This still yields more words than wieldy for displaying in an index. I'm also limited to Liquid syntax for index generation, which complicates things like exluding code snippets.
 
 So far, the best solution has been constructing a regex from an input string, applying it to the titles and tags of my index and then hiding entries that don't match.
 
 ### Server-side search
 
-I can also take advantage of [Google's search indexing](https://www.google.com/webmasters/tools/home?hl=en) by defining a [Jekyll sitemap](http://davidensinger.com/2013/03/generating-a-sitemap-in-jekyll-without-a-plugin/). I can get closer to inline filtering by using [Chrome's omnibox](https://www.chromium.org/tab-to-search). Here's the blog's [opensearch.xml](http://erikeldridge.com/opensearch.xml).
+I can take advantage of [Google's search indexing](https://www.google.com/webmasters/tools/home?hl=en) by defining a [Jekyll sitemap](http://davidensinger.com/2013/03/generating-a-sitemap-in-jekyll-without-a-plugin/). I can get closer to inline filtering by using [Chrome's omnibox](https://www.chromium.org/tab-to-search). Here's the blog's [opensearch.xml](http://erikeldridge.com/opensearch.xml).
