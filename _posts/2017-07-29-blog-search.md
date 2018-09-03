@@ -1,9 +1,12 @@
 ---
 title: "Blog search \U0001F50E"
-date: 2018-08-26 18:35:44 -0700
+date: 2018-09-02 23:43:11 -0700
 tags:
 - blog
 - search
+- liquid
+- jekyll
+- lunr
 layout: post
 
 ---
@@ -17,13 +20,25 @@ In terms of constraints, this blog is statically generated and hosted on Github,
 
 ### Tags
 
-Jekyll supports [tags](https://jekyllrb.com/docs/variables/#page-variables), so I can start by simply [grouping content by tag](https://github.com/erikeldridge/erikeldridge.github.com/blob/08c14fabce69f58d2c7de8f3300b9484018d4311/tags.html).
-
-Tags are specific, but the process of tagging content is tedious and error-prone, eg I don't want to tag extensively and I may forget to tag at all, and seems lossy, eg I may forget which tag I used later. I'd prefer to extract keywords and query them via search UX.
+Jekyll supports [tags](https://jekyllrb.com/docs/variables/#page-variables), and the Forestry CMS I use enables me to manage tags alongside content, so I can start by including tags in my index of notes.
 
 ### Client-side search
 
-[Lunr](https://lunrjs.com) provides a convenient JS library to perform keyword extraction and lookup, and supports pre-building the search index to improve client performance. One downside: because I'm limited to client-side solutions, and I prefer to use a service for maintaining content, my content and [search index](https://github.com/erikeldridge/erikeldridge.github.com/blob/master/src/build-search-index.js) can drift out of sync.
+Ideally, I could provide inline keyword search.
+
+Search providers understandably require UI control.
+
+[Lunr](https://lunrjs.com) provides a convenient JS library to perform keyword extraction and lookup, and supports pre-building the search index to improve client performance. However, the index for my content was 500kb and the search syntax, although powerful, was unintuitive for my simple needs.
+
+Google's published the [most common English words](https://github.com/first20hours/google-10000-english). I could strip these from my content and then include the remainder in my index, eg:
+
+    {% unless site.data.stop_words contains word %}
+      {{word}}
+    {% endunless %}
+
+This still yields many words, however, which is unwieldy for displaying in an index. I'm also limited to Liquid syntax for index generation, which complicates things like exluding code snippets.
+
+So far, the best solution has been constructing a regex from an input string, applying it to the titles and tags of my index and then hiding entries that don't match.
 
 ### Server-side search
 
