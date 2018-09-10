@@ -1,7 +1,7 @@
 ---
 title: Netbook development
 layout: post
-date: 2018-04-28 12:47:00 -0700
+date: 2018-09-09 18:28:54 -0700
 tags:
 - netbook
 - chromebook
@@ -15,6 +15,7 @@ tags:
 - ec2
 - chrome-remote-desktop
 - googlecloud
+
 ---
 ## Context
 
@@ -118,7 +119,7 @@ The [CRD docs](https://support.google.com/chrome/answer/1649523) are pretty good
 
         $ /opt/google/chrome-remote-desktop/start-host
 
-   Note: this step directs you to a url, which redirects to another url. [The auth token is a query param of the redirect url](https://askubuntu.com/questions/795703/chrome-remote-desktop-access-to-headless-ubuntu-server-16-04-machine#comment1587657_953269).
+   Note: this step directs you to a url, which redirects to another url. [The auth token is a query param of the redirect url](https://askubuntu.com/questions/795703/chrome-remote-desktop-access-to-headless-ubuntu-server-16-04-machine#comment1587657_953269), and the trailing "#" is part of the token
 6. Install the CRD extension on the chromebook and launch it. You should see your host listed in the "my computers" section.
 7. Click on your host and enter the access pin you defined
 
@@ -127,6 +128,6 @@ The [CRD docs](https://support.google.com/chrome/answer/1649523) are pretty good
 I like using JavaScript for [prototyping](prototype-toolkit "Prototype toolkit") ideas. Given we're just working in Ubuntu, running a server is standard. We just need to open a port to call the server
 
 1. Create a security group with a "Custom TCP Rule" exposing port 3000
-1. Add this security group to the VM
-1. Note instance's external IP
-1. In browser, load IP with scheme http and port 3000
+2. Add this security group to the VM
+3. Note instance's external IP
+4. In browser, load IP with scheme http and port 3000
