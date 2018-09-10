@@ -109,18 +109,17 @@ The [CRD docs](https://support.google.com/chrome/answer/1649523) are pretty good
         $ wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
         ...
         $ sudo dpkg -i chrome-remote-desktop_current_amd64.deb
-3. Define \~/.chrome-remote-desktop-session:
+3. Define \~/.chrome-remote-desktop:
 
         exec /usr/sbin/lightdm-session "startxfce4"
+
+   Note: misconfiguration of this file (including misnaming) results in "... Session process terminated ... " errors.
 4. Restart CRD to load the config:
 
         $ sudo /etc/init.d/chrome-remote-desktop restart
-5. Authenticate, register the host and set an access pin:
-
-        $ /opt/google/chrome-remote-desktop/start-host
-
-   Note: this step directs you to a url, which redirects to another url. [The auth token is a query param of the redirect url](https://askubuntu.com/questions/795703/chrome-remote-desktop-access-to-headless-ubuntu-server-16-04-machine#comment1587657_953269), and the trailing "#" is part of the token
-6. Install the CRD extension on the chromebook and launch it. You should see your host listed in the "my computers" section.
+5. Generate command to register a host and set an access pin ([credit](https://groups.google.com/d/msg/gce-discussion/tN9oZs8xWps/b2PtOBTeAQAJ)):  
+   [http://remotedesktop.google.com/headless](http://remotedesktop.google.com/headless)
+6. Install the CRD extension on the chromebook and launch it. You should see your host listed in the "my computers" section. Note: [CRD requires udp:all and tcp:443,5222 open for ingress and egress](https://support.google.com/chrome/answer/1649523 "Access another computer with Chrome Remote Desktop docs").
 7. Click on your host and enter the access pin you defined
 
 ## Development HTTP
