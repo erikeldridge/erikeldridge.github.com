@@ -4,6 +4,8 @@ layout: post
 date: 2018-09-25 00:00:00 +0000
 tags:
 - core-value
+- entropy
+- efficiency
 
 ---
 I recently discovered the [agile principles](http://agilemanifesto.org/principles.html) address simplicity: "Simplicity -- the art of maximizing the amount of work not done -- is essential."
