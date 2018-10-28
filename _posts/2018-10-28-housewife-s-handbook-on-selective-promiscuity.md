@@ -7,7 +7,7 @@ tags:
 - inspiration
 
 ---
-The title is provocative, but inescapably. Maxine Serett's book (published under the pseudonym Rey Anthony) addresses the tension between norms and creativity. It's a memoir embracing sexual topics often shied from, and thoughts on relationships and American culture in the late 1900s.
+The title is provocative, but inescapably. Maxine Serett's book (published under the pseudonym Rey Anthony) addresses the tension between norms and creativity. It's a memoir embracing sexual topics often shied from, and thoughts on relationships and American culture in the mid 1900s.
 
 The author's freedom of thought is enlightening. Among other things, she was married several times and according to custom, took her husband's name each time, which impressed upon her the plasticity of names and she went on to change her name freely. I see her as an every-person, but via polynymity rather than anonymity.
 
