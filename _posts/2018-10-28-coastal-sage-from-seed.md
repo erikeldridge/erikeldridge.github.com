@@ -1,8 +1,10 @@
 ---
 title: "Coastal sage from seed \U0001F331"
 layout: post
-date: 2018-10-28 00:00:00 +0000
-tags: []
+date: 2018-10-28 16:49:23 -0700
+tags:
+- california
+- native
 
 ---
 ## Problem statement
