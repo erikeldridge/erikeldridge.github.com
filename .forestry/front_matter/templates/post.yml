@@ -26,8 +26,8 @@ fields:
   config:
     required: true
 pages:
-- _posts/2018-10-28-coastal-sage-from-seed.md
 - _posts/2018-10-28-housewife-s-handbook-on-selective-promiscuity.md
+- _posts/2018-10-28-coastal-sage-from-seed.md
 - _posts/2018-09-25-simplicity.md
 - _posts/2018-09-25-agile.md
 - _posts/2018-07-29-urban-forestry.md
