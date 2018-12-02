@@ -26,6 +26,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/creativity.md
 - _posts/2018-12-02-experimentation.md
 - _posts/config.md
 - _posts/2018-10-28-housewife-s-handbook-on-selective-promiscuity.md
