@@ -1,7 +1,7 @@
 ---
 title: "experimentation \U0001F52C"
 layout: post
-date: 2018-12-02 14:06:22 -0800
+date: 2018-12-02 14:25:15 -0800
 tags:
 - org
 - core-value
