@@ -1,5 +1,5 @@
 ---
-title: experimentation
+title: "experimentation \U0001F52C"
 layout: post
 date: 2018-12-02 14:06:22 -0800
 tags:
