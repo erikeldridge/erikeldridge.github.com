@@ -1,6 +1,6 @@
 ---
 title: Mobile Growth meetup 9/21/17
-date: 2017-09-22 00:00:00 Z
+date: 2017-09-22 00:00:00 +0000
 tags:
 - branch
 - growth
@@ -10,9 +10,10 @@ tags:
 - box
 - criteo
 - meetup
+- experimentation
 layout: post
----
 
+---
 ## Meta
 
 Branch runs a nice mobile growth meetup I've attended a couple times. The [one last night](https://www.meetup.com/Bay-Area-Mobile-Growth-Hackers/events/242833756/i/gh_new_rsvp_tl) was in the Microsoft office (formerly Yammer) in the Twitter building.
