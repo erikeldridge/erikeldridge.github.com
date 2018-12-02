@@ -1,6 +1,6 @@
 ---
 title: Mobile Growth meetup 9/21/17
-date: 2017-09-22 00:00:00 +0000
+date: 2018-12-02 14:25:04 -0800
 tags:
 - branch
 - growth
