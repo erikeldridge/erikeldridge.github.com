@@ -26,6 +26,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/lisa-congdon-interviews-elizabeth-gilbert-12-1-18.md
 - _posts/2018-12-02-creativity.md
 - _posts/2018-12-02-experimentation.md
 - _posts/config.md
