@@ -1,0 +1,32 @@
+---
+title: ios
+date: 2019-01-02 17:27:19 -0800
+tags: []
+layout: post
+
+---
+General iOS dev notes.
+
+## Install on device
+
+Problem: the ability to deploy to multiple devices is helpful when developing networked apps
+
+Solution: define a development certificate, as described by https://codewithchris.com/deploy-your-app-on-an-iphone/
+
+## Avoid storyboard complexity
+
+Problem: storyboards hide programmatic complexity behind UI complexity, which is hard to search for
+
+Solution: delete storyboards and plist references, and init view controller in AppDelegate
+
+https://stackoverflow.com/questions/25783282/how-to-create-an-empty-application-in-xcode-without-storyboard
+
+Related: consider generalizing view logic using something like Flutter
+
+## Detecting simulator
+
+Problem: developing for two devices can require use of simulator and device simultaneously, so how do we differentiate?
+
+Solution: `#if targetEnvironment(simulator)`
+
+ https://stackoverflow.com/a/37124071/1971682
