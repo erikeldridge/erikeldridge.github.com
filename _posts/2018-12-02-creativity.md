@@ -1,7 +1,7 @@
 ---
-title: creativity ✨
+title: Creativity ✨
 layout: post
-date: 2018-12-02 14:28:35 -0800
+date: 2018-12-02 22:28:35 +0000
 tags: []
 
 ---
