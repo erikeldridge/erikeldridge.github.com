@@ -1,7 +1,7 @@
 ---
 title: Netbook development
 layout: post
-date: 2018-09-10 01:28:54 +0000
+date: 2019-03-02 20:01:09 -0800
 tags:
 - netbook
 - chromebook
@@ -14,7 +14,8 @@ tags:
 - ssh
 - ec2
 - chrome-remote-desktop
-- googlecloud
+- google
+- cloud
 
 ---
 ## Context
