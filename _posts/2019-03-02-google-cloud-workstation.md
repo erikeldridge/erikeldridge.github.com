@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Cloud workstation '
-date: 2019-03-02 19:25:21 -0800
+date: 2019-03-02 20:02:58 -0800
 tags:
 - netbook
 - gcloud
@@ -34,10 +34,12 @@ In Google Cloud console:
 
 ## Enable desktop
 
+The [Chrome Remote Desktop (CRD) docs](https://support.google.com/chrome/answer/1649523) are pretty good, but assume you already have a desktop with Chrome running. For a cloud VM, we need a way to bootstrap without a desktop. A couple ([1](https://productforums.google.com/forum/#!msg/chrome/CTnqSKj6uts/8xg88ribRxQJ), [2](https://productforums.google.com/d/msg/chrome/WvcFOblHMik/hGlM875QAwAJ)) Chrome support threads were helpful. Steps:
+
 1. Install lightweight window manager
 
         sudo apt install -y xubuntu-desktop
-2. Download Chrome Remote Desktop (CRD)
+2. Download CRD
 
         wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
 3. Install CRD
