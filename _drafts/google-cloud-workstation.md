@@ -16,9 +16,13 @@ tags:
 
 In Google Cloud console:
 
-1. nav to Compute Engine and create new micro instance with name "workstation", region "us-west" and size "f1-micro"
-2. Start instance
-3. Copy external IP address
+1. Nav to Compute Engine and create new micro instance
+2. Name "workstation"
+3. Region "us-west"
+4. Size "f1-micro"
+5. OS ubuntu LTS
+6. Start instance
+7. Copy external IP address
 
 ## Enable SSH access
 
@@ -39,3 +43,16 @@ In Google Cloud console:
 3. Install CRD
 
         sudo dpkg -i chrome-remote-desktop_current_amd64.deb
+4. Define \~/.chrome-remote-desktop:
+
+        exec /usr/sbin/lightdm-session "startxfce4"
+
+   Note: misconfiguration of this file (including misnaming) results in "… Session process terminated … " errors.
+5. Restart CRD to load the config:
+
+        sudo /etc/init.d/chrome-remote-desktop restart
+6. Generate command to register a host and set an access pin ([credit](https://groups.google.com/d/msg/gce-discussion/tN9oZs8xWps/b2PtOBTeAQAJ)):
+   http://remotedesktop.google.com/headless
+
+   Note: we used to have to edit the Compute Engine instance firewall to enable [udp:all and tcp:443,5222 open for ingress and egress](https://support.google.com/chrome/answer/1649523 "Access another computer with Chrome Remote Desktop docs"), but this no longer seems required
+7. On the netbook, launch CRD, select the host created above and enter the access pin you defined
