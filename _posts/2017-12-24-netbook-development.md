@@ -1,7 +1,7 @@
 ---
 title: Netbook development
 layout: post
-date: 2018-09-09 18:28:54 -0700
+date: 2018-09-10 01:28:54 +0000
 tags:
 - netbook
 - chromebook
@@ -93,34 +93,10 @@ Create a new SSH key pair with the default "id_rsa" name for each VM that needs 
 
 ## Remote desktop
 
-I'd like to explore Android development using this set up.
+For apps like Android Studio and VSCode, I need a desktop.
 
-The first step is setting up remote desktop, so I can run Android Studio and an emulator.
-
-### Install Chrome Remote Desktop (CRD)
-
-The [CRD docs](https://support.google.com/chrome/answer/1649523) are pretty good, but assume you already have a desktop with Chrome running. For a cloud VM, we need a way to bootstrap without a desktop. A couple ([1](https://productforums.google.com/forum/#!msg/chrome/CTnqSKj6uts/8xg88ribRxQJ), [2](https://productforums.google.com/d/msg/chrome/WvcFOblHMik/hGlM875QAwAJ)) Chrome support threads were helpful. Steps:
-
-1. Install a window manager:
-
-        $ sudo apt-get install xfce4
-2. Download the CRD installer and install:
-
-        $ wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
-        ...
-        $ sudo dpkg -i chrome-remote-desktop_current_amd64.deb
-3. Define \~/.chrome-remote-desktop:
-
-        exec /usr/sbin/lightdm-session "startxfce4"
-
-   Note: misconfiguration of this file (including misnaming) results in "... Session process terminated ... " errors.
-4. Restart CRD to load the config:
-
-        $ sudo /etc/init.d/chrome-remote-desktop restart
-5. Generate command to register a host and set an access pin ([credit](https://groups.google.com/d/msg/gce-discussion/tN9oZs8xWps/b2PtOBTeAQAJ)):  
-   [http://remotedesktop.google.com/headless](http://remotedesktop.google.com/headless)
-6. Install the CRD extension on the chromebook and launch it. You should see your host listed in the "my computers" section. Note: [CRD requires udp:all and tcp:443,5222 open for ingress and egress](https://support.google.com/chrome/answer/1649523 "Access another computer with Chrome Remote Desktop docs").
-7. Click on your host and enter the access pin you defined
+1. Install Chrome Remote Desktop chromebook app.
+2. Follow the [Google Cloud workstation notes](google-cloud-workstation) to install enable CRD
 
 ## Development HTTP
 
