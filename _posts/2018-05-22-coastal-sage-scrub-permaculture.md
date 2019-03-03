@@ -108,3 +108,21 @@ Here are the plants I've tried:
 * Health: 1-5, 5 = thriving
 * Sun: 1-5, 5 = full sun
 * Water: 1-3, 3 = wet soil
+
+# Observations
+
+Spring 2019
+
+Fat worms, even in unexpected places, like a gravel pile on black plastic under the English ivy.
+
+Salamanders common in moist places, esp under wood.
+
+Bees doing relatively well. Two of three hives survived the winter.
+
+Stropharia mycelium thriving in an area I thought was the sunniest and driest (though it does get a lot of shade) in the back yard. Matalija, Arctostaphylos and Eriogonum growing nearby don't seem to mind.
+
+Flock of robins eating English ivy seeds. Saw goldfinch for the first time. Juncos, towhees, brown creepers, house sparrows, chestnut-backed chickadees, crows common.
+
+Rats and gophers common.
+
+Saw a cat once hunting for rats 🐈
