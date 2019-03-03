@@ -9,35 +9,33 @@ tags:
 ---
 ## Assumptions
 
-* netbook set up with SSH key pair
-* Google Cloud project created
+* [netbook](netbook-development "my notes on netbook development") set up with SSH key pair
+* [Google Cloud project](https://cloud.google.com/resource-manager/docs/creating-managing-projects#creating_a_project "Google Cloud project docs") created
 
 ## Create instance
 
 In Google Cloud console:
 
 1. nav to Compute Engine and create new micro instance with name "workstation", region "us-west" and size "f1-micro"
-1. Start instance
-1. Copy external IP address
+2. Start instance
+3. Copy external IP address
 
-# Enable SSH access
+## Enable SSH access
 
 In Google Cloud console:
 
 1. Search for "SSH key" and select "metadata" result
-1. Copy public key contents from local machine using Text and paste into Cloud console https://cloud.google.com/compute/docs/instances/adding-removing-ssh-keys#project-wide
+2. Copy public key contents from local machine using Text and paste into Cloud console https://cloud.google.com/compute/docs/instances/adding-removing-ssh-keys#project-wide
 3. Open Secure Shell on local machine, select key, paste IP address and connect
 
-# Enable desktop
+## Enable desktop
 
 1. Install lightweight window manager
 
-		sudo apt install -y xubuntu-desktop
-
+        sudo apt install -y xubuntu-desktop
 2. Download Chrome Remote Desktop (CRD)
 
-    	wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
+        wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
+3. Install CRD
 
-1. Install CRD
-
-		sudo dpkg -i chrome-remote-desktop_current_amd64.deb 
+        sudo dpkg -i chrome-remote-desktop_current_amd64.deb
