@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Cloud workstation
+title: 'Google Cloud workstation '
 date: 2019-03-02 19:25:21 -0800
 tags:
 - netbook
@@ -51,8 +51,7 @@ In Google Cloud console:
 5. Restart CRD to load the config:
 
         sudo /etc/init.d/chrome-remote-desktop restart
-6. Generate command to register a host and set an access pin ([credit](https://groups.google.com/d/msg/gce-discussion/tN9oZs8xWps/b2PtOBTeAQAJ)):
-   http://remotedesktop.google.com/headless
+6. Use [http://remotedesktop.google.com/headless](http://remotedesktop.google.com/headless "http://remotedesktop.google.com/headless") to generate the command required to register a host and set an access pin ([credit](https://groups.google.com/d/msg/gce-discussion/tN9oZs8xWps/b2PtOBTeAQAJ)), and then run this command on the workstation
 
    Note: we used to have to edit the Compute Engine instance firewall to enable [udp:all and tcp:443,5222 open for ingress and egress](https://support.google.com/chrome/answer/1649523 "Access another computer with Chrome Remote Desktop docs"), but this no longer seems required
-7. On the netbook, launch CRD, select the host created above and enter the access pin you defined
+7. On the netbook, launch CRD app, select the host created above and enter the access pin you defined
