@@ -42,9 +42,9 @@ Here are the plants I've tried:
 | [Armeria maritima](https://www.inaturalist.org/taxa/60476-Armeria-maritima) | Sea thrift | Ground |🤞| 4 | 2 | Planted Spring 18. Visibly wilts without regular water. |
 | [Artemisia douglasiana](https://www.inaturalist.org/taxa/52854-Artemisia-douglasiana) | California Mugwort | Herb | 4 | 2 | 1 | Died back completely last summer, but resprouted and grew vigorously after spring rain, and is remaining green this summer |
 | [Asarum caudatum](https://www.inaturalist.org/taxa/52858-Asarum-caudatum) | Western wild ginger | Root | 3 | 1 | 2 | Leaves look good, but growth is slow and it hasn't flowered. I suspect it needs more water |
-| Avena sativa | Oat | Ground cover | _ | 3 | 1 | Planted Spring 19. From Botanical Interests' "Soil Builder Peas and Oats" seed pack. Hoping to rehab soil previously under brick patio. Observed lots of hulls on the surface after planting. Guessing from birds or squirrels. |
-| Asclepias syraca | Milkweed | Shrub | ? | 4 | 1 | Planted Spring 19. From Botanical Interests seed pack. Hoping to attract butterflies. I've scattered milkeed seed before. Hopefully some sprout this time. |
-| Borago officinalis | Borage | Ground cover | ? | 4 | 1 | Planted Spring 19. From Botanical Interests seed pack. Hoping the bees like it. |
+| Avena sativa | Oat | Ground cover | 🤞 | 3 | 1 | Planted Spring 19. From Botanical Interests' "Soil Builder Peas and Oats" seed pack. Hoping to rehab soil previously under brick patio. Observed lots of hulls on the surface after planting. Guessing from birds or squirrels. |
+| Asclepias syraca | Milkweed | Shrub | 🤞 | 4 | 1 | Planted Spring 19. From Botanical Interests seed pack. Hoping to attract butterflies. I've scattered milkeed seed before. Hopefully some sprout this time. |
+| Borago officinalis | Borage | Ground cover | 🤞 | 4 | 1 | Planted Spring 19. From Botanical Interests seed pack. Hoping the bees like it. |
 | [Brugmansia arborea](https://www.inaturalist.org/taxa/126914-Brugmansia-arborea) | Trumpet flower | Sub-canopy | 4 | 2 | 1 | Flowering and leaves look good. Suspect more sun needed |
 | [Callistemon rigidus](https://www.inaturalist.org/taxa/146916-Callistemon-rigidus) | Bottlebrush tree | Sub-canopy | 5 | 3 | 1 | Pre-existing. Non-native. Flowers profusely year-round. Great for bees and wildlife. |
 | Citrus tangerina | Tangerine tree | Sub-canopy | 2 | 3 | 1 | The tree produces inedible fruit and its leaves are chlorotic and sparse :( I suspect it used to get insufficient sun. An arborist mentioned citrus trees are "hungry", so this one may just need fertilizer. There's a lemon tree in the front yard that looks great, for comparison |
@@ -82,7 +82,7 @@ Here are the plants I've tried:
 | [Nandina domestica](https://www.inaturalist.org/taxa/127010-Nandina-domestica) | Heavenly bamboo | Shrub | 5 | 2-5 | 1 | Pre-existing. Invasive |
 | [Oxalis pes-caprae](https://www.inaturalist.org/taxa/53169-Oxalis-pes-caprae) | Sourgrass | Herb | 5 | 2-4 | 1 | Invasive, but in the spirit of permaculture I'm trying to learn from it. Makes me want to try a native oxalis like [Oxalis oregana](https://www.inaturalist.org/taxa/47757-Oxalis-oregana) |
 | [Papaver heterophyllum](https://www.inaturalist.org/taxa/78344-Papaver-heterophyllum) | Wind poppy | Shrub | 5 | 5 | 1 | Planted Spring 18. Lots of flowers. Hopefully it reseeds. |
-| Pisum sativum | Pea | Ground cover, roots | _ | 3 | 1 | Planted Spring 19. From Botanical Interests' "Soil Builder Peas and Oats" seed pack. Hoping it builds the soil and and IIRC remediates juglone from the walnut tree. Observed sprouts after rain. |
+| Pisum sativum | Pea | Ground cover, roots | 🤞 | 3 | 1 | Planted Spring 19. From Botanical Interests' "Soil Builder Peas and Oats" seed pack. Hoping it builds the soil and and IIRC remediates juglone from the walnut tree. Observed sprouts after rain. |
 | [Pittosporum eugenioides](https://www.inaturalist.org/taxa/200847-Pittosporum-eugenioides) | Tarata | Sub-canopy | 5 | 3 | 1 | Predates me. Healthy. Looks like a volunteer. | 
 | [Pittosporum tobira](https://www.inaturalist.org/taxa/78592-Pittosporum-tobira) | Mock orange | Sub-canopy | 5 | 5 | 1 | Flowering and leaves look good |
 | [Prunus cerasifera](https://www.inaturalist.org/taxa/55837-Prunus-cerasifera) | Purple leaf ornamental plum | Sub-canopy | 3 | 5 | 1 |The tree leaves and flowers regularly, but has dying branches. Arborist advised removal due to ill health. |
@@ -102,6 +102,7 @@ Here are the plants I've tried:
 | [Trichostema lanatum](https://www.inaturalist.org/taxa/58931-Trichostema-lanatum) | Woolly bluecurls | Herb | 1 | 4 | 1 | Planted summer 2018. Never took. Died. |
 | Vica faba | Fava bean | Ground cover, roots | ? | 3 | 1 | Planted Spring 19. From Botanical Interests seed pack. Hoping the nitrogen fixing builds the soil and IIRC might remediate juglone from the walnut tree. Found one seed, sprouting, on the surface after planting, perhaps dug up by squirrels, but not eaten. |
 |[Wyethia angustifolia](https://www.inaturalist.org/taxa/56987-Wyethia-angustifolia)|Mule ears|Shrub|3|3|1|Spring 18. Appeared to never take, but then reappeared Spring 2019 after the rain! |
+|Latin|Common|Layer|Health🤞|Sun|Water|Comments. This is a row template |
 
 \* Numeric ranges:
 
