@@ -1,5 +1,9 @@
 ---
 title: erikeldridge.com
+
+# Used by Disqus config
+url: http://erikeldridge.com
+
 timezone: UTC
 collections:
   posts:
