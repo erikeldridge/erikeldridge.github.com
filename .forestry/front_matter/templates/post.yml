@@ -1,7 +1,6 @@
 ---
 label: post
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -25,6 +24,11 @@ fields:
   default: post
   config:
     required: true
+- type: boolean
+  name: comments
+  label: Enable comments
+  description: Disqus comment configuration
+  hidden: false
 pages:
 - _posts/being.md
 - _posts/2017-12-24-netbook-development.md
