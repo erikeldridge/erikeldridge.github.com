@@ -29,13 +29,11 @@ fields:
   label: Enable comments
   description: Disqus comment configuration
   hidden: false
+  default: true
 pages:
-- _posts/being.md
-- _posts/2017-12-24-netbook-development.md
-- _posts/2019-03-02-google-cloud-workstation.md
-- _posts/flutter.md
 - _posts/2019-01-02-ios.md
-- _posts/quotes.md
+- _posts/2019-03-02-google-cloud-workstation.md
+- _posts/2017-12-24-netbook-development.md
 - _posts/2018-12-02-creativity.md
 - _posts/2018-12-02-experimentation.md
 - _posts/2018-10-28-coastal-sage-from-seed.md
