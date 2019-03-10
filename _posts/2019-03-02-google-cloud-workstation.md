@@ -7,6 +7,11 @@ tags:
 - gcloud
 - github
 - ssh
+- toolkit
+- remote
+- desktop
+- chrome
+- ubuntu
 comments: true
 
 ---
@@ -15,12 +20,20 @@ comments: true
 * [netbook](netbook-development "my notes on netbook development") set up with SSH key pair
 * [Google Cloud project](https://cloud.google.com/resource-manager/docs/creating-managing-projects#creating_a_project "Google Cloud project docs") created
 
+## Create project
+
+We need a project to own VM instances.
+
+In Google Cloud console:
+
+1. Create "workstations" project
+
 ## Create instance
 
 In Google Cloud console:
 
 1. Nav to Compute Engine and create new micro instance
-2. Name "workstation"
+2. Name "ubuntu"
 3. Region "us-west"
 4. Size "f1-micro"
 5. OS ubuntu LTS
