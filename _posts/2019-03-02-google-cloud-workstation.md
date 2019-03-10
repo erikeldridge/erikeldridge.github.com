@@ -35,7 +35,7 @@ In Google Cloud console:
 1. Nav to Compute Engine and create new micro instance
 2. Name "ubuntu"
 3. Region "us-west"
-4. Size "f1-micro"
+4. Size "f1-small", so we have enough memory to install useful things like Ruby
 5. OS ubuntu LTS
 6. Start instance
 7. Copy external IP address
