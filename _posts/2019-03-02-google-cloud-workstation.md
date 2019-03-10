@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Cloud workstation '
-date: 2019-03-09 16:21:54 -0800
+date: 2019-03-10 10:47:15 -0700
 tags:
 - netbook
 - gcloud
@@ -22,11 +22,11 @@ comments: true
 
 ## Create project
 
-We need a project to own VM instances.
+We need a project to own workstation VM instances, independent of other projects.
 
 In Google Cloud console:
 
-1. Create "workstations" project
+1. Create a project, eg "workstations"
 
 ## Create instance
 
