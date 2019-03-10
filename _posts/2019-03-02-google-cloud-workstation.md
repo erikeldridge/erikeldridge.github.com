@@ -27,15 +27,15 @@ In Google Cloud console:
 6. Start instance
 7. Copy external IP address
 
-## Enable SSH access
+## SSH access
 
-In Google Cloud console:
+Enable laptop to connect to cloud instance. In Google Cloud console:
 
 1. Search for "SSH key" and select "metadata" result
 2. Copy public key contents from local machine using Text and paste into Cloud console https://cloud.google.com/compute/docs/instances/adding-removing-ssh-keys#project-wide
 3. Open Secure Shell on local machine, select key, paste IP address and connect
 
-## Enable desktop
+## Desktop
 
 The [Chrome Remote Desktop (CRD) docs](https://support.google.com/chrome/answer/1649523) are pretty good, but assume you already have a desktop with Chrome running. For a cloud VM, we need a way to bootstrap without a desktop. A couple ([1](https://productforums.google.com/forum/#!msg/chrome/CTnqSKj6uts/8xg88ribRxQJ), [2](https://productforums.google.com/d/msg/chrome/WvcFOblHMik/hGlM875QAwAJ)) Chrome support threads were helpful. Steps:
 
@@ -61,10 +61,11 @@ The [Chrome Remote Desktop (CRD) docs](https://support.google.com/chrome/answer/
    Note: we used to have to edit the Compute Engine instance firewall to enable [udp:all and tcp:443,5222 open for ingress and egress](https://support.google.com/chrome/answer/1649523 "Access another computer with Chrome Remote Desktop docs"), but this no longer seems required
 7. On the netbook, launch CRD app, select the host created above and enter the access pin you defined
 
-## Enable github access
+## Github
+
+Define an SSH key pair to enable communication with Github:
 
 1. Define SSH key pair, per [github SSH key generation docs](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key "Github SSH key generation documentation"):
 
         ssh-keygen -t rsa -b 4096 -C '<project>.<instance>@<cloud provider>'
-
-1. Copy public key contents into github settings
+2. Copy public key contents into github settings
