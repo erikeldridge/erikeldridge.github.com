@@ -1,10 +1,13 @@
 ---
 layout: post
 title: 'Google Cloud workstation '
-date: 2019-03-02 20:02:58 -0800
+date: 2019-03-09 16:21:54 -0800
 tags:
 - netbook
 - gcloud
+- github
+- ssh
+comments: true
 
 ---
 ## Assumptions
@@ -57,3 +60,11 @@ The [Chrome Remote Desktop (CRD) docs](https://support.google.com/chrome/answer/
 
    Note: we used to have to edit the Compute Engine instance firewall to enable [udp:all and tcp:443,5222 open for ingress and egress](https://support.google.com/chrome/answer/1649523 "Access another computer with Chrome Remote Desktop docs"), but this no longer seems required
 7. On the netbook, launch CRD app, select the host created above and enter the access pin you defined
+
+## Enable github access
+
+1. Define SSH key pair, per [github SSH key generation docs](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key "Github SSH key generation documentation"):
+
+        ssh-keygen -t rsa -b 4096 -C '<project>.<instance>@<cloud provider>'
+
+1. Copy public key contents into github settings
