@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Cloud workstation '
-date: 2019-03-10 10:47:15 -0700
+date: 2019-03-10 20:30:56 -0700
 tags:
 - netbook
 - gcloud
@@ -12,6 +12,8 @@ tags:
 - desktop
 - chrome
 - ubuntu
+- intellij
+- ruby
 comments: true
 
 ---
@@ -35,7 +37,7 @@ In Google Cloud console:
 1. Nav to Compute Engine and create new micro instance
 2. Name "ubuntu"
 3. Region "us-west"
-4. Size "g1-small", so we have enough memory to install things like Ruby
+4. Size "custom (1 vCPU, 4 GB memory)", so we have enough memory to install things like Ruby and IntelliJ
 5. OS ubuntu LTS
 6. Start instance
 7. Copy external IP address
