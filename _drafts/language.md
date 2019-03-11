@@ -2,6 +2,7 @@
 title: language
 date: 2019-03-10 19:41:54 -0700
 layout: post
+tags: []
 
 ---
 A few considerations when choosing a language:
@@ -13,7 +14,7 @@ A few considerations when choosing a language:
 
 ## Java
 
-Java has all these qualities, more or less. The JVM has been tested for the last billion years. IntelliJ is a powerful editor.
+Java has all these qualities, more or less. The JVM has been tested for a billion years. IntelliJ is a powerful editor.
 
 Maven is ubiquitous, but tedious. My favorite build system is Bazel, which fortunately supports Maven dependencies:
 
