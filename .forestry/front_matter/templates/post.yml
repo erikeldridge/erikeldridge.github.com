@@ -25,7 +25,7 @@ fields:
   config:
     required: true
 pages:
-- _posts/language.md
+- _posts/2019-03-10-language.md
 - _posts/2019-01-02-ios.md
 - _posts/2019-03-02-google-cloud-workstation.md
 - _posts/2017-12-24-netbook-development.md
