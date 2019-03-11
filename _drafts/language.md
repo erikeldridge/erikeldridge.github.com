@@ -2,7 +2,12 @@
 title: language
 date: 2019-03-10 19:41:54 -0700
 layout: post
-tags: []
+tags:
+- java
+- jvm
+- intellij
+- maven
+- bazel
 
 ---
 A few considerations when choosing a language:
