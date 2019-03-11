@@ -9,22 +9,7 @@ layout: base
 
 <h2>Feedback</h2>
 
-{% if page.comments %}
-<div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-this.page.url = {{site.url}}{{page.url}};
-this.page.identifier = {{page.id}}
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://erikeldridge.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>                            
-{% endif %}
+Thoughts? Suggestions? Hit me up <a href="https://twitter.com/erikeldridge">@erikeldridge</a>
 
 <h2>License</h2>
 
@@ -32,3 +17,5 @@ Except as otherwise noted, the content of this page is licensed under the <a rel
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script type="text/javascript" src="/post.js"></script>
+
+
