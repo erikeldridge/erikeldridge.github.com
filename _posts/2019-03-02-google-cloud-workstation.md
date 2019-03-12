@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Cloud workstation '
-date: 2019-03-10 20:30:56 -0700
+date: 2019-03-11 20:45:34 -0700
 tags:
 - netbook
 - gcloud
@@ -19,16 +19,11 @@ comments: true
 ---
 ## Assumptions
 
-* [netbook](netbook-development "my notes on netbook development") set up with SSH key pair
-* [Google Cloud project](https://cloud.google.com/resource-manager/docs/creating-managing-projects#creating_a_project "Google Cloud project docs") created
+* [Netbook](netbook-development "my notes on netbook development") set up with SSH key pair
 
 ## Create project
 
-We need a project to own workstation VM instances, independent of other projects.
-
-In Google Cloud console:
-
-1. Create a project, eg "workstations"
+We need a [Google Cloud project](https://cloud.google.com/resource-manager/docs/creating-managing-projects#creating_a_project "Google Cloud project docs") to own workstation VM instances. It's helpful to make it independent of other projects.
 
 ## Create instance
 
