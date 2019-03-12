@@ -5,6 +5,7 @@ tags:
 - org
 - okr
 - 6-thinking-hats
+- retrospective
 layout: post
 
 ---
