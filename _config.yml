@@ -14,6 +14,7 @@ exclude:
 - README.md
 - src
 plugins:
+- jekyll-feed
 - jekyll-gist
 - jekyll-seo-tag
 gist:
