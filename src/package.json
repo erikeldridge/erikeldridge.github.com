@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "browserify": {
-    "transform": [ "browserify-shim" ]
+    "transform": [
+      "browserify-shim"
+    ]
   },
   "browserify-shim": {
     "jquery": "global:jQuery"
