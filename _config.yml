@@ -17,6 +17,7 @@ plugins:
 - jekyll-feed
 - jekyll-gist
 - jekyll-seo-tag
+- jekyll-redirect-from
 gist:
   noscript: false
 permalink: "/notes/:title.html"

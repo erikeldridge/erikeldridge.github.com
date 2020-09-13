@@ -7,6 +7,7 @@ tags:
 - 6-thinking-hats
 - retrospective
 layout: post
+redirect_to: https://blog.erikeldridge.com/2019/03/11/onsite-offsite/
 
 ---
 ## Problem statement

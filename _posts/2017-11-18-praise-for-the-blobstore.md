@@ -11,6 +11,8 @@ tags:
 - cdn
 - hosting
 layout: post
+redirect_to: http://blog.erikeldridge.com/2017/11/18/praise-for-the-blobstore-%f0%9f%93%af/
+
 ---
 The phrase "blobstore" refers to a simple key-value store, optimized for large values. [Amazon’s S3](https://aws.amazon.com/s3/), [App Engine’s Blobstore](https://cloud.google.com/appengine/docs/standard/python/blobstore/) and [Twitter’s Blobstore](https://blog.twitter.com/engineering/en_us/a/2012/blobstore-twitter-s-in-house-photo-storage-system.html) are examples.
 

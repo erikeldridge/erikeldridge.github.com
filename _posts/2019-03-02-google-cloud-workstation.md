@@ -15,6 +15,7 @@ tags:
 - intellij
 - ruby
 comments: true
+redirect_to: http://blog.erikeldridge.com/2019/03/02/google-cloud-workstation/
 
 ---
 ## Assumptions
