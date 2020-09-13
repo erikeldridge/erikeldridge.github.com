@@ -1,5 +1,7 @@
 source "http://rubygems.org"
-gem "jekyll", ">= 3.6.3" # Per Github sec alert
+gem "jekyll", ">= 3.9.0" # Per Github sec alert
+gem "kramdown", ">= 2.3.0" # Per Github sec alert
+gem "kramdown-parser-gfm"
 gem "ffi", ">= 1.9.24" # Per Github sec alert
 gem "sass"
 group :jekyll_plugins do
