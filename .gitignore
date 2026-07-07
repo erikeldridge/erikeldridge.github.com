@@ -1,4 +1,7 @@
 _site
 .DS_Store
 node_modules
+# Ignore all but GH-specific Obsidian settings
+.obsidian/*
+!.obsidian/app.json
 venv
