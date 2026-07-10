@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>
+      {{ if .IsHome }} {{ .Site.Title }} {{ else }} {{ .Title }} | {{
+      .Site.Title }} {{ end }}
+    </title>
+    <style>
+      body {
+        background-color: hsl(30, 100%, 99%);
+      }
+    </style>
+  </head>
+  <body>
+    <main>{{ block "main" . }}{{ end }}</main>
+    <footer>
+      <a href="/posts">Blog</a> | <a href="https://github.com/erikeldridge">GitHub</a> | <a href="https://www.linkedin.com/in/erikeldridge/">LinkedIn</a>
+      <p>&copy; 2026 Erik Eldridge</p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,31 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<div class="metadata">
+	<!-- Render Categories -->
+	{{ with .Params.categories }}
+	<p>
+	<strong>Category:</strong>
+	{{ range $index, $element := . }}
+	{{ if $index }}, {{ end }}
+	<a href="{{ printf "/categories/%s/" (urlize $element) | relURL }}">{{ $element }}</a>
+	{{ end }}
+	</p>
+	{{ end }}
+
+	<!-- Render Tags -->
+	{{ with .Params.tags }}
+	<p>
+	<strong>Tags:</strong>
+	{{ range $index, $element := . }}
+	{{ if $index }}, {{ end }}
+	<a href="{{ printf "/tags/%s/" (urlize $element) | relURL }}">{{ $element }}</a>
+	{{ end }}
+	</p>
+	{{ end }}
+</div>
+
+<div class="post-content">
+	{{ .Content }}
+</div>
+{{ end }}
+
