@@ -1,5 +1,6 @@
 public/
 .hugo_build.lock
-# Ignore all but GH-specific Obsidian settings
-.obsidian/*
-!.obsidian/app.json
+# Ignore volatile and heavy Obsidian config.
+content/.obsidian/workspace.json
+content/.obsidian/plugins/
+
