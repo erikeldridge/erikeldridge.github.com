@@ -2,12 +2,12 @@
 title: Migrating To Hugo
 date: 2026-07-09
 categories:
-- technical-tools
+  - technical-tools
 tags:
-- blog
-- go
+  - blog
+  - go
+  - obsidian
 ---
-
 I used Wordpress for a few years to manage my blog, but now I'd like a bit more control. For example, I'd like to write in markdown using Obsidian.
 
 Before Wordpress, I used Jekyll on GitHub Pages. I liked Jekyll a lot, but I'm now using an old laptop for writing and want to minimize the resource requirements. I have Go installed, and enjoy using it, so I'm curious to try Hugo.
@@ -35,11 +35,3 @@ GitHub defaults to Jekyll, so using Hugo required the definition of an Action. H
 For whatever reason, GitHub forgot my custom domain settings when changed the repo to build from an Action rather than a branch, resulting in a 404 when I first switched over. But setting it again was just a field in the Pages settings.
 
 Overall, I like it! I'm very grateful to the Hugo community for maintaining this project. Thank you!
-
-Quick note about Obsidian: I toggle between my private notes and these public posts by using two Vaults; [setting a custom color]([https://forum.obsidian.md/t/visually-disinguish-different-vaults/44892/11](https://forum.obsidian.md/t/visually-disinguish-different-vaults/44892/9)) for the title bar helps me differentiate them visually when have them both open. For example:
-```css
-body {
-    --titlebar-background: papayawhip;
-    --titlebar-background-focused: papayawhip;
-}
-```
