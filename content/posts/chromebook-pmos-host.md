@@ -1,6 +1,6 @@
 ---
 title: Chromebook PostmarketOS Host
-date: 2026-07-21
+date: 2026-07-20
 tags:
   - postmarketos
   - chromebook
