@@ -6,6 +6,11 @@ tags:
 categories:
   - technical-tools
 ---
+## TLDR
+- Search Swappa for unlocked phones with a specific model number and ask the seller to verify the device is "OEM unlockable"
+- Sendero sells refurbished OnePlus 6T with pmOS installed 
+- Murena sells refurbished Pixels with eOS, an Android fork, installed
+- The Google Store sells refurbished Pixels
 ## Context
 I want to extend the life of my phone (Pixel 8) by installing an alternative OS when it stops receiving updates from the manufacturer.
 
@@ -16,12 +21,6 @@ I'm targeting postmarketOS (pmOS) as the alternative OS, so this narrows the pro
 I can get a "linux" phone that's hard to find, but likely to work, or continue in my current state with an "android" phone that's easy to find, but unlikely to work.
 
 Fortunately, an earlier version of the Pixel (3a) has one of the highest levels of support, so I can start there.  But where can I get a Pixel 3a?
-
-TLDR:
-- Search Swappa for unlocked phones with a specific model number and ask the seller to verify the device is "OEM unlockable"
-- Pixels from the Google Store
-* Devices from Murena
-* Devices from Sendero
 ## eBay
 eBay is what first came to mind when thinking about where to buy an old phone. It would be amazing to just be able to grab a cheap device there and flash it, but I knew the device had to be unlocked to be able to install an alternative OS and there didn't seem to be an easy way to filter for that.
 ## Back Market
