@@ -1,6 +1,6 @@
 ---
 title: "{{title}}"
-date: {{date}}T{{time}}:00-05:00
+date: {{date}}
 tags: []
 categories: []
 ---
