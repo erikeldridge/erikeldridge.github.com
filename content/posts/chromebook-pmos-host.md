@@ -64,7 +64,7 @@ Use fdisk to create a standard partition table and a new partition for the ext4 
 3. Type **`n`** and press `Enter` to create a new partition. Press `Enter` for all subsequent prompts to accept the default sizes (this allocates the whole drive).
 4. Type **`w`** and press `Enter` to write the changes and exit.
 
-```
+```sh
 $ sudo fdisk /dev/sda
 ...
 Command (m for help): g
@@ -130,7 +130,7 @@ $ sudo chown -R $USER:$USER /mnt/pmos_usb
 ```
 
 Initialize `pmbootstrap` with USB as storage location:
-```
+```sh
 $ pmbootstrap init                                                                                                                                           
 [14:35:40] Location of the 'work' path. Multiple chroots (native, device arch, device rootfs) will be created in there.                                                  
 [14:35:40] Work path [/home/erik/.local/var/pmbootstrap]: /mnt/pmos_usb/pmbootstrap                                                                                      
