@@ -8,17 +8,16 @@ categories:
   - technical-tools
 ---
 ## Context
-In my [previous post](/posts/chromebook-pmos-host), I described my experience setting up my laptop as a postmarketOS (pmOS) host. This post documents my experience using that host to flash pmOS on a Pixel 3a.
+My [previous post](/posts/chromebook-pmos-host) describes my experience setting my laptop as a postmarketOS (pmOS) host, including initializing `pmbootstrap`. This post documents my experience using that host to flash pmOS on a Pixel 3a.
 
 At a high level, the steps are:
 1. Install `android-tools` on the host
-2. Initialize `pmbootstrap` configuration (see previous post)
-3. Build the system image
-4. Boot Pixel 3a into Fastboot mode 
-5. Unlock the Bootloader
-6. Flash pmOS using `pmbootstrap`
-7. Reboot into pmOS
-## Android-tools Install
+2. Use `pmbootstrap` to build a system image
+3. Boot Pixel 3a into Fastboot mode 
+4. Unlock the Bootloader
+5. Use `pmbootstrap` to flash pmOS 
+6. Reboot into pmOS
+## Install android-tools
 I need `android-tools` to get the `fastboot` CLI. The installation is straightforward:
 ```sh
 $ sudo apk add android-tools
@@ -35,13 +34,7 @@ The following NEW packages will be installed:
 ...
 OK: 2732.6 MiB in 1045 packages
 ```
-## Context
-Steps:
-1. Build the system image
-2. Boot Pixel 3a into Fastboot mode 
-3. Unlock the Bootloader
-4. Flash postmarketOS using pmbootstrap
-## Pmbootstrap Install
+## Build The System Image
 I previously [initialized `pmbootstrap`](/posts/chromebook-pmos-host). Now I need to build the rootfs and kernel package for the Pixel 3a. `pmbootstrap` downloads necessary chroots and package the OS. I'll include all the details since this is the first time I'm going through this:
 ```sh
 $ pmbootstrap install
@@ -127,7 +120,7 @@ Confirm password for 'erik':
    This will cause the phone to display a confirmation.
 2. Confirm using the Volume and Power buttons. The phone will restart into Fastboot. As above, press the Volume Down button to cycle past the default "start" option
 
-## Flash postmarketOS using pmbootstrap
+## Flash postmarketOS
 1. Erase the Android device tree overlay (DTBO) to prevent kernel conflicting issues:
    ```sh
     $ fastboot erase dtbo
@@ -161,7 +154,7 @@ Confirm password for 'erik':
     [16:54:13] NOTE: chroot is still active (use 'pmbootstrap shutdown' as necessary)
     [16:54:13] DONE!
    ```
-## Reboot into postmarketOS
+## Reboot To pmOS
    ```sh
     $ fastboot reboot
     Rebooting                                          OKAY [  0.016s]
