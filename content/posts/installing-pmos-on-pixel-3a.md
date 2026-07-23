@@ -214,6 +214,59 @@ Welcome to postmarketOS! o/
 ...
 pixel3a:~$ 
 ```
+## Clean Up
+Since I'm using a USB disk for my `pmbootstrap` storage location, I need to clean things up when I'm done before I can eject the disk. `pmbootstrap` mounts several things, so a simple `umount` on the partition is insufficient for unmounting it. A symptom of this is running `umount` successfully and then observing the partition is still mounted.
+
+Check the starting state:
+```sh
+$ lsblk
+NAME         MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
+sda            8:0    1 116.1G  0 disk 
+└─sda1         8:1    1 116.1G  0 part /mnt/pmos_usb
+mmcblk0      179:0    0 29.1G  0 disk 
+...
+```
+
+Tell `pmbootstrap` to clean itself up:
+```sh
+$ pmbootstrap shutdown
+```
+
+This command is relatively lightweight, leaving all the artifacts created by `init` in place. I can just resume work later with `pmbootstrap install`.
+
+`pmbootstrap` creates bind mounts manually using root/kernel privileges and these mounts bypass UDisks entirely, so I can't use `udisksctl` to unmount. Instead, I use `umount` to directly tell the Linux kernel to unmount the disk, regardless of who or what mounted it:
+```sh
+$ sudo umount /mnt/pmos_usb
+```
+
+Verify the unmount:
+```sh
+$ lsblk
+NAME         MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
+sda            8:0    1 116.1G  0 disk 
+└─sda1         8:1    1 116.1G  0 part 
+mmcblk0      179:0    0 29.1G  0 disk 
+...
+```
+
+Flush the cache:
+```sh
+$ sync
+```
+
+Eject the disk:
+```sh
+udisksctl power-off -b /dev/sda
+```
+
+Verify the eject:
+```sh
+$ lsblk
+NAME         MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS
+mmcblk0      179:0    0 29.1G  0 disk 
+├─mmcblk0p1  179:1    0  243M  0 part /boot
+└─mmcblk0p2  179:2    0 28.9G  0 part /
+```
 ## Future Work
 Ideally, the installed image would have a couple conveniences:
 1. Syncthing installed and registered with systemd
