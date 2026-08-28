@@ -1,1 +1,31 @@
-{}
+{
+  "vault-file-renamer": {
+    "enabled": true,
+    "targetExtensions": [
+      "md"
+    ],
+    "excludedExtensions": [],
+    "blacklistedFolders": [
+      ".obsidian"
+    ],
+    "blacklistedFiles": [],
+    "rules": [
+      {
+        "name": "Spaces to Dashes",
+        "pattern": "\\s+",
+        "replace": "-",
+        "active": true,
+        "description": "Replaces all spaces with dashes."
+      },
+      {
+        "name": "Remove Special Chars",
+        "pattern": "[^a-z0-9\\-_.]",
+        "replace": "",
+        "active": true,
+        "description": "Removes anything that isn't a letter, number, dash, underscore, or dot."
+      }
+    ],
+    "useCreationDate": false,
+    "dateFormat": "YYYY-MM-DD"
+  }
+}
