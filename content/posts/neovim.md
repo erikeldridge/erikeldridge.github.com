@@ -24,8 +24,8 @@ I was recently working in VSCode and forgot how to orient myself in Neovim, so, 
 	```sh
 	:Telescope 
 	```
-4. Review custom shortcuts in `~/.config/nvim/init.lua`
-5. Handy default shortcuts:
+4. Press `<space> k` to browse keymaps
+5. Handy default keymaps:
 	1. `Ctrl-i` / `Ctrl-o` for jumping back and forth
 	2. `Ctrl-d` / `Ctrl-u` for half-page scrolling
 	3. `PageDown` / `PageUp` for full-page scrolling
@@ -49,10 +49,16 @@ I was recently working in VSCode and forgot how to orient myself in Neovim, so, 
 					...
 				    config = function()
 				        local builtin = require("telescope.builtin")
-				        vim.keymap.set("n", "<leader>o", builtin.oldfiles)
-				        vim.keymap.set("n", "<leader>f", builtin.find_files)
-				        vim.keymap.set("n", "<leader>g", builtin.live_grep)
-				        vim.keymap.set("n", "<leader>b", builtin.buffers)
+	                    vim.keymap.set("n", "<leader>b", builtin.buffers,
+		                    { desc = "Telescope buffers" })
+                        vim.keymap.set("n", "<leader>f", builtin.find_files,
+	                        { desc = "Telescope find_files" })
+                        vim.keymap.set("n", "<leader>g", builtin.live_grep,
+	                        { desc = "Telescope live_grep" })
+                        vim.keymap.set("n", "<leader>k", builtin.keymaps, 
+	                        { desc = "Telescope keymaps" })
+                        vim.keymap.set("n", "<leader>o", builtin.oldfiles, 
+	                        { desc = "Telescope oldfiles" })
 				      end,
 	...
 	```
