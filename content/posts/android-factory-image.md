@@ -1,5 +1,5 @@
 ---
-title: Android Factory ROM
+title: Android Factory Image
 date: 2026-10-01
 tags:
   - android, postmarketos
