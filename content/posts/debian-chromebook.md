@@ -1,3 +1,11 @@
+---
+title: Debian On Chromebook
+date: 2026-10-05
+tags:
+  - debian, postmarketos, vscodium, node
+categories:
+  - technical-tools
+---
 
 
 # Debian On Acer Chromebook 14
@@ -30,7 +38,18 @@ Edgar only has 4gb of RAM, so we can't simply use a tool like [profile-sync-daem
 | browser.safebrowsing.downloads.enabled | false | Disable  background database syncing for file downloads. |
 
 #### Software
-
 Install uBlock Origin to generally reduce load.
+
+## Dev Env
+### Node
+Install via NVM, since it's recommended by NPM and the installation is much lighter than the one via `apt`.
+
+### VSCodium
+I've [documented use of VSCodium before](https://erikeldridge.com/posts/vscodium/), but I'll just note here to install via `apt` to minimize installation overhead.
+
+
+
+
+
 
 
